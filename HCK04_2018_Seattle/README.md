@@ -73,14 +73,14 @@ To receive information about this and future events please join the XYZ.
   - Unit quality metrics
   - Layer/depth/area info for each cell
 
-### Change-dections: Data and tools
+### Operant Conditioning: Data and tools
 
 - Creation of NWB files
-- Extensions to handle detection-of-change related metadata
+- Extensions to handle Operant Conditioning data
 
 ### Data storage and backends
 
-- Postgres data store for NWB data components
+- Postgres backend
 - File system back end
 - Cloud-deplyment and scalability concerns
 
@@ -91,16 +91,16 @@ To receive information about this and future events please join the XYZ.
   - Create contributor best-practices tutuorial 
 - Base tutorial coupled with example project
 
-### Tutorial Development Ophys/Ephys data writing
+### Tutorial Development: Ophys/Ephys data writing
 
-### Data I/O tutorials
+### Tutorial Development: Data I/O
 
 - Writing large data iteratively
 - Writing data with compression
 - Create a new data store backend for FORM/NWB
 - Converting data from one store to another (There and back again)
 
-### Schema extension-writing tutorials
+### Tutorial Development: Creating schema extensions
 
 ## Next Hackathon
 
