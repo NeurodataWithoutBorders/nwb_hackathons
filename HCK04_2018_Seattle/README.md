@@ -41,18 +41,68 @@ To receive information about this and future events please join the XYZ.
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
-
 <a name="ProjectsList"/>
 
-### Topic 1
+### Visualization tools
 
-TBD
+- How do I view what is in my NWB file and how that related to my experiment?
+- Introspecting into contents of an NWB file
 
-### Topic 2
+### Data converstion tools
 
-TBD
+- How do I get my data into NWB?
+- Read of legacy 1.x files
 
-### Next Hackathon
+### NWB schema extensions: neuronal simulations
+
+- Develop use-cases
+- Standardize schema, address duplicaiton of effort with experimental domain
+
+### Schema extension sharing platform
+
+- Organize community-driven extensions
+- Schema extensions index/registry (solve the findability problem)
+
+
+### Neuropixels: Data and tools
+
+- Creation of NWB files
+- Extensions to handle cusom neuropixel-related metadata
+  - CSD plot
+  - Cre +/- info for each cell (from optotagging experiments)
+  - Unit quality metrics
+  - Layer/depth/area info for each cell
+
+### Change-dections: Data and tools
+
+- Creation of NWB files
+- Extensions to handle detection-of-change related metadata
+
+### Data storage and backends
+
+- Postgres data store for NWB data components
+- File system back end
+- Cloud-deplyment and scalability concerns
+
+### Tutorial Development: Pynwb training
+
+- User onboarding (how to use NWB in your projects)
+- Developer onboarding (how to contribute to PyNWB)
+  - Create contributor best-practices tutuorial 
+- Base tutorial coupled with example project
+
+### Tutorial Development Ophys/Ephys data writing
+
+### Data I/O tutorials
+
+- Writing large data iteratively
+- Writing data with compression
+- Create a new data store backend for FORM/NWB
+- Converting data from one store to another (There and back again)
+
+### Schema extension-writing tutorials
+
+## Next Hackathon
 
 [5th Hackathon, April 25-29, 2018, Berkley](../HCK05_2018_Berkeley/README.md)
 
@@ -60,7 +110,12 @@ TBD
 
 ## Breakout Sessions
 
-TBD
+- Governace model for incorporation of extensions into core
+- NWB schema vs pynwb vs project versioning convention
+- Create reference/example NWB:N files
+- Developer insiders: how does pynwb work?
+- CI: Software Process in PyNWB
+- How to contribute to PyNWB (step through the process, set up dev env, run tests, submit PR)
 
 
 ## Registrants
