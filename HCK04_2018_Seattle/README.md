@@ -54,7 +54,7 @@ TBD
 
 ### Next Hackathon
 
-[Hackathon 2, April 25-29, 2018, Berkley](../HCK02_2018_Berkeley/README.md)
+[5th Hackathon, April 25-29, 2018, Berkley](../HCK05_2018_Berkeley/README.md)
 
 <a name="BreakoutSessions"/>
 
