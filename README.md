@@ -70,4 +70,6 @@ and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
 - Hackathon 2: 2015 May - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
 - [Hackathon 1: 2014 November](http://crcns.org/NWB/hackathon-1) - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
 
+-----------
+
 This page is hosted from the NeurodataWithoutBorders organization's [nwb_hackathons](https://github.com/NeurodataWithoutBorders/nwb_hackathons) repository on github.com and is published at [neurodatawithoutborders.github.io/nwb_hackathons/](https://neurodatawithoutborders.github.io/nwb_hackathons/)
