@@ -14,7 +14,7 @@ related research projects.
 **When, where, how much?** To be determined based on participation. This year there will be a development focused
 Hackathon in Early April in Seattle, and then a user on-boarding tutorial Hackathon in late April in Berkeley.
 Ad-hoc meetings are added occasionally. We plan to have at least one more Hackathon in 2019. For this first
-Hackathon, lunch and dinner will be covered and there will be no registration fee. These logistics are expected
+Hackathon, breakfast and lunch will be covered and there will be no registration fee. These logistics are expected
 to evolve with the Hackathons. The [NAMIC Project Week][namic-and-3d-slicer-experience] which has influenced the
 NWB Hackathon currently has a registration fee that participants pay, which covers breakfast, lunch, coffee and
 snacks during the day.
