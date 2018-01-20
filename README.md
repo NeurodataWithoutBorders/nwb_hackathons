@@ -1,6 +1,8 @@
 ## Introduction
 
-**What?** The [Neurodata Without Borders: Neurophysiology][nwb-neurophysiology] (NWB:N) Hackathon is a 3-day hands on
+#### What?
+
+The [Neurodata Without Borders: Neurophysiology][nwb-neurophysiology] (NWB:N) Hackathon is a 3-day hands on
 activity in which neurophysiology researchers create solutions using the open source NWB:N software packages.
 
 Participants work collaboratively on solutions that use the NWB unified data format for cellular-based neurophysiology
@@ -11,7 +13,9 @@ related research projects.
 
 [nwb-neurophysiology]: http://www.nwb.org/nwb-neurophysiology/
 
-**When, where, how much?** To be determined based on participation. This year there will be a development focused
+#### When, where, how much?
+
+To be determined based on participation. This year there will be a development focused
 Hackathon in Early April in Seattle, and then a user on-boarding tutorial Hackathon in late April in Berkeley.
 Ad-hoc meetings are added occasionally. We plan to have at least one more Hackathon in 2019. For this first
 Hackathon, breakfast and lunch will be covered and there will be no registration fee. These logistics are expected
@@ -21,7 +25,9 @@ snacks during the day.
 
 [namic-and-3d-slicer-experience]: http://www.spl.harvard.edu/publications/item/view/3004
 
-**How does it work?** Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants
+#### How does it work?
+
+Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants
 propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The
 projects include platform work, algorithm development, analytics, visualization, and neurophysiology applications and
 research tasks. Projects are not limited to code development, but can include creation of documentation and tutorial
@@ -31,21 +37,26 @@ and participants. The rest of the Hackathon consists of a mix of working session
 topics, as decided by the participants during the preparatory meetings.
 
 Email announcements are sent to the [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
-across hackathons), and communication specific to each event will happen a dedicated [Hackathon forum][hackathon-forum]
-on GitHub.
+across hackathons), and communication specific to each event will happen on a dedicated Hackathon forum (see each
+Hackathon page for details).
 
 [hackathon-mailing-list]: https://groups.google.com/forum/#!forum/nwb_hackathon_announcements
-[hackathon-forum]: https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions
 
-**Who can attend?** Due to limited space the hackathons participation is currently on an invitation-only basis. If
+#### Who can attend?
+
+Due to limited space the hackathons participation is currently on an invitation-only basis. If
 you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB:N community. One-day participation is permitted for first-time attendees, but participants are strongly encouraged to stay for
-the entire event.
+always excited to see new members join the NWB:N community. One-day participation is permitted for first-time attendees,
+but participants are strongly encouraged to stay for the entire event.
 
-**Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory
-videoconference (see below).
+#### Who should attend?
 
-**What is the history of NWB hackathons?** The NWB:N team consists of neuroscientists and software developers
+This is harder to determine. Your best bet is to contact us (see below) or attend a preparatory
+videoconference (see each Hackathon page for details).
+
+#### What is the history of NWB hackathons?
+
+The NWB:N team consists of neuroscientists and software developers
 who recognize that creation and adoption of a unified data format is an important step toward breaking down the
 barriers to data sharing in neuroscience. Hackathons are a way for us to collaborate and develop NWB:N as well
 as to engage with the NWB:N user community.  For an overview of NeurodataWithoutBorders see http://nwb.org/.
@@ -60,7 +71,9 @@ data, the Allen Institute for Brain Science, Lawrence Berkeley National Lab, and
 development-focused hackathon at the Allen Institute for Brain Science (April 3-6, 2018) and a user-engagement
 and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
 
-**Who to contact?** Hackathons are led by @xyz, ([Lynne A. Becker, Ph.D](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lynne-becker/)) who is happy to tell you more about them.
+#### Who to contact?
+
+Hackathons are led by @xyz, ([Lynne A. Becker, Ph.D](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lynne-becker/)) who is happy to tell you more about them.
 
 ## Upcoming Hackathons
 
@@ -74,6 +87,6 @@ and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
 - Hackathon 2: 2015 May - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
 - [Hackathon 1: 2014 November](http://crcns.org/NWB/hackathon-1) - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
 
------------
+---
 
 This page is hosted from the NeurodataWithoutBorders organization's [nwb_hackathons](https://github.com/NeurodataWithoutBorders/nwb_hackathons) repository on github.com and is published at [neurodatawithoutborders.github.io/nwb_hackathons/](https://neurodatawithoutborders.github.io/nwb_hackathons/)

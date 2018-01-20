@@ -1,13 +1,13 @@
-<a href="http://www.alleninstitute.org/"><img alt="Allen Brain Institute" src="AllenBrainInstitute.png"></a>
+<a href="http://www.alleninstitute.org/"><img alt="Allen Institute for Brain Science" src="AllenBrainInstitute.png"></a>
 
-## Welcome to the web page for the 1st Hackathon !
+## Welcome to the web page for the 4th Hackathon !
 
-To receive information about this and future events please join the XYZ.
+To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements) (for continuity) AND participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub.
 
 ## Logistics
 
-- **Dates:** April  3-6, 2018.
-- **Location:** [Allen Brain Institute, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919), Xth Floor.
+- **Dates:** April 3-6, 2018.
+- **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919), Xth Floor.
 
 - **REGISTRATION:** No fees.
 
@@ -15,22 +15,20 @@ To receive information about this and future events please join the XYZ.
 
 - **Transportation:** Please use public transportation ...
 
-## Introduction
+## Frequently Asked Questions
 
-**What?** TBD
+* [What?](../README.md#what)
+* [When, where, how much?](../README.md#when-where-how-much)
+* [How does it work?](../README.md#how-does-it-work)
+* [Who can attend?](../README.md#who-can-attend)
+* [Who should attend?](../README.md#who-should-attend)
+* [What is the history of NWB hackathons?](../README.md#what-is-the-history-of-nwb-hackathons)
+* [Who to contact?](../README.md#who-to-contact)
 
-**When, where, how much?** TBD
+## Preparatory Videoconferences
 
-**How does it work?** [Weekly videoconferences for preparation](PreparatoryMeetings/README.md) begin 8-12 weeks before an event. TBD
-
-**Who can attend?** TBD
-
-**Who should attend?** TBD
-
-**What else?** TBD
-
-
-**Who to contact?** TBD
+- Video Hangouts Link: *TBD*
+- Conference call notes are available [here](PreparatoryMeetingsNotes.md).
 
 ## Program
 
