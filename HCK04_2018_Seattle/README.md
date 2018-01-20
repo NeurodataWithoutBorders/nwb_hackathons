@@ -47,62 +47,8 @@ TBD
 
 ### Visualization tools
 
-- How do I view what is in my NWB file and how that related to my experiment?
-- Introspecting into contents of an NWB file
+1. [Experimental Structure Viewer](Projects/ExperimentalStructureViewer/README.md) (Michael Grauer, Nicholas Cain, and others)
 
-### Data converstion tools
-
-- How do I get my data into NWB?
-- Read of legacy 1.x files
-
-### NWB schema extensions: neuronal simulations
-
-- Develop use-cases
-- Standardize schema, address duplicaiton of effort with experimental domain
-
-### Schema extension sharing platform
-
-- Organize community-driven extensions
-- Schema extensions index/registry (solve the findability problem)
-
-
-### Neuropixels: Data and tools
-
-- Creation of NWB files
-- Extensions to handle cusom neuropixel-related metadata
-  - CSD plot
-  - Cre +/- info for each cell (from optotagging experiments)
-  - Unit quality metrics
-  - Layer/depth/area info for each cell
-
-### Operant Conditioning: Data and tools
-
-- Creation of NWB files
-- Extensions to handle Operant Conditioning data
-
-### Data storage and backends
-
-- Postgres backend
-- File system back end
-- Cloud-deplyment and scalability concerns
-
-### Tutorial Development: Pynwb training
-
-- User onboarding (how to use NWB in your projects)
-- Developer onboarding (how to contribute to PyNWB)
-  - Create contributor best-practices tutuorial 
-- Base tutorial coupled with example project
-
-### Tutorial Development: Ophys/Ephys data writing
-
-### Tutorial Development: Data I/O
-
-- Writing large data iteratively
-- Writing data with compression
-- Create a new data store backend for FORM/NWB
-- Converting data from one store to another (There and back again)
-
-### Tutorial Development: Creating schema extensions
 
 ## Next Hackathon
 
