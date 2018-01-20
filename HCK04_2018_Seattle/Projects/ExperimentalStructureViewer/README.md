@@ -4,9 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Michael Grauer (Kitware, Inc.)
+- Nicholas Cain (Allen Institute)
 
 # Project Description
 
