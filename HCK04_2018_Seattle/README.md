@@ -1,8 +1,8 @@
-<a href="http://www.alleninstitute.org/"><img alt="Allen Institute for Brain Science" src="AllenBrainInstitute.png"></a>
+<a href="http://www.alleninstitute.org/"><img alt="Allen Institute for Brain Science" src="AllenInstitute.png"></a>
 
-## Welcome to the web page for the 4th Hackathon !
+# Welcome to the web page for the 4th Hackathon !
 
-To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements) (for continuity) AND participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub.
+To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements) (for continuity and permanence across hackathons) AND participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub (for questions dedicated to this event).
 
 ## Logistics
 
