@@ -30,13 +30,17 @@ for the Hackathon. The first day of the Hackathon itself begins with a 2-hour in
 and participants. The rest of the Hackathon consists of a mix of working sessions and breakout sessions on special
 topics, as decided by the participants during the preparatory meetings.
 
+Email announcements are sent to the [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
+across hackathons), and communication specific to each event will happen a dedicated [Hackathon forum][hackathon-forum]
+on GitHub.
+
+[hackathon-mailing-list]: https://groups.google.com/forum/#!forum/nwb_hackathon_announcements
+[hackathon-forum]: https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions
+
 **Who can attend?** Due to limited space the hackathons participation is currently on an invitation-only basis. If
 you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB:N community.
-
-One-day participation is permitted for first-time attendees, but participants are strongly encouraged to stay for
-the entire event. Email announcements are sent to the [Hackathon mailing list](To be done) (for continuity) and posted
-on the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions).
+always excited to see new members join the NWB:N community. One-day participation is permitted for first-time attendees, but participants are strongly encouraged to stay for
+the entire event.
 
 **Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory
 videoconference (see below).
