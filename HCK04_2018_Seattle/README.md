@@ -30,6 +30,10 @@ To receive information about this and future events please join the [Hackathon m
 - Video Hangouts Link: *TBD*
 - Conference call notes are available [here](PreparatoryMeetingsNotes.md).
 
+## Local Organizing Committee
+
+TBD
+
 ## Program
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_ahhdp7hjcota17juvara05luc4%40group.calendar.google.com&ctz=America%2FSeattle&dates=20180403%2F20180406&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
