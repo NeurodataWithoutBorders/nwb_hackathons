@@ -21,7 +21,7 @@ To receive information about this and future events please join the XYZ.
 
 **When, where, how much?** TBD
 
-**How does it work?** [Weekly videoconferences for preparation](PreparatoryMeetings.md) begin 8-12 weeks before an event. TBD
+**How does it work?** [Weekly videoconferences for preparation](PreparatoryMeetings/README.md) begin 8-12 weeks before an event. TBD
 
 **Who can attend?** TBD
 
