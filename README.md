@@ -27,20 +27,24 @@ snacks during the day.
 
 #### How does it work?
 
-Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants
-propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The
-projects include platform work, algorithm development, analytics, visualization, and neurophysiology applications and
+Weekly videoconferences for preparation begin 8-12 weeks before an event (see each Hackathon page for details). Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, analytics, visualization, and neurophysiology applications and
 research tasks. Projects are not limited to code development, but can include creation of documentation and tutorial
-materials. Through the course of the meetings, each participant selects one or more project teams and develops goals
+materials. 
+
+Through the course of the preparatory meetings, each participant selects one or more project teams and develops goals
 for the Hackathon. The first day of the Hackathon itself begins with a 2-hour in-person introduction to all projects
 and participants. The rest of the Hackathon consists of a mix of working sessions and breakout sessions on special
 topics, as decided by the participants during the preparatory meetings.
+
+The projects should be something that can largely be accomplished in a few days, ideally fun, and can help your lab make progress on your research goals. The projects will be written up at the end in a publicly accessible resource that can be used by the community and can be referenced on grant proposals and reports. Projects could be coding, documentation, or tutorials.
 
 Email announcements are sent to the [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
 across hackathons), and communication specific to each event will happen on a dedicated Hackathon forum (see each
 Hackathon page for details).
 
 [hackathon-mailing-list]: https://groups.google.com/forum/#!forum/nwb_hackathon_announcements
+
+
 
 #### Who can attend?
 
