@@ -5,7 +5,7 @@
 - **Dates:** April 26-27, 2018 
 - **Location:** [Lawrence Berkeley National Laboratory, Berkeley, CA, USA](https://www.google.com/maps/place/Building+59+-+Shyh+Wang+Hall/@37.87585,-122.2540609,16.75z/data=!4m8!1m2!2m1!1sLBNL+Building+59!3m4!1s0x80857c3cbb4f1a65:0x8ba74e1cfa0e0623!8m2!3d37.8761533!4d-122.2530404), Building 59 - Shyh Wang Hall, Room 4102
 
-<a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg"></a>
+<a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg" width=800></a>
 
 
 ## Logistics
