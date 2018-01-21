@@ -29,7 +29,12 @@
    - [Interactive online map](http://map.lbl.gov/#UMAP_2012091840117)
    - [PDF](http://www2.lbl.gov/assets/img/maps/visitor_map.pdf)
 
+## Agenda
+
+<!-- ORGANIZERS: please edit AGENDA.md -->
   
+{% include_relative AGENDA.md %}
+
 ## Registrants
 
 Do not add your name to this list - it is maintained by the organizers.
