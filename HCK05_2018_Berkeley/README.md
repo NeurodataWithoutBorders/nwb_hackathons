@@ -2,28 +2,28 @@
 
 # Welcome to the 5th NWB:N Hackathon!
 
-- **Dates:** April 26-27, 2018 
+- **Dates:** April 26-27, 2018
 - **Location:** [Lawrence Berkeley National Laboratory, Berkeley, CA, USA](https://www.google.com/maps/place/Building+59+-+Shyh+Wang+Hall/@37.87585,-122.2540609,16.75z/data=!4m8!1m2!2m1!1sLBNL+Building+59!3m4!1s0x80857c3cbb4f1a65:0x8ba74e1cfa0e0623!8m2!3d37.8761533!4d-122.2530404), Building 59 - Shyh Wang Hall, Room 4102
 
-<a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg" width=800></a>
+<a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg" width="800"></a>
 
 
 ## Logistics
 
-- **Hotel:** A block of 15 rooms has been reserved at the LBNL Guest House for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserver your room 30 days prior to arrival. 
+- **Hotel:** A block of 15 rooms has been reserved at the LBNL Guest House for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserver your room 30 days prior to arrival.
 
 - **Alternate Hotels:** LBNL operates a shuttle service from Downtown Berkeley to LBNL. Alternate hotels in Berkeley near LBNL shuttle stops are e.g.:
 
    * [Downtown Berkeley Inn](http://www.downtownberkeleyinn.com/)
    * [UC Berkeley Faculty Club](https://www.berkeleyfacultyclub.com/)
 
-- **Transportation:** 
+- **Transportation:**
 
   - **LBNL Shuttle:** The LBNL Shuttle service is available to all attendees. For a detailed schedule and routes see [here](http://www2.lbl.gov/Workplace/Facilities/Support/Busses/all_routes.html#sched). Building 59 is located near the Building 65 shuttle stop.
-   
+
   - **Car:** Parking is available to all guests of the LBNL Guest House. For attendees staying at offsite locations additional reserved parking must be requested 2 weeks ahead of the meeting.
 
-- **LBNL Campus Maps** 
+- **LBNL Campus Maps**
 
    - [Static online map](http://www2.lbl.gov/Workplace/lab-site-map.html)
    - [Interactive online map](http://map.lbl.gov/#UMAP_2012091840117)
@@ -32,7 +32,7 @@
 ## Agenda
 
 <!-- ORGANIZERS: please edit AGENDA.md -->
-  
+
 {% include_relative AGENDA.md %}
 
 ## Registrants
@@ -51,5 +51,5 @@ Reference herein to any specific commercial product, process, or service by its 
 
 The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its employees are agents of the US Government.
 
-Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links. 
+Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
 
