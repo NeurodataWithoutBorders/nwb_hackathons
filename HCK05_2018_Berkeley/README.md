@@ -7,6 +7,10 @@
 
 <a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg" width="800"></a>
 
+## Registration
+
+- **Invited Guests:** Please complete the registration form to confirm attendance: https://goo.gl/forms/qjn1UJPVLMUVSXdG3
+- **Other Guests:** This is event is invitation-only. If you have not received an invitation but would like to attend then please contact Oliver Ruebel <oruebel@lbl.gov>.
 
 ## Logistics
 
