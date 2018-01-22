@@ -10,7 +10,7 @@
 ## Registration
 
 - **Invited Guests:** Please complete the registration form to confirm attendance: https://goo.gl/forms/qjn1UJPVLMUVSXdG3
-- **Other Guests:** This is event is invitation-only. If you have not received an invitation but would like to attend then please contact Oliver Ruebel <oruebel@lbl.gov>.
+- **Other Guests:** This event is invitation-only. If you have not received an invitation but would like to attend then please contact Oliver Ruebel <oruebel@lbl.gov>.
 
 ## Logistics
 
