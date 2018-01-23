@@ -149,8 +149,8 @@ but participants are strongly encouraged to stay for the entire event.
 
 #### Who should attend?
 
-This is harder to determine. Your best bet is to contact us (see below) or attend a preparatory
-videoconference (see each Hackathon page for details).
+This is harder to determine. Your best bet is to [contact us](#who-to-contact) or attend a [preparatory
+videoconference](#preparatory-videoconferences).
 
 #### What is the history of NWB hackathons?
 
