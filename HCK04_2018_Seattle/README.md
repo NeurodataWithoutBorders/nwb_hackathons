@@ -129,7 +129,7 @@ topics, as decided by the participants during the preparatory meetings.
 
 The projects should be something that can largely be accomplished in a few days, ideally fun, and can help your lab make progress on your research goals. The projects will be written up at the end in a publicly accessible resource that can be used by the community and can be referenced on grant proposals and reports. Projects could be coding, documentation, or tutorials.
 
-Email announcements are sent to the [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
+Email announcements notifying of upcoming Hackathons are sent to the low-frequency Hackathon mailing list [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
 across hackathons), and communication specific to each event will happen on a dedicated Hackathon forum (see each
 Hackathon page for details).
 
