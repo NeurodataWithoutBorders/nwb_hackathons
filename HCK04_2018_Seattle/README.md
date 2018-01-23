@@ -108,7 +108,7 @@ related research projects.
 
 #### When, where, how much?
 
-This year there will be a development hackathon focused
+This year there will be a development focused
 Hackathon in Early April in Seattle, and then a user on-boarding tutorial Hackathon in late April in Berkeley.
 Ad-hoc meetings are added occasionally. We plan to have at least one more Hackathon in 2019. For this first
 Hackathon, breakfast and lunch will be covered and there will be no registration fee. These logistics are expected
@@ -139,7 +139,7 @@ Hackathon page for details).
 
 Due to limited space the hackathons participation is currently on an invitation-only basis. If
 you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB:N community. If space is available, we will try to accomodate the additional request.
+always excited to see new members join the NWB:N community. If space is available, we will try to accomodate the additional requests.
 
 
 #### What is the history of NWB hackathons?
