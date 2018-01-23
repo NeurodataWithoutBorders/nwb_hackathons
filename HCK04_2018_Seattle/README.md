@@ -11,12 +11,13 @@ To receive information about this and future events please join the [Hackathon m
 
 - **REGISTRATION:** No fees. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfBJXXxNkAaiBcPJJRV67v2R1aFu2L5ZOPzXkt_edSi5UAoVA/viewform) to register
 
-- **Discussion Forum:** See [here](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions).
-  - _Available only after registering and being added to the NeurodataWithoutBorders organization._
-
 - **Hotel:** A hotel block will be reserved and information provided after registration.
 
 - **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits.
+
+- **Hackathon Forum:** See [here](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions).
+  - For questions dedicated to this event.
+  - Available only after registering and being added to the NeurodataWithoutBorders organization.
 
 ## Frequently Asked Questions
 
