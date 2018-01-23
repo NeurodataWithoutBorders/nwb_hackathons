@@ -1,6 +1,6 @@
 # How to create a new project
 
-- Join the weekly [preparation call](../PreparatoryMeetings/README.md) to discuss your idea
+- Join the weekly [preparation call](../README.md#preparatory-videoconferences) to discuss your idea
 - Post questions about the project idea and team on the [Hackathon forum][forum].
 - When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
 
