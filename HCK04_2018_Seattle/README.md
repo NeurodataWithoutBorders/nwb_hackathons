@@ -85,7 +85,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Registrants
 
-Do not add your name to this list - it is maintained by the organizers based on your paid registration.
+Do not add your name to this list - it is maintained by the organizers based on your registration.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
