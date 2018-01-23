@@ -74,12 +74,6 @@ data, the Allen Institute for Brain Science, Lawrence Berkeley National Lab, and
 development-focused hackathon at the Allen Institute for Brain Science (April 3-6, 2018) and a user-engagement
 and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
 
-#### Who to contact?
-
-Hackathons are led by @xyz, ([Lynne A. Becker, Ph.D](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lynne-becker/)) who is happy to tell you more about them.
-
-Communication specific to each event will happen on a dedicated Hackathon forum (see each Hackathon page for details).
-
 ## Upcoming Hackathons
 
 - [Hackathon 4: 2018 April](HCK04_2018_Seattle/README.md) - The 4th Hackathon will be held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
