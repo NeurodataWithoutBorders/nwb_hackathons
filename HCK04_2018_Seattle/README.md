@@ -11,7 +11,7 @@ To receive information about this and future events please join the [Hackathon m
 
 - **REGISTRATION:** No fees. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfBJXXxNkAaiBcPJJRV67v2R1aFu2L5ZOPzXkt_edSi5UAoVA/viewform) to register
 
-- **Discussion Forum:** https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions  (_Available only after registering and being added to the [NeurodataWithoutBorders](https://github.com/NeurodataWithoutBorders) organization._)
+- **Discussion Forum:** See [hck04](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) GitHub forum  (_Available only after registering and being added to the [NeurodataWithoutBorders](https://github.com/NeurodataWithoutBorders) organization._)
 
 - **Hotel:** A hotel block will be reserved and information provided after registration.
 
