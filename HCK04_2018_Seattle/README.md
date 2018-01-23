@@ -34,7 +34,6 @@
     * [When, where, how much?](#when-where-how-much)
     * [How does it work?](#how-does-it-work)
     * [Who can attend?](#who-can-attend)
-    * [Who should attend?](#who-should-attend)
     * [What is the history of NWB hackathons?](#what-is-the-history-of-nwb-hackathons)
     * [Who to contact?](#who-to-contact)
 
@@ -109,13 +108,11 @@ related research projects.
 
 #### When, where, how much?
 
-To be determined based on participation. This year there will be a development focused
+This year there will be a development hackathon focused
 Hackathon in Early April in Seattle, and then a user on-boarding tutorial Hackathon in late April in Berkeley.
 Ad-hoc meetings are added occasionally. We plan to have at least one more Hackathon in 2019. For this first
 Hackathon, breakfast and lunch will be covered and there will be no registration fee. These logistics are expected
-to evolve with the Hackathons. The [NAMIC Project Week][namic-and-3d-slicer-experience] which has influenced the
-NWB Hackathon currently has a registration fee that participants pay, which covers breakfast, lunch, coffee and
-snacks during the day.
+to evolve with the Hackathons.
 
 [namic-and-3d-slicer-experience]: http://www.spl.harvard.edu/publications/item/view/3004
 
@@ -142,13 +139,8 @@ Hackathon page for details).
 
 Due to limited space the hackathons participation is currently on an invitation-only basis. If
 you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB:N community. One-day participation is permitted for first-time attendees,
-but participants are strongly encouraged to stay for the entire event.
+always excited to see new members join the NWB:N community. If space is available, we will try to accomodate the additional request.
 
-#### Who should attend?
-
-This is harder to determine. Your best bet is to [contact us](#who-to-contact) or attend a [preparatory
-videoconference](#preparatory-videoconferences).
 
 #### What is the history of NWB hackathons?
 
@@ -168,7 +160,5 @@ development-focused hackathon at the Allen Institute for Brain Science (April 3-
 and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
 
 #### Who to contact?
-
-Hackathons are led by @xyz, ([Lynne A. Becker, Ph.D](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/lynne-becker/)) who is happy to tell you more about them.
 
 Communication specific to this event will happen on a dedicated Hackathon forum (see [Logistics](#logistics) for details).
