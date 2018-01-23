@@ -7,13 +7,13 @@
 To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements) (for continuity and permanence across hackathons) AND participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub (for questions dedicated to this event).
 
 - **Dates:** April 3-6, 2018.
-- **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919), Xth Floor.
+- **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919).
 
-- **REGISTRATION:** No fees.
+- **REGISTRATION:** No fees. Use form to register
 
-- **Hotel:** Rooms have been blocked at XYZ.
+- **Hotel:** A hotel block will be reserved and information provided after registration.
 
-- **Transportation:** Please use public transportation ...
+- **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits.
 
 ## Frequently Asked Questions
 
@@ -32,7 +32,10 @@ To receive information about this and future events please join the [Hackathon m
 
 ## Local Organizing Committee
 
-TBD
+Lynne Baker
+Lydia Ng
+Nick Cain
+Justin Kiggins
 
 ## Program
 
