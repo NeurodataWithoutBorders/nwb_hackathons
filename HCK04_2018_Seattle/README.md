@@ -15,7 +15,7 @@
 
 - **Communication:**
   - To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements)
-  - To ask questions specific to this event, participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub. It will be available only after registering and being added to the NeurodataWithoutBorders organization.
+  - To ask questions specific to this event, participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub. It will be available only after registering and being added to the NeurodataWithoutBorders GitHub organization.
 
 ## Table of Contents
 
