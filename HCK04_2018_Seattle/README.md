@@ -4,8 +4,6 @@
 
 ## Logistics
 
-To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements) (for continuity and permanence across hackathons) AND participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub (for questions dedicated to this event).
-
 - **Dates:** April 3-6, 2018.
 - **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919).
 
@@ -15,9 +13,9 @@ To receive information about this and future events please join the [Hackathon m
 
 - **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits.
 
-- **Hackathon Forum:** See [here](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions).
-  - For questions dedicated to this event.
-  - Available only after registering and being added to the NeurodataWithoutBorders organization.
+- **Communication:**
+  - To receive information about this and future events please join the [Hackathon mailing list](https://groups.google.com/forum/#!forum/nwb_hackathon_announcements)
+  - To ask questions specific to this event, participate in the [Hackathon forum](https://github.com/orgs/NeurodataWithoutBorders/teams/hck04/discussions) on GitHub. It will be available only after registering and being added to the NeurodataWithoutBorders organization.
 
 ## Table of Contents
 
