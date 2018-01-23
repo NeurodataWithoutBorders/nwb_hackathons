@@ -48,10 +48,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Local Organizing Committee
 
-Lynne Baker
-Lydia Ng
-Nick Cain
-Justin Kiggins
+- Lynne Becker
+- Lydia Ng
+- Nick Cain
+- Justin Kiggins
 
 ## Program
 
