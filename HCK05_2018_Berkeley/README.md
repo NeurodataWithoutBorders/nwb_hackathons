@@ -32,6 +32,35 @@
    - [Static online map](http://www2.lbl.gov/Workplace/lab-site-map.html)
    - [Interactive online map](http://map.lbl.gov/#UMAP_2012091840117)
    - [PDF](http://www2.lbl.gov/assets/img/maps/visitor_map.pdf)
+   
+## Attending Remotely
+
+We will use Zoom for remote attendance. For information on how to get started with Zoom see [here.](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac)
+
+**Join from PC, Mac, Linux, iOS or Android:** [https://lbnl.zoom.us/j/952481719](https://lbnl.zoom.us/j/952481719)
+
+**Or iPhone one-tap :** US: +16699006833,,952481719# or +16465588656,,952481719#
+
+**Or Telephone:**
+
+- Dial(for higher quality, dial a number based on your current location): US: +1 669 900 6833 or +1 646 558 8656
+- Meeting ID: 952 481 719
+- International numbers available: https://lbnl.zoom.us/zoomconference?m=7mjcuSAZBd4DW6HDXaRAaR09FHQ1lQ8k
+
+**Or an H.323/SIP room system:**
+
+- H.323:
+  - 162.255.37.11 (US West)
+  - 162.255.36.11 (US East)
+  - 221.122.88.195 (China)
+  - 115.114.131.7 (India)
+  - 213.19.144.110 (EMEA)
+  - 202.177.207.158 (Australia)
+  - 209.9.211.110 (Hong Kong)
+  - 64.211.144.160 (Brazil)
+  - 69.174.57.160 (Canada)
+- Meeting ID: 952 481 719
+- SIP: 952481719@zoomcrc.com
 
 ## Agenda
 
