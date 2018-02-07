@@ -10,7 +10,7 @@
 
 # How to create a new project
 
-- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in a new subfolder in the `projects` folder, and copying the contents of the [project description template][project-description-template] file into it. Step-by-step instructions for this are:
+When you are ready, create a new project by creating a new `README.md` file in a new subfolder of the [projects](.) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
 1. Go back to the [projects](.) folder on GitHub
