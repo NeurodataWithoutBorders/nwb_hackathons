@@ -41,9 +41,10 @@
 
 ## What to bring?
 
-* Know your goal/project for the hackathon.
-* Bring any example data sets needed for your project at the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
+* Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
+* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
 * Bring your labtop with appropriate software installed. For instructions on how to install PyNWB see http://pynwb.readthedocs.io/en/latest/getting_started.html#installation
+
    
 ## Attending Remotely
 
@@ -79,6 +80,12 @@ We will use Zoom for remote attendance. For information on how to get started wi
 <!-- ORGANIZERS: please edit AGENDA.md -->
 
 {% include_relative AGENDA.md %}
+
+## Projects
+
+For instructions on how to create a project see [here](projects/README.md)
+
+{% include_relative projects/PROJECTS.md %}
 
 ## Registrants
 
