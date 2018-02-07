@@ -33,6 +33,18 @@
    - [Interactive online map](http://map.lbl.gov/#UMAP_2012091840117)
    - [PDF](http://www2.lbl.gov/assets/img/maps/visitor_map.pdf)
    
+## Local Organizing Committee
+
+* Oliver Ruebel
+* Andrew Tritt
+* Kristofer Bouchard
+
+## What to bring?
+
+* Know your goal/project for the hackathon.
+* Bring any example data sets needed for your project at the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
+* Bring your labtop with appropriate software installed. For instructions on how to install PyNWB see http://pynwb.readthedocs.io/en/latest/getting_started.html#installation
+   
 ## Attending Remotely
 
 We will use Zoom for remote attendance. For information on how to get started with Zoom see [here.](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac)
