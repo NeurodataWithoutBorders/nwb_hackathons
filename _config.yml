@@ -2,3 +2,4 @@ theme: jekyll-theme-primer
 
 plugins:
   - jekyll-mentions
+  - jemoji
