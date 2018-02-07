@@ -1,2 +1,2 @@
-* [Project Template](projects/template/README.md)
+* [Project Template](projects/template)
 
