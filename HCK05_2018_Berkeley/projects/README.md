@@ -1,3 +1,5 @@
+[:rewind: Back to main page](../README.md)
+
 # What should my hackahon project look like?
 
 * Design your project in a way that you can make significant progress during the hackathon (i.e., 1 - 1.5days). 
