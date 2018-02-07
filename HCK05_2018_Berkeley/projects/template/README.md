@@ -9,11 +9,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- - Investigator 1 (Affiliation)-->
 <!-- - Investigator 2 (Affiliation)-->
 
-# Project Description
+## Project Description
 
 <!-- Add a short paragraph describing the project. -->
 
-## Objective
+## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
@@ -27,7 +27,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- 1. ... -->
 <!-- 1. ... -->
 
-# Progress and Next Steps
+## Progress and Next Steps
 
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
@@ -35,7 +35,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--![Description of picture](Example2.jpg)-->
 
 
-# Background and References
+## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
