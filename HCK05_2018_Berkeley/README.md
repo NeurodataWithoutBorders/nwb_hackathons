@@ -83,6 +83,8 @@ We will use Zoom for remote attendance. For information on how to get started wi
 
 ## Projects
 
+<a name="ProjectsList"/>
+
 For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
