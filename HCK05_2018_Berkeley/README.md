@@ -39,6 +39,10 @@
 * Andrew Tritt
 * Kristofer Bouchard
 
+### Additional Organizational Support
+
+- The Kavli Foundation
+
 ## What to bring?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
