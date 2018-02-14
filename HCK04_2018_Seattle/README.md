@@ -53,7 +53,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - Nick Cain
 - Justin Kiggins
 
-## Additional Organization Support
+## Additional Organizational Support
 - The Kavli Foundation
 
 
