@@ -8,7 +8,7 @@
 ## Designing your team and project:
 
 To facilitate the discussions around project ideas, you can ask the [Hackathon forum maintainers][maintainers]  to create a sub-team for you.  The subteams that already exist are listed [here][subteams].
-- Use the main [Hackathon forum][forum] to discuss project scope and team membership.
+- Use the main [Hackathon forum][forum] (or your sub-team forum) to discuss project scope and team membership.
 - As you work, distill your ideas into a [pinned discussion][pinned-discussion].  If you use the [project description template][project-description-template], you'll be all set up for the next step (below).
 - Ultimately, this space is meant to serve your team, not become a burden, so you should use it however you want.
 
