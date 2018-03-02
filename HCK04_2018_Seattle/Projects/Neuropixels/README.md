@@ -1,6 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # NWB for Neuropixels Experiments
+[Project Team Discussion Forum](https://github.com/orgs/NeurodataWithoutBorders/teams/neuropixels/discussions)
 
 ## Key Investigators
 
