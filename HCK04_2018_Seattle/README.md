@@ -20,7 +20,6 @@
 ## Table of Contents
 
   * [Logistics](#logistics)
-  * [Table of Contents](#table-of-contents)
   * [Preparatory Videoconferences](#preparatory-videoconferences)
   * [Local Organizing Committee](#local-organizing-committee)
   * [Program](#program)
