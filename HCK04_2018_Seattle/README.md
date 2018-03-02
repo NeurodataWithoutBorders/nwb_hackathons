@@ -25,7 +25,6 @@
   * [Local Organizing Committee](#local-organizing-committee)
   * [Program](#program)
   * [Projects](#projects-how-to-add-a-new-project)
-     * [Visualization tools](#visualization-tools)
   * [Breakout Sessions](#breakout-sessions)
   * [Next Hackathon](#next-hackathon)
   * [Registrants](#registrants)
