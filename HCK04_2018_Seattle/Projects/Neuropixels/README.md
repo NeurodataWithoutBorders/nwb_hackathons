@@ -1,7 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # NWB for Neuropixels Experiments
-[Project Team Discussion Forum](https://github.com/orgs/NeurodataWithoutBorders/teams/neuropixels/discussions)
 
 ## Key Investigators
 
@@ -41,7 +40,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/neuropixelsnwb
+- Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/neuropixels/discussions
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
