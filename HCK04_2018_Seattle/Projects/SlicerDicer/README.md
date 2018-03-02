@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The SlicerDicer is a Python layer that is intended to allow scientists to inspect the contents of an NWB file, and to pull out relevant data fitting specific time slices or stimuli (the slicing and dicing). It provides an API that can be used by visualization or analysis tools.
+The SlicerDicer is a Python layer that is intended to allow scientists to inspect the contents of an NWB file, and to pull out relevant data fitting specific time slices or stimuli (the slicing and dicing). It provides an API that can be used by visualization or analysis tools. Currently the SlicerDicer is also using h5py for prototyping possible enhancements to the PyNWB read API.
 
 ## Objective
 
@@ -17,7 +17,7 @@ The SlicerDicer is a Python layer that is intended to allow scientists to inspec
 ```
 GET('/stimulus/presentation/natural_movie_one_stimulus/data[1000:1100])
 ```
-3. Objective C. Include NWB specific helper methods for narrowing down scope of HDF.
+3. Objective C. Include NWB specific helper methods for narrowing down scope of HDF, e.g. create helper methods that are NWB specific.
 
 ## Approach and Plan
 
