@@ -5,9 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Josh Siegle (Allen Institute)
-- Xiaoxuan Jia (Allen Institute)
-- Nile Graddis (Allen Institute)
+- Josh Siegle (Allen Institute) @jsiegle
+- Xiaoxuan Jia (Allen Institute) @jiaxx
+- Nile Graddis (Allen Institute) @nilegraddis
 
 # Project Description
 
