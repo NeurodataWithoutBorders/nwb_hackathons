@@ -10,7 +10,7 @@ These are notes from the Hackathon Preparation Meetings.
 
 ### Summary:
   * Keep project scale in mind.  'Bite-sized' projects.  should be finished at conclusion of hackathon or shortly thereafter. 
-  * Get your projects / teams on the Hck04 site. Reference [Readme file](nwb_hackathons/HCK04_2018_Seattle/Projects/README.md     ) for instructions. We will review these at upcoming planning sessions. 
+  * Get your projects / teams on the Hck04 site. We will review these at upcoming planning sessions. 
   * There will be breakout sessions each day.  Breakout session leads need to be assigned.  
   * Planning sessions will be held weekly until Hackathon week.  Individual teams are encouraged to meet more frequently as needed. 
   * The March 2nd Kickoff Planning meeting was recorded for those unable to attend.  Please see link below.  
