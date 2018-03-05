@@ -9,8 +9,7 @@
 
 ## Registration
 
-- **Invited Guests:** To confirm attendance, please complete the following: [registration form for in-person attendees](https://goo.gl/forms/qjn1UJPVLMUVSXdG3)
-   - **Registration Deadline For In-Person Attendance:** March 2, 2018
+- **Registration for in person attendence is CLOSED**  Deadline was March 2nd, 2018. Registration for remote attendance is still open (see below). Please contact Oliver Ruebel <oruebel@lbl.gov> in case you have questions.
 - **Other Guests:** This event is invitation-only. If you have not received an invitation but would like to attend then please contact Oliver Ruebel <oruebel@lbl.gov>.
 - **Remote Attendance:** If you are planing to attend remotely, then please register via the follwing [registration form for remote attendees](https://goo.gl/forms/pX2mjaYsmk7nvoxl2)
    - **NOTE:** We expect that significant portions of this event will be involve hacking/coding on problems and working on projects. Remote attendance is for the talks and tutorials only! Local attendance is required in order to actively participate in hacking and project sessions.
