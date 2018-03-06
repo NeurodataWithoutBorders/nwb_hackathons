@@ -17,7 +17,7 @@
 
 ## Logistics
 
-- **Hotel:** A block of 15 rooms has been reserved at the LBNL Guest House for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserver your room 30 days prior to arrival.
+- **Hotel:** A block of 15 rooms has been reserved at the LBNL Guest House for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserve your room 30 days prior to arrival.
 
 - **Alternate Hotels:** LBNL operates a shuttle service from Downtown Berkeley to LBNL. Alternate hotels in Berkeley near LBNL shuttle stops are e.g.:
 
