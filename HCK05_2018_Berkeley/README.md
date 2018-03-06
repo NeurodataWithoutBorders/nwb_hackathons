@@ -2,6 +2,21 @@
 
 # Welcome to the 5th NWB:N Hackathon!
 
+  * [Dates and Location](#dates-and-location)
+  * [Registration](#registration)
+  * [Logistics (Hotel, Transportation, Maps)](#logistics)
+  * [Local Organizing Committee](#local-organizing-committee)
+    * [Additional Organizational Support](#additional-organizational-support)
+  * [What to bring?](#what-to-bring)
+  * [Attending Remotely](#attending-remotely)
+  * [Agenda](#agenda)
+  * [Projects](#projects)
+     * [Creating a New Project](projects/README.md)
+  * [Registrants](#registrants)
+  * [Disclaimer](#disclaimer)
+
+## Dates and Location
+
 - **Dates:** April 26-27, 2018
 - **Location:** [Lawrence Berkeley National Laboratory, Berkeley, CA, USA](https://www.google.com/maps/place/Building+59+-+Shyh+Wang+Hall/@37.87585,-122.2540609,16.75z/data=!4m8!1m2!2m1!1sLBNL+Building+59!3m4!1s0x80857c3cbb4f1a65:0x8ba74e1cfa0e0623!8m2!3d37.8761533!4d-122.2530404), Building 59 - Shyh Wang Hall, Room 4102
 
@@ -51,7 +66,6 @@
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
 * Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
 * Bring your labtop with appropriate software installed. For instructions on how to install PyNWB see http://pynwb.readthedocs.io/en/latest/getting_started.html#installation
-
    
 ## Attending Remotely
 
