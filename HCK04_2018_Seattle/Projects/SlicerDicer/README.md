@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Doruk Ozturk (Kitware)
+- Ben Dichter (Stanford)
 
 # Project Description
 
