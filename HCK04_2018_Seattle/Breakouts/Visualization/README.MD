@@ -1,3 +1,5 @@
+Back to [Breakout Sessions](../../README.md#breakout-sessions)
+
 # Visualization Breakout Session
 
 ## Demos of NWB related Visualization tools
