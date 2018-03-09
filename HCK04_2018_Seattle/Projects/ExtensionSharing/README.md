@@ -21,7 +21,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Discuss with teams having experience creating extensions
-1. Consolidate documentation and tools supporting extension creating
+1. Consolidate documentation and tools supporting extension creation
 1. Create a template
 1. Understand work required to support `pip install nameOfExtension`
 
