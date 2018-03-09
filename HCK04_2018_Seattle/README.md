@@ -70,6 +70,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 1. [Neuropixels](Projects/Neuropixels) (Josh Siegle, Xiaoxuan Jia, Nile Graddis)
 1. [SlicerDicer](Projects/SlicerDicer) (Doruk Ozturk, and others)
 1. [GalleryOfExamples](Projects/GalleryOfExamples) (Andrew Tritt, Olivier Ruebel, Jean-Christophe Fillion-Robin, and others)
+1. [ExtensionSharing](Projects/ExtensionSharing) (Andrew Tritt, Olivier Ruebel, Jean-Christophe Fillion-Robin, and others)
 
 <a name="BreakoutSessions"/>
 
