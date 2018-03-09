@@ -11,19 +11,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+We will represent high-density exctracellular electrophysiology (ecephys) data in NWB.
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Flexible representation of spike-sorting outputs
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Identify and obtain a pool of raw datasets.
+1. Write these datasets to NWB files (and read them back!).
+1. Ensure that common features of these datasets are supported by the core 
+NWB namespace or an extension.
+1. Document the process of writing ecephys data to NWB.
 
 ## Progress and Next Steps
 
