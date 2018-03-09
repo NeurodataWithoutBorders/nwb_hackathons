@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Josh Siegle (Allen Institute) @jsiegle
 - Xiaoxuan Jia (Allen Institute) @jiaxx
 - Nile Graddis (Allen Institute) @nilegraddis
+- Tom Davidson (UCSF) @tjd2002
 
 # Project Description
 
