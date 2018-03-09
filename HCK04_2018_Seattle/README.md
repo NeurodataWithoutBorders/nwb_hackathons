@@ -81,8 +81,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - NWB schema vs pynwb vs project versioning convention
 - Create reference/example NWB:N files
 - Developer insiders: how does pynwb work?
-- CI: Software Process in PyNWB
-- How to contribute to PyNWB (step through the process, set up dev env, run tests, submit PR)
+- [Contributing to PyNWB, CI, and Development Process](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK04_2018_Seattle/Breakouts/Dev/README.md)
 - [Visualization](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK04_2018_Seattle/Breakouts/Visualization)
 
 ## Next Hackathon
