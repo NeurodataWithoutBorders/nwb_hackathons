@@ -83,7 +83,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - Developer insiders: how does pynwb work?
 - CI: Software Process in PyNWB
 - How to contribute to PyNWB (step through the process, set up dev env, run tests, submit PR)
-- Visualization
+- [Visualization](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK04_2018_Seattle/Breakouts/Visualization)
 
 ## Next Hackathon
 
