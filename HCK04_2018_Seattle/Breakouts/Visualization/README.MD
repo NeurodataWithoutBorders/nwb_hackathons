@@ -4,7 +4,7 @@
 
 1. Experimental Structure Viewer (@waxlamp)
 2. Geppetto (@tarelli @gidili)
-3. Hypertools (@arokem)
+3. [Hypertools](http://hypertools.readthedocs.io/en/latest/) (@arokem)
 
 ## Discussion Topics
 
