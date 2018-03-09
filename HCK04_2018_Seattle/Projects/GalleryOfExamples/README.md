@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrew Tritt (Berkeley Lab)
 - Oliver Ruebel (Berkeley Lab)
 - Jean-Christophe Fillion-Robin (Kitware)
+- Thomas Braun (byte physics)
 
 # Project Description
 
