@@ -40,6 +40,7 @@ The ESV takes in an NWB file, then using the SlicerDicer, it extracts data from 
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
+- Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/experimentalstructureviewer
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
