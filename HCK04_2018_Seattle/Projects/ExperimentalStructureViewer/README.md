@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Nicholas Cain (Allen Institute)
 - Michael Grauer (Kitware)
 - Ariel Rokem (UW)
+- Lydia Ng (Allen Institute)
 
 # Project Description
 
