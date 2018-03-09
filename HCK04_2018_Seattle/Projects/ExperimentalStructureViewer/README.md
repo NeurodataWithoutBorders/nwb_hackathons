@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Roni Choudhury (Kitware)
 - Nicholas Cain (Allen Institute)
 - Michael Grauer (Kitware)
+- Ariel Rokem (UW)
 
 # Project Description
 
