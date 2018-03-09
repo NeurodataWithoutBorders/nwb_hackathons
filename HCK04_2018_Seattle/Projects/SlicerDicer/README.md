@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Doruk Ozturk (Kitware)
 - Ben Dichter (Stanford)
+- Andrew Tritt (Berkeley Lab)
+- Oliver Ruebel (Berkeley Lab)
 
 # Project Description
 
