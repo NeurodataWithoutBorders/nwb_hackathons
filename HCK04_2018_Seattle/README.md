@@ -83,6 +83,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 - Developer insiders: how does pynwb work?
 - [Contributing to PyNWB, CI, and Development Process](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK04_2018_Seattle/Breakouts/Dev/README.md)
 - [Visualization](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK04_2018_Seattle/Breakouts/Visualization)
+- [Read API](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK04_2018_Seattle/Breakouts/readAPI/README.md)
 
 ## Next Hackathon
 
