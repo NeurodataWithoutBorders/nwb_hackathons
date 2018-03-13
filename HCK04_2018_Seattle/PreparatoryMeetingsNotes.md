@@ -33,7 +33,7 @@ These are notes from the Hackathon Preparation Meetings.
   * Individual teams are encouraged to have break-out meetings for project planning. 
   * Teams are responsible for 1) Creating a Project Page and 2) Updating Project Page with project description, Objectives, Outcomes, Team members.
   * Breakout sessions during the Hackathon.
-    * Make projecst pages for the Breakout sessions.
+    * Make project pages for the Breakout sessions.
     * Sign up for Presentations
     * Add questions / discussion topics per the breakout session.
   * Agenda - Lynne to work on draft agenda.  
