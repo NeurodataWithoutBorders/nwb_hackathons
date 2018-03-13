@@ -19,7 +19,7 @@ These are notes from the Hackathon Preparation Meetings.
 
 
 
-## Meeting #1: March 9, 2018
+## Meeting #2: March 9, 2018
 
 ### Agenda
 1) Review list of teams
@@ -37,4 +37,5 @@ These are notes from the Hackathon Preparation Meetings.
     * Sign up for Presentations
     * Add questions / discussion topics per the breakout session.
   * Agenda - Lynne to work on draft agenda.  
+  * Next full attendee meeting - week before the hackathon.  
 
