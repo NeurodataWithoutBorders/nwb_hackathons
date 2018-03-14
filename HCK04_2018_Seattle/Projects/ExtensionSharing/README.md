@@ -14,7 +14,8 @@ Define template and methods for sharing extensions.
 
 ## Objective
 
-1. Document best practice document for creating pynwb extensions
+1. Document best practice for creating pynwb extensions
+1. Document guidelines and core principles for creating extensions
 1. Create a template of extension (e.g using cookiecutter)
 1. Update existing extension to comply with the template
 
@@ -37,6 +38,7 @@ Define template and methods for sharing extensions.
         * Update render.py to use the PyNWB schema classes when constructing the hierarchy rather than custom dicts. This is mainly for consistency to make the code also easier to reuse in other places. 
         * Clean up the scripts and add more documentation. 
 1. Create a template
+1. Create document with guidelines for extensions (e.g., reuse types, avoid data denormatlization/dublication, names should be clear and consistent with the format etc.) and possibly a descision-tree to help folks navigate the process and make decisions in the design process.
 1. Depending on progress on this project we may also want to create a Git-repo for sharing extensions (to be determined as part of the project)
 1. Understand work required to support easy install of extensions (similar to `pip install nameOfExtension`). 
     * Define requirements and create list of options for how the installation of extensions should work (e.g., custom install tool as part of PyNWB, pip, etc.). Ultimately, install of extensions needs to be possible not just for PyNWB but also APIs for other languages (e.g. MatNWB). Ideally we'd have a consistent tooling for this but at least the extensions should live in a single location to avoid divergence of extensions.
