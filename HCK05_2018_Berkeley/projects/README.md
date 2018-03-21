@@ -1,6 +1,6 @@
 [:rewind: Back to main page](../README.md)
 
-# What should my hackathon project look like?
+## What should my hackathon project look like?
 
 Since this is a user hackathon, many project will likely focus on integration of a select dataset with NWB:N. However, projects may span a broad range of topics beyond just integrating new data with NWB:N, e.g., developing new features for PyNWB, exploring new problems, or creating documentation. Design your project in a way that:
   1. You can make significant progress during the hackathon (i.e., in ~1 day). This also means that you should come prepared for the hackathon. For example, if your project is about integrating data with NWB:N then you should **a)** know the data, **b)** ideally have scripts for reading the data in Python already preparted, and **c)** bring the data with you to the hackathon.
@@ -23,7 +23,7 @@ We have created a GitHub team for the hackathon. You can use the following team 
   * know the data and ideally have scripts for reading the data in Python already preparted 
   * bring the data with you to the hackathon  
 
-# How to create a new project
+## How to create a new project
 
 When you are ready, create a new project by creating a new `README.md` file in a new subfolder of the [projects](.) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
 
