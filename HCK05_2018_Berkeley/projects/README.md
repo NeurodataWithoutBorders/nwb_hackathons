@@ -14,15 +14,6 @@ Everyone should be part of a project, but not everyone must have their own proje
 
 We have created a GitHub team for the hackathon. You can use the following team forum to chat with attendees before and during the hackathon:  https://github.com/orgs/NeurodataWithoutBorders/teams/hck05
 
-### What should I prepare for the hackthon?
-
-1. Create a project page for your project describing your goal and approach for the project. See below for instruction how to create a project
-
-
-* If your project is about integrating data with NWB:N then you should:
-  * know the data and ideally have scripts for reading the data in Python already preparted 
-  * bring the data with you to the hackathon  
-
 ## How to create a new project
 
 When you are ready, create a new project by creating a new `README.md` file in a new subfolder of the [projects](.) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
