@@ -1,11 +1,24 @@
 [:rewind: Back to main page](../README.md)
 
-# What should my hackahon project look like?
+# What should my hackathon project look like?
 
-* Design your project in a way that you can make significant progress during the hackathon (i.e., 1 - 1.5days). 
-* The project should be useful either as is or be something that you or someone else can build on after the hacakthon.
-* The project should be relevant to NWB:N. Projects may span a broad range of topics, e.g., integrating new data with NWB:N, developing new features for PyNWB, exploring new problems, or creating tutorials.
-* Everyone should be part of project, but not everyone must have their own project. Hacking in teams is fun!
+Since this is a user hackathon, many project will likely focus on integration of a select dataset with NWB:N. However, projects may span a broad range of topics beyond just integrating new data with NWB:N, e.g., developing new features for PyNWB, exploring new problems, or creating documentation. Design your project in a way that:
+  1. You can make significant progress during the hackathon (i.e., in ~1 day). This also means that you should come prepared for the hackathon. For example, if your project is about integrating data with NWB:N then you should **a)** know the data, **b)** ideally have scripts for reading the data in Python already preparted, and **c)** bring the data with you to the hackathon.
+  1. The project is **a)** relevant to NWB:N and **b)** useful either as is or be something that you or someone else can build on after the hackathon 
+  
+### Does everyone need to have their own project?
+
+Everyone should be part of a project, but not everyone must have their own project. Hacking in teams is fun!
+
+### How can I talk with other attendees about my project?
+
+We have created a GitHub team for the hackathon. You can use the following team forum to chat with attendees before and during the hackathon:  https://github.com/orgs/NeurodataWithoutBorders/teams/hck05
+
+### What should I prepare for the hackthon?
+
+1. Create a project page for your project describing your goal and approach for the project. See below for instruction how to create a project
+
+
 * If your project is about integrating data with NWB:N then you should:
   * know the data and ideally have scripts for reading the data in Python already preparted 
   * bring the data with you to the hackathon  
