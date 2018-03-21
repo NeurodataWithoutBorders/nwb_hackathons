@@ -28,7 +28,7 @@ We have created a GitHub team for the hackathon. You can use the following team 
 When you are ready, create a new project by creating a new `README.md` file in a new subfolder of the [projects](.) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
-1. Go back to the [projects](.) folder on GitHub
+1. Go back to the [projects](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK05_2018_Berkeley/projects) folder on GitHub
 1. Click on "Create new file" button
 1. Type `YourProjectName/README.md`
 1. Paste the previously copied content of project template page into your new `README.md`
