@@ -8,6 +8,7 @@
   * [Local Organizing Committee](#local-organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
   * [What to bring?](#what-to-bring)
+  * [Objective](#objective)
   * [Attending Remotely](#attending-remotely)
   * [Agenda](#agenda)
   * [Projects](#projects)
@@ -66,6 +67,10 @@
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
 * Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
 * Bring your labtop with appropriate software installed. For instructions on how to install PyNWB see http://pynwb.readthedocs.io/en/latest/getting_started.html#installation
+
+## Objective
+
+The Neurodata Without Borders: Neurophysiology project (NWB:N, www.nwb.org) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing/reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology. This hackathon event invites experts from the neuroscience community to explore adopting NWB:N for their data sharing needs and lab use cases. The goal of this event is to a) train new users on NWB:N, b) promote adoption of NWB:N, c) work with users on programming projects, e.g, to integrate examples of their labs data into NWB:N, d) facilitate communication between users and developers and project teams, and e) engage with the community.
    
 ## Attending Remotely
 
