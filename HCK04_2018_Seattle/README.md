@@ -68,6 +68,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 1. [Experimental Structure Viewer](Projects/ExperimentalStructureViewer/README.md) (Roni Choudhury, Nicholas Cain, and others)
 1. [Neuropixels](Projects/Neuropixels) (Josh Siegle, Xiaoxuan Jia, Nile Graddis)
+2. [ChangeIsTheOnlyConstant](ChangeIsTheOnlyConstant) (Justin Kiggins, Marina Garrett)
 1. [SlicerDicer](Projects/SlicerDicer) (Doruk Ozturk, and others)
 1. [GalleryOfExamples](Projects/GalleryOfExamples) (Andrew Tritt, Oliver Ruebel, Jean-Christophe Fillion-Robin, and others)
 1. [ExtensionSharing](Projects/ExtensionSharing) (Andrew Tritt, Oliver Ruebel, Jean-Christophe Fillion-Robin, and others)
