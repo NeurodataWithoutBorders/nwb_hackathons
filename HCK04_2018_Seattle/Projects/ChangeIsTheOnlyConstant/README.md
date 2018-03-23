@@ -1,7 +1,8 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Change is the only constant
 <img alt="Change Detection Snapshot" src="image.png">
+
+# Change is the only constant
 
 ## Key Investigators
 
