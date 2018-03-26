@@ -18,6 +18,7 @@ Enhance and gather requirements for advanced data I/O features, e.g.:
   * Iterative data write
   * Data streaming
   * MPI parallel I/O
+  * External files
 
 ## Objective
 
@@ -33,10 +34,13 @@ Enhance and gather requirements for advanced data I/O features, e.g.:
   * [HDF5IO](http://pynwb.readthedocs.io/en/latest/pynwb.form.backends.hdf5.h5tools.html#pynwb.form.backends.hdf5.h5tools.HDF5IO) implements the actual iterative data write (see ``__chunked_iter_fill__`` function)
   * [monitoring](pynwb.readthedocs.io/en/latest/pynwb.form.monitor.html) 
   * A start for a tutorial for iterative data write is on the following branch but its far from complete: https://github.com/NeurodataWithoutBorders/pynwb/compare/iter_write_tutorial
+1. External files are currently supported through "reuse" of NWBContainers and through passing in of h5py.Dataset objects. Some known needs are:
+ * Instead of using h5py.Dataset as inputs to NWBContainers to then create external links, this behavior should be made explicit by wrapping the datasets using HDF5IO and then configuring things on the container. This is needed to 1) make it explicit to users whether ExternalLinks are being created, 2) enable copy vs. linking of data, 3) facilitate error checking for mismatching attributes
+ * Need to add error checking ot ensure that attributes on the dataset match what the user is providing 
   
 ## Approach and Plan
 
-1. Review existing functionality in PyNWB for compression, iterative write, streaming, and parallel I/O
+1. Review existing functionality in PyNWB for compression, iterative write, streaming,, external files, and parallel I/O
 1. Identify missing features
 1. Prioritize and define plan for implementing missing features and identify implementation leads for the different features. 
 
