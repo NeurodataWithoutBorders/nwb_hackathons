@@ -1,3 +1,3 @@
 * [Project Template](projects/template)
 * [ZMBBI](projects/ZMBBI)
-* [Granger Project](/projects/GrangerProject)
+* [Granger Project](projects/GrangerProject)
