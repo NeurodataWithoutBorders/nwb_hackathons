@@ -9,11 +9,11 @@
     * [Additional Organizational Support](#additional-organizational-support)
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
-  * [Attending Remotely](#attending-remotely)
   * [Agenda](#agenda)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Registrants](#registrants)
+  * [Attending Remotely](#attending-remotely)
   * [Disclaimer](#disclaimer)
 
 ## Dates and Location
@@ -72,6 +72,28 @@
 
 The Neurodata Without Borders: Neurophysiology project (NWB:N, www.nwb.org) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing/reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology. This hackathon event invites experts from the neuroscience community to explore adopting NWB:N for their data sharing needs and lab use cases. The goal of this event is to a) train new users on NWB:N, b) promote adoption of NWB:N, c) work with users on programming projects, e.g, to integrate examples of their labs data into NWB:N, d) facilitate communication between users and developers and project teams, and e) engage with the community.
    
+## Agenda
+
+<!-- ORGANIZERS: please edit AGENDA.md -->
+
+{% include_relative AGENDA.md %}
+
+## Projects
+
+<a name="ProjectsList"/>
+
+For instructions on how to create a project see [here](projects/README.md)
+
+{% include_relative projects/PROJECTS.md %}
+
+## Registrants
+
+Do not add your name to this list - it is maintained by the organizers. Click on the name of a registrant to view their hackathon project.
+
+<!-- ORGANIZERS: please edit REGISTRANTS.md -->
+
+{% include_relative REGISTRANTS.md %}
+
 ## Attending Remotely
 
 We will use Zoom for remote attendance. For information on how to get started with Zoom see [here.](https://support.zoom.us/hc/en-us/articles/201362033-Getting-Started-on-PC-and-Mac)
@@ -100,28 +122,6 @@ We will use Zoom for remote attendance. For information on how to get started wi
   - 69.174.57.160 (Canada)
 - Meeting ID: 952 481 719
 - SIP: 952481719@zoomcrc.com
-
-## Agenda
-
-<!-- ORGANIZERS: please edit AGENDA.md -->
-
-{% include_relative AGENDA.md %}
-
-## Projects
-
-<a name="ProjectsList"/>
-
-For instructions on how to create a project see [here](projects/README.md)
-
-{% include_relative projects/PROJECTS.md %}
-
-## Registrants
-
-Do not add your name to this list - it is maintained by the organizers.
-
-<!-- ORGANIZERS: please edit REGISTRANTS.md -->
-
-{% include_relative REGISTRANTS.md %}
 
 ## Disclaimer
 
