@@ -26,7 +26,7 @@ record electrophysiology data in tandem with 2-photon imaging, and would like to
 ## Approach and Plan
 
 1. Prior to the hackathon: familiarize myself with NWB:N file format
-1. Convert a single trace of to NWB:N format
+1. Convert a single trace to NWB:N format
 1. Write a script to bulk convert traces to NWB:N format
 1. Convert multi-channel data to NWB:N format
 1. Write analysis tool to extract synaptic current amplitude from a set of NSB:N data
