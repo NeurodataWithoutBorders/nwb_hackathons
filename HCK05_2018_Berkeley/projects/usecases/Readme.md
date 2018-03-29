@@ -45,11 +45,11 @@ and stimulus data.
 
 For further information about NWB:N see:
 
-* Main Project Site http://www.nwb.org/nwb-neurophysiology/
-* General Overview : http://nwb-overview.readthedocs.io
-* Specification Language: http://schema-language.readthedocs.io
-* Format Specification: http://nwb-schema.readthedocs.io
-* Data Storage: http://nwb-storage.readthedocs.io
-* PyNWB (API): http://pynwb.readthedocs.io
-* MatNWB (API):https://github.com/NeurodataWithoutBorders/matnwb
+* Main Project Site: [http://www.nwb.org/nwb-neurophysiology/](http://www.nwb.org/nwb-neurophysiology/)
+* General Overview : [http://nwb-overview.readthedocs.io](http://nwb-overview.readthedocs.io)
+* Specification Language: [http://schema-language.readthedocs.io](http://schema-language.readthedocs.io)
+* Format Specification: [http://nwb-schema.readthedocs.io](http://nwb-schema.readthedocs.io)
+* Data Storage: [http://nwb-storage.readthedocs.io](http://nwb-storage.readthedocs.io)
+* PyNWB (API): [http://pynwb.readthedocs.io](http://pynwb.readthedocs.io)
+* MatNWB (API): [https://github.com/NeurodataWithoutBorders/matnwb](https://github.com/NeurodataWithoutBorders/matnwb)
 
