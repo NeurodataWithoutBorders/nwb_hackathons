@@ -1,3 +1,16 @@
+## Hackathon Events
+### Upcoming Hackathons
+
+- [Hackathon 4: 2018 April](HCK04_2018_Seattle/README.md) - The 4th Hackathon will be held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
+
+- [Hackathon 5: 2018 April](HCK05_2018_Berkeley/README.md) - The 5th Hackathon will be held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
+
+### Past Hackathons
+
+- Hackathon 3: 2017 July - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
+- Hackathon 2: 2015 May - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
+- [Hackathon 1: 2014 November](http://crcns.org/NWB/hackathon-1) - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
+
 ## Introduction
 
 #### What?
@@ -43,8 +56,6 @@ Hackathon page for details).
 
 [hackathon-mailing-list]: https://groups.google.com/forum/#!forum/nwb_hackathon_announcements
 
-
-
 #### Who can attend?
 
 Due to limited space the hackathons participation is currently on an invitation-only basis. If
@@ -73,18 +84,6 @@ To encourage the development, growth and use of NWB:N as a unified data format f
 data, the Allen Institute for Brain Science, Lawrence Berkeley National Lab, and Kitware are organizing a
 development-focused hackathon at the Allen Institute for Brain Science (April 3-6, 2018) and a user-engagement
 and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).
-
-## Upcoming Hackathons
-
-- [Hackathon 4: 2018 April](HCK04_2018_Seattle/README.md) - The 4th Hackathon will be held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
-
-- [Hackathon 5: 2018 April](HCK05_2018_Berkeley/README.md) - The 5th Hackathon will be held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
-
-## Past Hackathons
-
-- Hackathon 3: 2017 July - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
-- Hackathon 2: 2015 May - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
-- [Hackathon 1: 2014 November](http://crcns.org/NWB/hackathon-1) - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
 
 ---
 
