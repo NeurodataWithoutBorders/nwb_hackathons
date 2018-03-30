@@ -74,7 +74,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 1. [ExtensionSharing](Projects/ExtensionSharing) (Andrew Tritt, Oliver Ruebel, Jean-Christophe Fillion-Robin, and others)
 1. [Advanced Data I/O](Projects/AdvancedIO) (Oliver Ruebel, Andrew Tritt, and others)
 1. [Storage of large-scale network simulation output](Projects/NetworkOutput) (Kael Dai, Ben Dichter, Yazan Billeh, and others)
-
+1. [PatchmasterToNWBConverter](Projects/PatchmasterToNWBConverter) (Sándor Bordé)
 <a name="BreakoutSessions"/>
 
 ## Breakout Sessions
