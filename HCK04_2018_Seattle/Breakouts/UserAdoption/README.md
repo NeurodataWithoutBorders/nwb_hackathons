@@ -2,7 +2,7 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 * Andrew Tritt (LBNL)
 * Jean-Christophe Fillion-Robin (Kitware)
-* Lydia Ng (AIBS)
+* Nick Cain (AIBS)
 * Oliver Ruebel (LBNL)
 * Will Schroeder (Kitware)
 
