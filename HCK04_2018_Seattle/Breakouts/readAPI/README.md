@@ -2,6 +2,11 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 # PyNWB Read API overview
 
+* Andrew Tritt (LBNL)
+* Doruk Ozturk (Kitware)
+* Jean-Christophe Fillion-Robin (Kitware)
+* Oliver Ruebel (LBNL)
+
 # PyNWB Read API desired use cases
 
 1. The [SlicerDicer](../../Projects/SlicerDicer/) can supply a set of read API use cases (@dorukozturk)
