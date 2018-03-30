@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Xiaoxuan Jia (Allen Institute) @jiaxx
 - Nile Graddis (Allen Institute) @nilegraddis
 - Tom Davidson (UCSF) @tjd2002
+- Dan Millman (Allen Institute) @everythingevolves
 
 # Project Description
 
@@ -16,6 +17,7 @@ We will represent high-density exctracellular electrophysiology (ecephys) data i
 ## Objective
 
 1. Flexible representation of spike-sorting outputs
+1. Build analogous functionality for Ophys data (DM).
 
 ## Approach and Plan
 
