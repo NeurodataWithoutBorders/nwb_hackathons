@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Spatial Coordinates
 
 ## Key Investigators
 
@@ -8,7 +8,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Project Description
 
-Schema and API for incorporating information about spatial coordinates, coordinate systems, and transforms. The major goals are to make it easy to (1) determine the spatial relationships between any two objects in an NWB file, and (2) map the coordinates of data within the NWB file to external, standardized coordinate systems. See: NeurodataWithoutBorders/nwb-schema#103
+Schema and API for incorporating information about spatial coordinates, coordinate systems, and transforms. The major goals are to make it easy to (1) determine the spatial relationships between any two objects in an NWB file, and (2) map the coordinates of data within the NWB file to external, standardized coordinate systems. 
+
+**Main discussion**: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/103
 
 ## Objective
 

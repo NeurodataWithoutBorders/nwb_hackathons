@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Stimulus Metadata
 
 ## Key Investigators
 
@@ -9,7 +9,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Schema extension to allow flexible description of stimulus protocols, with a focus on being able to compose the description from multiple independent elements. Main discussion: https://github.com/NeurodataWithoutBorders/nwb-schema/issues/131
+Schema extension to allow flexible description of stimulus protocols, with a focus on being able to compose the description from multiple independent elements. 
+
+**Main discussion:** https://github.com/NeurodataWithoutBorders/nwb-schema/issues/131
 
 
 ## Objective
