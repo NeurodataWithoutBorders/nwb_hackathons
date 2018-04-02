@@ -5,6 +5,7 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 * Nick Cain (AIBS)
 * Oliver Ruebel (LBNL)
 * Will Schroeder (Kitware)
+* Justin Kiggins (AIBS)
 
 # Improving NWB user adoption and removing pain points
 
