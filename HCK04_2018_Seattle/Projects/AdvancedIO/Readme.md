@@ -35,8 +35,8 @@ Enhance and gather requirements for advanced data I/O features, e.g.:
   * [monitoring](pynwb.readthedocs.io/en/latest/pynwb.form.monitor.html) 
   * A start for a tutorial for iterative data write is on the following branch but its far from complete: https://github.com/NeurodataWithoutBorders/pynwb/compare/iter_write_tutorial
 1. External files are currently supported through "reuse" of NWBContainers and through passing in of h5py.Dataset objects. Some known needs are:
- * Instead of using h5py.Dataset as inputs to NWBContainers to then create external links, this behavior should be made explicit by wrapping the datasets using HDF5IO and then configuring things on the container. This is needed to 1) make it explicit to users whether ExternalLinks are being created, 2) enable copy vs. linking of data, 3) facilitate error checking for mismatching attributes
- * Need to add error checking ot ensure that attributes on the dataset match what the user is providing 
+ * **See progress below** Instead of using h5py.Dataset as inputs to NWBContainers to then create external links, this behavior should be made explicit by wrapping the datasets using HDF5IO and then configuring things on the container. This is needed to 1) make it explicit to users whether ExternalLinks are being created, 2) enable copy vs. linking of data, 3) facilitate error checking for mismatching attributes
+ * **TODO** Need to add error checking ot ensure that attributes on the dataset match what the user is providing 
   
 ## Approach and Plan
 
@@ -47,7 +47,12 @@ Enhance and gather requirements for advanced data I/O features, e.g.:
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
+- https://github.com/NeurodataWithoutBorders/pynwb/pull/400
+  - Allow use of HDF5IO to configure creation of external links 
+  - Allow customization of default behavior when h5py.Dataset objects are used as input on write
+  - Expand the list of supported I/O parameters on HDF5IO to allow chunking, compression, etc. options to be set explicitly
+  - Some minor imporvements to DataChunkIterator 
+  
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
