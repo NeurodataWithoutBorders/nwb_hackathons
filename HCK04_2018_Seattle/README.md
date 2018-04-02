@@ -79,9 +79,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Breakout Sessions
 
-- Governace model for incorporation of extensions into core
-- NWB schema vs pynwb vs project versioning convention
-- Create reference/example NWB:N files
 - Developer insiders: how does pynwb work?
 - [Contributing to PyNWB, CI, and Development Process](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK04_2018_Seattle/Breakouts/Dev/README.md)
 - [Visualization](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK04_2018_Seattle/Breakouts/Visualization)
