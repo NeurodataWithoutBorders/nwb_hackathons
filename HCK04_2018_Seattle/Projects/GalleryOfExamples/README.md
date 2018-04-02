@@ -27,6 +27,7 @@ We will improve pynwb readthedocs documentation to include a curated list of exa
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- Add Sphinx Gallery support to PyNWB docs and convert examples: https://github.com/NeurodataWithoutBorders/pynwb/pull/411
 
 # Illustrations
 
@@ -44,8 +45,8 @@ We will improve pynwb readthedocs documentation to include a curated list of exa
   - https://github.com/NeurodataWithoutBorders/pynwb/pull/257#issuecomment-345120218
 
 
-- Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/YourSubTeam
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+<!-- - Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/YourSubTeam -->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data -->
 
