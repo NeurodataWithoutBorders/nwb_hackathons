@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Building on the preexisting visualisation for NWB1 based on [Geppetto](http://www.geppetto.org) we are building an application that can be used by scientists to explore the content of NWB files. Reusing exisiting Geppetto widgets the focus is to build an application that can expose visualisations and workflows that can be useful for scientists.
+Building on the [preexisting visualisation for NWB1](http://live.geppetto.org/geppetto?load_project_from_id=18) based on [Geppetto](http://www.geppetto.org) we are building an application that can be used by scientists to explore the content of NWB files. Reusing exisiting Geppetto widgets the focus is to build an application that can expose visualisations and workflows that can be useful for scientists.
 
 ## Objective
 
