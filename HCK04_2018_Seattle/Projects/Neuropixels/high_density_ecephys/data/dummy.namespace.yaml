@@ -1,0 +1,6 @@
+namespaces:
+- doc: A trivial example
+  name: dummy
+  schema:
+  - namespace: core
+  - source: dummy.extensions.yaml
