@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Matteo Cantarelli (MetaCell)
-- Giovanni Idili (MetaCell)
+- Matteo Cantarelli ([MetaCell](http://metacell.us))
+- Giovanni Idili ([MetaCell](http://metacell.us))
 
 # Project Description
 
@@ -33,7 +33,7 @@ Building on the preexisting visualisation for NWB1 based on Geppetto we are buil
 
 <!--![Description of picture](Example2.jpg)-->
 
-<!--![Some more images](Example2.jpg)-->
+![Some more images](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.png)
 
 # Background and References
 
