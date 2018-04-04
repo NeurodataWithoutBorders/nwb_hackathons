@@ -27,6 +27,22 @@ We will represent high-density exctracellular electrophysiology (ecephys) data i
 NWB namespace or an extension.
 1. Document the process of writing ecephys data to NWB.
 
+## Functionality Table
+A table of things that we want to write to NWB files.  Please fill in/edit entries! Columns are:
+- functionality: short description
+- tools supported: if the functionality is kilosort-specific, for instance
+- PyNWB class: the PyNWB class(es) that currently supports this feature (or the closest match).
+- notes: additional information.
+
+|**functionality** | **tools supported** | **PyNWB class** | **notes** |
+|:---:|:---:|:---:|:---:|
+| Unitwise metrics (peak amplitude, snr, classifications)  | all | ecephys.Clustering | currently, peak/rms is built into core. Probably, each lab will have their own preference. |
+| Eventwise metrics (amplitude, PCs) | all | ecephys.FeatureExtraction (?) | Probably also lab specific  |
+| LFP | all | ecephys.LFP ecephys.ElectricalSeries | |
+| Templates | kilosort | ? |  |
+| Current Source Density | all | ecephys.ElectricalSeries (?) | not sure if the dimensionality works. Should attach to LFP? |
+
+
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
