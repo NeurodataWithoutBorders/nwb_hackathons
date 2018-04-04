@@ -9,7 +9,7 @@ from nwb_test_utilities import roundtrip_test
 from high_density_ecephys.dummy import DummyClass
 
 
-def test_construct_probe(tmpdir_factory):
+def test_dummy(tmpdir_factory):
 
     arr = np.linspace(0, 1, 300)
     dummy_instance = DummyClass(name='my_instance', source='imagination', afloat=5.0, anarray=arr)
