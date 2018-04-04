@@ -77,6 +77,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 1. [PatchmasterToNWBConverter](Projects/PatchmasterToNWBConverter) (Sándor Bordé)
 1. [StimulusMetadata](Projects/StimulusMetadata) (Luke Campagnola)
 1. [SpatialCoordinates](Projects/SpatialCoordinates) (Luke Campagnola)
+1. [NWB Explorer](Projects/NWBExplorer) (Matteo Cantarelli, Giovanni Idili)
 <a name="BreakoutSessions"/>
 
 ## Breakout Sessions
