@@ -35,6 +35,13 @@ Conceptural Framework:
 ![indexing multi and cell compartment cells](images/multicompartment_schema_1.png)
 
 
+* The index is used by the datatable to cluster multiple segments into the same cell. 
+  * Orient by column to get simulation information about any given cell
+  * Orient by row to to get all cells/segments at 
+
+![accessing of data](images/multicompartment_schema_2.png)
+
+![actual example](images/nwb_structure.jpg)
 
 
 ## Progress and Next Steps
