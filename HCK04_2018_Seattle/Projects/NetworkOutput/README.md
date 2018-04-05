@@ -31,7 +31,8 @@ Goals:
 Conceptural Framework:
 * Use an index table to store a range of segment ids. Using the index of the two tables, one can find the various segments of each cell being stored in data.
 * Also allow for storage of relative recording position along the given segment.
-![indexing multi and cell compartment cells](/images/multicompartment_schema_1.png)
+
+![indexing multi and cell compartment cells](images/multicompartment_schema_1.png)
 
 
 
