@@ -38,6 +38,7 @@ A table of things that we want to write to NWB files.  Please fill in/edit entri
 |:---:|:---:|:---:|:---:|
 | Unitwise metrics (peak amplitude, snr, classifications)  | all | ecephys.Clustering | currently, peak/rms is built into core. Probably, each lab will have their own preference. |
 | Eventwise metrics (amplitude, PCs) | all | ecephys.FeatureExtraction (?) | Probably also lab specific  |
+| Unit waveforms | all | ecephys.ClusterWaveforms | Currently, it's not clear how to relate waveforms to unit IDs |
 | LFP | all | ecephys.LFP ecephys.ElectricalSeries | |
 | Templates | kilosort | ? |  |
 | Current Source Density | all | ecephys.ElectricalSeries (?) | not sure if the dimensionality works. Should attach to LFP? |
