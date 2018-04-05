@@ -20,9 +20,21 @@ An efficent, parallizable way to store the results, and even the input, of large
 
 ## Approach and Plan
 
-1. Take what has been developed by Stanford and AI.
-2. Mix in a bowl.
-3. Bake into NWB.
+### Multicell, multicompartment continuous data storage
+Goals:
+* Need to store cell variable data (membrane potential, [Ca++], etc), collected during a simulation
+* Need to be able to store data across data for multiple cells
+* Individual cells may be made up of different sections (soma, axon, dendritic branches) potentially needing to be stored.
+ * Want to be able to write/read in parallel.
+ * Want to be able to chunk data by time or by cell
+
+Conceptural Framework:
+* Use an index table to store a range of segment ids. Using the index of the two tables, one can find the various segments of each cell being stored in data.
+* Also allow for storage of relative recording position along the given segment.
+![indexing multi and cell compartment cells](/images/multicompartment_schema_1.png)
+
+
+
 
 ## Progress and Next Steps
 
