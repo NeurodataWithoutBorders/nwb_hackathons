@@ -49,7 +49,12 @@ Define template and methods for sharing extensions.
 
 - Created [nwb-docutils](https://github.com/NeurodataWithoutBorders/nwb-docutils) project by extracting [docs/utils](https://github.com/NeurodataWithoutBorders/nwb-schema/tree/a0042022f7cf1dc0c7a6a17bbfa17fc5c5e41824/docs/utils)
 
-- Created [nwb-extensions](https://github.com/NeurodataWithoutBorders/nwb-extensions) project to experiment with startegy allowing efficient sharing the extension code.
+  - [nwb-schema PR#140](https://github.com/NeurodataWithoutBorders/nwb-schema/pull/140): Update project to use "nwb-docutils" package
+
+- Created [nwb-extensions](https://github.com/NeurodataWithoutBorders/nwb-extensions) project to experiment with startegy allowing efficient sharing the extension code. Few approaches were discussed:
+  - Sources of extension hosted in the same repository
+  - Use of Git submodule to aggregate all code in the same repository
+  - Create an index of all available extensions (list of json files including repositoryy URL, description and few other metatdata)
 
 
 # Illustrations
