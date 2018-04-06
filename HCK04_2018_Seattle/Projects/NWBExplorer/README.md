@@ -39,20 +39,13 @@ and plot them:
 
 ![Real plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/realPlots.png)
 
-# Illustrations
+# Previous version using a Java backend and NWB1
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-<!--![Description of picture](Example2.jpg)-->
-
-![Some more images](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.png)
+![NWB1](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.png)
 
 # Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-- Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/YourSubTeam
-- Source code: https://github.com/tarelli/nwb-explorer
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Source code: https://github.com/tarelli/nwb-explorer + https://github.com/tarelli/geppetto-nwbexplorer
+- Documentation: https://docs.geppetto.org
+- Tests: https://github.com/tarelli/nwb-explorer/tree/master/tests
 
