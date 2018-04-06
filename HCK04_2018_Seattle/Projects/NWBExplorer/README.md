@@ -31,7 +31,7 @@ The first step after creating the skeleton was to hook up mocked up images for s
 
 ![Mocked up widgets](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/mockupPlots.png)
 
-Then we implemented a Geppetto Model Interpreter using PyNWB to fetch some traces and reused preexisting Geppetto components to visualize the variables.
+Then we implemented a Geppetto Model Interpreter using PyNWB and few tests to test the read API. We used the model interpreter to fetch some traces and reused preexisting Geppetto components to visualize the variables.
 
 ![Variables List](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/someVariables.png)
 
