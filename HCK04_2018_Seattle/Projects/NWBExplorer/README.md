@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# NWB Explorer
+![Mocked up widgets](https://github.com/tarelli/geppetto-nwbexplorer/raw/master/styles/images/nwbExplorer.png)
 
 ## Key Investigators
 
