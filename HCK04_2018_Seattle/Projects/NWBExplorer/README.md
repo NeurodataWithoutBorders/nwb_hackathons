@@ -25,6 +25,8 @@ Building on the [preexisting visualisation for NWB1](http://live.geppetto.org/ge
 
 ## Progress and Next Steps
 
+###[Kanban board for all present and future tasks](https://waffle.io/tarelli/nwb-explorer)
+
 The application is [here](https://github.com/tarelli/nwb-explorer), the geppetto extension is [here](https://github.com/tarelli/geppetto-nwbexplorer).
 
 The first step after creating the skeleton was to hook up mocked up images for some target plots inside widgets to quickly provide a visual proof of concept. 
