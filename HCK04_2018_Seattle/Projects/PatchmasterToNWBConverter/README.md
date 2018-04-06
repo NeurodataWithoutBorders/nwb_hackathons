@@ -10,21 +10,28 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 This project aims to write a script which can convert Patchmaster .dat files to NWB format.
 
+HEKA's Patchmaster software generates a binary file which contains every data of the experiment: acquired traces, properties of the acquisition and the stimulus. They described the format of the binary files, but there isn't any available software to read the whole file (only the acquisition data). 
+
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Get to know with the NWB format and PyNWB.
+1. Write a script which reads HEKA data into Python.
+1. Write a script which generates NWB files from the HEKA file's Python representation.
 
-## Approach and Plan
+<!--## Approach and Plan-->
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+
 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+### Progress
+ 1. I could understand the concept behind the NWB schema, and I learned how to create and write NWB files from Python using PyNWB.
+ 1. I found a HEKA to Python reader which reads acquisition data into a Python object. Using this script I could write sweeps into NWB.
+
+### Next Steps
+ 1. I have to extend the reader script to handle stimulus data too. 
+ 1. Modify the NWB file writer script to include all data (not only the acquired data).
 
 # Illustrations
 
