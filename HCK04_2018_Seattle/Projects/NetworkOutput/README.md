@@ -45,6 +45,9 @@ Conceptural Framework:
 
 
 ## Progress and Next Steps
+* Need to be able to use region references as a more explict way of indexing tables.
+
+* Critical: we need to be able to preallocate memory blocks and write in chunks (and to take advantage of MPI).
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
