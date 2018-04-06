@@ -45,7 +45,7 @@ A table of things that we want to write to NWB files.  Please fill in/edit entri
 
 |**functionality** | **tools supported** | **PyNWB class** | **notes** |
 |:---:|:---:|:---:|:---:|
-| Sorted units | all | ~~ecephys.Clustering~~ misc.UnitTimes |  |
+| Sorted units | all | ~~ecephys.Clustering~~ misc.UnitTimes | NB: UnitTimes was recently refactored ([pynwb pr #382](https://github.com/NeurodataWithoutBorders/pynwb/pull/382)). Doc fixes outstanding ([nwb-schema issue #117](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/127)) |
 | Event tiimes | all | ~~ecephys.Clustering~~ misc.UnitTimes  |  |
 | Unitwise metrics (peak amplitude, snr, classifications)  | all | ~~ecephys.Clustering~~ [pr #435](https://github.com/NeurodataWithoutBorders/pynwb/pull/435) | Created a new UnitMetrics class to handle unitwise metrics generically |
 | Eventwise metrics (amplitude, PCs) | all | ecephys.FeatureExtraction (?) | These are likely to be lab specific. A solution based on MultiContainerInterface seems sensible |
