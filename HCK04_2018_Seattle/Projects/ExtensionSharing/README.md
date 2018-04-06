@@ -56,7 +56,7 @@ Define template and methods for sharing extensions.
   - (2) Use of Git submodule to aggregate all code in the same repository
   - (3) Create an index of all available extensions (list of json files including repositoryy URL, description and few other metatdata)
 
-We concluded that approach (1) would streamline the maintenance of extensions at first and would still allow handhling of extension living in their owb repository. The goal would be to have:
+We concluded that approach (1) would streamline the maintenance of extensions at first and would still allow handling of extension living in their owb repository. The goal would be to have:
   - each extension pip-installable
   - infrastrucure implementing the build system of one extension re-usable outside of the nwb-extensions project
 
