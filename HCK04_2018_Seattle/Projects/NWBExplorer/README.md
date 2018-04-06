@@ -45,6 +45,14 @@ Short animation:
 
 ![Real plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbexplorer.gif)
 
+### Simulation output (Using NWB2 extension from Ben and Kael)
+
+We extended the model interpreter to work with the extension Ben and Kael created to store the simulation output. We can now also plot simulation outputs stored using NWB. Here we are plotting the membrane potential for two different cell somas.
+
+![Sim plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim1.png)
+![Sim plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim2.png)
+![Sim plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim3.png)
+
 # Previous version using a Java backend and NWB1
 
 ![NWB1](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.png)
