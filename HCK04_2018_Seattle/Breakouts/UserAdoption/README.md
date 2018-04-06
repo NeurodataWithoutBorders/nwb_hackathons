@@ -14,6 +14,8 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 # Notes
 
+*Thanks [@bendichter](https://github.com/bendichter) for taking notes*
+
 ## Online Documentation
  
 
