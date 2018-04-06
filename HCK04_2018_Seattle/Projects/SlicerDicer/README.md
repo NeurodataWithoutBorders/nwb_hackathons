@@ -30,20 +30,4 @@ GET('/stimulus/presentation/natural_movie_one_stimulus/data[1000:1100])
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
-# Illustrations
-
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
-
-# Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+After seeing the query API presented by Andrew and Oliver in the Read API breakout session, the path forward here is to integrate the SlicerDicer with the query API, to make sure what data we need for QC and exploratory visualizations of NWB files are provided by the query API. Further, we will push on the idea of providing a higher level API on top of the Read API, that speaks to neuroscience domain concepts but hides some of the software complexity of the lower level PyNWB implementation details.
