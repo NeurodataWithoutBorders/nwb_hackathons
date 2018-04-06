@@ -34,6 +34,7 @@ NWB namespace or an extension.
 ## Next Steps
 
 - We need to associate mean/std waveforms and electrode table regions with UnitTimes in core. See [issue #431](https://github.com/NeurodataWithoutBorders/pynwb/issues/431)
+- Create a tutorial for packaging Kilosort/phy outputs with pynwb
 
 ## Functionality Table
 A table of things that we want to write to NWB files.  Please fill in/edit entries! Columns are:
@@ -51,7 +52,6 @@ A table of things that we want to write to NWB files.  Please fill in/edit entri
 | Unit waveforms | all | ecephys.ClusterWaveforms | Currently, it's not clear how to relate waveforms to unit IDs. [issue #431](https://github.com/NeurodataWithoutBorders/pynwb/issues/431) |
 | LFP | all | ecephys.LFP ecephys.ElectricalSeries | |
 | Current Source Density | all | ecephys.ElectricalSeries (?) | not sure if the dimensionality works. Should attach to LFP? |
-
 
 # Illustrations
 
