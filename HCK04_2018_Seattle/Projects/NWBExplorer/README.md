@@ -13,9 +13,9 @@ Building on the [preexisting visualisation for NWB1](http://live.geppetto.org/ge
 
 ## Objective
 
-1. Objective A. Create a Django based Geppetto application for NWB Explorer
-1. Objective B. Create a NWB Model Interpreter which uses PyNWB
-1. Objective C. Hook up preexisting frontend to visualise content of NWB2 file
+1. Objective A. Create a Django based Geppetto application for NWB Explorer - COMPLETED
+1. Objective B. Create a NWB Model Interpreter which uses PyNWB - COMPLETED
+1. Objective C. Hook up preexisting frontend to visualise content of NWB2 file - COMPLETED
 
 ## Approach and Plan
 
@@ -25,7 +25,19 @@ Building on the [preexisting visualisation for NWB1](http://live.geppetto.org/ge
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+The application is [here](https://github.com/tarelli/nwb-explorer), the geppetto extension is [here](https://github.com/tarelli/geppetto-nwbexplorer).
+
+The first step after creating the skeleton was to hook up mocked up images for some target plots inside widgets to quickly provide a visual proof of concept. 
+
+![Mocked up widgets](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/mockupPlots.png)
+
+Then we implemented a Geppetto Model Interpreter using PyNWB to fetch some traces and we reused preexisting Geppetto components to visualize the variables.
+
+![Variables List](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/realPlots.png)
+
+and plot them:
+
+![Real plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/someVariables.png)
 
 # Illustrations
 
