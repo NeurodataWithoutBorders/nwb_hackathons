@@ -18,17 +18,10 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 ## Online Documentation
  
-
-  * Changes to NWB landing page:
-
-    * Make banner smaller
-    * Entry points for users, for developers, history, contact, 
-    * “NWB is used by these labs”
-    * Mailing list is Kavli, not NWB. We should direct people to the google group.
-
-
   * We need a landing page for NWB:N (separate from the NWB landing page)
 
+    * We'll create this at https://neurodatawithoutborders.github.io/
+    
     * cross-linking between documentation
 
     * indicate that NWB:N is under active development and not guaranteed to be backwards compatible
@@ -36,6 +29,24 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
       * Will, help us with language here please?
 
     * Look at CMake landing page
+    
+
+  * Changes to nwb.org landing page:
+
+    * Make banner smaller
+    * Update entry points below the banner
+   
+		* For users/developers --> Point to  https://neurodatawithoutborders.github.io/
+		* History --> Point to history
+		* Contact --> Point to Google Group
+		* News Letter --> Point to KAVLI mailing list
+
+    * Create page with “NWB is used by these labs”
+    * Mailing list is Kavli, not NWB. We should direct people to the google group.
+    * Our sponsors should be updated and moved out of the top banner to a seprate location
+
+
+ 
 
 
   * In new user page:
