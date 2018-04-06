@@ -30,7 +30,7 @@ NWB namespace or an extension.
 ## Progress
 
 - Implemented generic unit metrics group (for storing snr/peak amplitudes) in core. See [pr #435](https://github.com/NeurodataWithoutBorders/pynwb/pull/435)
-- Packaged kilosort/phy outputs with pynwb. See [notebook](notebooks/Packaging%20Kilosort%20+%20phy%20outputs%20using%20pynwb)
+- Packaged kilosort/phy outputs with pynwb. See [notebook](notebooks/Packaging%20Kilosort%20+%20phy%20outputs%20using%20pynwb.ipynb)
 
 ## Next Steps
 
