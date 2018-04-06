@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# NWB Camera Capture code
 
 ## Key Investigators
 
@@ -14,15 +14,28 @@
 <!-- Add a short paragraph describing the project. -->
 This project will investigate the extension of existing Python code from 
 David Nicholas's lab. The code currently in the terminal only. The goal is to 
-extend this code to make use of the NWB:N framework as well as to add a GUI. 
+extend this code to make use of the NWB:N framework as well as to add a GUI.
+
+More specifically, the code captures 8-bit integer, single-channel frames and
+currently stores them as a series of individual JPG files, which makes later processing
+relatively cumbersome. Instead, we would like to seek a solution wherein the data is
+stored in a compound format/framework, including meta data, etc.
 
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
+1. Investigate how the NWB:N framework can be applied for storing frame-by-frame image
+   data. Using the Python NWB:N interface, replace the existing portion of the code
+   that stores the frames (images) into JPG files with (a) code that creates and
+   handles an NWB:N framework object, (b) stores all necessary meta data into this
+   object, and (c) then adds all frames into the same object.
+   
+2. Provide one sample application (in either Python or MATLAB) that uses such an object.
+   As a proof-of-concept, we wish to develop a quick application that will open the
+   NWB:N framework object containing the captured frames, and (together with the meta
+   data) processes the frames in a meaningful way (e.g. quality control or some simple
+   statistic).
 
 ## Approach and Plan
 
