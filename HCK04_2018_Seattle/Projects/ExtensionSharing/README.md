@@ -45,8 +45,12 @@ Define template and methods for sharing extensions.
     * Define requirements and create list of options for how the installation of extensions should work (e.g., custom install tool as part of PyNWB, pip, etc.). Ultimately, install of extensions needs to be possible not just for PyNWB but also APIs for other languages (e.g. MatNWB). Ideally we'd have a consistent tooling for this but at least the extensions should live in a single location to avoid divergence of extensions.
 
 ## Progress and Next Steps
-
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+- Created [nwb-docutils](https://github.com/NeurodataWithoutBorders/nwb-docutils) project by extracting [docs/utils](https://github.com/NeurodataWithoutBorders/nwb-schema/tree/a0042022f7cf1dc0c7a6a17bbfa17fc5c5e41824/docs/utils)
+
+- Created [nwb-extensions](https://github.com/NeurodataWithoutBorders/nwb-extensions) project to experiment with startegy allowing efficient sharing the extension code.
+
 
 # Illustrations
 
