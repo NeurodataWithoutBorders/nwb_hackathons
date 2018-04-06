@@ -39,7 +39,7 @@ Then we implemented a Geppetto Model Interpreter using PyNWB and few tests to te
 
 and plot them:
 
-![Real plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/realPlots.png)
+![Real plots](https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.gif)
 
 # Previous version using a Java backend and NWB1
 
