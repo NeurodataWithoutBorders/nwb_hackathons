@@ -22,22 +22,22 @@ An efficent, parallizable way to store the results, and even the input, of large
 
 ### Multicell, multicompartment continuous data storage
 Goals:
-* Need to store cell variable data (membrane potential, [Ca++], etc), collected during a simulation
-* Need to be able to store data across data for multiple cells
+* Store cell variable data (membrane potential, [Ca++], etc), collected during a simulation
+* Multiple cells
 * Individual cells may be made up of different sections (soma, axon, dendritic branches) potentially needing to be stored.
- * Want to be able to write/read in parallel.
- * Want to be able to chunk data by time or by cell
+* Want to be able to write/read in parallel.
+* Want to be able to chunk data by time or by cell
+
 
 Conceptural Framework:
-* Use an index table to store a range of segment ids. Using the index of the two tables, one can find the various segments of each cell being stored in data.
-* Also allow for storage of relative recording position along the given segment.
+* Index table stores range of segment ids.
+* Stores relative recording position of each cell segment.
+
 
 ![indexing multi and cell compartment cells](images/multicompartment_schema_1.png)
 
 
-* The index is used by the datatable to cluster multiple segments into the same cell. 
-  * Orient by column to get simulation information about any given cell
-  * Orient by row to to get all cells/segments at 
+Segment recordings from each cell are stored in a single TimeSeries 
 
 ![accessing of data](images/multicompartment_schema_2.png)
 
