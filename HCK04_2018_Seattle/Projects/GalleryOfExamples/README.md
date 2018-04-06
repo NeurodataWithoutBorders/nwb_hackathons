@@ -28,6 +28,11 @@ We will improve pynwb readthedocs documentation to include a curated list of exa
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 - Add Sphinx Gallery support to PyNWB docs and convert examples: https://github.com/NeurodataWithoutBorders/pynwb/pull/411
+- Add Intracellular ephys examples: https://github.com/NeurodataWithoutBorders/pynwb/pull/428, https://github.com/NeurodataWithoutBorders/pynwb/pull/432
+- Default to UTC timestamps: https://github.com/NeurodataWithoutBorders/pynwb/pull/426
+- Use NaN as default resolution for TimeSeries objects: https://github.com/NeurodataWithoutBorders/pynwb/pull/417
+- Fix typo in schema: https://github.com/NeurodataWithoutBorders/nwb-schema/pull/138
+- Investigate scope of porting to NWB v2: https://github.com/AllenInstitute/IPNWB/issues/5
 
 # Illustrations
 
