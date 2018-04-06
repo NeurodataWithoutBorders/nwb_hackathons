@@ -47,6 +47,7 @@ A table of things that we want to write to NWB files.  Please fill in/edit entri
 
 - Implemented generic unit metrics group (for storing snr/peak amplitudes) in core. See [pr #435](https://github.com/NeurodataWithoutBorders/pynwb/pull/435)
 - Identified requirement to associate mean/std waveforms and electrode table regions with UnitTimes in core. See [issue #431](https://github.com/NeurodataWithoutBorders/pynwb/issues/431)
+- Create a tutorial for packaging Kilosort/phy outputs with pynwb
 
 # Illustrations
 
