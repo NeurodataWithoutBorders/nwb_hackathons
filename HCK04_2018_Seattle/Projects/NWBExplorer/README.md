@@ -25,7 +25,7 @@ Building on the [preexisting visualisation for NWB1](http://live.geppetto.org/ge
 
 ## Progress and Next Steps
 
-###[Kanban board for all present and future tasks](https://waffle.io/tarelli/nwb-explorer)
+### [Kanban board for all present and future tasks](https://waffle.io/tarelli/nwb-explorer)
 
 The application is [here](https://github.com/tarelli/nwb-explorer), the geppetto extension is [here](https://github.com/tarelli/geppetto-nwbexplorer).
 
