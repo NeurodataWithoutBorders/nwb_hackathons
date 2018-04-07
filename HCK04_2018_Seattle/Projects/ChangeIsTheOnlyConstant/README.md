@@ -29,8 +29,18 @@ Optical Physiology Datastream
 
 ## Progress and Next Steps
 
+Progress
+
+1. Saved optical physiology data to NWB file
+2. Saved record of visual stimuli (images) to NWB file
+3. Read out calcium traces from NWB file
+4. Read out visual stimuli from NWB file
+
+Next steps
+1. Define extension for Operant Conditioning Data
+
 # Illustrations
 
-
+<img alt="Calcium trace" src="calcium.png">
 
 # Background and References
