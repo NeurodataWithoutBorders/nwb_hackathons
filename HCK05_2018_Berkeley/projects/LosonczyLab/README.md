@@ -44,3 +44,8 @@ We therefore hope to allow for seamless import from and export to NWB using the 
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
+Source code for SIMA: https://github.com/losonczylab/sima
+SIMA API Documentation: http://www.losonczylab.org/sima/1.3.2/
+SIMA Publication: https://www.frontiersin.org/articles/10.3389/fninf.2014.00080/full
+
+MWE Source code for LAB: https://github.com/losonczylab/Zaremba_NatNeurosci_2017/tree/master/losonczy_analysis_bundle/lab
