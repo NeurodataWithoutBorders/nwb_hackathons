@@ -48,7 +48,7 @@
 
 Lawrence Berkeley National Laboratory (LBNL) is located in Berkeley on the hillside directly above the campus of the University of California at Berkeley. The Labs address is 1 Cyclotron Road, Berkeley CA 94720. To make LBNL easily accessible, the Lab has its own shuttle service that takes people around the site and to downtown Berkeley and the BART station there. 
 
-  - **Getting to LBNL** Detailed instructions for how to get to the Lawrence Berkeley National Laboratory campus from the San Francisco Internal Ariport and the Oakland Internal Airport are available [here](http://www2.lbl.gov/Workplace/Transportation.html).
+  - **Getting to LBNL:** Detailed instructions for how to get to the Lawrence Berkeley National Laboratory campus from the San Francisco Internal Ariport and the Oakland Internal Airport are available [here](http://www2.lbl.gov/Workplace/Transportation.html).
 
   - **LBNL Shuttle:** The LBNL Shuttle service is available to all attendees. For a detailed schedule and routes see [here](http://www2.lbl.gov/Workplace/Facilities/Support/Busses/all_routes.html). Building 59 is located near the Building 65 shuttle stop. As a visitor you will need your photo ID and a visitor bus pass, email, or permission from Lab host, written on official letterhead. TIP: When you see a shuttle bus approaching WAVE AT THE DRIVER so the driver knows you want to board the bus. LBNL shuttle stops are marked with this sign:
   
