@@ -52,7 +52,7 @@ Lawrence Berkeley National Laboratory (LBNL) is located in Berkeley on the hills
 
   - **LBNL Shuttle:** The LBNL Shuttle service is available to all attendees. For a detailed schedule and routes see [here](http://www2.lbl.gov/Workplace/Facilities/Support/Busses/all_routes.html). Building 59 is located near the Building 65 shuttle stop. As a visitor you will need your photo ID and a visitor bus pass, email, or permission from Lab host, written on official letterhead. TIP: When you see a shuttle bus approaching WAVE AT THE DRIVER so the driver knows you want to board the bus. LBNL shuttle stops are marked with this sign:
   
-  <img alt="Lawrence Berkeley National Laboratory Guest House Location" src="http://www2.lbl.gov/Workplace/Facilities/Support/Busses/assets/img/bus-logo.gif" height="110" hspace="35"></a>  
+  <img alt="Lawrence Berkeley National Laboratory Guest House Location" src="http://www2.lbl.gov/Workplace/Facilities/Support/Busses/assets/img/bus-logo.gif" height="110" hspace="35"> 
 
   - **Car:** Parking is available to all guests of the LBNL Guest House. Guest house parking is located directly across from the LBNL guest house (Parking Lot **Z** in the below map). For attendees staying at offsite locations, parking spaces are difficult to find at LBNL and if you need to park onsite then additional reserved parking must be requested 2 weeks ahead of the meeting.
   
