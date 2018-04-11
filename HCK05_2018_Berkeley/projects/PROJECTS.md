@@ -2,3 +2,4 @@
 * [ZMBBI](projects/ZMBBI)
 * [Granger Project](projects/GrangerProject)
 * [User Training and Use Cases](projects/usecases)
+* [A database of dopamine cell recordings in freely-moving rats](projects/DAtagging)
