@@ -9,7 +9,8 @@
 <!-- - Investigator 1 (Affiliation)-->
 <!-- - Investigator 2 (Affiliation)-->
 
-### Ali Mohebi, PhD  Josh Berke, PhD (UCSF)
+#### Ali Mohebi, PhD (UCSF) 
+#### Josh Berke, PhD (UCSF)
 
 ## Project Description
 
