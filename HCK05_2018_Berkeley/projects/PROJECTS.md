@@ -1,5 +1,6 @@
 * [Project Template](template)
 * [ZMBBI](ZMBBI)
 * [Granger Project](GrangerProject)
-* [User Training and Use Cases](usecases)
+* [LosonczyLab](LosonczyLab)
 * [A database of dopamine cell recordings in freely-moving rats](DAtagging)
+* [User Training and Use Cases](usecases)
