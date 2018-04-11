@@ -4,7 +4,9 @@
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
-  * [Logistics (Hotel, Transportation, Maps)](#logistics)
+  * [Logistics](#logistics)
+    * [Hotel](#hotel)
+    * [Transportation](#transportation)
   * [Local Organizing Committee](#local-organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
   * [What to bring?](#what-to-bring)
@@ -33,21 +35,31 @@
 
 ## Logistics
 
-- **Hotel:** A block of 15 rooms has been reserved at the LBNL Guest House for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserve your room 30 days prior to arrival.
+###  Hotel
+
+- **Hotel:** A block of 15 rooms has been reserved at the [LBNL Guest House](http://www.berkeleylabguesthouse.org/) for this event for April 25-27. For details on how to reserve your room see [here](travel/lbnl_guest_house_information.pdf). Availability of rooms is limited. Please reserve your room 30 days prior to arrival.
 
 - **Alternate Hotels:** LBNL operates a shuttle service from Downtown Berkeley to LBNL. Alternate hotels in Berkeley near LBNL shuttle stops are e.g.:
 
    * [Downtown Berkeley Inn](http://www.downtownberkeleyinn.com/)
    * [UC Berkeley Faculty Club](https://www.berkeleyfacultyclub.com/)
 
-- **Transportation:**
+### Transportation
 
-  - **LBNL Shuttle:** The LBNL Shuttle service is available to all attendees. For a detailed schedule and routes see [here](http://www2.lbl.gov/Workplace/Facilities/Support/Busses/all_routes.html#sched). Building 59 is located near the Building 65 shuttle stop.
+Lawrence Berkeley National Laboratory (LBNL) is located in Berkeley on the hillside directly above the campus of the University of California at Berkeley. The Labs address is 1 Cyclotron Road, Berkeley CA 94720. To make LBNL easily accessible, the Lab has its own shuttle service that takes people around the site and to downtown Berkeley and the BART station there. 
 
-  - **Car:** Parking is available to all guests of the LBNL Guest House. For attendees staying at offsite locations additional reserved parking must be requested 2 weeks ahead of the meeting.
+  - **Getting to LBNL** Detailed instructions for how to get to the Lawrence Berkeley National Laboratory campus from the San Francisco Internal Ariport and the Oakland Internal Airport are available [here](http://www2.lbl.gov/Workplace/Transportation.html).
 
-- **LBNL Campus Maps**
+  - **LBNL Shuttle:** The LBNL Shuttle service is available to all attendees. For a detailed schedule and routes see [here](http://www2.lbl.gov/Workplace/Facilities/Support/Busses/all_routes.html). Building 59 is located near the Building 65 shuttle stop. As a visitor you will need your photo ID and a visitor bus pass, email, or permission from Lab host, written on official letterhead. TIP: When you see a shuttle bus approaching WAVE AT THE DRIVER so the driver knows you want to board the bus. LBNL shuttle stops are marked with this sign:
+  
+  <img alt="Lawrence Berkeley National Laboratory Guest House Location" src="http://www2.lbl.gov/Workplace/Facilities/Support/Busses/assets/img/bus-logo.gif" height="110" hspace="35"></a>  
 
+  - **Car:** Parking is available to all guests of the LBNL Guest House. Guest house parking is located directly across from the LBNL guest house (Parking Lot **Z** in the below map). For attendees staying at offsite locations, parking spaces are difficult to find at LBNL and if you need to park onsite then additional reserved parking must be requested 2 weeks ahead of the meeting.
+  
+ <a href="http://www.berkeleylabguesthouse.org/"><img alt="Lawrence Berkeley National Laboratory Guest House Location" src="http://www.berkeleylabguesthouse.org/assets/img/L2/map.jpg" height="350" hspace="60"></a> 
+
+ - **LBNL Campus Maps:** Maps of the LBNL campus are availble online in various formats:
+ 
    - [Static online map](http://www2.lbl.gov/Workplace/lab-site-map.html)
    - [Interactive online map](http://map.lbl.gov/#UMAP_2012091840117)
    - [PDF](http://www2.lbl.gov/assets/img/maps/visitor_map.pdf)
