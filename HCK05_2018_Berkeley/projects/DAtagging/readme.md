@@ -6,12 +6,15 @@
 
 ## Key Investigators
 
-<!-- - Ali Mohebi, PhD (UCSF)-->
-<!-- - Josh Berke, PhD (UCSF)-->
+<!-- - Investigator 1 (Affiliation)-->
+<!-- - Investigator 2 (Affiliation)-->
+
+# Ali Mohebi, PhD (UCSF)
+# Josh Berke, PhD (UCSF)
 
 ## Project Description
 
-<!-- Recordings of dopamine cells in behaving animals have been enormously influential in neuroscience, psychology, and even computer science. In head-restrained monkeys and mice performing passive tasks, dopamine cells appear to encode reward prediction errors (RPEs) - abrupt changes in the anticipation of future rewards. RPE signals are central to reinforcement learning algorithms, and are a core component of recent advances in artificial intelligence (e.g. AlphaGo). However, there is more and more data indicating that RPEs are an incomplete description of dopamine function, including recent results from our laboratory (Hamid et al. 2016, Nature Neuroscience). As part of our ongoing dopamine studies we have been recording from optogenetically-identified dopamine cells (n > 33) in the rat ventral tegmental area. These are - to our knowledge - the first recordings of identified dopamine cells in unrestrained animals performing distinct behavioral tasks, including a probabilistic reward ("bandit") task, a runway task, and a pavlovian approach task. Initial analyses suggest that the RPE idea is a good description of some aspects of dopamine cells firing, but not others. This unique, high-quality data set is certain to be of great interest to many researchers, especially computational neuroscientists who do not perform their own recordings. We wish to convert this dopamine data, with associated behavioral and anatomical metadata, into the NWB format as an important step towards freely-distributing these data to the community. -->
+Recordings of dopamine cells in behaving animals have been enormously influential in neuroscience, psychology, and even computer science. In head-restrained monkeys and mice performing passive tasks, dopamine cells appear to encode reward prediction errors (RPEs) - abrupt changes in the anticipation of future rewards. RPE signals are central to reinforcement learning algorithms, and are a core component of recent advances in artificial intelligence (e.g. AlphaGo). However, there is more and more data indicating that RPEs are an incomplete description of dopamine function, including recent results from our laboratory (Hamid et al. 2016, Nature Neuroscience). As part of our ongoing dopamine studies we have been recording from optogenetically-identified dopamine cells (n > 33) in the rat ventral tegmental area. These are - to our knowledge - the first recordings of identified dopamine cells in unrestrained animals performing distinct behavioral tasks, including a probabilistic reward ("bandit") task, a runway task, and a pavlovian approach task. Initial analyses suggest that the RPE idea is a good description of some aspects of dopamine cells firing, but not others. This unique, high-quality data set is certain to be of great interest to many researchers, especially computational neuroscientists who do not perform their own recordings. We wish to convert this dopamine data, with associated behavioral and anatomical metadata, into the NWB format as an important step towards freely-distributing these data to the community.
 
 ## Objectives
 
