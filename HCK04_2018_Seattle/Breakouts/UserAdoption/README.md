@@ -6,64 +6,83 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 * Oliver Ruebel (LBNL)
 * Will Schroeder (Kitware)
 * Justin Kiggins (AIBS)
+* *Thanks [@bendichter](https://github.com/bendichter) for taking notes*
 
 # Improving NWB user adoption and removing pain points
 
 1. Discussion of current pain points. [Slides](https://docs.google.com/presentation/d/1WGkEtX7yAXMHUC6nhRmvyM7yoimmM_A_uPUI_s2kdak/edit#slide=id.p)
 
-
 # Notes
 
-*Thanks [@bendichter](https://github.com/bendichter) for taking notes*
+## Action items
 
-## Online Documentation
+The following is a list of high-level action items as a result of the user adoption hangout:
+
+* Update https://neurodatawithoutborders.github.io/ to organize all online docs under one umbrella 
+
+* Talk to Kavli and propose changes to nwb.org 
+
+* Update ReadTheDocs documentation pages to add a menu bar for cross-linking between the various pages 
+
+* Creating "good first issue" andd "help wanted" labels on the PyNWB repo to help guide new developers to issues they can address (Done)
+
+* Setup monthly developer/user "hangout" call that is open for everyone to join. The goal is to allow a) developers to sync up and b) to allow users to come in ask questions. 
+
+
+## Online Documentation / Websites
  
-  * We need a landing page for NWB:N (separate from the NWB landing page)
-
-    * We'll create this at https://neurodatawithoutborders.github.io/
-    
-    * cross-linking between documentation
-
-    * indicate that NWB:N is under active development and not guaranteed to be backwards compatible
-
-      * Will, help us with language here please?
-
-    * Look at CMake landing page
-    
-
-  * Changes to nwb.org landing page:
-
-    * Make banner smaller
+ * **nwb.org** : Proposed Changes:
+ 
     * Update entry points below the banner
    
-		* For users/developers --> Point to  https://neurodatawithoutborders.github.io/
-		* History --> Point to history
-		* Contact --> Point to Google Group
-		* News Letter --> Point to KAVLI mailing list
+		* For users/developers --> Point to https://neurodatawithoutborders.github.io/
+		* History --> Point to history http://www.nwb.org/nwb-neurophysiology/
+		* Questions About NWB:N --> Point to Google Group https://groups.google.com/forum/#!forum/neurodatawithoutborders
+		* Join Our Mailing List --> Point to KAVLI mailing list. 
+		
+    * Page style:
+		* Our sponsors should be updated and moved out of the top banner to a seprate location
+		* Make banner height smaller
+    
+    * Update pages: Some of the information on nwb.org needs to be updated to reflect the current state of the project. Some specific items:
+    		* http://www.nwb.org/founding-institutions/ : Needs to be updated to reflect the current project team and funders. Previous funders and members should then be listed in an Alumni section of the page. 
+    		* http://www.nwb.org/nwb-neurophysiology/ : The text on this page currently mainly describes the original pilot and should be updated to describe also the development of NWB 2. Alternatively, we could also remove the page and instead have the main menu "NWB: Neurophysiology --> Introduction --Detailed" point directly to https://neurodatawithoutborders.github.io/ . In either case, https://neurodatawithoutborders.github.io/ should be somehow available from the main menu.
+		* http://www.nwb.org/resources/ : All links on the page currently point to NWB 1. This page should be updated to point to the current format specification (http://nwb-schema.readthedocs.io/en/latest/) and  APIs (http://pynwb.readthedocs.io/en/latest/ and https://github.com/NeurodataWithoutBorders/matnwb). Material for NWB:N 1 should be either moved to a different page or appear in a seprate section specific to NWB:N 1.
+		* http://www.nwb.org/contact-us/ : Since the mailing list is accesible by Kavli only, we should direct people to the google group list first for questions to allow developers and users to respond to questions.
+    
+    * New pages:
+    		* Create page with “NWB is used by these labs”
+    
+ * **NWB:N Landing Page** :  We need a landing page for NWB:N (separate from the NWB nwb.org landing page) that is focused on end users and developers rather than funders and NWB at large. While there is a lot of documentation available, we need better cross-linking between the documents as well as a central place for users to go to for information about the NWB:N data standard and software.
 
-    * Create page with “NWB is used by these labs”
-    * Mailing list is Kavli, not NWB. We should direct people to the google group.
-    * Our sponsors should be updated and moved out of the top banner to a seprate location
+    * We'll create this at: https://neurodatawithoutborders.github.io/
+    
+    * The site should also be easily accesible from nwb.org
 
+    * indicate that NWB:N is under active development and not guaranteed to be backwards compatible. Will Schroeder, will help us with language here please?
 
- 
-
+    * Look at CMake landing page for an example
+    
+    * A lot of the initial content will likely come from http://nwb-overview.readthedocs.io/en/latest/ , which once ported to the new site, will be deprectated. 
+    
 
   * In new user page:
 
     * Value proposition - pitch to use NWB
 
-    * Resources
+    * Resources : Link to all available online docs
 
     * Mailing list
 
-    * GitHub
+    * GitHub : Link to the main repositories
 
     * Describe various tools in ecosystem (matnwb, pynwb, nwb-schema, etc.)
 
     * Google group
 
     * Want to get involved? link to the url to the pre-defined “good first issue” tag
+
+* **ReadTheDocs** Need cross-linking between the various documentations
 
 
 ## Outreach
@@ -90,6 +109,9 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
   * recruiting developers
     * on-ramp issues: tag for “good first issue”
       * we should all go through the steps of solving a “good first issue”
+      
+* User expectations: New users currently often expect that NWB 2 is stable rather than being under active development. 
+  We need to be clearly communicate this. This may be harder on nwb.org but should be clearly spelled out on https://neurodatawithoutborders.github.io/
 
 * Someone needs to be the person who holds the community together
 * Public hangout every two weeks or monthly
@@ -101,8 +123,6 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 
 
-## Action items
 
-* Talk to Kavli and propose changes
 
-* Restructure introductory pages to create an example
+
