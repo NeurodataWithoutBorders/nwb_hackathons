@@ -20,6 +20,16 @@ An efficent, parallizable way to store the results, and even the input, of large
 
 ## Approach and Plan
 
+### Spike time recordings.
+Goals: We want to be able to save spike trains from a simulation of anywhere between hundreds to millions of different cells. The previous way to do this was given every cell their own dataset.
+
+![old nwb spike format](images/old_spike_times.png)
+
+While simple to understand, having to open a dataset handle for every possible cell in the network didn't scale well. For the new format, we store all spikes in a single file, using an index table link a given spike time with a cell gid.
+
+![new nwb spike format](images/new_spike_times.png)
+
+
 ### Multicell, multicompartment continuous data storage
 Goals:
 * Store cell variable data (membrane potential, [Ca++], etc), collected during a simulation
