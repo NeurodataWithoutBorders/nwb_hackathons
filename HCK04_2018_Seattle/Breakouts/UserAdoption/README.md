@@ -41,16 +41,14 @@ The following is a list of high-level action items as a result of the user adopt
 		* History --> Point to history http://www.nwb.org/nwb-neurophysiology/
 		* Questions About NWB:N --> Point to Google Group https://groups.google.com/forum/#!forum/neurodatawithoutborders
 		* Join Our Mailing List --> Point to KAVLI mailing list. 
-		
-    * Page style:
-		* Our sponsors should be updated and moved out of the top banner to a seprate location
-		* Make banner height smaller
     
-    * Update pages: Some of the information on nwb.org needs to be updated to reflect the current state of the project. Some specific items:
+    *  Some of the information on nwb.org needs to be updated to reflect the current state of the project. Some specific items:
+		* Our sponsors should be updated and moved out of the top banner to a seprate location
 		* http://www.nwb.org/founding-institutions/ : Needs to be updated to reflect the current project teams and funders. Previous funders and members should then be listed in an Alumni section of the page. 
 		* http://www.nwb.org/nwb-neurophysiology/ : The text on this page currently mainly describes the original pilot and should be updated to describe also the development of NWB 2. Alternatively, we could also remove the page and instead have the main menu "NWB: Neurophysiology --> Introduction --Detailed" point directly to https://neurodatawithoutborders.github.io/ . In either case, https://neurodatawithoutborders.github.io/ should be somehow available from the main menu.
 		* http://www.nwb.org/resources/ : All links on the page currently point to NWB 1. This page should be updated to point to the current format specification (http://nwb-schema.readthedocs.io/en/latest/) and  APIs (http://pynwb.readthedocs.io/en/latest/ and https://github.com/NeurodataWithoutBorders/matnwb). Material for NWB:N 1 should be either moved to a different page or appear in a seprate section specific to NWB:N 1.
 		* http://www.nwb.org/contact-us/ : Since the mailing list is accesible by Kavli only, we should direct people to the google group list first for questions to allow developers and users to respond to questions.
+		* Make banner height smaller 
     
     * Create page with “NWB is used by these labs”
     
