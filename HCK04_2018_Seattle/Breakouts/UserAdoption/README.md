@@ -31,7 +31,9 @@ The following is a list of high-level action items as a result of the user adopt
 
 ## Online Documentation / Websites
  
- * **nwb.org** : Proposed Changes:
+### nwb.org
+
+ * Proposed changes to nwb.org:
  
     * Update entry points below the banner
    
@@ -52,9 +54,13 @@ The following is a list of high-level action items as a result of the user adopt
     
     * Create page with “NWB is used by these labs”
     
- * **User/Developer Website for NWB:N** :  We need a landing page for NWB:N (separate from the NWB nwb.org landing page) that is focused on end users and developers rather than funders and NWB at large. While there is a lot of documentation available, we need better cross-linking between the documents as well as a central place for users to go to for information about the NWB:N data standard and software.
+### User/Developer Website for NWB:N
 
-    * We'll create this at: https://neurodatawithoutborders.github.io/
+We need a landing page for NWB:N (separate from the NWB nwb.org landing page) that is focused on end users and developers rather than funders and NWB at large. While there is a lot of documentation available, we need better cross-linking between the documents as well as a central place for users to go to for information about the NWB:N data standard and software.
+
+* Proposed process 
+
+    * The developer team will create this at: https://neurodatawithoutborders.github.io/
     
     * The site should also be easily accesible from nwb.org
 
@@ -80,7 +86,11 @@ The following is a list of high-level action items as a result of the user adopt
 
 	    * Want to get involved? link to the url to the pre-defined “good first issue” tag
 
-* **ReadTheDocs** Need cross-linking between the various documentations
+###  ReadTheDocs
+
+* Proposed changed: 
+	
+	* Need cross-linking between the various documentations
 
 
 ## Outreach
