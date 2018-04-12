@@ -47,11 +47,16 @@ Enhance and gather requirements for advanced data I/O features, e.g.:
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-- https://github.com/NeurodataWithoutBorders/pynwb/pull/400
+- The following pull request has been merged: https://github.com/NeurodataWithoutBorders/pynwb/pull/400
   - Allow use of HDF5IO to configure creation of external links 
   - Allow customization of default behavior when h5py.Dataset objects are used as input on write
   - Expand the list of supported I/O parameters on HDF5IO to allow chunking, compression, etc. options to be set explicitly
-  - Some minor imporvements to DataChunkIterator 
+  - Some minor improvements to DataChunkIterator 
+ - Next steps:
+  - Oliver to create Advanced Data I/O tutorial for the hackathon at LBNL
+  - Enhance HDF5IO to create a queue with all DataChunkIterators to allow customization of how the write of DataChunkItertors is handled
+    (see use case described in https://github.com/NeurodataWithoutBorders/pynwb/pull/310 and https://github.com/NeurodataWithoutBorders/pynwb/pull/309)
+  - MPI I/O
   
 # Illustrations
 
