@@ -64,7 +64,7 @@ We need a landing page for NWB:N (separate from the NWB nwb.org landing page) th
     
     * The site should also be easily accesible from nwb.org
 
-    * indicate that NWB:N is under active development and not guaranteed to be backwards compatible. Will Schroeder, will help us with language here please?
+    * indicate that NWB:N is under active development and not yet guaranteed to be backwards compatible since we are in Beta and not final release yet. Will Schroeder, will help us with language here please?
 
     * Look at CMake landing page for an example
     
