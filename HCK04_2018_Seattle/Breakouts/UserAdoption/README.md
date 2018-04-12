@@ -45,15 +45,14 @@ The following is a list of high-level action items as a result of the user adopt
 		* Make banner height smaller
     
     * Update pages: Some of the information on nwb.org needs to be updated to reflect the current state of the project. Some specific items:
-    		* http://www.nwb.org/founding-institutions/ : Needs to be updated to reflect the current project team and funders. Previous funders and members should then be listed in an Alumni section of the page. 
-    		* http://www.nwb.org/nwb-neurophysiology/ : The text on this page currently mainly describes the original pilot and should be updated to describe also the development of NWB 2. Alternatively, we could also remove the page and instead have the main menu "NWB: Neurophysiology --> Introduction --Detailed" point directly to https://neurodatawithoutborders.github.io/ . In either case, https://neurodatawithoutborders.github.io/ should be somehow available from the main menu.
+		* http://www.nwb.org/founding-institutions/ : Needs to be updated to reflect the current project teams and funders. Previous funders and members should then be listed in an Alumni section of the page. 
+		* http://www.nwb.org/nwb-neurophysiology/ : The text on this page currently mainly describes the original pilot and should be updated to describe also the development of NWB 2. Alternatively, we could also remove the page and instead have the main menu "NWB: Neurophysiology --> Introduction --Detailed" point directly to https://neurodatawithoutborders.github.io/ . In either case, https://neurodatawithoutborders.github.io/ should be somehow available from the main menu.
 		* http://www.nwb.org/resources/ : All links on the page currently point to NWB 1. This page should be updated to point to the current format specification (http://nwb-schema.readthedocs.io/en/latest/) and  APIs (http://pynwb.readthedocs.io/en/latest/ and https://github.com/NeurodataWithoutBorders/matnwb). Material for NWB:N 1 should be either moved to a different page or appear in a seprate section specific to NWB:N 1.
 		* http://www.nwb.org/contact-us/ : Since the mailing list is accesible by Kavli only, we should direct people to the google group list first for questions to allow developers and users to respond to questions.
     
-    * New pages:
-    		* Create page with “NWB is used by these labs”
+    * Create page with “NWB is used by these labs”
     
- * **NWB:N Landing Page** :  We need a landing page for NWB:N (separate from the NWB nwb.org landing page) that is focused on end users and developers rather than funders and NWB at large. While there is a lot of documentation available, we need better cross-linking between the documents as well as a central place for users to go to for information about the NWB:N data standard and software.
+ * **User/Developer Website for NWB:N** :  We need a landing page for NWB:N (separate from the NWB nwb.org landing page) that is focused on end users and developers rather than funders and NWB at large. While there is a lot of documentation available, we need better cross-linking between the documents as well as a central place for users to go to for information about the NWB:N data standard and software.
 
     * We'll create this at: https://neurodatawithoutborders.github.io/
     
@@ -65,22 +64,21 @@ The following is a list of high-level action items as a result of the user adopt
     
     * A lot of the initial content will likely come from http://nwb-overview.readthedocs.io/en/latest/ , which once ported to the new site, will be deprectated. 
     
+    * Parts that should be included on the new user/developer page:
 
-  * In new user page:
+	    * Value proposition - pitch to use NWB
 
-    * Value proposition - pitch to use NWB
+	    * Resources : Link to all available online docs
 
-    * Resources : Link to all available online docs
+	    * Mailing list
 
-    * Mailing list
+	    * GitHub : Link to the main repositories
 
-    * GitHub : Link to the main repositories
+	    * Describe various tools in ecosystem (matnwb, pynwb, nwb-schema, etc.)
 
-    * Describe various tools in ecosystem (matnwb, pynwb, nwb-schema, etc.)
+	    * Google group
 
-    * Google group
-
-    * Want to get involved? link to the url to the pre-defined “good first issue” tag
+	    * Want to get involved? link to the url to the pre-defined “good first issue” tag
 
 * **ReadTheDocs** Need cross-linking between the various documentations
 
