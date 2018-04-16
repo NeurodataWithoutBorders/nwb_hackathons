@@ -18,15 +18,17 @@ Back to [Breakout Sessions](../../README.md#breakout-sessions)
 
 The following is a list of high-level action items as a result of the user adoption hangout:
 
-* Update https://neurodatawithoutborders.github.io/ to organize all online docs under one umbrella 
-
-* Talk to Kavli and propose changes to nwb.org 
-
-* Update ReadTheDocs documentation pages to add a menu bar for cross-linking between the various pages 
+* Update https://neurodatawithoutborders.github.io/ to organize all online docs under one umbrella (Done)
 
 * Creating "good first issue" andd "help wanted" labels on the PyNWB repo to help guide new developers to issues they can address (Done)
 
+* Talk to Kavli and propose changes to nwb.org (in progress)
+
+* Update ReadTheDocs documentation pages to add a menu bar for cross-linking between the various pages 
+
 * Setup monthly developer/user "hangout" call that is open for everyone to join. The goal is to allow a) developers to sync up and b) to allow users to come in ask questions. 
+
+Completed action items from the breakout:
 
 
 ## Online Documentation / Websites
