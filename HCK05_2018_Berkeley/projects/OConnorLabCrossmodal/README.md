@@ -10,7 +10,7 @@ Eric Finkel (O'Connor Lab, JHMI)
 
 ## Project Description
 
-Conversion of behavioral and neurophysilogy data from our crossmodal attention project to the NWB:N format
+Conversion of extracellular electrophysiology data from our crossmodal attention project to the NWB:N format
 
 ## Objectives
 
