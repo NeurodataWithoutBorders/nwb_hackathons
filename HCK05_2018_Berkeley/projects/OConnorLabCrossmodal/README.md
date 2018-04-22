@@ -16,9 +16,9 @@ Conversion of behavioral and neurophysilogy data from our crossmodal attention p
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-Objective A. Load raw extracellular recordings collected using tetrodes + Intan system into NWB file.
-Objective B. Load processed/spike sorted data into NWB file.
-Objective C. Reproduce analysis using new NWB files as starting points.
+Objective A. Load raw extracellular recordings collected using tetrodes + Intan system into NWB file.  
+Objective B. Load processed/spike sorted data into NWB file.  
+Objective C. Reproduce analysis using new NWB files as starting points.  
 
 ## Approach and Plan
 
