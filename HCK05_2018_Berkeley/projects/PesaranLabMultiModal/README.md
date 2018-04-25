@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Conversion of Sabatini lab neurophysiology and imaging data to the NWB:N format
+# Conversion of Pesaran lab electrophysiology data to the NWB:N format
 
 ## Key Investigators
 
