@@ -46,6 +46,9 @@ Our lab has previously developed in house solutions for working with the above d
 
 ## Background and References
 
+Published description of data: http://www.pnas.org/content/112/35/11084
+
+
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
