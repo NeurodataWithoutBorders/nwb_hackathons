@@ -2,12 +2,12 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# Conversion of Sabatini lab neurophysiology and imaging data to the NWB:N format
 
 ## Key Investigators
 
-<!-- - Investigator 1 (Affiliation)-->
-<!-- - Investigator 2 (Affiliation)-->
+- Kevin Brown (NYU)
+- Bijan Pesaran (NYU)
 
 ## Project Description
 
