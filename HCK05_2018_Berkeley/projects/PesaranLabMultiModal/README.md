@@ -26,6 +26,8 @@ Our lab has previously developed in house solutions for working with the above d
 
 ## Approach and Plan
 
+We will focus on a single previously published experiment consisting of data from a working memory task in Rhesus Macaques to develop and test the implementation. 
+
 1. Load spike times from a single aribtrary unit into the NWB:N format, test event-locked responses from the NWB:N format against in-house 
 1. Load spike times from multiple single units into NWB:N format
 1. Load LFP data from a single electrode into NWB:N format
