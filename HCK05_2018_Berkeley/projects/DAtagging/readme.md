@@ -24,11 +24,19 @@ Recordings of dopamine cells in behaving animals have been enormously influentia
 <!-- 1. Objective B. Describe it in 1-2 sentences.-->
 <!-- 1. ...-->
 
+1. Import data structure from MATLAB into the NWB:N file format
+2. Apply standard analysis routines (e.g. PETH) on ePhys data
+3. Build basic analysis notebook
+4. Develop routines for converting Berke lab ePhys data into NWB:N format
+
 ## Approach and Plan
 
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
 <!-- 1. ... -->
 <!-- 1. ... -->
+1. Install required software on laptop
+2. Get to know NWB:N data format
+
 
 ## Progress and Next Steps
 
