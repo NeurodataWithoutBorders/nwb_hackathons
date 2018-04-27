@@ -146,3 +146,6 @@ The views and opinions of authors expressed herein do not necessarily state or r
 
 Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
 
+## Add your publicly sharable NWB files
+
+Please register a user in the [Girder web data sharing instance](http://ec2-34-229-132-127.compute-1.amazonaws.com/) and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
