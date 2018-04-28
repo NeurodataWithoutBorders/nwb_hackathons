@@ -99,6 +99,10 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
+## Breakout Sessions
+
+* PyNWB Software Process and How to Contribute - [slides](https://docs.google.com/presentation/d/10I8ydFG-BxyxoSWBHpQpvSKYbte5YSYNFKac4jpp8C8/edit?usp=sharing) - Michael Grauer (Kitware), Jean-Christophe Fillion-Robin (Kitware)
+
 ## Registrants
 
 Do not add your name to this list - it is maintained by the organizers. Click on the name of a registrant to view their hackathon project.
