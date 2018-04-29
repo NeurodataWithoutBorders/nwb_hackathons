@@ -2,7 +2,7 @@
 # Welcome to the 5th NWB:N Hackathon!
 
 <a href="http://photos.lbl.gov/bp/#/folder/628671/39809453"><img alt="Lawrence Berkeley National Laboratory" src="misc/building59_wang_hall.jpg" height="228"></a> <a href="http://map.lbl.gov/"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus.jpg" height="228"></a>
-<img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870"></a>
+<img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870">
 
   * [After the Hackathon](#after-the-hackathon)
   * [Dates and Location](#dates-and-location)
