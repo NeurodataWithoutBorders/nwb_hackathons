@@ -2,6 +2,7 @@
 
 # Welcome to the 5th NWB:N Hackathon!
 
+  * [After the Hackathon](#after-the-hackathon)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)
@@ -18,6 +19,16 @@
   * [Registrants](#registrants)
   * [Attending Remotely](#attending-remotely)
   * [Disclaimer](#disclaimer)
+
+## After the hackathon:
+
+* All participants of the hackathon, please complete the following short [survey](https://docs.google.com/forms/d/e/1FAIpQLSeCYwE-oj9LH1JKiXl3_S-e-J_MkO6NzFN0Uzp3OwDa3fRk4g/viewform?usp=sf_link)
+* Update your project pages with progress from (and after) the hackathon
+* If you have data that you are willing to share, then please do so (see below)
+
+### Add your publicly sharable NWB:N files
+
+Please register a user in the [Girder web data sharing instance](http://ec2-34-229-132-127.compute-1.amazonaws.com/) and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
 
 ## Dates and Location
 
@@ -151,6 +162,4 @@ The views and opinions of authors expressed herein do not necessarily state or r
 
 Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
 
-## Add your publicly sharable NWB files
 
-Please register a user in the [Girder web data sharing instance](http://ec2-34-229-132-127.compute-1.amazonaws.com/) and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
