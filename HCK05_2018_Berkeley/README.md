@@ -48,7 +48,7 @@ Please register a user in the <a href="http://ec2-34-229-132-127.compute-1.amazo
 * **NWB:N I/O -- ephys**, Ben Dichter, 04/26/2018, 11:10am  [[PDF]](https://drive.google.com/file/d/19lDEY-qePtNATbqx8CpvzUNK89LFcgdq/view?usp=sharing)
 * **Welcome to Day 2 of the NWB:N Hackathon @ LBNL**, Oliver Ruebel, 04/27/2018, 9am [[PDF]](https://drive.google.com/file/d/1R4VYt8YU4EH_RbWyRr29rIo8IaEVcmcn/view?usp=sharing)
 * **PyNWB Software Process and How to Contribute**, Michael Grauer and Jean-Christophe Fillion-Robin, 04/27/2018, 9:15am, [[PDF]](https://drive.google.com/file/d/1KM5J5EmIggKAavi-QJ7ZuEG2zm3yQoW7/view?usp=sharing)
-* **Writing Extensions**, Ben Dichter, 04/27/2018, 9:30am, [Slides coming soon]
+* **Writing Extensions**, Ben Dichter, 04/27/2018, 9:30am, [[PDF]](https://drive.google.com/file/d/19lDEY-qePtNATbqx8CpvzUNK89LFcgdq/view?usp=sharing) (see the second part of the slide deck)
 * **Writing API Classes for Extensions**, Andrew Tritt, 04/27/2018, 10:45am, [Slides coming soon]
 * **PyNWB: Advanced Data I/O**, Oliver Ruebel, 04/27/2018, 12:30pm [[PDF]](https://drive.google.com/file/d/1OeYldiyzWcm9wk_heIk60ynVW9RP5t4d/view?usp=sharing)
 
