@@ -22,7 +22,7 @@
   * [Attending Remotely](#attending-remotely)
   * [Disclaimer](#disclaimer)
 
-## After the hackathon:
+## After the hackathon
 
 * All participants of the hackathon, please complete the following short [survey](https://docs.google.com/forms/d/e/1FAIpQLSeCYwE-oj9LH1JKiXl3_S-e-J_MkO6NzFN0Uzp3OwDa3fRk4g/viewform?usp=sf_link)
 * Update your project pages with progress from (and after) the hackathon
@@ -31,6 +31,25 @@
 ### Add your publicly sharable NWB:N files
 
 Please register a user in the [Girder web data sharing instance](http://ec2-34-229-132-127.compute-1.amazonaws.com/) and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
+
+### Slides
+
+* **Agenda** [[PDF]](https://drive.google.com/file/d/15epI5yUImoHcPYrsxSJQgR2d7AfLa52P/view?usp=sharing)
+* **Online Tutorials**, The online tutorials for PyNWB that were used and mentioned in the talks are available [here](http://pynwb.readthedocs.io/en/latest/tutorials/index.html)
+* **Welcome to the NWB:N Hackathon @ LBNL**, Oliver Ruebel, 04/26/2018, 8am [[PDF]](https://drive.google.com/file/d/1cb3qJyMqlR8ZQGZaka4IU5z5WVYkQ1KD/view?usp=sharing)
+* **Neurodata Without Borders**, Kris Bouchard, 04/26/2018, 8:10am [[PDF]](https://drive.google.com/file/d/1FQg6fY-sPFAlPBd3HeUkG3uhfuvUsWz7/view?usp=sharing)
+* **Introduction to NWB:N -- An ecosystem for standardizing neurophysiology data**, Oliver Ruebel, 04/26/2018, 8:20am [[PDF]](https://drive.google.com/file/d/1SIcMshEl_e-0Gz6F3AVCs8s7osvhz1FS/view?usp=sharing)
+* **Overview of the NWB:N format**, Andrew Tritt, 04/26/2018, 8:40am [Slides coming soon]
+* **Overview of PyNWB**, Andrew Tritt, 04/26/2018 , 9:10am [Slides coming soon]
+* **Overview of MatNWB**, Lawrence Niu / Nathan Clack, 04/26/2018 , 9:40am [Slides coming soon]
+* **NWB:N I/O -- ophys**, Nick Cain, 04/26/2018, 10:25am [Slides coming soon]
+* **NWB:N I/O -- ephys**, Ben Dichter, 04/26/2018, 11:10am  [[PDF]](https://drive.google.com/file/d/19lDEY-qePtNATbqx8CpvzUNK89LFcgdq/view?usp=sharing)
+* **Welcome to Day 2 of the NWB:N Hackathon @ LBNL**, Oliver Ruebel, 04/27/2018, 9am [[PDF]](https://drive.google.com/file/d/1R4VYt8YU4EH_RbWyRr29rIo8IaEVcmcn/view?usp=sharing)
+* **PyNWB Software Process and How to Contribute**, Michael Grauer and Jean-Christophe Fillion-Robin, 04/27/2018, 9:15am, [[PDF]](https://drive.google.com/file/d/1KM5J5EmIggKAavi-QJ7ZuEG2zm3yQoW7/view?usp=sharing)
+* **Writing Extensions**, Ben Dichter, 04/27/2018, 9:30am, [Slides coming soon]
+* **Writing API Classes for Extensions**, Andrew Tritt, 04/27/2018, 10:45am, [Slides coming soon]
+* **PyNWB: Advanced Data I/O**, Oliver Ruebel, 04/27/2018, 12:30pm [[PDF]](https://drive.google.com/file/d/1OeYldiyzWcm9wk_heIk60ynVW9RP5t4d/view?usp=sharing)
+
 
 ## Dates and Location
 
