@@ -5,6 +5,8 @@
 <a href="http://today.lbl.gov/2018/04/30/berkeley-lab-hosts-neurodata-without-borders-hackathon/"><img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870"></a>
 
   * [After the Hackathon](#after-the-hackathon)
+   * [Add your publicly sharable NWB:N files](#add-your-publicly-sharable-nwbn-files)
+   * [Slides](#slides)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)
