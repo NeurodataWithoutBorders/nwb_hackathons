@@ -26,13 +26,13 @@
 
 ## After the hackathon
 
-* All participants of the hackathon, please complete the following short [survey](https://docs.google.com/forms/d/e/1FAIpQLSeCYwE-oj9LH1JKiXl3_S-e-J_MkO6NzFN0Uzp3OwDa3fRk4g/viewform?usp=sf_link)
+* All participants of the hackathon, please complete the following short <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCYwE-oj9LH1JKiXl3_S-e-J_MkO6NzFN0Uzp3OwDa3fRk4g/viewform?usp=sf_link" target="_blank">survey</a>
 * Update your project pages with progress from (and after) the hackathon
 * If you have data that you are willing to share, then please do so (see below)
 
 ### Add your publicly sharable NWB:N files
 
-Please register a user in the [Girder web data sharing instance](http://ec2-34-229-132-127.compute-1.amazonaws.com/) and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
+Please register a user in the <a href="http://ec2-34-229-132-127.compute-1.amazonaws.com/" target="_blank">Girder web data sharing instance</a> and add your publicly sharable data to the `NWB Hackathon 5 sharing` folder.
 
 ### Slides
 
