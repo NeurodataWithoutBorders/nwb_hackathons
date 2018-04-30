@@ -2,7 +2,7 @@
 # Welcome to the 5th NWB:N Hackathon!
 
 <a href="http://photos.lbl.gov/bp/#/folder/628671/39809453"><img alt="Lawrence Berkeley National Laboratory" src="misc/building59_wang_hall.jpg" height="228"></a> <a href="http://map.lbl.gov/"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus.jpg" height="228"></a>
-<img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870">
+<a href="http://today.lbl.gov/2018/04/30/berkeley-lab-hosts-neurodata-without-borders-hackathon/"><img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870"></a>
 
   * [After the Hackathon](#after-the-hackathon)
   * [Dates and Location](#dates-and-location)
@@ -39,7 +39,7 @@ Please register a user in the [Girder web data sharing instance](http://ec2-34-2
 
 <a href="http://map.lbl.gov/#UMAP_2012091840117|BLD_2013013161357"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus_wang_hall.jpg" width="800"></a>
 
-## Registration
+## Registration (CLOSED)
 
 - **Registration for in person attendence is CLOSED**  Deadline was March 2nd, 2018. Registration for remote attendance is still open (see below). Please contact Oliver Ruebel <oruebel@lbl.gov> in case you have questions.
 - **Other Guests:** This event is invitation-only. If you have not received an invitation but would like to attend then please contact Oliver Ruebel <oruebel@lbl.gov>.
