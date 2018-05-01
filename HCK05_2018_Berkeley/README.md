@@ -132,7 +132,21 @@ The Neurodata Without Borders: Neurophysiology project (NWB:N, www.nwb.org) is a
 
 For instructions on how to create a project see [here](projects/README.md)
 
-{% include_relative projects/PROJECTS.md %}
+* [ZMBBI](projects/ZMBBI)
+* [Granger Project](projects/GrangerProject)
+* [LosonczyLab](projects/LosonczyLab)
+* [A database of dopamine cell recordings in freely-moving rats](projects/DAtagging)
+* [Filter Read By Label (Stanford Project)](projects/FilterReadByLabel)
+* [O'Connor Lab Crossmodal Project](projects/OConnorLabCrossmodal/README.md)
+* [Calcium imaging of PFC neurons during Open Field paradigm](projects/SohalLab)
+* [Conversion of Pesaran lab electrophysiology data to the NWB:N format](projects/PesaranLabMultiModal)
+* [Converting e-phys/behavioral data into NWB:N data format (Kepecs lab)](projects/KepecsLab)
+* [Integrating Buzcode standard into NWB](Buzsakilab/readme.md)
+* [Conversion of Adesnik lab calcium imaging data to the NWB:N format](projects/AdesnikLab)
+* [User Training and Use Cases](projects/usecases)
+* [Project Template](projects/template)
+
+<!-- {% include_relative projects/PROJECTS.md %} -->
 
 ## Breakout Sessions
 
