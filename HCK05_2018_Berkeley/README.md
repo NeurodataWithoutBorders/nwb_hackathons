@@ -26,8 +26,7 @@
 
 ## Report
 
-The final report for the 5th NWB:N Hackathon at LBNL is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK05_2018_Berkeley/report" target="_blank">LaTeX</a>)
-
+The final report for the 5th NWB:N Hackathon at LBNL is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK05_2018_Berkeley/report" target="_blank">LaTeX</a>)
 
 
 
