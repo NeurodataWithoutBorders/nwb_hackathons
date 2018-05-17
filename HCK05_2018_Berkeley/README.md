@@ -24,6 +24,13 @@
   * [Attending Remotely](#attending-remotely)
   * [Disclaimer](#disclaimer)
 
+## Report
+
+The final report for the 5th NWB:N Hackathon at LBNL is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK05_2018_Berkeley/report" target="_blank">LaTeX</a>)
+
+
+
+
 ## After the hackathon
 
 * All participants of the hackathon, please complete the following short <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCYwE-oj9LH1JKiXl3_S-e-J_MkO6NzFN0Uzp3OwDa3fRk4g/viewform?usp=sf_link" target="_blank">survey</a>
