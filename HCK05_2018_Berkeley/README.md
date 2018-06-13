@@ -4,6 +4,7 @@
 <a href="http://photos.lbl.gov/bp/#/folder/628671/39809453"><img alt="Lawrence Berkeley National Laboratory" src="misc/building59_wang_hall.jpg" height="228"></a> <a href="http://map.lbl.gov/"><img alt="Lawrence Berkeley National Laboratory" src="misc/lbnl_campus.jpg" height="228"></a>
 <a href="http://today.lbl.gov/2018/04/30/berkeley-lab-hosts-neurodata-without-borders-hackathon/"><img alt="Group Photo" src="misc/20180426-NWBN-Hackathon-Group-3.jpg" width="870"></a>
 
+  * [Report](#report)
   * [After the Hackathon](#after-the-hackathon)
     * [Add your publicly sharable NWB:N files](#add-your-publicly-sharable-nwbn-files)
     * [Slides](#slides)
@@ -27,8 +28,6 @@
 ## Report
 
 The final report for the 5th NWB:N Hackathon at LBNL is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK05_2018_Berkeley/report/report-5th-nwbn-hackathon-at-lbnl.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK05_2018_Berkeley/report" target="_blank">LaTeX</a>)
-
-
 
 ## After the hackathon
 
