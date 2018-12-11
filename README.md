@@ -1,12 +1,12 @@
 ## Hackathon Events
 ### Upcoming Hackathons
 
-- TBD
+- [Hackathon 6: 2019 May](HCK06_2018_Janelia/README.md) - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147
 
 ### Past Hackathons
 
-- [Hackathon 5: 2018 April](HCK05_2018_Berkeley/README.md) - The 5th Hackathon will be held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
-- [Hackathon 4: 2018 April](HCK04_2018_Seattle/README.md) - The 4th Hackathon will be held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
+- [Hackathon 5: 2018 April](HCK05_2018_Berkeley/README.md) - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
+- [Hackathon 4: 2018 April](HCK04_2018_Seattle/README.md) - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
 - Hackathon 3: 2017 July - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
 - Hackathon 2: 2015 May - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
 - [Hackathon 1: 2014 November](http://crcns.org/NWB/hackathon-1) - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
