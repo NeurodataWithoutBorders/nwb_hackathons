@@ -69,6 +69,7 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
+## Registrants
 
 Do not add your name to this list - it is maintained by the organizers. Click on the name of a registrant to view their hackathon project.
 
