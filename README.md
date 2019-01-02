@@ -1,7 +1,7 @@
 ## Hackathon Events
 ### Upcoming Hackathons
 
-- [Hackathon 6: 2019 May](HCK06_2019_Janelia/README.md){:target="_new"} - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147
+- [Hackathon 6: 2019 May](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147
 
 ### Past Hackathons
 
