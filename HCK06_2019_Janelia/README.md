@@ -61,7 +61,11 @@ TBD
 
 ## Objective
 
-TBD  
+The Neurodata Without Borders: Neurophysiology project (NWB:N, https://neurodatawithoutborders.github.io/) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology. 
+
+The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB:N, the NWB:N software libraries, and the progress of the scientific workflows that rely on NWB:N. Members of the community will exchange ideas and best practices for using NWB:N and the libraries, share NWB:N based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB:N developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+
+The event is planned for 4 days, where the first two days will focus on user training and use-cases followed by two days focused on core development. Work involves collaborative, open source software development, with a focus on use cases, tools, and core development.
 
 ## Agenda
 
