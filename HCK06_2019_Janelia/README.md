@@ -6,7 +6,7 @@
   * [Logistics](#logistics)
     * [Hotel](#hotel)
     * [Transportation](#transportation)
-  * [Local Organizing Committee](#local-organizing-committee)
+  * [Organizing Committee](#organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
@@ -35,9 +35,15 @@ TBD
 
 TBD  
 
-## Local Organizing Committee
+## Organizing Committee
 
-TBD
+**Site chair:** Karel Svoboda 
+
+**Program chair (Developer Days):** Michael Grauer and Oliver Rübel
+
+**Program chair (User Days):**  Ben Dichter and Oliver Rübel
+
+**Administrative Support:** Janine Stevens
 
 ### Additional Organizational Support
 
