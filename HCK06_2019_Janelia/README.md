@@ -4,8 +4,6 @@
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)
-    * [Hotel](#hotel)
-    * [Transportation](#transportation)
   * [Organizing Committee](#organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
   * [What to bring?](#what-to-bring)
@@ -31,11 +29,7 @@ TBD
 
 ## Logistics
 
-TBD
-
-### Transportation
-
-TBD  
+Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
 ## Organizing Committee
 
