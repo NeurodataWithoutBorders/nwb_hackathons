@@ -25,7 +25,7 @@
 
 ## Registration 
 
-TBD
+Registration is not yet open for the event. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
 
 ## Logistics
 
