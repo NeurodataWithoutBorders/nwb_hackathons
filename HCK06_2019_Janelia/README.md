@@ -21,19 +21,21 @@
 - **Dates:** May 13-16, 2019
   - **User Days:** May 13-14, 2019
   - **Developer Days:** May 15-16, 2019
-- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147 
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147
 
-## Registration 
+## Registration
 
 Registration is not yet open for the event. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
 
 ## Logistics
 
-Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
+**Housing:** Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
+
+**Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
 
 ## Organizing Committee
 
-**Site chair:** Karel Svoboda 
+**Site chair:** Karel Svoboda
 
 **Program chair (Developer Days):** Michael Grauer and Oliver Rübel
 
@@ -49,13 +51,13 @@ Housing will be onsite on the Janelia research campus. For details about transpo
 ## What to bring?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
-* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.  
+* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.
 * Bring your laptop with appropriate software installed. For instructions on how to install PyNWB see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
 * For an overview of NWB:N see also: [https://neurodatawithoutborders.github.io/](https://neurodatawithoutborders.github.io/)
 
 ## Objective
 
-The Neurodata Without Borders: Neurophysiology project (NWB:N, https://neurodatawithoutborders.github.io/) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology. 
+The Neurodata Without Borders: Neurophysiology project (NWB:N, https://neurodatawithoutborders.github.io/) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology.
 
 The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB:N, the NWB:N software libraries, and the progress of the scientific workflows that rely on NWB:N. Members of the community will exchange ideas and best practices for using NWB:N and the libraries, share NWB:N based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB:N developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
