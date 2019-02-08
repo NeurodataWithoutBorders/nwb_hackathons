@@ -3,7 +3,7 @@
 ### Upcoming Events
 
 - [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147
-- [Cosyne: March](Cosyne_2019/README.md){:target="_top"} - We will have a tutorial session on NWB:N during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**
+- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - We will have a tutorial session on NWB:N during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**
 
 ### Past Hackathons
 
