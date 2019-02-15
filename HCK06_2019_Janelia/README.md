@@ -27,6 +27,8 @@
 
 Registration is not yet open for the event. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
 
+To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
+
 ## Logistics
 
 **Housing:** Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
