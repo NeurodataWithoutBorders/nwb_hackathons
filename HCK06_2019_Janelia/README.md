@@ -65,6 +65,8 @@ The purpose of the hackathon is to bring the experimental neurophysiology commun
 
 The event is planned for 4 days, where the first two days will focus on user training and use-cases followed by two days focused on core development. Work involves collaborative, open source software development, with a focus on use cases, tools, and core development.
 
+Note: This event is meant to foster community and collaboration around NWB:N, not competition. As such, this is really more of a "workshop" or "tutorial" than a "hackathon." There will be no judges nor prizes. Participants will be expected to bring data from their own lab and/or collaborate with others to build integration with NWB:N.
+
 ## Agenda
 
 <!-- ORGANIZERS: please edit AGENDA.md -->
