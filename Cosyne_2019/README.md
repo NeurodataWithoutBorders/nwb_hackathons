@@ -26,11 +26,13 @@ This tutorial is supported by the Kavli Foundation and participation is free, bu
 
 ## Tutorial Program
 
-Coming soon
+* [Electrophysiology tutorial slides](https://docs.google.com/presentation/d/1Q03wU6NzMTOwuWaZIANtldNT-8ZKeM0fk3b0mEI-JFc/edit?usp=sharing)
+* [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/Cosyne_2019/cosyne_NWB_tutorial_2019_python.html)
+* [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/Cosyne_2019/cosyne_NWB_tutorial_2019_matlab.html)
 
 ## Organizing Committee
 
-* Benjamin Dichter
+* Ben Dichter
 * Oliver Ruebel, LBNL
 * Stephanie Albin, Kavli Foundation
 
