@@ -162,6 +162,18 @@ nwb2 = nwbRead('ecephys_tutorial.nwb');
 nwb2.processing.get('ecephys').nwbdatainterface. ...
 	get('LFP').electricalseries.get('lfp').data.load;
 
+%% Accessing data regions
+
+nwb2 = nwbRead('ecephys_tutorial.nwb');
+
+% read section of LFP
+nwb2.processing.get('ecephys'). ...
+    nwbdatainterface.get('LFP'). ...
+    electricalseries.get('lfp'). ...
+    data.load([1,1],[5,10])
+
+% read spike times for first unit
+util.read_indexed_column(nwb.units.spike_times_index, nwb.units.spike_times, 1)
 
 
 
