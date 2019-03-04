@@ -26,6 +26,7 @@ This tutorial is supported by the Kavli Foundation and participation is free, bu
 
 ## Tutorial Program
 
+* [NWB:N 2.0: Overview](https://drive.google.com/open?id=1Dq7zhQ4weiGv-3m6zD11ZrHQcObuddik)
 * [Electrophysiology tutorial slides](https://docs.google.com/presentation/d/1Q03wU6NzMTOwuWaZIANtldNT-8ZKeM0fk3b0mEI-JFc/edit?usp=sharing)
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/Cosyne_2019/cosyne_NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/Cosyne_2019/cosyne_NWB_tutorial_2019_matlab.html)
