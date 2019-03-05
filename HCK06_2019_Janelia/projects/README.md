@@ -15,6 +15,8 @@ You are free to come to this event with your own ideas for a project, but if you
 
 ### pynwb
 
+* **aad default `ProcessingModule`s**: see [nwb-schema issue](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/249)
+
 * **Schema validator**: We need a way to ensure that the schema yaml files follow the schema language of HDMF. This will be particularly useful as part of an extension sharing infrastructure, where users will be creating these yaml files and we would like to validate them before sharing them with the community. We think JSON-schema might be an appropriate tool for this.
 
 * **[Neo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930095/) support**: Neo is a community standard for representing neural data in memory that several analysis and visualization tools use. We would like to have methods that convert from `pynwb` objects to `neo` objects:
