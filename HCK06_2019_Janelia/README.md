@@ -25,7 +25,9 @@
 
 ## Registration
 
-Registration is not yet open for the event. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
+Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. If you would like to attend please complete the [registration form](https://goo.gl/forms/dZWsMPqNGDskFmKq1) . Registration will close once we hit our space limit. 
+
+Registration for the developer hackathon will open soon. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
@@ -39,9 +41,9 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 **Site chair:** Karel Svoboda
 
-**Program chair (Developer Days):** Michael Grauer and Oliver Rübel
+**Program chair (Developer Days):** Oliver Rübel and Michael Grauer 
 
-**Program chair (User Days):**  Ben Dichter and Oliver Rübel
+**Program chair (User Days):**  Oliver Rübel and Ben Dichter and
 
 **Administrative Support:** Janine Stevens
 
