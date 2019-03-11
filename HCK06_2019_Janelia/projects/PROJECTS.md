@@ -5,7 +5,7 @@
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
 
-* **PyNWB**
+* **Python/PyNWB**
 
     * **Add default `ProcessingModules`**: see [nwb-schema issue](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/249)
     * **Schema validator**: We need a way to ensure that the schema yaml files follow the schema language. This will be particularly useful as part of an extension sharing infrastructure, where users will be creating these yaml files and we would like to validate them before sharing them with the community. This could be done using the HDMF data structures or JSON-schema.
@@ -13,8 +13,10 @@ You are free to come to this event with your own ideas for a project, but if you
         * **Exdir:** See issue [629](https://github.com/NeurodataWithoutBorders/pynwb/issues/629)
         * **Zarr:** See issue [230](https://github.com/NeurodataWithoutBorders/pynwb/issues/230)
         * **Nix**: Nix is another neural data standard, and it would be useful to be able convert back and forth between NWB:N and Nix.
-    * **Data visualization in Jupyter notebook widgets**: This would be a fun little project where you could take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
-    * **Support for regular ontology**: See previous work [here](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/1)
+    * **Visualization and documentation tools:**
+       * **NWB:N Jupyter notebook widgets**: This would be a fun project where you could take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
+       * **Documentation Utils**: Improve organization and visualizations of the documentation utils used to generate Sphinx docs and figures from the YAML schema files. See also https://github.com/NeurodataWithoutBorders/nwb-docutils
+    * **Support for regular ontology**: See previous work [here](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/1). There is also ongoing work in this space by LBNL and AIBS. If you are interested in this please contact <oruebel@lbl.gov> .
     * **Add support for other data analysis/visualization/management packages**
         * **Add [ONE](https://ibllib.readthedocs.io/en/latest/04_reference.html#open-neurophysiology-environment) API**
         * **DataJoint support**
