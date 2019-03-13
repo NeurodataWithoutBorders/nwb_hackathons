@@ -13,7 +13,8 @@ You are free to come to this event with your own ideas for a project, but if you
         * **Exdir:** See issue [629](https://github.com/NeurodataWithoutBorders/pynwb/issues/629)
         * **Zarr:** See issue [230](https://github.com/NeurodataWithoutBorders/pynwb/issues/230)
         * **Nix**: Nix is another neural data standard, and it would be useful to be able convert back and forth between NWB:N and Nix.
-    * **Visualization and documentation tools:**
+   * **Parallel I/O** Test and improve support for MPI parallel HDF5 I/O and create parallel I/O tutorial (see, e.g., https://github.com/NeurodataWithoutBorders/pynwb/pull/847)
+   * **Visualization and documentation tools:**
        * **NWB:N Jupyter notebook widgets**: This would be a fun project where you could take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
        * **Documentation Utils**: Improve organization and visualizations of the documentation utils used to generate Sphinx docs and figures from the YAML schema files. See also https://github.com/NeurodataWithoutBorders/nwb-docutils
     * **Support for regular ontology**: See previous work [here](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/1). There is also ongoing work in this space by LBNL and AIBS. If you are interested in this please contact <oruebel@lbl.gov> .
