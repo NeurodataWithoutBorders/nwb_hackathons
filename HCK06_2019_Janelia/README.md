@@ -21,7 +21,7 @@
 - **Dates:** May 13-16, 2019
   - **User Days:** May 13-14, 2019
   - **Developer Days:** May 15-16, 2019
-- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/#map=12/39.0496/-77.4804)
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655)
 
 ## Registration
 
