@@ -43,7 +43,7 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 **Program chair (Developer Days):** Oliver Rübel and Michael Grauer 
 
-**Program chair (User Days):**  Oliver Rübel and Ben Dichter and
+**Program chair (User Days):**  Oliver Rübel and Ben Dichter
 
 **Administrative Support:** Janine Stevens
 
