@@ -25,7 +25,7 @@
 
 ## Registration
 
-Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. If you would like to attend please complete the [registration form](https://goo.gl/forms/dZWsMPqNGDskFmKq1). Registration will close once we hit our space limit. 
+Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. If you would like to attend please complete the [registration form](https://goo.gl/forms/dZWsMPqNGDskFmKq1). Registration will close once we hit our space limit.
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
@@ -39,7 +39,7 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 **Site chair:** Karel Svoboda
 
-**Program chair (Developer Days):** Oliver Rübel and Michael Grauer 
+**Program chair (Developer Days):** Oliver Rübel and Michael Grauer
 
 **Program chair (User Days):**  Oliver Rübel and Ben Dichter
 
@@ -71,7 +71,7 @@ Note: This event is meant to foster community and collaboration around NWB:N, no
 
 <!-- ORGANIZERS: please edit AGENDA.md -->
 
-{% include_relative AGENDA.md %}
+{% include_relative agenda/AGENDA.md %}
 
 ## Projects
 
