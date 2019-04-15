@@ -2,11 +2,11 @@ We are planing to have this be a full-day event for May 13 - 16, 2019 consisting
 
 ### Agenda: User Days
 
-<a href="agenda/agenda_nwbn_hackathon_2019_DRAFT_041519.pdf"><img alt="Agenda NWB:N User Days" src="agenda/agenda_nwbn_userdays_2019_DRAFT_041519.png" width="870"></a>
+<a href="agenda/agenda_nwbn_hackathon_2019_DRAFT_041519.pdf"><img align="center" alt="Agenda NWB:N User Days" src="agenda/agenda_nwbn_userdays_2019_DRAFT_041519.png" width="870"></a>
 
 ### Agenda: Developer Days
 
-<a href="agenda/agenda_nwbn_hackathon_2019_DRAFT_041519.pdf"><img alt="Agenda NWB:N Developer Days" src="agenda/agenda_nwbn_userdays_2019_DRAFT_041519.png" width="870"></a>
+<a href="agenda/agenda_nwbn_hackathon_2019_DRAFT_041519.pdf"><img align="center" alt="Agenda NWB:N Developer Days" src="agenda/agenda_nwbn_userdays_2019_DRAFT_041519.png" width="870"></a>
 
 ### Agenda: Calendar
 
