@@ -7,7 +7,7 @@
 ### Developer Days
 
 * [Project Template](projects/template)
-* [Integrate NWB:N with RAVE](projects/rave)
+* [Integrate NWB:N with RAVE](projects/RAVE)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
