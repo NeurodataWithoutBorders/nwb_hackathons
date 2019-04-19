@@ -51,8 +51,8 @@ The goal of this project is to integrate ZARR as an I/O backend with HDMF.
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
 
-* **Related GitHub Issues:**
-  * https://github.com/NeurodataWithoutBorders/pynwb/issues/230
-  * https://github.com/NeurodataWithoutBorders/pynwb/issues/300
-  * https://github.com/NeurodataWithoutBorders/pynwb/issues/629
+* **Related PyNWB GitHub Issues:**
+  * [#230 (Zarr)](https://github.com/NeurodataWithoutBorders/pynwb/issues/230)
+  * [#300 (Flat binary)](https://github.com/NeurodataWithoutBorders/pynwb/issues/300)
+  * [#629 (Exdir)](https://github.com/NeurodataWithoutBorders/pynwb/issues/629)
 
