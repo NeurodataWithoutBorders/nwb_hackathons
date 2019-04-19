@@ -24,4 +24,4 @@ When you are ready, create a new project by creating a new `README.md` file in a
 
 Note: some steps above may require creating a [pull request](https://help.github.com/articles/creating-a-pull-request/) until your account is given write access.
 
-[project-description-template]: https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_hackathons/master/HCK06_2018_Janelia/projects/template/README.md
+[project-description-template]: https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_hackathons/master/HCK06_2019_Janelia/projects/template/README.md
