@@ -3,6 +3,7 @@
 ### User Days
 
 * [Project Template](projects/template)
+* [Neuron model optimization](projects/neuronmodel)
 
 ### Developer Days
 
