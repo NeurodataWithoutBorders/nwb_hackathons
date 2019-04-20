@@ -28,7 +28,7 @@
 
 ## Registration
 
-Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. If you would like to attend please complete the [registration form](https://goo.gl/forms/dZWsMPqNGDskFmKq1). Registration will close once we hit our space limit.
+Registration for the NWB:N User Days is closed. Space at the event is limited and registration was on a first-come basis. 
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
