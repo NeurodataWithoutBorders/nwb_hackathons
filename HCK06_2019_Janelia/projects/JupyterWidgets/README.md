@@ -1,6 +1,6 @@
 [:rewind: Back to the projects list](../../README.md#ProjectsList)
 
-# Electrocorticography Jupyter Widget
+# NWB:N Jupyter widgets
 
 ## Key Investigators
 
