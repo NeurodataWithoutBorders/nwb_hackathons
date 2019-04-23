@@ -6,6 +6,7 @@ The lists below provide an overview of specific projects for which at least one 
 
 * [Project Template](projects/template)
 * [Neuron model optimization](projects/neuronmodel)
+* [Abf and Dat to NWB:N](projects/x_to_nwb)
 
 ### Developer Days
 
