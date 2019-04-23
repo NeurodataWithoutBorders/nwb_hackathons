@@ -2,6 +2,11 @@
 
 The lists below provide an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projets then please contact the team listed on the project page. 
 
+* **Python/PyNWB**
+
+   * **Visualization and documentation tools:**
+       * [**NWB:N Jupyter notebook widgets**](projects/JupyterWidgets): This is a fun project where we will take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
+
 ### User Days
 
 * [Project Template](projects/template)
@@ -27,7 +32,6 @@ You are free to come to this event with your own ideas for a project, but if you
         * **Nix**: Nix is another neural data standard, and it would be useful to be able convert back and forth between NWB:N and Nix.
    * **Parallel I/O** Test and improve support for MPI parallel HDF5 I/O and create parallel I/O tutorial (see, e.g., https://github.com/NeurodataWithoutBorders/pynwb/pull/847)
    * **Visualization and documentation tools:**
-       * [**NWB:N Jupyter notebook widgets**](projects/JupyterWidgets): This would be a fun project where you could take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
        * **Documentation Utils**: Improve organization and visualizations of the documentation utils used to generate Sphinx docs and figures from the YAML schema files. See also https://github.com/NeurodataWithoutBorders/nwb-docutils
     * **Support for regular ontology**: See previous work [here](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/1). There is also ongoing work in this space by LBNL and AIBS. If you are interested in this please contact <oruebel@lbl.gov> .
     * **Add support for other data analysis/visualization/management packages**
