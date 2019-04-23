@@ -1,11 +1,6 @@
 ## Assigned Projects
 
-The lists below provide an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projets then please contact the team listed on the project page. 
-
-* **Python/PyNWB**
-
-   * **Visualization and documentation tools:**
-       * [**NWB:N Jupyter notebook widgets**](projects/JupyterWidgets): This is a fun project where we will take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
+The lists below provide an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projets then please contact the team listed on the project page.
 
 ### User Days
 
@@ -18,6 +13,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Integrate NWB:N with RAVE](projects/RAVE)
 * [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
 * [Evaluate avenues for NIX + NWB:N](projects/NIX)
+* [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
