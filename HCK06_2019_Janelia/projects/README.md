@@ -20,7 +20,7 @@ When you are ready, create a new project by creating a new `README.md` file in a
 1. Type `YourProjectName/README.md`
 1. Paste the previously copied content of project template page into your new `README.md`
 1. Update at least your project's **title**, **key investigators**, and **project description** sections
-1. Add a link to your project to the [project list](PROJECTS.md)
+1. Add a link to your project to the "Assigned Projects" section in the [project list](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/projects/PROJECTS.md)
 
 Note: some steps above may require creating a [pull request](https://help.github.com/articles/creating-a-pull-request/) until your account is given write access.
 
