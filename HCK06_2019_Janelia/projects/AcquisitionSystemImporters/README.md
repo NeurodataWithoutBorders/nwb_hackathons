@@ -6,21 +6,28 @@
 
 ## Key Investigators
 
-<!-- - Konstantinos Nasiotis (McGill University)-->
+<!-- - Investigator 1 (Affiliation)-->
 <!-- - Investigator 2 (Affiliation)-->
+- Konstantinos Nasiotis (McGill University)
 
 ## Project Description
 
-<!-- Add support for the following acquisition systems -->
+Add support for the following acquisition systems:
+
+1. TDT
+2. Plexon (.plx, .pl2)
+3. Intan
+4. Ripple/Blackrock
+
 
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. TDT-->
-<!-- 2. Plexon (.plx, .pl2).-->
-<!-- 3. Intan -->
-<!-- 4. Ripple/Blackrock -->
+<!-- 1. Objective A. Describe it in 1-2 sentences.-->
+<!-- 1. Objective B. Describe it in 1-2 sentences.-->
+<!-- 1. ...-->
+
 
 ## Approach and Plan
 
