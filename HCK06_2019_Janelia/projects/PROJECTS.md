@@ -7,6 +7,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Project Template](projects/template)
 * [Neuron model optimization](projects/neuronmodel)
 * [Abf and Dat to NWB:N](projects/x_to_nwb)
+* [Integrate neuron model optimization and simulation data with NWB:N](projects/neuronmodel)
 
 ### Developer Days
 
@@ -15,6 +16,8 @@ The lists below provide an overview of specific projects for which at least one 
 * [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
 * [Evaluate avenues for NIX + NWB:N](projects/NIX)
 * [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
+* [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
+* [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
