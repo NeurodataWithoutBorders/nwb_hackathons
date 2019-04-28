@@ -2,8 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
-Integrate all types of data from the Neuromodulation Research Center
+# Integrate all types of data from the Neuromodulation Research Center
 
 ## Key Investigators
 
