@@ -26,9 +26,9 @@ Will integrate all types of data from the Neuromodulation Research Center
    
    - motion analysis system
    
-   - gait mat system
+   - eye tracking system
    
-   - 
+   - gait mat system
   
 2. preprocessed data
 
