@@ -6,18 +6,18 @@
 
 ## Key Investigators
 
-<!-- - Oscar Woolnough (University of Texas)-->
+ - Oscar Woolnough (University of Texas)
 
 ## Project Description
 
-<!-- Continuing development of conversion code from Tandon lab standard data format into NWB format.  -->
+Continuing development of conversion code from Tandon lab standard data format into NWB format.
 
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. Objective A. Implementing conversion code for two additional, more complex structured, tasks.-->
-<!-- 1. Objective B. Validate NWB analysis tools on converted files vs standard methods.-->
+Objective A. Implementing conversion code for two additional, more complex structured, tasks.
+Objective B. Validate NWB analysis tools on converted files vs standard methods.
 <!-- 1. ...-->
 
 ## Approach and Plan
