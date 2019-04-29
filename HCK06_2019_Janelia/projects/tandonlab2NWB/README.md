@@ -16,7 +16,7 @@ Continuing development of conversion code from Tandon lab standard data format i
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-Objective A. Implementing conversion code for two additional, more complex structured, tasks.
+Objective A. Implementing conversion code for two additional, more complex structured, tasks.  
 Objective B. Validate NWB analysis tools on converted files vs standard methods.
 <!-- 1. ...-->
 
