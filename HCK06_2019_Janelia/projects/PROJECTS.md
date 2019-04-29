@@ -4,7 +4,6 @@ The lists below provide an overview of specific projects for which at least one 
 
 ### User Days
 
-* [Project Template](projects/template)
 * [Neuron model optimization](projects/neuronmodel)
 * [Abf and Dat to NWB:N](projects/x_to_nwb)
 * [Integrate neuron model optimization and simulation data with NWB:N](projects/neuronmodel)
@@ -14,7 +13,6 @@ The lists below provide an overview of specific projects for which at least one 
 
 ### Developer Days
 
-* [Project Template](projects/template)
 * [Integrate NWB:N with RAVE](projects/RAVE)
 * [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
 * [Evaluate avenues for NIX + NWB:N](projects/NIX)
