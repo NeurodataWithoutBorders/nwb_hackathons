@@ -9,6 +9,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Abf and Dat to NWB:N](projects/x_to_nwb)
 * [Integrate neuron model optimization and simulation data with NWB:N](projects/neuronmodel)
 * [Chang lab to NWB:N](projects/changlab_to_nwb)
+* [Neuromodulation Research Center to NWB:N](projects/NMRC)
 
 ### Developer Days
 
