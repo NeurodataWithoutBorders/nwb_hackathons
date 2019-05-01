@@ -10,6 +10,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Chang lab to NWB:N](projects/changlab_to_nwb)
 * [Neuromodulation Research Center to NWB:N](projects/NMRC)
 * [Integrate Thorlabs 2p calcium data into NWB](projects/kanoldLabNWB)
+* [Tandon lab to NWB:N](projects/tandonlab2nwb)
 
 ### Developer Days
 
