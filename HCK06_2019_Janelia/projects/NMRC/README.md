@@ -59,12 +59,12 @@ Have convert raw data from
 
 <!--Describe the next steps you are planing to take to complete the project.-->
 
-### Next steps
+### Questions
 1. Is it possible to store all the data in a structure from the same systsem? 
 like:    nwb.acquisition.set('tdt').set('neur'), nwb.acquisition.set('tdt').set('tdtstpd')  
 current: nwb.acquistion.set('tdtneur'), nwb.acquistion.set('tdtstpd')
 
-2. 
+2. Read select channels that are not continous? e.g [1 3 4] 
 
 ## Materials
 
