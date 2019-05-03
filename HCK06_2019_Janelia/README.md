@@ -24,11 +24,11 @@
 - **Dates:** May 13-16, 2019
   - **User Days:** May 13-14, 2019
   - **Developer Days:** May 15-16, 2019
-- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655)
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 
 ## Registration
 
-Registration for the NWB:N User Days is now open. Space at the event is limited and we only have few spots left for the user days! Registration is on a first-come basis. If you would like to attend please complete the [registration form](https://goo.gl/forms/dZWsMPqNGDskFmKq1). Registration will close once we hit our space limit.
+Registration for the NWB:N User Days is closed. Space at the event is limited and registration was on a first-come basis. 
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
@@ -37,6 +37,8 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 **Housing:** Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
 **Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. If you use the Kavli travel services (recommended) then please CC Stephanie Albin (salbin@kavlifoundation.org) to get approval for the travel cost. Also, if you are planing to book your own flights then please make sure to get PRE-APPROVAL from Stephanie Albin (salbin at kavlifoundation.org). Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
+
+**Directions** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
 
 ## Organizing Committee
 

@@ -1,6 +1,26 @@
 ## Assigned Projects
 
-* [Project Template](projects/template)
+The lists below provide an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projets then please contact the team listed on the project page.
+
+### User Days
+
+* [Neuron model optimization](projects/neuronmodel)
+* [Abf and Dat to NWB:N](projects/x_to_nwb)
+* [Integrate neuron model optimization and simulation data with NWB:N](projects/neuronmodel)
+* [Chang lab to NWB:N](projects/changlab_to_nwb)
+* [Neuromodulation Research Center to NWB:N](projects/NMRC)
+* [Integrate Thorlabs 2p calcium data into NWB](projects/kanoldLabNWB)
+* [Tandon lab to NWB:N](projects/tandonlab2nwb)
+
+### Developer Days
+
+* [Integrate NWB:N with RAVE](projects/RAVE)
+* [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
+* [Evaluate avenues for NIX + NWB:N](projects/NIX)
+* [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
+* [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
+* [Import data from acquisition systems](projects/AcquisitionSystemImporters)
+* [Extension sharing](projects/ExtensionSharing)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
@@ -15,7 +35,6 @@ You are free to come to this event with your own ideas for a project, but if you
         * **Nix**: Nix is another neural data standard, and it would be useful to be able convert back and forth between NWB:N and Nix.
    * **Parallel I/O** Test and improve support for MPI parallel HDF5 I/O and create parallel I/O tutorial (see, e.g., https://github.com/NeurodataWithoutBorders/pynwb/pull/847)
    * **Visualization and documentation tools:**
-       * **NWB:N Jupyter notebook widgets**: This would be a fun project where you could take specific neurodata_types and create data visualizations. Bonus points if they are interactive Jupyter widgets. Ideal candidates: `pynwb.misc.Units` table, `pynwb.misc.AnnotationSeries`. See also https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
        * **Documentation Utils**: Improve organization and visualizations of the documentation utils used to generate Sphinx docs and figures from the YAML schema files. See also https://github.com/NeurodataWithoutBorders/nwb-docutils
     * **Support for regular ontology**: See previous work [here](https://github.com/NeurodataWithoutBorders/nwb-schema/issues/1). There is also ongoing work in this space by LBNL and AIBS. If you are interested in this please contact <oruebel@lbl.gov> .
     * **Add support for other data analysis/visualization/management packages**
