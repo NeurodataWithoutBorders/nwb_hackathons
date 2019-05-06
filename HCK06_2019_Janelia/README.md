@@ -28,7 +28,7 @@
 
 ## Registration
 
-Registration for the NWB:N User Days is closed. Space at the event is limited and registration was on a first-come basis. 
+Registration for the NWB:N User Days is closed. Space at the event is limited and registration was on a first-come basis.
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
@@ -38,7 +38,10 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 **Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. If you use the Kavli travel services (recommended) then please CC Stephanie Albin (salbin@kavlifoundation.org) to get approval for the travel cost. Also, if you are planing to book your own flights then please make sure to get PRE-APPROVAL from Stephanie Albin (salbin at kavlifoundation.org). Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
 
-**Directions** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
+**Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
+
+**Meeting** For the meeting we have two room; the the main room is "Synapse" and the breakout room is "Spectrum." For details about the room locations see the [building map](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf).
+
 
 ## Organizing Committee
 
