@@ -25,6 +25,7 @@
   - **User Days:** May 13-14, 2019
   - **Developer Days:** May 15-16, 2019
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
+- **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
 
 ## Registration
 
@@ -39,8 +40,6 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 **Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. If you use the Kavli travel services (recommended) then please CC Stephanie Albin (salbin@kavlifoundation.org) to get approval for the travel cost. Also, if you are planing to book your own flights then please make sure to get PRE-APPROVAL from Stephanie Albin (salbin at kavlifoundation.org). Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
 
 **Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
-
-**Meeting** For the meeting we have two room; the the main room is "Synapse" and the breakout room is "Spectrum." For details about the room locations see the [building map](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf).
 
 
 ## Organizing Committee
