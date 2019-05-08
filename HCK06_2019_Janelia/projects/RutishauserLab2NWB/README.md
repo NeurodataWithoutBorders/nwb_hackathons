@@ -9,6 +9,7 @@
 PI: Ueli Rutishauser (Cedars-Sinai/Caltech) 
 
 Nand Chandravadia (Cedars-Sinai)
+
 Andy Liang (Chapman)
 
 
@@ -39,7 +40,9 @@ Briefly describe the objectives of your project. What would you like to achive?
 ## Materials
 
 Data availible here: https://datadryad.org/resource/doi:10.5061/dryad.46st5 
+
 Data Descriptor Here: https://www.nature.com/articles/sdata201810 
+
 rutishauserlab.org 
 
 
