@@ -11,6 +11,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Neuromodulation Research Center to NWB:N](projects/NMRC)
 * [Integrate Thorlabs 2p calcium data into NWB](projects/kanoldLabNWB)
 * [Tandon lab to NWB:N](projects/tandonlab2nwb)
+* [Rutishauser lab to NWB:N](projects/RutishauserLab2NWB)
 
 ### Developer Days
 
