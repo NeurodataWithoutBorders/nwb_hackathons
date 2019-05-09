@@ -12,6 +12,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Integrate Thorlabs 2p calcium data into NWB](projects/kanoldLabNWB)
 * [Tandon lab to NWB:N](projects/tandonlab2nwb)
 * [Rutishauser lab to NWB:N](projects/RutishauserLab2NWB)
+* [Lazy cross-file links](projects/lazy_cross_file_links)
 
 ### Developer Days
 
@@ -22,6 +23,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 * [Extension sharing](projects/ExtensionSharing)
+* [Lazy cross-file links](projects/lazy_cross_file_links)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
