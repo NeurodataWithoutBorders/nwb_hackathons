@@ -55,7 +55,7 @@ Will integrate all types of data from the Neuromodulation Research Center
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 
 ### Achieved
-Have convert raw data from 
+Have convert raw data from tdt, ma systems 
 
 <!--Describe the next steps you are planing to take to complete the project.-->
 
