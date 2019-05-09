@@ -98,37 +98,18 @@ Do not add your name to this list - it is maintained by the organizers. Click on
 
 ## Attending Remotely
 
-We are using Zoom for remote participation.
+We are using Zoom for remote participation.There are multiple ways to join this meeting. 
 
+1. Use the following link to Join the meeting from your desktop or cell: [https://hhmi.zoom.us/j/122156921](https://hhmi.zoom.us/j/122156921) (This will load the Zoom client and is recommended for the best audio quality!)
 
-Join Zoom Meeting
-https://lbnl.zoom.us/j/983781235
+2. From a cell phone if you are not able to use the first link :
+US: **+19294362866,,122156921#** or **+16699006833,,122156921#**
 
-One tap mobile
-+16699006833,,983781235# US (San Jose)
-+16465588656,,983781235# US (New York)
+3. From a standard telephone : Dial(for higher quality, dial a number based on your current location):
+US: +1 929 436 2866 or +1 669 900 6833 or 877 853 5257 (Toll Free) or 855 880 1246 (Toll Free)
+Meeting ID: 122 156 921  (Find your local number: [https://zoom.us/u/acHwiXLxGC](https://zoom.us/u/acHwiXLxGC))
 
-Dial by your location
-        +1 669 900 6833 US (San Jose)
-        +1 646 558 8656 US (New York)
-Meeting ID: 983 781 235
-Find your local number: https://zoom.us/u/acHwiXLxGC
-
-Join by SIP
-983781235@zoomcrc.com
-
-Join by H.323
-162.255.37.11 (US West)
-162.255.36.11 (US East)
-221.122.88.195 (China)
-115.114.131.7 (India)
-213.19.144.110 (EMEA)
-202.177.207.158 (Australia)
-209.9.211.110 (Hong Kong)
-64.211.144.160 (Brazil)
-69.174.57.160 (Canada)
-Meeting ID: 983 781 235
-
+4. If you are in an HHMI conference room, use the touch panel to dial 2800. When prompted, type #122 156 921#
 
 
 ## Disclaimer
