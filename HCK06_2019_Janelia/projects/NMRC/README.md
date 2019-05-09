@@ -40,10 +40,8 @@ Will integrate all types of data from the Neuromodulation Research Center
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
+1. The proper field to place data of various systems
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
 
 ## Approach and Plan
 
@@ -55,11 +53,24 @@ Will integrate all types of data from the Neuromodulation Research Center
 
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
+
+### Achieved
+Have convert raw data from tdt, ma systems 
+
 <!--Describe the next steps you are planing to take to complete the project.-->
+
+### Questions
+1. Is it possible to store all the data in a structure from the same systsem? 
+like:    nwb.acquisition.set('tdt').set('neur'), nwb.acquisition.set('tdt').set('tdtstpd')  
+current: nwb.acquistion.set('tdtneur'), nwb.acquistion.set('tdtstpd')
+
+2. Read select channels that are not continous? e.g [1 3 4] 
 
 ## Materials
 
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+Relevant work:
+https://github.com/yangll0620/DataStorageAnalysisArchitecture
 <!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
 <!--![Description of picture](Example2.jpg)-->
 
