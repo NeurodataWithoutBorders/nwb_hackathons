@@ -10,6 +10,7 @@
 - Ryan Ly
 - Andrew Tritt
 - Ben Dichter
+- Jean-Christophe Fillion-Robin
 
 ## Project Description
 
