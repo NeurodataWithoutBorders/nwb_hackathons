@@ -118,8 +118,14 @@ Ben Dichter's electrophysiology tutorial (Day 1):
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
 
-Tom Davidson's 'early adopter experiences' talk (Day 1) repo:
-* https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6
+Tom Davidson's 'early adopter experiences' talk (Day 1):
+* Repo containing notebooks in talk:
+  * https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6
+* Frank Lab dataset from CRCNS:
+  * Download link (requires CRCNS.org account): https://portal.nersc.gov/project/crcns/download/hc-6
+  * About page: https://crcns.org/data-sets/hc/hc-6/about-hc-5
+* Allen Institute pre-release NWB files (ephys + ophys):
+  * http://download.alleninstitute.org/informatics-archive/prerelease/
 
 ## Disclaimer
 
