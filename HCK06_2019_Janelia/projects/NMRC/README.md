@@ -66,6 +66,8 @@ current: nwb.acquistion.set('tdtneur'), nwb.acquistion.set('tdtstpd')
 
 2. Read select channels that are not continous? e.g [1 3 4] 
 
+3. search pariticular condition?
+
 ## Materials
 
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
