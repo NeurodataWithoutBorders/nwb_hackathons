@@ -13,6 +13,7 @@
      * [Creating a New Project](projects/README.md)
   * [Registrants](#registrants)
   * [Attending Remotely](#attending-remotely)
+  * [Resources](#resources)
   * [Disclaimer](#disclaimer)
 
 
@@ -119,6 +120,12 @@ Join by H.323
 64.211.144.160 (Brazil)
 69.174.57.160 (Canada)
 Meeting ID: 983 781 235
+
+## Resources
+
+electrophysiology tutorial:
+* [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
+* [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
 
 
 
