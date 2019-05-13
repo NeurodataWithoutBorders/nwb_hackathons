@@ -114,9 +114,12 @@ Meeting ID: 122 156 921  (Find your local number: [https://zoom.us/u/acHwiXLxGC]
 
 ## Resources
 
-electrophysiology tutorial:
+Ben Dichter's electrophysiology tutorial (Day 1):
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
+
+Tom Davidson's 'early adopter experiences' talk (Day 1) repo:
+* https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6
 
 ## Disclaimer
 
