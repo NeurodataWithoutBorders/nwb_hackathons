@@ -4,28 +4,28 @@ The lists below provide an overview of specific projects for which at least one 
 
 ### User Days
 
-* [Neuron model optimization](projects/neuronmodel)
-* [Abf and Dat to NWB:N](projects/x_to_nwb)
-* [Integrate neuron model optimization and simulation data with NWB:N](projects/neuronmodel)
-* [Chang lab to NWB:N](projects/changlab_to_nwb)
-* [Neuromodulation Research Center to NWB:N](projects/NMRC)
-* [Integrate Thorlabs 2p calcium data into NWB](projects/kanoldLabNWB)
-* [Tandon lab to NWB:N](projects/tandonlab2nwb)
-* [Rutishauser lab to NWB:N](projects/RutishauserLab2NWB)
-* [Lazy cross-file links](projects/lazy_cross_file_links)
-* [Use case gathering](projects/UseCaseGathering)
+* [Neuron model optimization](neuronmodel)
+* [Abf and Dat to NWB:N](x_to_nwb)
+* [Integrate neuron model optimization and simulation data with NWB:N](neuronmodel)
+* [Chang lab to NWB:N](changlab_to_nwb)
+* [Neuromodulation Research Center to NWB:N](NMRC)
+* [Integrate Thorlabs 2p calcium data into NWB](kanoldLabNWB)
+* [Tandon lab to NWB:N](tandonlab2NWB)
+* [Rutishauser lab to NWB:N](RutishauserLab2NWB)
+* [Lazy cross-file links](lazy_cross_file_links)
+* [Use case gathering](UseCaseGathering)
 
 
 ### Developer Days
 
-* [Integrate NWB:N with RAVE](projects/RAVE)
-* [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
-* [Evaluate avenues for NIX + NWB:N](projects/NIX)
-* [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
-* [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
-* [Import data from acquisition systems](projects/AcquisitionSystemImporters)
-* [Extension sharing](projects/ExtensionSharing)
-* [Lazy cross-file links](projects/lazy_cross_file_links)
+* [Integrate NWB:N with RAVE](RAVE)
+* [Integrarte ZARR with PyNWB/HDMF](ZARR)
+* [Evaluate avenues for NIX + NWB:N](NIX)
+* [NWB:N Jupyter notebook widgets](JupyterWidgets)
+* [NWB:N Explorer and Open Source Brain](OSB_NWB_Explore)
+* [Import data from acquisition systems](AcquisitionSystemImporters)
+* [Extension sharing](ExtensionSharing)
+* [Lazy cross-file links](lazy_cross_file_links)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
