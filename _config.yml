@@ -3,3 +3,6 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-mentions
   - jemoji
+
+# Google Analytics
+google_analytics: UA-134749152-2

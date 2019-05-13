@@ -2,11 +2,15 @@
 
 ### Upcoming Events
 
-- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147
-- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - We will have a tutorial session on NWB:N during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**
+- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon will held on **May 13-16, 2019** at HHMI Janelia Research Campus, 19700 Helix Dr, Ashburn, VA 20147, This is a two-part event consisting of the:
+
+  - **NWB:N User Days:** May 13-14, 2019
+  - **NWB:N Developer Days:** May 15-16, 2019
+
 
 ### Past Hackathons
 
+- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - We will have a tutorial session on NWB:N during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**
 - [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
 - [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
 - Hackathon 3: July 2017 - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.

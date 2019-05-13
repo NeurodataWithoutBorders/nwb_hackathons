@@ -9,6 +9,9 @@
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Agenda](#agenda)
+    * [User Days](#agenda-user-days)
+    * [Developer Days](#agenda-developer-days)
+    * [Calendar](#agenda-calendar)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Registrants](#registrants)
@@ -22,11 +25,12 @@
 - **Dates:** May 13-16, 2019
   - **User Days:** May 13-14, 2019
   - **Developer Days:** May 15-16, 2019
-- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
+- **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
 
 ## Registration
 
-Registration is not yet open for the event. Space at the event will be limited, so let us know if you would like an invitation by completing the [invitation request form](https://goo.gl/forms/UCNxxjmnpuAabQx63) by Feb. 08, 2019.
+Registration for the NWB:N User Days is closed. Space at the event is limited and registration was on a first-come basis.
 
 To attend the meeting remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1).  Remote attendance is for the the talks and tutorials only. Local attendance is required in order to actively participate in hacking and project sessions.
 
@@ -34,15 +38,18 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 **Housing:** Housing will be onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
-**Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
+**Travel:** Travel support is being provided by the Kavli foundation. As housing will be onsite on the Janelia research campus, travel support is intended for flights (not housing). Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. If you use the Kavli travel services (recommended) then please CC Stephanie Albin (salbin@kavlifoundation.org) to get approval for the travel cost. Also, if you are planing to book your own flights then please make sure to get PRE-APPROVAL from Stephanie Albin (salbin at kavlifoundation.org). Please see the [Kavli reimbursement guidelines](travel/Kavli_Reimbursement_Guidelines.pdf) for details. The traveler profile form is available [here](travel/CT_Traveler_Profile.docx).
+
+**Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
+
 
 ## Organizing Committee
 
 **Site chair:** Karel Svoboda
 
-**Program chair (Developer Days):** Michael Grauer and Oliver Rübel
+**Program chair (Developer Days):** Oliver Rübel and Michael Grauer
 
-**Program chair (User Days):**  Ben Dichter and Oliver Rübel
+**Program chair (User Days):**  Oliver Rübel and Ben Dichter
 
 **Administrative Support:** Janine Stevens
 
@@ -66,11 +73,13 @@ The purpose of the hackathon is to bring the experimental neurophysiology commun
 
 The event is planned for 4 days, where the first two days will focus on user training and use-cases followed by two days focused on core development. Work involves collaborative, open source software development, with a focus on use cases, tools, and core development.
 
+Note: This event is meant to foster community and collaboration around NWB:N, not competition. As such, this is really more of a "workshop" or "tutorial" than a "hackathon." There will be no judges nor prizes. Participants will be expected to bring data from their own lab and/or collaborate with others to build integration with NWB:N.
+
 ## Agenda
 
 <!-- ORGANIZERS: please edit AGENDA.md -->
 
-{% include_relative AGENDA.md %}
+{% include_relative agenda/AGENDA.md %}
 
 ## Projects
 
@@ -90,44 +99,24 @@ Do not add your name to this list - it is maintained by the organizers. Click on
 
 ## Attending Remotely
 
-We are using Zoom for remote participation.
+We are using Zoom for remote participation.There are multiple ways to join this meeting. 
 
+1. Use the following link to Join the meeting from your desktop or cell: [https://hhmi.zoom.us/j/122156921](https://hhmi.zoom.us/j/122156921) (This will load the Zoom client and is recommended for the best audio quality!)
 
-Join Zoom Meeting
-https://lbnl.zoom.us/j/983781235
+2. From a cell phone if you are not able to use the first link :
+US: **+19294362866,,122156921#** or **+16699006833,,122156921#**
 
-One tap mobile
-+16699006833,,983781235# US (San Jose)
-+16465588656,,983781235# US (New York)
+3. From a standard telephone : Dial(for higher quality, dial a number based on your current location):
+US: +1 929 436 2866 or +1 669 900 6833 or 877 853 5257 (Toll Free) or 855 880 1246 (Toll Free)
+Meeting ID: 122 156 921  (Find your local number: [https://zoom.us/u/acHwiXLxGC](https://zoom.us/u/acHwiXLxGC))
 
-Dial by your location
-        +1 669 900 6833 US (San Jose)
-        +1 646 558 8656 US (New York)
-Meeting ID: 983 781 235
-Find your local number: https://zoom.us/u/acHwiXLxGC
-
-Join by SIP
-983781235@zoomcrc.com
-
-Join by H.323
-162.255.37.11 (US West)
-162.255.36.11 (US East)
-221.122.88.195 (China)
-115.114.131.7 (India)
-213.19.144.110 (EMEA)
-202.177.207.158 (Australia)
-209.9.211.110 (Hong Kong)
-64.211.144.160 (Brazil)
-69.174.57.160 (Canada)
-Meeting ID: 983 781 235
+4. If you are in an HHMI conference room, use the touch panel to dial 2800. When prompted, type #122 156 921#
 
 ## Resources
 
 electrophysiology tutorial:
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
-
-
 
 ## Disclaimer
 
