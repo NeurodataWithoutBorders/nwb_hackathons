@@ -13,6 +13,8 @@ The lists below provide an overview of specific projects for which at least one 
 * [Tandon lab to NWB:N](projects/tandonlab2nwb)
 * [Rutishauser lab to NWB:N](projects/RutishauserLab2NWB)
 * [Lazy cross-file links](projects/lazy_cross_file_links)
+* [Use case gathering](projects/UseCaseGathering)
+
 
 ### Developer Days
 
