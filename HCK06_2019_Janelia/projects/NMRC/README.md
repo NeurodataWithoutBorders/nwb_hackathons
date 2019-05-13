@@ -73,7 +73,9 @@ learned: no search across files.
 
 4. Learned: Keep the spreadsheet for the spatial location ('STN');
 
-5. 
+5. Learned: Use group for utah array, gray matter, dbs et.al
+
+6. Is it possible to extract data through electrode index?
 
 ## Materials
 
