@@ -2,9 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
-
-Integrate Thorlabs 2p calcium data into NWB
+# Integrate Thorlabs 2p calcium data into NWB
 
 ## Key Investigators
 
@@ -32,9 +30,16 @@ Our lab uses 2-photon calcium imaging to study auditory cortex. We run various t
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planning to take to complete the project.-->
+- Went through the two-photon tutorial just to familiarize with NWB storage and output.
+- Started writing a script to store some sample 2-photon data in NWB
+  - Stored raw data, registered data, mouse/subject data, experimental setup data, ROI masks
+  - Formatted the above for volumetric data
+    - Each plane of the volume is parsed seperately and saved as a separate imaging series
+    - Same script will work for both volumetric and planar data
+- Working towards storing processed data (extracted DFF traces)
+- Still need further work towards storing behavioral data and pupil data
+- Need to generalize script for usage by other lab members
+  - Will likely need separate versions for converting old data versus storing new data as it is initially processed
 
 ## Materials
 
