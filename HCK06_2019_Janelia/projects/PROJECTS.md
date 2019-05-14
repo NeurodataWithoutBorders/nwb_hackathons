@@ -17,6 +17,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Zuckerman Institute NWB:N demos](projects/Zuckerman2NWB)
 * [Simultaneously recorded physiology and imaging data from single cells in slice](projects/singleCell_physiologyImaging)
 * [Convert Buzsaki lab data formats to NWB](projects/BuzsakiLab2NWB)
+* [Mesoscale Activity Project to NWB](projects/Mesoscale_Activity_Project_to_NWB)
 
 ### Developer Days
 
@@ -28,7 +29,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 * [Extension sharing](projects/ExtensionSharing)
 * [Lazy cross-file links](projects/lazy_cross_file_links)
-* [DataJoint-NWB-Interoperability](projects/DataJoint-NWB-Interoperability)
+* [DataJoint-NWB-Interoperability](projects/DataJoint_NWB_Interoperability)
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 * [NWBIndex](projects/NWBIndex)
 
