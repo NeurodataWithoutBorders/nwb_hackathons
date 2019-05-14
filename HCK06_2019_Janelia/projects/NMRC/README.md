@@ -79,6 +79,17 @@ learned: no search across files.
 
 6. Is it possible to extract data through electrode index?
 
+
+Pop up:
+
+1. hierarchy architecture for .acquisition field: acquisition -> tdt ->  tdtneur, tdtstpd, tdteyet,....
+
+2. Search across files for one particular condition ?
+
+3. Shared information for several files and manage the update.
+
+
+
 ## Materials
 
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
