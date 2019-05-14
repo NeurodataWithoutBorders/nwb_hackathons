@@ -15,7 +15,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Lazy cross-file links](projects/lazy_cross_file_links)
 * [Use case gathering](projects/UseCaseGathering)
 * [Zuckerman Institute NWB:N demos](projects/Zuckerman2NWB)
-* [Simultaneously recorded physiology and imaging data from single cells in slice](projects/singleCell_physiologyImaging)
+* [Simultaneously recorded physiology and imaging data from single cells in slice](projects/singleCell_PhysiologyImaging)
 * [Convert Buzsaki lab data formats to NWB](projects/BuzsakiLab2NWB)
 * [Mesoscale Activity Project to NWB](projects/Mesoscale_Activity_Project_to_NWB)
 
