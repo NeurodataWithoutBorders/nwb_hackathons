@@ -21,7 +21,7 @@ The lists below provide an overview of specific projects for which at least one 
 ### Developer Days
 
 * [Integrate NWB:N with RAVE](projects/RAVE)
-* [Integrarte ZARR with PyNWB/HDMF](projects/ZARR)
+* [Integrate ZARR with PyNWB/HDMF](projects/ZARR)
 * [Evaluate avenues for NIX + NWB:N](projects/NIX)
 * [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
 * [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
