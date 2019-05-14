@@ -21,17 +21,23 @@ Other nwb users are welcome to join!
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
+1. Determine if there are any lingering issues to be addressed in the latest version of the abf and dat file to nwb converter.
+2. Brainstorm strategies for increasing visibility of abf_and_dat_to_nwb functionality.
 <!-- 1. Objective B. Describe it in 1-2 sentences.-->
 <!-- 1. ...-->
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
+ 1. Use the latest version of the abf and dat to nwb converter with the most recent set of abf and dat files. Test latest additions to the package.
+ 2. Brainstorm additional use-cases to determine the general applicability of this tool to the community.
+ 3. Brainstorm different avenues to reach users.
+ 4. Write a tutorial to complement the user manual for the converter.
 <!-- 1. ... -->
 <!-- 1. ... -->
 
 ## Progress and Next Steps
+1. Latest version of the converter works well with several recent example abf and dat files. 
+2. A list of ways to increase outreach has been started. Includes idea to pull the converter out of the ipfx package in the Allen stk and give it its own repo. Also making sure that the code is clear on the expectations for maintenance.
 
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
