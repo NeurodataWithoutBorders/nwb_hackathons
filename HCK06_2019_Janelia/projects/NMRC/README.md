@@ -69,16 +69,37 @@ learned: right now no, keep the previous setup.
 2. Read select channels that are not continous? 
 e.g [1 3 4] 
 
+Learned: extract one channel by one
+
 3. search pariticular condition?
 
 learned: no search across files.
 
-4. Learned: Keep the spreadsheet for the spatial location ('STN');
+4. Learned: Keep the spreadsheet for the spatial location ('STN') which may be modified across time.
 
 5. Learned: Use group for utah array, gray matter, dbs et.al
 
 6. Is it possible to extract data through electrode index?
 
+Learned: extract one channel by one
+   
+
+7. Video storage?
+
+Learned: 
+
+
+Learned:
+
+Advanced I/O Storage:
+
+-- raw data read-only, processed data with a separate file
+
+-- all time data are stored relative to a single global clock: NWB.session_start_time or 
+
+-- data is ultimately stored in one-dimensional compute memory
+
+-- compress data 
 
 Pop up:
 
