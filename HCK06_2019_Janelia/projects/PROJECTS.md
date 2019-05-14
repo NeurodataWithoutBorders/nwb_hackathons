@@ -16,6 +16,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Use case gathering](UseCaseGathering)
 * [Zuckerman Institute NWB:N demos](Zuckerman2NWB)
 * [Simultaneously recorded physiology and imaging data from single cells in slice](singleCell_physiologyImaging)
+* [Convert Buzsaki lab data formats to NWB](BuzsakiLab2NWB)
 
 ### Developer Days
 
@@ -28,6 +29,8 @@ The lists below provide an overview of specific projects for which at least one 
 * [Extension sharing](ExtensionSharing)
 * [Lazy cross-file links](lazy_cross_file_links)
 * [DataJoint-NWB-Interoperability](DataJoint-NWB-Interoperability)
+* [Import data from acquisition systems](AcquisitionSystemImporters)
+* [NWBIndex](NWBIndex)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
