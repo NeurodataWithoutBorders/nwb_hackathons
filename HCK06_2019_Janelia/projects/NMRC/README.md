@@ -66,9 +66,11 @@ current: nwb.acquistion.set('tdtneur'), nwb.acquistion.set('tdtstpd')
 
 learned: right now no, keep the previous setup.
 
-2. Read select channels that are not continous? e.g [1 3 4] 
+2. Read select channels that are not continous? 
+e.g [1 3 4] 
 
 3. search pariticular condition?
+
 learned: no search across files.
 
 4. Learned: Keep the spreadsheet for the spatial location ('STN');
