@@ -31,7 +31,8 @@ Add functionality to support complex slicing.
       ```
 4. Add abstract Mask class to HDMF
     * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`
-5. Decide on name for and add defined-over/domain/support/observation-intervals
+5. Decide on name for and add defined-over/domain/support/observation-intervals to [Array class in HDMF](https://hdmf.readthedocs.io/en/latest/hdmf.array.html#module-hdmf.array)
+
 
 
 
