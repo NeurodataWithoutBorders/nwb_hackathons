@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# Query and complex indexing for NWB data
 
 ## Key Investigators
 
@@ -16,7 +16,7 @@ Add functionality to support complex slicing.
 
 ## Objectives
 
-
+Determine implementation plan for query/complex slicing in NWB
 
 ## Approach and Plan
 
@@ -34,12 +34,9 @@ Add functionality to support complex slicing.
 5. Decide on name for and add defined-over/domain/support/observation-intervals to [Array class in HDMF](https://hdmf.readthedocs.io/en/latest/hdmf.array.html#module-hdmf.array)
 
 
-
-
-
 ## Progress and Next Steps
 
-Implement features listed above.
+We made good progress on determining what features and methods need to be implemented. The next step is to move these into GitHub as issues, and start writing code.
 
 ## Materials
 
