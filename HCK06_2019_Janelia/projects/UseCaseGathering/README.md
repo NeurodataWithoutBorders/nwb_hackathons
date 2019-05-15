@@ -33,6 +33,8 @@ Interview participants to get an overivew of the experimental use cases and coll
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
 
+Interviewed 5 groups of users and captured overview of their experimental design. Summary from the interviews can accessed here: https://github.com/NeurodataWithoutBorders/ontology-project/tree/master/use-cases
+
 ## Materials
 
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
