@@ -12,27 +12,33 @@ Nile Graddis (AIBS)
 
 ## Project Description
 
-Add functionality to 
+Add functionality to support complex slicing.
 
 ## Objectives
 
-<!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+1. Add ability to specify dimension scales - [issue](https://github.com/NeurodataWithoutBorders/pynwb/issues/626)
+2. Add ability to copy [Containers in HDMF](https://hdmf.readthedocs.io/en/latest/hdmf.container.html#hdmf.container.Container)- [issue](BROKEN)
+3. Add \_\_getitem\_\_ to [Query class in HDMF](https://hdmf.readthedocs.io/en/latest/hdmf.query.html#hdmf.query.Query)
+    * may need to rewrite Query to be a class that takes and performs slices on a *target* e.g. TimeSeries
+    * this will be the helper class that executes the query: 
+      ```python
+      ts = DecompositionSeries(...)
+      ts.q[Mask(...), 'loc == CA1', 'name == theta']
+      ```
+4. Add abstract Mask class to HDMF
+    * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`
+5. Decide on name for and add defined-over/domain/support/observation-intervals
+
+
+
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+Implement features listed above.
 
 ## Materials
 
