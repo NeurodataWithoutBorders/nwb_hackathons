@@ -31,7 +31,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Lazy cross-file links](projects/lazy_cross_file_links)
 * [DataJoint-NWB-Interoperability](projects/DataJoint_NWB_Interoperability)
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
-* [NWBIndex](projects/NWBIndex)
+* [NWBIndex](projects/NWB_Query)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
