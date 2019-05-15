@@ -6,12 +6,13 @@
 
 ## Key Investigators
 
-<!-- - Investigator 1 (Affiliation)-->
-<!-- - Investigator 2 (Affiliation)-->
+Andrew Tritt (LBNL)
+Tom Davidson (UCSF)
+Nile Graddis (AIBS)
 
 ## Project Description
 
-<!-- Add a short paragraph describing the project. -->
+Add functionality to 
 
 ## Objectives
 
