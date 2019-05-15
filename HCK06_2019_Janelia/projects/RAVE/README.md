@@ -27,19 +27,38 @@ Support importing NWB format and load `Subject`, `epoch`, and `LFP` into `RAVE` 
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
 <!-- 1. ... -->
 <!-- 1. ... -->
-1. Convert the following sample data to NWB format 
+1. Support NWB format in RAVE
+
+Create a web interface to import `subject`, `analogtraces`, `cortical surface`, `electrode`, and `trial`
+
+2. Convert the following RAVE sample data to NWB format 
 
 https://s3-us-west-2.amazonaws.com/rave-demo-subject/sfn-demo/data-large.zip
 
-2. Reverse the procedure and convert NWB format to RAVE file hierachy
 
 ## Progress and Next Steps
 
+1. [Done] Make clear about NWB basic structure
+2. [May 15] Import NWB to RAVE
+3. [May 16] Export RAVE and it's analysis in NWB format
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
 
 ## Materials
+
+### NWB ECoG extension
+
+[https://github.com/bendichter/nwbext_ecog](https://github.com/bendichter/nwbext_ecog)
+
+### Installations
+
+#### Install `nwbext_ecog`
+
+In terminal, 
+```
+pip install git+https://github.com/bendichter/nwbext_ecog
+```
 
 #### Install R and Rstudio
 
