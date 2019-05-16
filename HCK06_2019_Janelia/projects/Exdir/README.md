@@ -6,30 +6,28 @@
 
 ## Key Investigators
 
-<!-- - Mikkel Elle Lepperød (CINPLA, University of Oslo, Norway)-->
+ - Mikkel Elle Lepperød (CINPLA, University of Oslo, Norway)
 
 ## Project Description
 
-<!-- Exdir is a hirarchical data structure similar to HDF5 which operates on the filsystem instead of a HDF5 file. 
+Exdir is a hirarchical data structure similar to HDF5 which operates on the filsystem instead of a HDF5 file. 
 It stores data in binary files using numpy (npy files) and metadata in YAML files.
 Having Exdir as a backend in NWB would enable users to operate directly on the filesystem.
-This facilitate human readability of metadata, possibility to use version control systems such as git and share parts of a large NWB file. -->
+This facilitate human readability of metadata, possibility to use version control systems such as git and share parts of a large NWB file.
 
 ## Objectives
 
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
-<!-- 1. Objective A. Implement object and region references in Exdir.-->
-<!-- 1. Objective B. Implement a working version of Exdir in hdmf.-->
-<!-- 1. ...-->
+1. Objective A. Implement object and region references in Exdir.
+2. Objective B. Implement a working version of Exdir in hdmf.
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. Implement a lookup table for all objects in a exdir file with uuid for each object -->
-<!-- 1. Store references as ids -->
-<!-- 1. Implement References and RegionReferences API in exdir -->
-<!-- 1. Switch h5py imports with exdir in hdmf -->
+1. Implement a lookup table for all objects in a exdir file with uuid for each object.
+2. Store references as ids.
+3. Implement References and RegionReferences API in exdir.
+4. Switch h5py imports with exdir in hdmf.
 
 ## Progress and Next Steps
 
@@ -46,5 +44,5 @@ This facilitate human readability of metadata, possibility to use version contro
 ## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/CINPLA/exdir -->
-<!-- - Documentation: https://exdir.readthedocs.io/en/latest/ -->
+ - Source code: https://github.com/CINPLA/exdir
+ - Documentation: https://exdir.readthedocs.io/en/latest/
