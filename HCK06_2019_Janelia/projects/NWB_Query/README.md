@@ -33,8 +33,12 @@ Determine implementation plan for query/complex slicing in NWB
 
 
 5. Add abstract Mask class to HDMF
-    * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`, and the new values to which it applies
+    * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`, and the new values to which it applies. Example usage:
+      ```python
+      new_timestamps, bool_mask = mask.resolve(timestamps)
+      ```
     * Make a TimeMask object that operates on timestamps, and is aware of defined-over/domain/support/observation-intervals
+    
 6. Add a class to represent list of non-overlapping intervals
     * needs functionality for *and* and *or*
 
