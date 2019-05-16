@@ -29,9 +29,15 @@ Determine implementation plan for query/complex slicing in NWB
       ts = DecompositionSeries(...)
       ts.q[Mask(...), 'loc == CA1', 'name == theta']
       ```
-4. Add abstract Mask class to HDMF
-    * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`
-5. Decide on name for and add defined-over/domain/support/observation-intervals to [HDMFDataset class in HDMF](https://hdmf.readthedocs.io/en/latest/hdmf.query.html#hdmf.query.HDMFDataset)
+4. Decide on name for and add defined-over/domain/support/observation-intervals to [TimeSeries class in PyNWB](https://pynwb.readthedocs.io/en/latest/pynwb.base.html?highlight=pynwb.base#pynwb.base.TimeSeries)
+
+
+5. Add abstract Mask class to HDMF
+    * Mask should be resolved from a query and a the values to which it applies, and should return a list of `bools`, and the new values to which it applies
+    * Make a TimeMask object that operates on timestamps, and is aware of defined-over/domain/support/observation-intervals
+6. Add a class to represent list of non-overlapping intervals
+    * needs functionality for *and* and *or*
+
 
 
 ## Progress and Next Steps
