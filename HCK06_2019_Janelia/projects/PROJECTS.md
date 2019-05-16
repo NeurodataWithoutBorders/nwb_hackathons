@@ -18,7 +18,6 @@ The lists below provide an overview of specific projects for which at least one 
 * [Simultaneously recorded physiology and imaging data from single cells in slice](projects/singleCell_PhysiologyImaging)
 * [Convert Buzsaki lab data formats to NWB](projects/BuzsakiLab2NWB)
 * [Mesoscale Activity Project to NWB](projects/Mesoscale_Activity_Project_to_NWB)
-* [Vastly improve documentation](projects/greatly-enhance-documentation)
 
 ### Developer Days
 
@@ -34,6 +33,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 * [NWBIndex](projects/NWBIndex)
 * [NWB Query](projects/NWB_Query)
+* [Vastly improve documentation](projects/greatly-enhance-documentation)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
