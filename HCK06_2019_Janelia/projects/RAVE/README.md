@@ -4,6 +4,15 @@
 
 # Integrate NWB:N with RAVE
 
+![RAVE visualizations via data imported from NWB format](https://raw.githubusercontent.com/dipterix/instrave/master/img/mainapp/ravedemo.gif)
+
+* Check this video 
+https://youtu.be/h_W9FyHKokA
+
+* File to convert NWB to RAVE (Alpha version)
+
+[https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R](https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R)
+
 ## Key Investigators
 
 - Zhengjia Wang (Baylor College of Medicine/Rice University)
@@ -24,28 +33,22 @@ Support importing NWB format and load `Subject`, `epoch`, and `LFP` into `RAVE` 
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
-1. Support NWB format in RAVE
 
-Create a web interface to import `subject`, `analogtraces`, `cortical surface`, `electrode`, and `trial`
-
-2. Convert the following RAVE sample data to NWB format 
-
-https://s3-us-west-2.amazonaws.com/rave-demo-subject/sfn-demo/data-large.zip
+Create scripts to import `subject`, `analogtraces`, `cortical surface`, `electrode`, and `trial`
 
 
 ## Progress and Next Steps
 
 1. [Done] Make clear about NWB basic structure
 2. [May 15] Import NWB to RAVE
-3. [May 16] Export RAVE and it's analysis in NWB format
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+
 
 ## Materials
+
+### NWB to RAVE Converter
+
+[NWB Converter to RAVE (Test script)](https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R)
+
 
 ### NWB ECoG extension
 
