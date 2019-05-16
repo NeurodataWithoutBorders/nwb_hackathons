@@ -19,3 +19,4 @@ file.
 - https://github.com/NeurodataWithoutBorders/pynwb/pull/927
 - https://github.com/NeurodataWithoutBorders/pynwb/issues/942
 - https://github.com/NeurodataWithoutBorders/pynwb/issues/935
+- https://github.com/hdmf-dev/hdmf/pull/62
