@@ -1,4 +1,3 @@
-
 # Welcome to the 6th NWB:N Developer Hackathon and User Days!!
 
   * [Dates and Location](#dates-and-location)
@@ -27,6 +26,17 @@
   - **Developer Days:** May 15-16, 2019
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 - **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
+
+## Attendees
+
+### NWB:N User Days
+<a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo User Days" src="photos/MCS_8952 Final_Small.jpg" width="870"></a>
+
+### NWB:N Developer Days
+<a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo Developer Days" src="MCS_9199 Final_Small.jpg" width="870"></a>
+
+<!-- ORGANIZERS: please edit REGISTRANTS.md -->
+{% include_relative REGISTRANTS.md %}
 
 ## Registration
 
@@ -89,17 +99,10 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
-## Registrants
-
-Do not add your name to this list - it is maintained by the organizers. Click on the name of a registrant to view their hackathon project.
-
-<!-- ORGANIZERS: please edit REGISTRANTS.md -->
-
-{% include_relative REGISTRANTS.md %}
 
 ## Attending Remotely
 
-We are using Zoom for remote participation.There are multiple ways to join this meeting. 
+We are using Zoom for remote participation.There are multiple ways to join this meeting.
 
 1. Use the following link to Join the meeting from your desktop or cell: [https://hhmi.zoom.us/j/122156921](https://hhmi.zoom.us/j/122156921) (This will load the Zoom client and is recommended for the best audio quality!)
 
