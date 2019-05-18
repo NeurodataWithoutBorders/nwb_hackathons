@@ -1,6 +1,7 @@
 # Welcome to the 6th NWB:N Developer Hackathon and User Days!!
 
   * [Dates and Location](#dates-and-location)
+  * [Attendees](#attendees)
   * [Registration](#registration)
   * [Logistics](#logistics)
   * [Organizing Committee](#organizing-committee)
@@ -33,7 +34,7 @@
 <a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo User Days" src="photos/MCS_8952 Final_Small.jpg" width="870"></a>
 
 ### NWB:N Developer Days
-<a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo Developer Days" src="MCS_9199 Final_Small.jpg" width="870"></a>
+<a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo Developer Days" src="photos/MCS_9199 Final_Small.jpg" width="870"></a>
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 {% include_relative REGISTRANTS.md %}
