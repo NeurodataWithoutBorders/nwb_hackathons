@@ -6,7 +6,9 @@
 
 ## Key Investigators
 Matthew T. Sit (UC Berkeley)
+
 Roy Ben-Shalom (UCSF, LBNL)
+
 Kevin Bender (UCSF)
 
 ## Project Description
@@ -63,7 +65,9 @@ Not available at this time.
 
 ## Background and References
 [1] Canavier  & Landry. 2006.
+
 [2] Mainen & Sejnowski. 1996.
+
 [3] https://neuron.yale.edu/neuron/
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
