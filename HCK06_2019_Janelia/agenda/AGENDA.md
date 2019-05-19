@@ -8,10 +8,11 @@ We are planing to have this be a full-day event for May 13 - 16, 2019 consisting
 
 <a href="agenda/agenda_nwbn_hackathon_2019.pdf"><img align="center" alt="Agenda NWB:N Developer Days" src="agenda/agenda_nwbn_devdays_2019.png" width="870"></a>
 
-### Agenda: Calendar
 
-We will update the below calendar once the agenda has been finalized.
+<!---### Agenda: Calendar--->
 
-<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lbl.gov_6b2ckprkr6s7eojvefua4a89a4%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-[How to add this calendar to your own?](CALENDAR_INSTRUCTIONS.md)
+<!---We will update the below calendar once the agenda has been finalized.--->
+
+<!---<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lbl.gov_6b2ckprkr6s7eojvefua4a89a4%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[How to add this calendar to your own?](CALENDAR_INSTRUCTIONS.md)--->
 
