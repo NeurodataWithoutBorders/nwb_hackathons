@@ -19,6 +19,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Convert Buzsaki lab data formats to NWB](projects/BuzsakiLab2NWB)
 * [Mesoscale Activity Project to NWB](projects/Mesoscale_Activity_Project_to_NWB)
 * [Bender Lab - Neuronal Model Optimization](projects/BenderOptimization)
+* [Brain Modeling Toolkit to NWB](projects/bmtk_nwb)
 
 ### Developer Days
 
