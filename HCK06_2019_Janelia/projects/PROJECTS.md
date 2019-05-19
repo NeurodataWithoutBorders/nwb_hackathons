@@ -18,6 +18,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Simultaneously recorded physiology and imaging data from single cells in slice](projects/singleCell_PhysiologyImaging)
 * [Convert Buzsaki lab data formats to NWB](projects/BuzsakiLab2NWB)
 * [Mesoscale Activity Project to NWB](projects/Mesoscale_Activity_Project_to_NWB)
+* [Bender Lab - Neuronal Model Optimization](projects/BenderOptimization)
 
 ### Developer Days
 
