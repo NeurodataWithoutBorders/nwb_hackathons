@@ -6,6 +6,7 @@
   * [Logistics](#logistics)
   * [Organizing Committee](#organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
+  * [Resources](#resources)
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Agenda](#agenda)
@@ -71,6 +72,22 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 - The Kavli Foundation
 - Janelia HHMI
 
+## Resources
+
+Ben Dichter's electrophysiology tutorial (Day 1):
+* [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
+* [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
+
+Tom Davidson's 'early adopter experiences' talk (Day 1):
+* [Repo containing notebooks in talk](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6)
+
+Ben Dichter's electrophysiology tutorial (Day 1):
+* [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
+* [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
+
+Tom Davidson's 'early adopter experiences' talk (Day 1):
+* [Repo containing notebooks in talk](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6)
+
 ## What to bring?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
@@ -117,15 +134,6 @@ US: +1 929 436 2866 or +1 669 900 6833 or 877 853 5257 (Toll Free) or 855 880 12
 Meeting ID: 122 156 921  (Find your local number: [https://zoom.us/u/acHwiXLxGC](https://zoom.us/u/acHwiXLxGC))
 
 4. If you are in an HHMI conference room, use the touch panel to dial 2800. When prompted, type #122 156 921#
-
-## Resources
-
-Ben Dichter's electrophysiology tutorial (Day 1):
-* [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
-* [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
-
-Tom Davidson's 'early adopter experiences' talk (Day 1):
-* [Repo containing notebooks in talk](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6)
 
 ## Disclaimer
 
