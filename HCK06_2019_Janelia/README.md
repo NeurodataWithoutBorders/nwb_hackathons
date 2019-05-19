@@ -32,9 +32,11 @@
 
 ### NWB:N User Days
 <a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo User Days" src="photos/MCS_8952 Final_Small.jpg" width="870"></a>
+*Credits: Photo by Matt Staley (HHMI Janelia)* 
 
 ### NWB:N Developer Days
 <a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo Developer Days" src="photos/MCS_9199 Final_Small.jpg" width="870"></a>
+*Credits: Photo by Matt Staley (HHMI Janelia)*
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 {% include_relative REGISTRANTS.md %}
