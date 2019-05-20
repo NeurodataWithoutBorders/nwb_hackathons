@@ -38,6 +38,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [NWB Query](projects/NWB_Query)
 * [Vastly improve documentation](projects/greatly-enhance-documentation)
 * [Validation enhancements](projects/validation-enhancements)
+* [Interactive PyNWB course](projects/Interactive_PyNWB_Course)
 
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
