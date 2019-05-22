@@ -39,7 +39,7 @@ Develop methods for sharing NWB:N extensions.
 - Discussed the flowchart for users creating and publishing their own extensions
   - Decided to simplify the initial creation of an extension using a web form
   - Decided that `version` needs to be required on YAML spec files, and now that [MatNWB cache spec issue](https://github.com/NeurodataWithoutBorders/matnwb/issues/42) has been fixed, `cache_spec` should default to True when writing an NWB file.
-  - Decided it would be nice to have a utility function for downloading an extension, e.g. `pynwb-install-ext <extension_name>` would automatically look up the source for the extension on our catalog and download the YAML files and any associated source code from PyPi or GitHub into the local filesystem.
+  - Users can download the YAML files and associated source code for an extension using `pip`, which can install from either PyPi or GitHub: e.g. `pip install git+https://github.com/org/project` (see https://pip.pypa.io/en/stable/reference/pip_install/#vcs-support). It would be nice to have also a utility function for downloading an extension, e.g. `pynwb-install-ext <extension_name>` and `matnwb_install_ext <extension_name>`, which would automatically look up the source for the extension on our catalog and download the YAML files and any associated source code from PyPi or GitHub into the local filesystem. 
   - When downloading an extension, decided against having the API modify the local environment with pointers to YAML spec files stored somewhere not obvious, like in a new hidden directory in the user's home directory.
 - **Next steps**
   - Update `ndx-template` to include example of namespace file allowing the documentation to be successfully generated
