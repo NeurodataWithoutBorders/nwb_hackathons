@@ -26,7 +26,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Integrate Exdir with PyNWB/HDMF](projects/Exdir)
 * [Evaluate avenues for NIX + NWB:N](projects/NIX)
 * [NWB:N Jupyter notebook widgets](projects/JupyterWidgets)
-* [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explore)
+* [NWB:N Explorer and Open Source Brain](projects/OSB_NWB_Explorer)
 * [Import data from acquisition systems](projects/AcquisitionSystemImporters)
 * [Extension sharing](projects/ExtensionSharing)
 * [Lazy cross-file links](projects/lazy_cross_file_links)
