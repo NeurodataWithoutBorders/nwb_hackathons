@@ -74,11 +74,18 @@ To attend the meeting remotely, please complete the [remote attendee registratio
 
 ## Resources
 
+### Talks
+The slides for the talks presented during the User Days are available [here.](https://drive.google.com/drive/folders/18oG1rRJpluXQJJQaH4xbz6u58LXPiZbI?usp=sharing)
+
+### Code
+
 Ben Dichter's electrophysiology tutorial (Day 1):
+  
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
 
-Tom Davidson's 'early adopter experiences' talk (Day 1):
+Tom Davidson's 'early adopter experiences' talk (Day 1): 
+
 * [Repo containing notebooks in talk](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6)
 
 ## What to bring?
