@@ -1,5 +1,6 @@
 # Welcome to the 6th NWB:N Developer Hackathon and User Days!!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Report](#report)
   * [Attendees](#attendees)
@@ -21,6 +22,9 @@
   * [Resources](#resources)
   * [Disclaimer](#disclaimer)
 
+## Report
+
+The final report for the 6th NWB:N Developer Hackathon and User Days is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK06_2019_Janelia/report/Report___6th_NWB_N_Hackathon.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK06_2019_Janelia/report/sources" target="_blank">LaTeX</a>)
 
 ## Dates and Location
 
