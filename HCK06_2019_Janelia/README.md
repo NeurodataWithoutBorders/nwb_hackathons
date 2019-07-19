@@ -2,7 +2,6 @@
 
   * [Report](#report)
   * [Dates and Location](#dates-and-location)
-  * [Report](#report)
   * [Attendees](#attendees)
   * [Registration](#registration)
   * [Logistics](#logistics)
@@ -33,10 +32,6 @@ The final report for the 6th NWB:N Developer Hackathon and User Days is now avai
   - **Developer Days:** May 15-16, 2019
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 - **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
-
-## Report
-
-The final report for the NWB:N User- and Developer Days 2019 will be available soon here.
 
 ## Attendees
 
