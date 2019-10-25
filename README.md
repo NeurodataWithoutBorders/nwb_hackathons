@@ -2,7 +2,7 @@
 
 ### Upcoming Events
 
-TBD
+- [Hackathon 6: May 2019](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core developement will be help on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, WA
 
 ### Past Hackathons
 - [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at HHMI Janelia Research Campus
