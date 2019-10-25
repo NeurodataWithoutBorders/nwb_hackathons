@@ -2,13 +2,13 @@
 
 ### Upcoming Events
 
-- [Hackathon 6: May 2019](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core developement will be help on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, WA
+- [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development will be held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
 
 ### Past Hackathons
-- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at HHMI Janelia Research Campus
-- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - We held a tutorial session on NWB:N during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**
-- [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory.
-- [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institue for Brain Science in Seattle.
+- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - A tutorial session on NWB:N was held during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**.
+- [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA.
+- [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington.
 - Hackathon 3: July 2017 - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
 - Hackathon 2: May 2015 - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
 - [Hackathon 1: November 2014](http://crcns.org/NWB/hackathon-1){:target="_top"} - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
