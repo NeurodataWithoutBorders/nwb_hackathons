@@ -4,7 +4,7 @@
 
 
 
-- **Dates:** Mon, Feb. 3 (12:00 PM) -- Thur. Feb. 6 (3:00 PM), 2019.
+- **Dates:** Mon, Feb. 3 (12:00 PM) -- Thur. Feb. 6 (3:00 PM), 2020.
 - **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919).
 - **Registration:** This event is centered around core NWB development and is per-invitation only. Stay tuned for upcoming announcements for our User Days and several upcoming training events at leading neuroscience conferences. Details on how to register coming soon.
 
