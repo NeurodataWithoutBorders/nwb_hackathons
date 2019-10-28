@@ -13,6 +13,7 @@
   * [Logistics](#logistics)
   * [Preparatory Videoconferences](#preparatory-videoconferences)
   * [Local Organizing Committee](#local-organizing-committee)
+  * [Additional Organizational Support](#additional-organizational-support)
   * [Agenda](#agenda)
   * [Projects](#projects-how-to-add-a-new-project)
   * [Breakout Sessions](#breakout-sessions)
@@ -54,6 +55,10 @@ For instructions on how to create a project see [here](projects/README.md)
 ## Breakout Sessions
 
 TBD
+
+## Next Hackathon
+
+A hackathon for users and developers is being planned for May 2020. Watch this space and our [main hackathons page](https://neurodatawithoutborders.github.io/nwb_hackathons/) in the next few months for details. 
 
 ## Registrants
 
