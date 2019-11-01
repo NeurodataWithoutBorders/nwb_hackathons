@@ -3,7 +3,7 @@
 ### Upcoming Events
 
 - [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development will be held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
-- [Hackathon 8: May 2020](HCK08_2019_Janelia/README.md){:target="_top"} - The 8th User and Developer Days will be held on **May 6-9, 2020** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+- [Hackathon 8: May 2020](HCK08_2020_Janelia/README.md){:target="_top"} - The 8th User and Developer Days will be held on **May 6-9, 2020** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
 
 
 ### Past Hackathons
