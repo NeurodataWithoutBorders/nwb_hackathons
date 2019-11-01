@@ -3,9 +3,11 @@
 ### Upcoming Events
 
 - [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development will be held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
+- [Hackathon 8: May 2020](HCK08_2019_Janelia/README.md){:target="_top"} - The 8th User and Developer Days will be held on **May 6-9, 2020** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+
 
 ### Past Hackathons
-- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
 - [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - A tutorial session on NWB:N was held during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**.
 - [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA.
 - [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington.
