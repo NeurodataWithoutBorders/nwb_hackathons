@@ -5,3 +5,5 @@ The program is preliminary. Stay tuned for further details.
 * **Wednesday, Feb. 5** Work on projects. Full day. Program to end by 6pm.
 * **Thursday, Feb. 6** Reserved for NWB board meetings
 
+For further details please see the [Allen Insititute's events and training page](https://alleninstitute.org/what-we-do/brain-science/events-training/2020-nwb-hackathon/)
+
