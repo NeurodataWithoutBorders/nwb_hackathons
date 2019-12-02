@@ -6,7 +6,7 @@
 
 - **Dates:** Mon, Feb. 3 (12:00 PM) -- Thur. Feb. 6 (3:00 PM), 2020.
 - **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919).
-- **Registration:** This event is centered around core NWB development and is per-invitation only. Stay tuned for upcoming announcements for our User Days and several upcoming training events at leading neuroscience conferences. Details on how to register coming soon.
+- **Registration:** This event is centered around core NWB development and is per-invitation only. Space at the event is limited. If you did not receive an invitation but would like to attend then please contact the organizaing committee. If you have been invited and will be joining us, then please complete the registration form available [here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FNy5jYhwoQffKUjtQ9&data=02%7C01%7C%7Cde03e0e83ddb43e7492b08d77774816a%7C32669cd6737f4b398bddd6951120d3fc%7C0%7C0%7C637109214572629580&sdata=8O73uCbojxRsvVb7%2BWZKPySQojM9CMMVxip056391Go%3D&reserved=0)  by **December 20, 2019**.
 
 ## Table of Contents
 
