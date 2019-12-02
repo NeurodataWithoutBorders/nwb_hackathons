@@ -23,8 +23,8 @@
 
 ## Logistics
 
-- **Hotel:** TBD
-- **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits.
+- **Hotel:** The Allen Institute has organized a special rate at the Staybridge Suites, just 3 blocks from the institute. Please make your hotel reservation [here](https://www.ihg.com/staybridge/hotels/us/en/seattle/seamf/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SEAMF&qGrpCd=NWB&setPMCookies=true&qSHBrC=SB&qDest=1119 Mercer Street, Seattle, WA, US&srb_u=1) by January 3. This rate will not be available after that date. Additional details on getting to the Allen Institute are available here
+- **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits. Additional details on getting to the Allen Institute are available [here](https://alleninstitute.org/events-training/getting-allen-institute/)
 
 ## Preparatory Videoconferences
 
@@ -32,7 +32,7 @@
 
 ## Organizing Committee
 
-- **Site Chair:** Lydia Ng (Allen Institute for Brain Science)
+- **Site Chair:** Lydia Ng and Pam Baker (Allen Institute for Brain Science) 
 - **Program Chair:** Oliver Ruebel (Lawrence Berkeley National Laboratory)
 
 ## Additional Organizational Support
@@ -58,7 +58,7 @@ TBD
 
 ## Next Hackathon
 
-A hackathon for users and developers is being planned for May 2020. Watch this space and our [main hackathons page](https://neurodatawithoutborders.github.io/nwb_hackathons/) in the next few months for details. 
+In addition to this development-focused Hackathon, there will be additional NWB community events taking place in 2020, including an [NWB tutorial](http://www.cosyne.org/c/index.php?title=Tutorial_2020) prior to the Cosyne 2020 meeting in Denver on February 26 and the [8th NWB:N Developer and User Days Hackathon](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Janelia/) at HHMI Janelia from May 6-9. Several other events for 2020 are also currently in the planning process. For up-to-date information on upcoming events please see our NWB events page [here](https://www.nwb.org/nwb-events/).
 
 ## Registrants
 
