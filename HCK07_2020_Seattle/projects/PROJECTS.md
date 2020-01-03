@@ -4,6 +4,10 @@ The lists below provide an overview of specific projects for which at least one 
 
 * [Template Project](projects/template)
 
+* [Add Support and CI for NWB Extensions](projects/ExtensionsCI)
+* [Add Dimension Scales/Coordinates in MatNWB](projects/DimScalesMatlab)
+
+
 ## Project Suggestions
 
 ..
