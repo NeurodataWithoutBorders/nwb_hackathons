@@ -12,13 +12,13 @@
 
   * [Logistics](#logistics)
   * [Preparatory Videoconferences](#preparatory-videoconferences)
-  * [Local Organizing Committee](#local-organizing-committee)
+  * [Organizing Committee](#organizing-committee)
   * [Additional Organizational Support](#additional-organizational-support)
   * [Agenda](#agenda)
-  * [Projects](#projects-how-to-add-a-new-project)
+  * [Projects](#projects)
   * [Breakout Sessions](#breakout-sessions)
-  * [Next Hackathon](#next-hackathon)
   * [Registrants](#registrants)
+  * [Next Hackathon](#next-hackathon)
 
 
 ## Logistics
@@ -28,6 +28,7 @@
 
 ## Preparatory Videoconferences
 
+- 01/07/2020 at 10am, PT
 - TBD
 
 ## Organizing Committee
@@ -56,10 +57,6 @@ For instructions on how to create a project see [here](projects/README.md)
 
 TBD
 
-## Next Hackathon
-
-In addition to this development-focused Hackathon, there will be additional NWB community events taking place in 2020, including an [NWB tutorial](http://www.cosyne.org/c/index.php?title=Tutorial_2020) prior to the Cosyne 2020 meeting in Denver on February 26 and the [8th NWB:N Developer and User Days Hackathon](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Janelia/) at HHMI Janelia from May 6-9. Several other events for 2020 are also currently in the planning process. For up-to-date information on upcoming events please see our NWB events page [here](https://www.nwb.org/nwb-events/).
-
 ## Registrants
 
 Do not add your name to this list - it is maintained by the organizers based on your registration.
@@ -67,5 +64,10 @@ Do not add your name to this list - it is maintained by the organizers based on 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
 {% include_relative REGISTRANTS.md %}
+
+
+## Next Hackathon
+
+In addition to this development-focused Hackathon, there will be additional NWB community events taking place in 2020, including an [NWB tutorial](http://www.cosyne.org/c/index.php?title=Tutorial_2020) prior to the Cosyne 2020 meeting in Denver on February 26 and the [8th NWB:N Developer and User Days Hackathon](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Janelia/) at HHMI Janelia from May 6-9. Several other events for 2020 are also currently in the planning process. For up-to-date information on upcoming events please see our NWB events page [here](https://www.nwb.org/nwb-events/).
 
 
