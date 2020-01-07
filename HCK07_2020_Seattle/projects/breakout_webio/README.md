@@ -16,6 +16,7 @@ The goal of this session is to discuss needs and approaches for linking data via
 * Lydia Ng (Allen Insititute for Brain Science)
 * Michael Grauer (Kitware, Inc.)
 * Satrajit Ghosh (MIT)
+* Ariel Rokem (UW)
 * ...
 
 ## Objectives
@@ -56,4 +57,3 @@ Participants should add topics of possible interest for discussion here
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
-
