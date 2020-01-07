@@ -26,6 +26,13 @@ to enhance storage and sharing of icephys data via NWB.
 * Refine the extension proposal
 *
 
+### Proposed discussion topics
+
+Participants should add topics of possible interest for discussion here
+
+* ...
+
+
 ## Approach and Plan
 
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->

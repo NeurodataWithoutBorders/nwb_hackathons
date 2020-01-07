@@ -26,6 +26,12 @@ Needs, requirements and expectations for validation and introspection of NWB fil
 * Identify requirements, use cases, and expectations for light-weight introspection of NWB file (via PyNWB)
 * ...
 
+### Proposed discussion topics
+
+Participants should add topics of possible interest for discussion here
+
+* ...
+
 ## Approach and Plan
 
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
