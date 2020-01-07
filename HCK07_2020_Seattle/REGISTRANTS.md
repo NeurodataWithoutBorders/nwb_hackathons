@@ -2,4 +2,26 @@
 
 1. Ng, Lydia (@lydiang) - Allen Institute - lydian@alleninstitute.org
 1. Ruebel, Oliver (@oruebel) - Lawrence Berkeley National Laboratory - oruebel@lbl.gov
+1. Shan	Shen - DataJoint Neuro
+1. Ryan	Ly -Lawrence Berkeley National Laboratory
+1. Josh	Siegle - Allen Institute
+1. Eric	Denovellis -UCSF
+1. Csaba - Földy	University of Zurich
+1. Thomas	Braun - byte physics e.K.
+1. Shreejoy	Tripathy - University of Toronto
+1. Colleen	Gillon - University of Toronto
+1. Liviu	Soltuzu - Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL
+1. Ben	Dichter - Ben Dichter Consulting LLC
+1. Andrew	Tritt - Lawrence Berkeley National Laboratory
+1. Matt	McCormick - Kitware, Inc
+1. Jean-Christophe Fillion-Robin - Kitware
+1. Will	Mayner - Center for Sleep and Consciousness, University of Wisconsin–Madison
+1. Michael	Grauer - Kitware, Inc.
+1. Yaroslav	Halchenko - Dartmouth College
+1. Ariel Rokem - The University of Washington
+1. Satrajit	Ghosh - MIT
+1. Jerome	Lecoq - Allen Institute
+1. Lawrence	Niu - Vidrio Technologies LLC
+1. Pamela	Baker	- AIBS
+1. Bruce	Kimmel - Vidrio Technologies
 1. ...
