@@ -7,6 +7,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [Add Support and CI for NWB Extensions](projects/ExtensionsCI)
 * [Add Dimension Scales/Coordinates in MatNWB](projects/DimScalesMatlab)
 * [Integrate Zarr I/O backend with HDMF/PyNWB](projects/zarrio)
+* [Evaluate, refine, and review ICEPhys extension proposal](projects/icephys_extension)
 
 
 ## Project Suggestions
