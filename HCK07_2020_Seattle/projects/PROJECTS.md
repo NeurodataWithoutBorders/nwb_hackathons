@@ -9,6 +9,7 @@ The lists below provides an overview of specific projects for which at least one
 * [Integrate Zarr I/O backend with HDMF/PyNWB](projects/zarrio)
 * [Evaluate, refine, and review ICEPhys extension proposal](projects/icephys_extension)
 * [Performance Benchmarks and Profiling for PyNWB](projects/benchmark_profile)
+* [Simplify PyNWB interface](projects/DeBoilerPlateNWB)
 
 ## Project Suggestions
 
