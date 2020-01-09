@@ -24,4 +24,7 @@
 1. Lawrence Niu - Vidrio Technologies LLC
 1. Pamela Baker - AIBS
 1. Bruce Kimmel - Vidrio Technologies
+1. Carol Thompson - Allen Institute For Brain Science
+1. Jim Berg - Allen Institute For Brain Science
+1. Pavel Kulik - Allen Institute For Brain Science
 1. ...
