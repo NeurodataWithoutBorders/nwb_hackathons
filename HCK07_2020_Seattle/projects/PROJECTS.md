@@ -11,6 +11,10 @@ The lists below provides an overview of specific projects for which at least one
 * [Performance Benchmarks and Profiling for PyNWB](projects/benchmark_profile)
 * [Simplify PyNWB interface](projects/DeBoilerPlateNWB)
 
+
 ## Project Suggestions
 
+* [OpenScope2NWB](projects/OpenScope2NWB)
+
 ..
+
