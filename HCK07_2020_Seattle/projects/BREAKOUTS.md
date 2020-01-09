@@ -4,8 +4,8 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [Intracellular Ephys (Extension Proposal and Beyond)](projects/breakout_icephys)
 * [Ontology and Provenance](projects/breakout_ontologies)
 * [Visualization for NWB](projects/breakout_vis)
-* [NWB via the web](projects/breackout_webio)
-* [Validation and Introspection](projects/breackout_val_intro)
+* [NWB via the web](projects/breakout_webio)
+* [Validation and Introspection](projects/breakout_val_intro)
 
 ## Proposing breakout sessions
 
