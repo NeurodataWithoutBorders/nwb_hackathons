@@ -6,25 +6,25 @@
 
 ## Key Investigators
 
-<!-- - Jerome Lecoq (Allen Institute)—>
-<!-- - Yazan Billeh (Allen Institute)-->
-<!-- - Colleen Gillon (McGill University)-->
-<!-- - Will Mayner (Univ. Wisconsin)-->
+- Jerome Lecoq (Allen Institute)
+- Yazan Billeh (Allen Institute)
+- Colleen Gillon (McGill University)
+- Will Mayner (Univ. Wisconsin)
 
 ## Project Description
 
-<!-- The Allen Institute Allen Brain Observatory two photon pipeline has collected data for projects proposed as 
+The Allen Institute Allen Brain Observatory two photon pipeline has collected data for projects proposed as 
 part of the OpenScope project in the last 2 years. These experiments were proposed by external scientists and delivered in a
 similar fashion to Observatories in Astronomy. We here aim to package these experiments into NWB files and share them through the
-DANDI platform for wider dissemination. -->
+DANDI platform for wider dissemination. 
 
 ## Objectives
 
-<!-- Adapt an existing codebase to convert segmented two photon datasets into NWB files. Transfer these files onto DANDI—>
+Adapt an existing codebase to convert segmented two photon datasets into NWB files. Transfer these files onto DANDI.
 
-<!-- 1. Objective A. Convert datasets from the OpenScope Meaningful project into NWB files.—>
-<!-- 1. Objective B. Convert datasets from the Credit Assignment project into NWB files.-->
-<!-- 1. Objective C. Transfer these files into DANDI and evaluate compatibility with existing tools of the platform.—>
+1. Objective A. Convert datasets from the OpenScope Meaningful project into NWB files.
+2. Objective B. Convert datasets from the Credit Assignment project into NWB files.
+3. Objective C. Transfer these files into DANDI and evaluate compatibility with existing tools of the platform.
 
 ## Approach and Plan
 
