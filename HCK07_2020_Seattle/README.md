@@ -22,8 +22,8 @@
 
 ## Logistics
 
-- **Hotel:** The Allen Institute has organized a special rate at the Staybridge Suites, just 3 blocks from the institute. Please make your hotel reservation [here](https://www.ihg.com/staybridge/hotels/us/en/seattle/seamf/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SEAMF&qGrpCd=NWB&setPMCookies=true&qSHBrC=SB&qDest=1119 Mercer Street, Seattle, WA, US&srb_u=1) by January 3. This rate will not be available after that date. Additional details on getting to the Allen Institute are available here
-- **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits. Additional details on getting to the Allen Institute are available [here](https://alleninstitute.org/events-training/getting-allen-institute/)
+- **Hotel:** The Allen Institute has organized a special rate at the Staybridge Suites, just 3 blocks from the institute. If you did not reserve your room at the Staybridge Suites before January 3, the cutoff date for the hotel block, you may still be able to make a reservation with the hotel at the usual rate. Other nearby hotels include the Even Hotel, Courtyard Mariott Downtown/South Lake Union, and Residence Inn South Lake Union.
+- **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits. Additional details on getting to the Allen Institute are available [here](https://alleninstitute.org/events-training/getting-allen-institute/).
 
 ## Preparatory Videoconferences
 
