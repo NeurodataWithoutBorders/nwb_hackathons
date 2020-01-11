@@ -16,7 +16,7 @@
     * **9:20 - noon:** Project work time
     * **9:30 - 10:30am:** Breakout on [NWB via the web](projects/breackout_webio)
     * **noon - 1:00pm:** Lunch break
-    * ** 12:45-1:15pm:** Optional tour of the AllenInstitute (meet at cafe)
+    * **12:45-1:15pm:** Optional tour of the AllenInstitute (meet at cafe)
     * **1:00 - 6:00pm:** Project work time
     * **2:00 - 3:00pm:** Breakout on [Intracellular Ephys (Extension Proposal and Beyond)](projects/breakout_icephys)
     * **6:00pm** Dinner on own
