@@ -21,7 +21,9 @@
 
 Participants should add topics of possible interest for discussion here
 
-* ...
+* NWB-Explorer
+* nwb-jupyter-widgets
+* HDFView
 
 ## Approach and Plan
 
