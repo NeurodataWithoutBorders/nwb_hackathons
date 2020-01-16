@@ -10,6 +10,7 @@ The lists below provides an overview of specific projects for which at least one
 * [Evaluate, refine, and review ICEPhys extension proposal](projects/icephys_extension)
 * [Performance Benchmarks and Profiling for PyNWB](projects/benchmark_profile)
 * [Simplify PyNWB interface](projects/DeBoilerPlateNWB)
+* [NWB-Datajoint Integration][projects/NWB_DataJoint_Integration]
 
 
 ## Project Suggestions
@@ -17,4 +18,3 @@ The lists below provides an overview of specific projects for which at least one
 * [OpenScope2NWB](projects/OpenScope2NWB)
 
 ..
-
