@@ -10,11 +10,11 @@ Eric Denovellis (HHMI, UCSF, Loren Frank Laboratory)
 
 ## Project Description
 
-Once the data are in a common format, there are a common set of “preprocessing” operations that all laboratories perform. These include spike-sorting, filtering and downsampling of continuous signals to extract local field potentials (LFPs), and basic video processing.
+Once data is in a common format, there are a common set of “preprocessing” operations that all laboratories perform. These include spike-sorting, filtering and downsampling of continuous signals to extract local field potentials (LFPs), and basic video processing.
 
 Our goal here is to build a common pipeline for these operations using DataJoint operating on the NWB-raw file, and to save the results in a new NWB:N file (NWB-preprocessed). This approach ensures that the preprocessed data can be shared.
 
-As part of this process the Frank laboratory has already begun to work with both the NWB:N developers and DataJoint to allow for loading and saving of NWB:N objects within DataJoint. Another goal is the ability to scale up to large cohorts of animals without requiring an overwhelming amount of repetitive analysis tasks from lab personnel. With large cohort studies, it is critical to automate such tasks. The goal is to automate, as much as possible, spike sorting, behavioral annotation from video, and other early processing of the raw data.  
+As part of this process the Frank laboratory has already begun to work with both the NWB:N developers and DataJoint to allow for loading and saving of NWB:N objects within DataJoint. Another goal is the ability to scale up to large cohorts of animals without requiring an overwhelming amount of repetitive analysis tasks from lab personnel. With large cohort studies, it is critical to automate such tasks. The goal is to automate, as much as possible, spike sorting, behavioral annotation from video, and other early processing of the raw data.
 
 ## Objectives
 
