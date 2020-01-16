@@ -11,6 +11,7 @@
 * Michael Grauer (Kitware Inc.)
 * Benjamin Dichter (Ben Dichter, LLC.)
 * Oliver Ruebel (LBNL)
+* Eric Denovellis (HHMI, UCSF)
 * ...
 
 ## Objectives
@@ -47,4 +48,3 @@ Participants should add topics of possible interest for discussion here
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
-
