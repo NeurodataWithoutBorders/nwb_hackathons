@@ -22,9 +22,12 @@
 
 ### Proposed discussion topics
 
+Participants should add topics of possible interest for discussion here
+
 * NWBWidgets
 * Brainstorm
 * NWBExplorer
+* HDFView
 * Needs by modality
   * optical imaging
   * extracellular electrophysiology
