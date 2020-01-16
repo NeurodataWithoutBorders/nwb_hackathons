@@ -11,22 +11,33 @@
 * Michael Grauer (Kitware Inc.)
 * Benjamin Dichter (Ben Dichter, LLC.)
 * Oliver Ruebel (LBNL)
+* Liviu Soltuzu (EPFL)
+* Eric Denovellis (HHMI, UCSF)
 * ...
 
 ## Objectives
 
-* ...
+* Make developers aware of the various data visualization libraries that operate on NWB data and their current capabilities
+* Discuss community needs and future goals for data visualization.
 
 ### Proposed discussion topics
 
 Participants should add topics of possible interest for discussion here
 
-* NWB-Explorer
-* nwb-jupyter-widgets
+* NWBWidgets
+* Brainstorm
+* NWBExplorer
 * HDFView
+* Needs by modality
+  * optical imaging
+  * extracellular electrophysiology
+  * intracellular electrophysiology
+  * behavior
 
 ## Approach and Plan
 
+* Live demonstration of NWBWidgets
+* Open discussion about data visualization needs
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
 <!-- 1. ... -->
 <!-- 1. ... -->
@@ -39,6 +50,7 @@ Participants should add topics of possible interest for discussion here
 
 ## Materials
 
+* https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
 <!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
 <!--![Description of picture](Example2.jpg)-->
@@ -49,4 +61,3 @@ Participants should add topics of possible interest for discussion here
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
-
