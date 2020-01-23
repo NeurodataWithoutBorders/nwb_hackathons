@@ -24,6 +24,7 @@
 
 - **Hotel:** The Allen Institute has organized a special rate at the Staybridge Suites, just 3 blocks from the institute. If you did not reserve your room at the Staybridge Suites before January 3, the cutoff date for the hotel block, you may still be able to make a reservation with the hotel at the usual rate. Other nearby hotels include the Even Hotel, Courtyard Mariott Downtown/South Lake Union, and Residence Inn South Lake Union.
 - **Transportation:** Please use public transportation or park at a local garage. There will be no parking permits. Additional details on getting to the Allen Institute are available [here](https://alleninstitute.org/events-training/getting-allen-institute/).
+- **Food:** Lunch is provided at the Allen Institute. Breakfast and dinner are on your own. See [here](breakfast_and_dinner.md) for a suggestions for breakfast and dinner locations. 
 
 ## Preparatory Videoconferences
 
