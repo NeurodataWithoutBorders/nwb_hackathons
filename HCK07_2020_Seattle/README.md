@@ -18,6 +18,7 @@
   * [Breakout Sessions](#breakout-sessions)
   * [Registrants](#registrants)
   * [Next Hackathon](#next-hackathon)
+  * [Disclaimer](#disclaimer)
 
 
 ## Logistics
@@ -70,4 +71,10 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 In addition to this development-focused Hackathon, there will be additional NWB community events taking place in 2020, including an [NWB tutorial](http://www.cosyne.org/c/index.php?title=Tutorial_2020) prior to the Cosyne 2020 meeting in Denver on February 26 and the [8th NWB:N Developer and User Days Hackathon](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Janelia/) at HHMI Janelia from May 6-9. Several other events for 2020 are also currently in the planning process. For up-to-date information on upcoming events please see our NWB events page [here](https://www.nwb.org/nwb-events/).
 
+## Disclaimer
 
+This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor the Allen Institute for Brain Science, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
+
+Reference herein to any specific commercial product, process, business, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or The Regents of the University of California, or the Allen Insitiute for Brain Science. Use of the NWB, LBNL, Allen Institute, or University’s name for endorsements is prohibited.
+
+The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California or the Allen Institute for Brain Science. Neither Berkeley Lab nor its employees are agents of the US Government. Berkeley Lab web pages link to many other websites. Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
