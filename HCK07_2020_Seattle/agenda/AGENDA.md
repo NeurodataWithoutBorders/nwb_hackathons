@@ -7,6 +7,7 @@
     * **1:00pm - 2:00pm:** Welcome to the hackathon; Day 1 SCRUM, introductions, Overview of projects and plans for Day 1
     * **1:00pm - 6:00pm:** Project work time
     * **3:00pm - 4:00pm:** Breakout on [Validation and Introspection](projects/breackout_val_intro)
+    * **4:15pm - 5:15pm** Breakout on [NWB and DataJoint](projects/breakout_datajoint)
     * **6:00pm** Dinner on own
 
 * **Tuesday, Feb. 4:** Work on projects. Full day.

@@ -6,6 +6,7 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [Visualization for NWB](projects/breakout_vis)
 * [NWB via the web](projects/breakout_webio)
 * [Validation and Introspection](projects/breakout_val_intro)
+* [NWB and DataJoint](projects/breakout_datajoint)
 
 ## Proposing breakout sessions
 
