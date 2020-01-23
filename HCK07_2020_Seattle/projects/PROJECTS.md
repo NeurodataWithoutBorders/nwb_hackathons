@@ -12,10 +12,12 @@ The lists below provides an overview of specific projects for which at least one
 * [Simplify PyNWB interface](projects/DeBoilerPlateNWB)
 * [NWB-Datajoint Integration](projects/NWB_DataJoint_Integration)
 * [Open Ephys NWB Writer](projects/Open_Ephys_NWB_Writer)
+* [Convert and add NWB2 datasets to DANDI](projects/NWB2.0Datasets)
+* [OpenScope2NWB](projects/OpenScope2NWB)
+*
 
 
 ## Project Suggestions
 
-* [OpenScope2NWB](projects/OpenScope2NWB)
 
 ..

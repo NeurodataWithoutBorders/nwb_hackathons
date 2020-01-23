@@ -45,3 +45,9 @@ The goal of this project is to:
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
 
+## Related Issues
+
+* [https://github.com/hdmf-dev/hdmf/issues/273](https://github.com/hdmf-dev/hdmf/issues/273)
+* [https://github.com/oruebel/ndx-icephys-meta/issues/17](https://github.com/oruebel/ndx-icephys-meta/issues/17)
+
+
