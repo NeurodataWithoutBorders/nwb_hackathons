@@ -34,6 +34,10 @@ Key:
 	* 350 Terry Ave N
 * Casco Antiguo SLU (LV)
 	* 2102 7th Ave
+* Cask and Trotter 
+	*  711 Westlake Ave N
+	* Open late (midnight)
+	* Good for AIBS people-watching
 * Flatstick Pub (L)
 	* Allen Institute main floor, 609 Westlake Ave N
 	* Open late (midnight)
