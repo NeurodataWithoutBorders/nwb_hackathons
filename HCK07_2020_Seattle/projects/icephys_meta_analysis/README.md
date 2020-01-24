@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Convert, annotate, analyze, and co-cluster intracellular electrophysiology datasets collected across labs
+# Convert, annotate, and co-analyze icephys datasets
 
 ## Key Investigators
 
