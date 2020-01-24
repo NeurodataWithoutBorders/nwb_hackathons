@@ -15,7 +15,7 @@ The lists below provides an overview of specific projects for which at least one
 * [Convert and add NWB2 datasets to DANDI](projects/NWB2.0Datasets)
 * [OpenScope2NWB](projects/OpenScope2NWB)
 * [Update nwb.org website](projects/update_nwb_website)
-
+* [Convert, annotate, analyze, and co-cluster intracellular electrophysiology datasets collected across labs](projects/icephys_meta_analysis)
 
 ## Project Suggestions
 
