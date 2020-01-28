@@ -16,8 +16,8 @@ The lists below provides an overview of specific projects for which at least one
 * [OpenScope2NWB](projects/OpenScope2NWB)
 * [Update nwb.org website](projects/update_nwb_website)
 * [Convert, annotate, analyze, and co-cluster intracellular electrophysiology datasets collected across labs](projects/icephys_meta_analysis)
+* [Visualization of hierarchical icephys experiments](projects/icephys_extension_widget)
 
 ## Project Suggestions
-
 
 ..
