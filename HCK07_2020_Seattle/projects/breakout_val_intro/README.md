@@ -30,7 +30,8 @@ Needs, requirements and expectations for validation and introspection of NWB fil
 
 Participants should add topics of possible interest for discussion here
 
-* ...
+* Discuss open validation issues: https://github.com/NeurodataWithoutBorders/pynwb/issues/1160, https://github.com/NeurodataWithoutBorders/pynwb/issues/1058, https://github.com/NeurodataWithoutBorders/pynwb/issues/836, https://github.com/NeurodataWithoutBorders/pynwb/issues/1091, https://github.com/NeurodataWithoutBorders/pynwb/issues/957, https://github.com/NeurodataWithoutBorders/pynwb/issues/1162
+* Implementation details of checking for extra fields (https://github.com/NeurodataWithoutBorders/pynwb/issues/1162)
 
 ## Approach and Plan
 
