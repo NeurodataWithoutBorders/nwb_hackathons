@@ -8,7 +8,7 @@
 
 - Jerome Lecoq (Allen Institute)
 - Yazan Billeh (Allen Institute)
-- Colleen Gillon (McGill University)
+- Colleen Gillon (University of Toronto)
 - Will Mayner (Univ. Wisconsin)
 
 ## Project Description
