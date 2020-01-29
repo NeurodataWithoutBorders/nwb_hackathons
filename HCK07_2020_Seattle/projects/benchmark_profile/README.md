@@ -1,4 +1,4 @@
-[:rewind: Back to the projects list](../../README.md#ProjectsList)
+[:rewind: Back to the projects list](../PROJECTS.md)
 
 # Performance Benchmarks and Profiling for PyNWB
 

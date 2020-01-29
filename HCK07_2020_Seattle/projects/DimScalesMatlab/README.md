@@ -1,4 +1,4 @@
-[:rewind: Back to the projects list](../../README.md#ProjectsList)
+[:rewind: Back to the projects list](../PROJECTS.md)
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
