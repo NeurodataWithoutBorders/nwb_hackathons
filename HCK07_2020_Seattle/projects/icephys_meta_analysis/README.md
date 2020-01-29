@@ -9,12 +9,13 @@
 Shreejoy Tripathy (University of Toronto)
 Jim Berg (Allen Institute)
 Csaba Foldy (University of Zurich)
+Thomas Braun (byte physics e.K.)
 
 ## Project Description
 
 Labs performing icephys are often delivering the same (or very similar) types of stimuli (e.g., steps, ramps, chirps, etc.). But labs have different ways of storing their data files (different formats and organization conventions) and have different ways of naming stimuli and groups of related stimuli.
 
-We here aim to use NWB as a common language for storing icephys datasets and to adapt existing tools for annotating stimulus types and performing feature extraction. We aim to co-cluster datasets and recorded cells by feature similarity, similar to how is commonly done for single-cell transcriptomics datasets. 
+We here aim to use NWB as a common language for storing icephys datasets and to adapt existing tools for annotating stimulus types and performing feature extraction. We aim to co-cluster datasets and recorded cells by feature similarity, similar to how is commonly done for single-cell transcriptomics datasets.
 
 While this project is ambitious in scope, we plan to make use of tools that have already been developed for these purposes.
 
@@ -30,7 +31,7 @@ Goal: Develop a prototype end-to-end pipeline for converting historical, externa
 
 Approach: We will focus our prototype on single-electrode icephys datasets reflecting somatic current clamp experiments that have been collected using pClamp with outputted files in Axon Binary File format (ABF). We will focus our stimulus annotation and feature extraction efforts on long current step stimuli.
 
-Plan: 
+Plan:
 1. Convert: Convert external icephys files to nwbv2, focusing on current clamp icephys datasets stored in ABF (from Shreejoy’s collaborators and Csaba)
 2. Annotate: Fork the AIBS [icephys stimulus ontology](https://github.com/AllenInstitute/ipfx/blob/master/ipfx/defaults/stimulus_ontology.json) to accommodate sweep names and categories from external datasets. For the hackathon, we will focus on the usage of long step current injections
 3. Extract: Load in converted nwbv2 datasets into the appropriate data structures needed for ipfx’s internal data structure, (ephys_data_set)[https://github.com/AllenInstitute/ipfx/blob/master/ipfx/ephys_data_set.py]. Then use ipfx's feature extraction libraries to perform feature extraction. This will likely require disabling QC checking for IPFX.
