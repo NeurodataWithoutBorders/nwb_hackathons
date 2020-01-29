@@ -1,4 +1,4 @@
-[:rewind: Back to the projects list](../../README.md#breakout-sessions)
+[:rewind: Back to the projects list](../BREAKOUTS.md)
 
 # Intracellular Ephys (Extension Proposal and Beyond)
 

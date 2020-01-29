@@ -1,4 +1,4 @@
-[:rewind: Back to the projects list](../../README.md#breakout-sessions)
+[:rewind: Back to the projects list](../BREAKOUTS.md)
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
