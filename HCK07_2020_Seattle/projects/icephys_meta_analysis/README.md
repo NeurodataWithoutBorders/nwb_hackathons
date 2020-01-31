@@ -7,6 +7,8 @@
 ## Key Investigators
 
 Shreejoy Tripathy (University of Toronto)
+Jim Berg (Allen Institute)
+Csaba Foldy (University of Zurich)
 
 ## Project Description
 
