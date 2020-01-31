@@ -18,6 +18,7 @@ The lists below provides an overview of specific projects for which at least one
 * [Convert, annotate, analyze, and co-cluster intracellular electrophysiology datasets collected across labs](projects/icephys_meta_analysis)
 * [Visualization of hierarchical icephys experiments](projects/icephys_extension_widget)
 * [Stimulus representation and parametrization in NWB](projects/stim_onto)
+* [Spatial data and coordinate systems in NWB](projects/spat_onto)
 
 ## Project Suggestions
 
