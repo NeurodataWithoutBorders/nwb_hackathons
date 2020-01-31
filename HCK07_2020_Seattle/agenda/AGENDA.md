@@ -29,7 +29,7 @@
     * **11:00 - noon:** Breakout on  [Ontology and Provenance](projects/breakout_ontologies)
     * **noon - 1:00pm:** Lunch break
     * **1:00 - 3:30pm:** Project work time
-    * **3:30 - 4:30pm:** Closing discussion (review of the hacakthon, overview of progress, future plans etc.)
+    * **3:30 - 4:30pm:** Closing discussion (review of the hackathon, overview of progress, future plans etc.)
     * **4:30 - 6:00pm:** Hacking on projects and conclusion of the developer portion of the hackathon.
     * **6:00pm** Dinner on own. Hacking participants depart.
 
