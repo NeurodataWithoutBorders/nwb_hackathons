@@ -19,6 +19,7 @@ The lists below provides an overview of specific projects for which at least one
 * [Visualization of hierarchical icephys experiments](projects/icephys_extension_widget)
 * [Stimulus representation and parametrization in NWB](projects/stim_onto)
 * [Spatial data and coordinate systems in NWB](projects/spat_onto)
+* [Validation for non-pynwb NWB files](projects/validation-with-non-pynwb-nwb-files)
 
 ## Project Suggestions
 
