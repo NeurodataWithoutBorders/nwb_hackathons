@@ -32,7 +32,6 @@ Participants should add topics of possible interest for discussion here
 * How can we support foreign fields in NWB (i.e., support linking to data from NWB)?
 * How can we enable web-based access to NWB files?
 * Do we need alternative storage backends to facilitate web-based data access (e.g., HDF5, KITA, ZARR, ...)?
-*
 
 ## Approach and Plan
 
@@ -42,9 +41,15 @@ Participants should add topics of possible interest for discussion here
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+* Two main use cases determined:
+    1. accessing of partial datasets 
+       * chunks of objects or whole objects
+    2. interlinking between related datasets
+       * e.g. connect separate files for LFP and spiking data 
+
+* investigate HDF5 VOL for creating VOL that can access data over the web without downloading entire datasets
+* https://github.com/pierlauro/H5PyVOL
+    * https://github.com/pierlauro/H5PyVOL
 
 ## Materials
 
