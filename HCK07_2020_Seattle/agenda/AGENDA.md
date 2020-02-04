@@ -15,6 +15,7 @@
     * **9:00 - 9:20am:** Day 2 SCRUM, Review progress made and plans for Day 2
     * **9:20 - noon:** Project work time
     * **9:30 - 10:30am:** Breakout on [NWB via the web](projects/breakout_webio) - Boardroom
+    * **11:50am - noon:** Group Photo
     * **noon - 1:00pm:** Lunch break
     * **12:45-1:15pm:** Optional tour of the Allen Institute (meet at cafe)
     * **1:00 - 6:00pm:** Project work time
