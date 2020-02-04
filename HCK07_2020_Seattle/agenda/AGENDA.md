@@ -4,7 +4,7 @@
 
     * **11:30am-12:00pm:** Arrive at Allen Institute
     * **noon - 1:00pm:** Lunch
-    * **1:00pm - 2:00pm:** Welcome to the hackathon; Day 1 SCRUM, introductions, Overview of projects and plans for Day 1
+    * **1:00pm - 2:00pm:** Welcome to the hackathon; Day 1 SCRUM, introductions, Overview of projects and plans for Day 1. [(View Slides)](https://docs.google.com/presentation/d/1JG-3Dxjrh_mO-kIoYa941RzMViuevt6aGJjIlXruIb4/edit?usp=sharing)
     * **2:00pm - 6:00pm:** Project work time
     * **3:00pm - 4:00pm:** Breakout on [Validation and Introspection](projects/breakout_val_intro) - Boardroom
     * **4:15pm - 5:15pm** Breakout on [NWB and DataJoint](projects/breakout_datajoint) - Boardroom
