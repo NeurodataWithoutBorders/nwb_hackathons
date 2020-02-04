@@ -13,10 +13,11 @@ The goal of this session is to discuss needs and approaches for linking data via
 * Andrew Tritt (LBNL)
 * Oliver Ruebel (LBNL)
 * Yaroslav Halchenko (Dartmouth College)
-* Lydia Ng (Allen Insititute for Brain Science)
+* Pam Baker(Allen Insititute for Brain Science)
 * Michael Grauer (Kitware, Inc.)
 * Satrajit Ghosh (MIT)
 * Ariel Rokem (UW)
+* Josh Siegel (Allen Insititute for Brain Science)
 * ...
 
 ## Objectives
