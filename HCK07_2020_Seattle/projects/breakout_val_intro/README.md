@@ -1,7 +1,6 @@
-[:rewind: Back to the projects list](../../README.md#breakout-sessions)
+ [:rewind: Back to the projects list](../../README.md#breakout-sessions)
 
 Currently edited online in https://hackmd.io/z6GJrRSdRySMo1LAppabJw
-
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
@@ -15,9 +14,11 @@ Needs, requirements and expectations for validation and introspection of NWB fil
 
 ## Participants
 
-* Yaroslav Halchenko (Dartmouth College)
-* Thomas Braun (byte physics e.K.)
+* Yaroslav Halchenko (Dartmouth College) - interested in validation and
+* Thomas Braun (byte physics e.K.) - confronted difficulties with validating files as the nwb standard moves forward, and assuring that PyNWB stays backward compatible with nwb - being able to load previously valid nwb files,...
 * Oliver Ruebel (LBNL)
+* Liviu Soltuzu - difficulty in "validating" produced by them .nwb files.
+* Pamela  - introspection/search depends heavily on harmonization of metadata to make search possible
 * ...
 
 ## Objectives
@@ -28,6 +29,31 @@ Needs, requirements and expectations for validation and introspection of NWB fil
 * Identify requirements, use cases, and expectations for validation of NWB files
 * Identify requirements, use cases, and expectations for light-weight introspection of NWB file (via PyNWB)
 * ...
+
+### Different "levels"/types of validation
+#### NWB Schema validation (currently implemented)
+
+In principle, any stored by PyNWB/MatNWB file should pass this stage of validation
+
+#### User input "best practices"
+Validate toward "best practices". [nwb-inspector](???) ATM is the implementation for some of such:
+
+* (Ben) how to validate that new (added) neural data (extension) type does not already exist
+* (Ben) if sampling rate is constant, appropriate storage should be used
+* (Ben) heuristic to assess if data was stored in correct orientation (long dimension - time)
+* (Ben) suboptimal coding/representation (using int/float for bool values). Lydia brought up a use case that some times additional annotation is needed to annotate "dropped"/"invalid" entries.
+
+#### "Ontologies" for the fields/values
+
+Some of those could be addressed by more restricted data types, e.g. ISO datetime duration for "age" or any other "duration".
+
+#### Data Validation
+
+Catch obviously (to human curator) eye incorrectly entered/encoded data (e.g. incorrect unit, e.g. V vs mV).
+ATM not possible to encode **range** within NWB schema, to e.g. encode the range.
+
+Question of the units: SI with multipliers. Satra mentioned https://people.csail.mit.edu/jaffer/MIXF/MIXF-10 which is character string encoding for numerical values and units, incorporates SI, etc.
+
 
 ### Proposed discussion topics
 
@@ -47,6 +73,14 @@ Participants should add topics of possible interest for discussion here
 <!-- 1. Describe the steps of your planned approach to reach the objectives.-->
 <!-- 1. ... -->
 <!-- 1. ... -->
+
+### Introducing "ontologies" while retaining compatibility
+
+(Ben) Ontologies could not be introduced for a field without breaking compatibility (i.e. forcing more than free form string) by adding a supplementary "Ontologies" table with fields
+- object ID
+- field
+- ontology
+- term/ID
 
 ## Current state
 <!--Populate this section as you are making progress before/during/after the hackathon-->
