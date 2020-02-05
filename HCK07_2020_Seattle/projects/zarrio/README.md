@@ -23,7 +23,7 @@ Integrate Zarr as alternative (python-only) backend for HDMF and PyNWB
 
 ## Progress and Next Steps
 
-* ...
+* A fairly basic experiment/benchmark is [here](https://gist.github.com/arokem/bf2d5f335b4c4a390907b0c7907600ac)
 
 ## Materials
 
