@@ -31,7 +31,7 @@ table, plot all stimulation and response traces.
 <!-- 1. ... -->
 
 ## Progress and Next Steps
-
+![](pic.png)
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
