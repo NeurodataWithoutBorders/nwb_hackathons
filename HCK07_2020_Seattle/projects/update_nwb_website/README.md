@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# Update NWB website
 
 ## Key Investigators
 
@@ -26,6 +26,11 @@ Ensure that latest information is on nwb.org
 * Fix arrows in NWB figure on page https://www.nwb.org/nwb-neurophysiology/
 * Update development plan page and make the page easier to find by adding it to the main menu https://www.nwb.org/development-plan/
 * Add the updates from our progress reports from the NWB project to the website (new page(s))
+* Add ``hdmf-common-schema`` to "Developer Resources -> Documentation" and "Developer Resources -> Sources"
+* Add ``ndx-template`` and other NDX-Catalog repos to the "Developer Resources -> Documentation" and "Developer Resources -> Sources"
+* Add the more detailed software stack images to the website
+
+
 
 
 ## Progress and Next Steps
