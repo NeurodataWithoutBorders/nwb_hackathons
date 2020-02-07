@@ -24,26 +24,14 @@ to enhance storage and sharing of icephys data via NWB.
 * Identify challenges and needs in storing and sharing ICEphys data using NWB
 * Evalute suitability of the proposed extension for ICEphys for various use cases
 * Refine the extension proposal
-*
-
-### Proposed discussion topics
-
-Participants should add topics of possible interest for discussion here
-
-* ...
-
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+Presented the current state of the extension. 
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+We identified several areas for changes to the extension and identified a timeline for release of the extension as part of NWB. For details see the [icephs-extension project page](../icephys_extension)
 
 ## Materials
 
