@@ -14,7 +14,8 @@
 The jupyter widget will combine and plot traces at the same level of the hierarchy. 
 
 For example, for a given Stimulus Type and Electrode, under the `ic_sweep_sequences`
-table, plot all stimulation and response traces.
+table, plot all stimulation and response traces, as in the picture below:
+![](behavior.png)
 
 ## Objectives
 
