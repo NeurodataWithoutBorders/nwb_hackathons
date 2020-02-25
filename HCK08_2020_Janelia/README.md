@@ -1,3 +1,5 @@
+<a href="https://www.janelia.org/"><img alt="HHMI Janelia Research Campus" src="banner_hck08.png"></a>
+
 # Welcome to the 8th NWB:N User Days and Developer Hackathon!!
 
   * [Dates and Location](#dates-and-location)
