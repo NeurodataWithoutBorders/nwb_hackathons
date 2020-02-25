@@ -29,16 +29,17 @@
 
 ## Registration
 
-Registration for the event is not yet open. Stay tuned for future announcements as we continue to plan for the event.
+Please complete our [inivitation request form](https://forms.gle/XmgkQhrpGrtv4MqG7) if you would like to request an invitation to attend the event.
+
+The hackathon is open to the public. Anyone interested in NWB may request and invitation. Registration for the event is not yet open. Stay tuned for future announcements as we continue to plan for the event.
 
 ## Logistics
 
 **Housing:** Housing will be onsite on the HHMI Janelia research campus. Please note that Janelia will not be able to accommodate any arrivals before the late afternoon/early evening of May 5 due to another large meeting ending that day, which is utilizing all of our guest house rooms.For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
-**Travel:**  Housing onsite on the Janelia research campus is provided with support by HHMI Janelia. Additional travel support may be available for flights as well, but this is not yet confirmed.
+**Travel:**  Housing onsite on the Janelia research campus is provided with support by HHMI Janelia. Additional travel support may be available for flights via the Kavli foundation.
 
 **Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
-
 
 ## Organizing Committee
 
@@ -79,13 +80,11 @@ Registration for the event is not yet open. Stay tuned for future announcements 
 
 ## Objective
 
-The Neurodata Without Borders: Neurophysiology project (NWB:N, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology.
+The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB:N, the NWB:N software libraries, and the progress of the scientific workflows that rely on NWB:N. Members of the community will exchange ideas and best practices for using NWB:N and the libraries, share NWB:N based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB:N developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB:based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
-The event is planned for 4 days, where the first two days will focus on user training and use-cases followed by two days focused on core development. Work involves collaborative, open source software development, with a focus on use cases, tools, and core development.
-
-Note: This event is meant to foster community and collaboration around NWB:N, not competition. As such, this is really more of a "workshop" or "tutorial" than a "hackathon." There will be no judges nor prizes. Participants will be expected to bring data from their own lab and/or collaborate with others to build integration with NWB:N.
+In contrast to conferences and workshops, where the primary focus is to report results, the objective of the Hackathon is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
 
 ## Agenda
 
