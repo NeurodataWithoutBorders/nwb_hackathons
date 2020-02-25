@@ -1,4 +1,4 @@
-# Welcome to the 8th NWB:N Developer and User Days!!
+# Welcome to the 8th NWB:N User Days and Developer Hackathon!!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -21,8 +21,6 @@
 ## Dates and Location
 
 - **Dates:** May 6-9, 2020
-  - **User Days:** May 6-7, 2020
-  - **Developer Days:** May 8-9, 2020
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 - **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
 
@@ -45,9 +43,9 @@ The hackathon is open to the public. Anyone interested in NWB may request an inv
 
 **Site chair:** Karel Svoboda
 
-**Program chair (Developer Days):** Oliver Rübel and Ryan Ly
-
 **Program chair (User Days):** Benjamin Dichter and Oliver Rübel
+
+**Program chair (Developer Days):** Oliver Rübel and Ryan Ly
 
 **Local Support:** [Janine Stevens](https://www.janelia.org/people/janine-stevens) (Director, Scientific Programs, HHMI Janelia)
 
