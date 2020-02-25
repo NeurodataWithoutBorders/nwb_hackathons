@@ -1,6 +1,6 @@
 <a href="https://www.janelia.org/"><img alt="HHMI Janelia Research Campus" src="banner_hck08.png"></a>
 
-# Welcome to the 8th NWB:N User Days and Developer Hackathon!!
+# Welcome to the 8th NWB User Days and Developer Hackathon!!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -74,13 +74,13 @@ The hackathon is open to the public. Anyone interested in NWB may request an inv
 ## What to bring?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
-* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB:N) you should know how to read the data using Python and ideally have scripts ready for reading the data.
+* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python and ideally have scripts ready for reading the data.
 * Bring your laptop with appropriate software installed. For instructions on how to install PyNWB see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
-* For an overview of NWB:N see also: [https://www.nwb.org/](https://www.nwb.org/)
+* For an overview of NWB see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
 
-The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB:N enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB:N. The community needs to join forces to achieve data standardization in neurophysiology.
+The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
 The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB:based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
