@@ -20,8 +20,7 @@ Ensure that latest information is on nwb.org
 ## ToDo items
 
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
-* Update dataset page to add missing datasets and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
-* Add the updates from our progress reports from the NWB project to the website (new page(s))
+* Update dataset page to add missing datasets (e.g., Ruetighauser data) and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
 
 ## Progress and Next Steps
 
@@ -55,6 +54,12 @@ Ensure that latest information is on nwb.org
   * Added missing link to the "HDMF Common specification" docs
   * Added missing link to the "HDMF documentation utilities"
   * Added missing link to the "NDX template"
+* https://www.nwb.org/projects/
+  * Placed Simons funded projects into a separate section (they were previously subsection under the Kavli seciton)
+  * Added section to link to the progress reports
+* https://www.nwb.org/progress-reports/
+  * Create new page for progress reports
+  * Added the main parts from the NIH progress reports to the page
 
 
 
