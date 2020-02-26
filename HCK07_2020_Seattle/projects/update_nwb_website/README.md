@@ -1,6 +1,5 @@
 [:rewind: Back to the projects list](../../README.md#ProjectsList)
 
-<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
 # Update NWB website
 
@@ -22,11 +21,7 @@ Ensure that latest information is on nwb.org
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
 * Update dataset page to add missing datasets (e.g., Ruetighauser data) and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
 
-## Progress and Next Steps
-
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+## Progress
 
 * [https://www.nwb.org/nwb-neurophysiology/](https://www.nwb.org/nwb-neurophysiology/):
    * NWB data types figure (fixed arrows and data types listed)
@@ -61,19 +56,4 @@ Ensure that latest information is on nwb.org
   * Create new page for progress reports
   * Added the main parts from the NIH progress reports to the page
 
-
-
-
-## Materials
-
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
-
-## Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/YourUser/YourRepository -->
-<!-- - Documentation: https://link.to.docs -->
-<!-- - Test data: https://link.to.test.data -->
 
