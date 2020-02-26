@@ -21,9 +21,7 @@ Ensure that latest information is on nwb.org
 
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
 * Update dataset page to add missing datasets and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
-* Update development plan page and make the page easier to find by adding it to the main menu https://www.nwb.org/development-plan/
 * Add the updates from our progress reports from the NWB project to the website (new page(s))
-* Add  HDMD and NDX docs to "Developer Resources -> Documentation"
 
 ## Progress and Next Steps
 
@@ -31,13 +29,35 @@ Ensure that latest information is on nwb.org
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
 
+* https://www.nwb.org/nwb-neurophysiology/:
+   * NWB data types figure (fixed arrows and data types listed)
+  * Updated timeline figure at the bottom of page
+* https://www.nwb.org/projects/
+  * Add missing Simon grants
+* https://www.nwb.org/labs-using-nwb/
+  * Add Bouchard lab
+  * Add Frank lab
+  * Add link to seed grant page for additional users
+* https://www.nwb.org/source-codes/
+  * Add HDMF and NDX Catalog GitHub organizations
+  * Add relevant HDMF and NDX repositories
+  * Add brief descriptions for all repositories
+* https://www.nwb.org/nwb-software/
+  * Add "User View" section and figure to describe the NWB software ecosystem from the user view
+  * Add "Developer View" section and figure to describe the NWB software ecosystem from the developer view
+* https://www.nwb.org/development-plan/
+  * Organize the different plans in tabs to make the page easier to navigate (previously this was a very long, single-page document)
+  * Added updated development with current milestones to tab "2.x (current)"
+  * Added entry for the development plan to the main menu under "Developer Resources"
+* https://www.nwb.org/community-guidelines/
+  * Removed link to the development plan as it is now listed in the main menu
+* https://www.nwb.org/documentation/
+  * Added missing link to the "HDMF Common specification" docs
+  * Added missing link to the "HDMF documentation utilities"
+  * Added missing link to the "NDX template"
 
-* Updated grants and projects page to add Simon grant https://www.nwb.org/projects/
-* Fixed arrows in NWB figure on page https://www.nwb.org/nwb-neurophysiology/
-* Added missing labs using NWB page https://www.nwb.org/labs-using-nwb/
-* Updated timeline figure at the bottom of page https://www.nwb.org/nwb-neurophysiology/
-* Updated https://www.nwb.org/source-codes/ website to add HDMF and NDX Catalog GitHub organizations and relevant repositories and to add brief descriptions for all repositories (not just the links.)
-* Expanded the https://www.nwb.org/nwb-software/ page to describe the user and developer views of the NWB software ecosystem and add corresonding figures.
+
+
 
 ## Materials
 
