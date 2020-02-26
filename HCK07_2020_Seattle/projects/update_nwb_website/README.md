@@ -28,36 +28,36 @@ Ensure that latest information is on nwb.org
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
 
-* https://www.nwb.org/nwb-neurophysiology/:
+* [https://www.nwb.org/nwb-neurophysiology/](https://www.nwb.org/nwb-neurophysiology/):
    * NWB data types figure (fixed arrows and data types listed)
   * Updated timeline figure at the bottom of page
-* https://www.nwb.org/projects/
+* [https://www.nwb.org/projects/](https://www.nwb.org/projects/)
   * Add missing Simon grants
-* https://www.nwb.org/labs-using-nwb/
+* [https://www.nwb.org/labs-using-nwb/](https://www.nwb.org/labs-using-nwb/)
   * Add Bouchard lab
   * Add Frank lab
   * Add link to seed grant page for additional users
-* https://www.nwb.org/source-codes/
+* [https://www.nwb.org/source-codes/](https://www.nwb.org/source-codes/)
   * Add HDMF and NDX Catalog GitHub organizations
   * Add relevant HDMF and NDX repositories
   * Add brief descriptions for all repositories
-* https://www.nwb.org/nwb-software/
+* [https://www.nwb.org/nwb-software/](https://www.nwb.org/nwb-software/)
   * Add "User View" section and figure to describe the NWB software ecosystem from the user view
   * Add "Developer View" section and figure to describe the NWB software ecosystem from the developer view
-* https://www.nwb.org/development-plan/
+* [https://www.nwb.org/development-plan/](https://www.nwb.org/development-plan/)
   * Organize the different plans in tabs to make the page easier to navigate (previously this was a very long, single-page document)
-  * Added updated development with current milestones to tab "2.x (current)"
+  * Added updated development plan with current milestones to tab "2.x (current)"
   * Added entry for the development plan to the main menu under "Developer Resources"
-* https://www.nwb.org/community-guidelines/
+* [https://www.nwb.org/community-guidelines/](https://www.nwb.org/community-guidelines/)
   * Removed link to the development plan as it is now listed in the main menu
-* https://www.nwb.org/documentation/
+* [https://www.nwb.org/documentation/](https://www.nwb.org/documentation)
   * Added missing link to the "HDMF Common specification" docs
   * Added missing link to the "HDMF documentation utilities"
   * Added missing link to the "NDX template"
-* https://www.nwb.org/projects/
+* [https://www.nwb.org/projects/](https://www.nwb.org/projects/)
   * Placed Simons funded projects into a separate section (they were previously subsection under the Kavli seciton)
   * Added section to link to the progress reports
-* https://www.nwb.org/progress-reports/
+* [https://www.nwb.org/progress-reports/](https://www.nwb.org/progress-reports/)
   * Create new page for progress reports
   * Added the main parts from the NIH progress reports to the page
 
