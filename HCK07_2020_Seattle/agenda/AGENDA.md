@@ -1,4 +1,4 @@
-**The program is preliminary!** Stay tuned for further details.
+* **01/07/2020 at 10am, PT:** Preparatory video conference
 
 * **Monday, Feb. 3:** Arrive in Seattle in the morning. Program to start at noon.
 
