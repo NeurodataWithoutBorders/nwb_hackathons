@@ -20,7 +20,4 @@ The lists below provides an overview of specific projects for which at least one
 * [Stimulus representation and parametrization in NWB](projects/stim_onto)
 * [Spatial data and coordinate systems in NWB](projects/spat_onto)
 * [Validation for non-pynwb NWB files](projects/validation-with-non-pynwb-nwb-files)
-
-## Project Suggestions
-
-..
+* [ICEphys Hierarchical folder structure for HDFView Extension](projects/ndx-bbp-icephys-hierarchy)
