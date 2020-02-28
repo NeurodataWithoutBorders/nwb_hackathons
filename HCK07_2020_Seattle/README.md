@@ -41,7 +41,7 @@
 
 ## Attendees
 
-<a href="https://drive.google.com/drive/folders/15Qup24S04c_-6CgX2_apWpNZw7bADAZu?usp=sharing"><img alt="Group Photo NWB Hackathon April 2020" src="photos/GroupPhoto_small.jpeg" width="680"></a>
+<a href="https://drive.google.com/drive/folders/15Qup24S04c_-6CgX2_apWpNZw7bADAZu?usp=sharing"><img alt="Group Photo NWB Hackathon April 2020" src="GroupPhoto_small.jpeg" width="680"></a>
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 

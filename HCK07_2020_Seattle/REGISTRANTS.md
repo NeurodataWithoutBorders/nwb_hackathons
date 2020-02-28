@@ -30,4 +30,3 @@
 1. Young Seok	Seo	- University of Toronto
 1. Sergey Gratiy - Allen Institute For Brain Science
 1. Scott Daniel - Allen Institute For Brain Science
-1. ...
