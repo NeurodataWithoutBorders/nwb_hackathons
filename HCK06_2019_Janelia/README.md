@@ -37,10 +37,12 @@ The final report for the 6th NWB:N Developer Hackathon and User Days is now avai
 
 ### NWB:N User Days
 <a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo User Days" src="photos/MCS_8952 Final_Small.jpg" width="870"></a>
-*Credits: Photo by Matt Staley (HHMI Janelia)* 
+
+*Credits: Photo by Matt Staley (HHMI Janelia)*
 
 ### NWB:N Developer Days
 <a href="https://drive.google.com/drive/folders/152DN4snXlXdnWXwGC9fy_7fpAjUnqCa5?usp=sharing"><img alt="Group Photo Developer Days" src="photos/MCS_9199 Final_Small.jpg" width="870"></a>
+
 *Credits: Photo by Matt Staley (HHMI Janelia)*
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
@@ -84,11 +86,11 @@ The slides for the talks presented during the User Days are available [here.](ht
 ### Code
 
 Ben Dichter's electrophysiology tutorial (Day 1):
-  
+
 * [python jupyter notebook](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html)
 * [matlab code](http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html)
 
-Tom Davidson's 'early adopter experiences' talk (Day 1): 
+Tom Davidson's 'early adopter experiences' talk (Day 1):
 
 * [Repo containing notebooks in talk](https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6)
 
