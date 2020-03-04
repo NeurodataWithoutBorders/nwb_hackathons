@@ -20,6 +20,9 @@ Ensure that latest information is on nwb.org
 
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
 * Update dataset page to add missing datasets (e.g., Ruetighauser data) and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
+* Add Ueli et al. paper and data to the website on the datasets and publications page. Also add a publication highlight to the rotating carousel.
+  * Data descriptor: https://www.nature.com/articles/s41597-020-0415-9
+  * Data (OSF):  https://doi.org/10.17605/OSF.IO/HV7JA
 
 ## Progress
 
