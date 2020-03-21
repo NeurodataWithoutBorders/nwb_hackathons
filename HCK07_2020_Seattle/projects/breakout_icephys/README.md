@@ -14,7 +14,7 @@ to enhance storage and sharing of icephys data via NWB.
 * Andrew Tritt (LBNL)
 * Thomas Braun (byte physics)
 * Pam Baker (Allen Insititute for Brain Science)
-* Liviu	Soltuzu	(Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL)
+* Liviu	S.	(Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL)
 * Shreejoy Tripathy (University of Toronto)
 * Benjamin Dichter (Ben Dichter LLC)
 * ...

@@ -17,7 +17,7 @@ Needs, requirements and expectations for validation and introspection of NWB fil
 * Yaroslav Halchenko (Dartmouth College) - interested in validation and
 * Thomas Braun (byte physics e.K.) - confronted difficulties with validating files as the nwb standard moves forward, and assuring that PyNWB stays backward compatible with nwb - being able to load previously valid nwb files,...
 * Oliver Ruebel (LBNL)
-* Liviu Soltuzu - difficulty in "validating" produced by them .nwb files.
+* Liviu S. - difficulty in "validating" produced by them .nwb files.
 * Pamela  - introspection/search depends heavily on harmonization of metadata to make search possible
 * ...
 

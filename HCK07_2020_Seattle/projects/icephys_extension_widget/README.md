@@ -7,7 +7,7 @@
 ## Key Investigators
 
 - Ben Dichter (Ben Dichter Consulting LLC)
-- Liviu Soltuzu (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
+- Liviu S. (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
 
 ## Project Description
 
