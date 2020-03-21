@@ -6,7 +6,7 @@
 
 ## Key Investigators
 
-- Liviu Soltuzu (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
+- Liviu S. (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
 - Andrew Tritt (Lawrence Berkeley National Laboratory)
 
 ## Project Description
