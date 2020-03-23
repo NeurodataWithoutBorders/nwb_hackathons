@@ -23,7 +23,7 @@
 
 ## Dates and Location
 
-- **Dates:** The May 6-9, 2020 hackathon will be postboned due to COVID-19. New dates to be announced. Stay tuned.
+- **Dates:** The May 6-9, 2020 hackathon will be postponed due to COVID-19. New dates to be announced. Stay tuned.
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 - **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
 
