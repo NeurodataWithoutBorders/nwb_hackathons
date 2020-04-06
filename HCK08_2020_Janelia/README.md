@@ -1,4 +1,4 @@
-<img alt="Remote hackathon" src="banner_hck08.png">
+<img alt="Remote hackathon" src="logo_brain_text_white_hor.png">
 
 ## Welcome to the 8th NWB User Days!
 
