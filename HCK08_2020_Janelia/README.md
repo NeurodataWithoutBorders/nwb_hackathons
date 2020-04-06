@@ -22,7 +22,7 @@
 ## Dates and Location
 
 - **Dates:** The May 12-15, 2020
-- **Location:** Remote!
+- **Location:** Your house!
 
 
 ## Registration
@@ -38,8 +38,6 @@ We will be using Zoom for the meeting. It is possible to use Zoom from the brows
 ## Organizing Committee
 
 **Program chair (User Days):** Benjamin Dichter and Oliver Rübel
-
-**Program chair (Developer Days):** Oliver Rübel and Ryan Ly
 
 ### Additional Organizational Support
 
