@@ -1,7 +1,6 @@
-<a href="https://www.janelia.org/"><img alt="HHMI Janelia Research Campus" src="banner_hck08.png"></a>
+<img alt="Remote hackathon" src="banner_hck08.png">
 
-# POSTPONED DUE TO COVID-19
-## Welcome to the 8th NWB User Days and Developer Hackathon!!
+## Welcome to the 8th NWB User Days!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -17,15 +16,13 @@
     * [Developer Days](#agenda-developer-days)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
-  * [Attending Remotely](#attending-remotely)
   * [Disclaimer](#disclaimer)
 
 
 ## Dates and Location
 
-- **Dates:** The May 6-9, 2020 hackathon will be postponed due to COVID-19. New dates to be announced. Stay tuned.
-- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
-- **Meeting Rooms:** For the meeting we have two rooms. The main room is *Synapse* and the breakout room is *Spectrum*. For details about the room locations see the [building map.](travel/janelia_room_plan_for_6th_nwbn_hackathon.pdf)
+- **Dates:** The May 12-15, 2020
+- **Location:** Remote!
 
 
 ## Registration
@@ -36,26 +33,17 @@ The hackathon is open to the public. Anyone interested in NWB may request an inv
 
 ## Logistics
 
-**Housing:** Housing will be onsite on the HHMI Janelia research campus. Please note that Janelia will not be able to accommodate any arrivals before the late afternoon/early evening of May 5 due to another large meeting ending that day, which is utilizing all of our guest house rooms.For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
-
-**Travel:**  Housing onsite on the Janelia research campus is provided with support by HHMI Janelia. Additional travel support may be available for flights via the Kavli foundation.
-
-**Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
+We will be using Zoom for the meeting. It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone. See installation instructions [here](https://zoom.us/download).
 
 ## Organizing Committee
-
-**Site chair:** Karel Svoboda
 
 **Program chair (User Days):** Benjamin Dichter and Oliver Rübel
 
 **Program chair (Developer Days):** Oliver Rübel and Ryan Ly
 
-**Local Support:** [Janine Stevens](https://www.janelia.org/people/janine-stevens) (Director, Scientific Programs, HHMI Janelia)
-
 ### Additional Organizational Support
 
 - The Kavli Foundation
-- Janelia HHMI
 
 ## Attendees
 
@@ -72,11 +60,10 @@ The hackathon is open to the public. Anyone interested in NWB may request an inv
 
 ...
 
-## What to bring?
+## How to prepare?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
-* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python and ideally have scripts ready for reading the data.
-* Bring your laptop with appropriate software installed. For instructions on how to install PyNWB see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
+* Have on hand an example data sets needed for your project with you to the workshop. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
 * For an overview of NWB see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
@@ -100,12 +87,6 @@ In contrast to conferences and workshops, where the primary focus is to report r
 For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
-
-
-## Attending Remotely
-
-We are using Zoom for remote participation. There are multiple ways to join this meeting. Stay tuned for further details.
-
 
 ## Disclaimer
 
