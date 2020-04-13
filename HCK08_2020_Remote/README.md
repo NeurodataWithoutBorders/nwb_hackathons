@@ -27,9 +27,7 @@
 
 ## Registration
 
-Please complete our [invitation request form](https://forms.gle/XmgkQhrpGrtv4MqG7) if you would like to request an invitation to attend the event.
-
-The hackathon is open to the public. Anyone interested in NWB may request an invitation. Registration for the event is not yet open. Stay tuned for future announcements as we continue to plan for the event.
+The hackathon is open to the public. Please complete our [registration form](https://forms.gle/XmgkQhrpGrtv4MqG7) to attend the event. Anyone interested in NWB may request an invitation. 
 
 ## Logistics
 
