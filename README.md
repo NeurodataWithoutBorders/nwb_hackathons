@@ -1,7 +1,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Hackathon 8: May 2020](HCK08_2020_Janelia/README.md){:target="_top"} - The 8th User and Developer Days will be held on **May 6-9, 2020** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+- [Hackathon 8: May 2020](HCK08_2020_Remote/README.md){:target="_top"} - The 8th User and Developer Days will be held remotely through video conferencing on **May 12-15, 2020**.
 
 
 ### Past Hackathons
