@@ -1,9 +1,9 @@
-All times are in PDT
+All times are in PDT (US west coast time)
 
 <table width="400">
   <tr>
     <th><b>Tuesday, May 12</b></th>
-    <th><b>Day 1: New user training</b></th>
+    <th><b>Day 1: New User Training</b></th>
   </tr>
   <tr>
     <td><b>8:30 - 9am</b></span><br></td>
@@ -37,11 +37,20 @@ All times are in PDT
     </tr>
   <tr>
     <td><span style="font-weight:bold"><b>1 - 2:15pm</b></span></td>
-    <td>NWB-enabled tools:<br>  - DANDI<br>  - SpikeInterface<br>  - Brainstorm<br>  - NWB Widgets<br>  - CaImAn<br>  - NWB Explorer / Open Source Brain<br>  - DataJoint</td>
+    <td>
+      Overview of NWB-enabled tools:
+      <br>  - DANDI
+      <br>  - SpikeInterface
+      <br>  - Brainstorm
+      <br>  - NWB Widgets
+      <br>  - CaImAn
+      <br>  - NWB Explorer / Open Source Brain
+      <br>  - DataJoint
+    </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>2:25 - ?</b></span></td>
-    <td>Hacking</td>
+    <td>Hacking on projects</td>
   </tr>
 </table>
 
@@ -96,7 +105,7 @@ All times are in PDT
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
-    <td>API classes in pynwb</td>
+    <td>How to write custom API classes in PyNWB</td>
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
@@ -139,14 +148,14 @@ All times are in PDT
   <tr>
     <td><b>9:10am - 3pm</b></td>
     <td>Hacking with user interview about requirements gathering by topic (schedule TBD):
-      <br>   * extracellular electrophysiology
-      <br>   * intracellular electrophysiology
-      <br>   * optical physiology
-      <br>   * behavior</td>
+      <br>   - extracellular electrophysiology
+      <br>   - intracellular electrophysiology
+      <br>   - optical physiology
+      <br>   - behavior</td>
   </tr>
   <tr>
     <td><b>3 - 4:30pm</b></td>
-    <td>Final check-in / lightening talks</td>
+    <td>Final check-in / lightning talks</td>
   </tr>
   <tr>
     <td><b>4:30am - 5:30pm</b></td>
