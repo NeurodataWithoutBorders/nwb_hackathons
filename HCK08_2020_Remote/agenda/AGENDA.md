@@ -1,6 +1,5 @@
 All times are in PDT (US west coast time)
 
-<html>
 <table width="400">
   <tr>
     <th><b>Tuesday, May 12</b></th>
@@ -35,7 +34,7 @@ All times are in PDT (US west coast time)
           <td>Intro to NWB for intracellular electrophysiology</td>
         </tr>
       </table>
-    </tr>
+    </td>
   <tr>
     <td><span style="font-weight:bold"><b>1 - 2:15pm</b></span></td>
     <td>
@@ -61,7 +60,7 @@ All times are in PDT (US west coast time)
     <th><b>Day 2 - Project Hacking</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
@@ -97,7 +96,7 @@ All times are in PDT (US west coast time)
     <th><b>Day 3: Advanced Training</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
@@ -139,7 +138,7 @@ All times are in PDT (US west coast time)
     <th><b>Final day: project hacking and final presentation</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
@@ -163,4 +162,3 @@ All times are in PDT (US west coast time)
     <td>Social happy hour</td>
   </tr>
 </table>
-</html>
