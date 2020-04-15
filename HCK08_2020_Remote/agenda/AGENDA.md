@@ -1,5 +1,6 @@
 All times are in PDT (US west coast time)
 
+<html>
 <table width="400">
   <tr>
     <th><b>Tuesday, May 12</b></th>
@@ -162,3 +163,4 @@ All times are in PDT (US west coast time)
     <td>Social happy hour</td>
   </tr>
 </table>
+</html>
