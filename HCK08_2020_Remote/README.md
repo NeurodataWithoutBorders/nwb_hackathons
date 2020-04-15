@@ -12,8 +12,6 @@
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Agenda](#agenda)
-    * [User Days](#agenda-user-days)
-    * [Developer Days](#agenda-developer-days)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Disclaimer](#disclaimer)
