@@ -7,7 +7,7 @@ All times are in PDT (US west coast time)
     <th><b>Day 1: New User Training</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
