@@ -1,6 +1,6 @@
 <img alt="Remote hackathon" src="logo_brain_text_white_hor.png">
 
-## Welcome to the 8th NWB User Days!
+## Welcome to the 8th NWB User Days Workshop!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -20,12 +20,12 @@
 ## Dates and Location
 
 - **Dates:** The May 12-15, 2020
-- **Location:** Your house!
+- **Location:** Your home!
 
 
 ## Registration
 
-The hackathon is open to the public. Please complete our [registration form](https://forms.gle/XmgkQhrpGrtv4MqG7) to attend the event. Anyone interested in NWB may request an invitation. 
+The workshop is open to the public. Please complete our [registration form](https://forms.gle/XmgkQhrpGrtv4MqG7) to attend the event. Anyone interested in NWB may request an invitation. 
 
 ## Logistics
 
@@ -33,7 +33,7 @@ We will be using Zoom for the meeting. It is possible to use Zoom from the brows
 
 ## Organizing Committee
 
-**Program chair (User Days):** Benjamin Dichter and Oliver Rübel
+**Program chairs:** Benjamin Dichter and Oliver Rübel
 
 ### Additional Organizational Support
 
@@ -56,17 +56,17 @@ We will be using Zoom for the meeting. It is possible to use Zoom from the brows
 
 ## How to prepare?
 
-* Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
-* Have on hand an example data sets needed for your project with you to the workshop. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
-* For an overview of NWB see also: [https://www.nwb.org/](https://www.nwb.org/)
+* Create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md)
+* Have example datasets that you need for your workshop project ready. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
+* For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the hackathon is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB:based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+The purpose of the NWB User Days training workshop is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB-based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
-In contrast to conferences and workshops, where the primary focus is to report results, the objective of the Hackathon is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
+In contrast to conferences, where the primary focus is to report results, the objective of the Hackathon is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
 
 ## Agenda
 
