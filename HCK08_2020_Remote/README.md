@@ -9,12 +9,11 @@
     * [Additional Organizational Support](#additional-organizational-support)
   * [Attendees](#attendees)
   * [Resources](#resources)
-  * [What to bring?](#what-to-bring)
+  * [How to prepare?](#how-to-prepare)
   * [Objective](#objective)
-  * [Agenda](#agenda)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
-  * [Disclaimer](#disclaimer)
+  * [Agenda](#agenda)
 
 
 ## Dates and Location
@@ -68,12 +67,6 @@ The purpose of the NWB User Days training workshop is to bring the experimental 
 
 In contrast to conferences, where the primary focus is to report results, the objective of the Hackathon is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
 
-## Agenda
-
-<!-- ORGANIZERS: please edit AGENDA.md -->
-
-{% include_relative agenda/AGENDA.md %}
-
 ## Projects
 
 <a name="ProjectsList"/>
@@ -82,7 +75,11 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
-## Disclaimer
+## Agenda
+
+{% include_relative agenda/AGENDA.md %}
+
+<h2> Disclaimer </h2>
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
 
