@@ -72,7 +72,7 @@ All times are in PDT (US west coast time)
     <td>Break-outs by use-case and hacking on projects</td>
   </tr>
   <tr>
-    <td><b>11am - 3pm</b></span></td>
+    <td><b>11am - 3pm</b></td>
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
       <br>  - DANDI
@@ -116,7 +116,7 @@ All times are in PDT (US west coast time)
     <td>Advanced write in MatNWB (compression, chunking, and iterative write)</td>
   </tr>
   <tr>
-    <td><b>11am - 3pm</b></span></td>
+    <td><b>11am - 3pm</b></td>
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
       <br>  - SpikeInterface
