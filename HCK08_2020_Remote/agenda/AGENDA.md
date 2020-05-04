@@ -15,7 +15,7 @@ All times are in PDT (US west coast time)
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9:10 - 10am</b></span></td>
-    <td>What is NWB, with short intro to NWB-enabled tools</td>
+    <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)</td>
   </tr>
   <tr>
     <td><b>10am - 1pm</b></td>
@@ -23,15 +23,15 @@ All times are in PDT (US west coast time)
       <table>
         <tr>
           <td>10 - 11am</td>
-          <td>Intro to NWB for extracellular electrophysiology</td>
+          <td>Intro to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)</td>
         </tr>
         <tr>
           <td>11am - 12pm</td>
-          <td>Intro to NWB for optical imaging</td>
+          <td>Intro to NWB for optical imaging (Ben Dichter, Ryan Ly)</td>
         </tr>
         <tr>
           <td>12 - 1pm</td>
-          <td>Intro to NWB for intracellular electrophysiology</td>
+          <td>Intro to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)</td>
         </tr>
       </table>
     </td>
@@ -101,19 +101,19 @@ All times are in PDT (US west coast time)
   </tr>
   <tr>
     <td><b>9 - 9:30am</b></td>
-    <td>How to build and share extensions</td>
+    <td>How to build and share extensions (Ryan Ly)</td>
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
-    <td>How to write custom API classes in PyNWB</td>
+    <td>How to write custom API classes in PyNWB (Andrew Tritt)</td>
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
-    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access)</td>
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)</td>
   </tr>
   <tr>
     <td><b>11am - 12pm</b></td>
-    <td>Advanced write in MatNWB (compression, chunking, and iterative write)</td>
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
   </tr>
   <tr>
     <td><b>11am - 3pm</b></td>
