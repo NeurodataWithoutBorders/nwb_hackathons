@@ -108,11 +108,11 @@ All times are in PDT (US west coast time)
     <td>How to write custom API classes in PyNWB (Andrew Tritt)</td>
   </tr>
   <tr>
-    <td><b>10 - 11am</b></td>
+    <td><b>10 - 10:30am</b></td>
     <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)</td>
   </tr>
   <tr>
-    <td><b>11am - 12pm</b></td>
+    <td><b>10:30 - 11am</b></td>
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
   </tr>
   <tr>
