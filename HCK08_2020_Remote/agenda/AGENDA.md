@@ -6,7 +6,7 @@ All times are in PDT (US west coast time)
     <th><b>Day 1: New User Training</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
@@ -15,7 +15,7 @@ All times are in PDT (US west coast time)
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9:10 - 10am</b></span></td>
-    <td>What is NWB, with short intro to NWB-enabled tools</td>
+    <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)</td>
   </tr>
   <tr>
     <td><b>10am - 1pm</b></td>
@@ -23,18 +23,18 @@ All times are in PDT (US west coast time)
       <table>
         <tr>
           <td>10 - 11am</td>
-          <td>Intro to NWB for extracellular electrophysiology</td>
+          <td>Intro to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)</td>
         </tr>
         <tr>
           <td>11am - 12pm</td>
-          <td>Intro to NWB for optical imaging</td>
+          <td>Intro to NWB for optical imaging (Ben Dichter, Ryan Ly)</td>
         </tr>
         <tr>
           <td>12 - 1pm</td>
-          <td>Intro to NWB for intracellular electrophysiology</td>
+          <td>Intro to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)</td>
         </tr>
       </table>
-    </tr>
+    </td>
   <tr>
     <td><span style="font-weight:bold"><b>1 - 2:15pm</b></span></td>
     <td>
@@ -60,7 +60,7 @@ All times are in PDT (US west coast time)
     <th><b>Day 2 - Project Hacking</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ All times are in PDT (US west coast time)
     <td>Break-outs by use-case and hacking on projects</td>
   </tr>
   <tr>
-    <td><b>11am - 3pm</b></span></td>
+    <td><b>11am - 3pm</b></td>
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
       <br>  - DANDI
@@ -96,27 +96,27 @@ All times are in PDT (US west coast time)
     <th><b>Day 3: Advanced Training</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
     <td><b>9 - 9:30am</b></td>
-    <td>How to build and share extensions</td>
+    <td>How to build and share extensions (Ryan Ly)</td>
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
-    <td>How to write custom API classes in PyNWB</td>
+    <td>How to write custom API classes in PyNWB (Andrew Tritt)</td>
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
-    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access)</td>
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)</td>
   </tr>
   <tr>
     <td><b>11am - 12pm</b></td>
-    <td>Advanced write in MatNWB (compression, chunking, and iterative write)</td>
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
   </tr>
   <tr>
-    <td><b>11am - 3pm</b></span></td>
+    <td><b>11am - 3pm</b></td>
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
       <br>  - SpikeInterface
@@ -138,7 +138,7 @@ All times are in PDT (US west coast time)
     <th><b>Final day: project hacking and final presentation</b></th>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></span><br></td>
+    <td><b>8:30 - 9am</b><br></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
