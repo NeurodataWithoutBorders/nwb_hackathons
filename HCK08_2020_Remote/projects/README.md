@@ -4,7 +4,7 @@
 
 Projects may span a broad range of topics, e.g., converting data to NWB, developing new features for PyNWB/MatNWB, exploring new problems, or creating documentation. Design your project in a way that:
   1. You can make significant progress during the hackathon (i.e., in ~1-2 days). This also means that you should come prepared for the hackathon. For example, if your project is about converting data to NWB then you should know the data and ideally have scripts for reading the data in Python or MATLAB already working and prepared.
-  1. The project is relevant to NWB:N and useful either as is or be something that you or someone else can build on after the hackathon
+  1. The project is relevant to NWB and useful either as is or would be something that you or someone else can build on after the hackathon
 
 ### Does everyone need to have their own project?
 
