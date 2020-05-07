@@ -58,7 +58,7 @@ All times are in PDT (US/Pacific time)
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>2:40 - ?</b></span></td>
+    <td><span style="font-weight:bold"><b>2:40 - 5pm</b></span></td>
     <td>Hacking on projects</td>
   </tr>
 </table>
