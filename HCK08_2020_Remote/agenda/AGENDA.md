@@ -76,8 +76,8 @@ All times are in PDT (US west coast time)
     <td>Project overviews / lightning talks</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>10 - 3pm</b></span></td>
-    <td>Break-outs by use-case and hacking on projects</td>
+    <td><span style="font-weight:bold"><b>10am - 3:30pm</b></span></td>
+    <td>Hacking on projects</td>
   </tr>
   <tr>
     <td><b>10am - 3pm</b></td>
@@ -91,7 +91,7 @@ All times are in PDT (US west coast time)
    </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>3 - 4pm</b></span></td>
+    <td><span style="font-weight:bold"><b>3:30 - 4pm</b></span></td>
     <td>Check-in</td>
   </tr>
   <tr>
@@ -126,9 +126,13 @@ All times are in PDT (US west coast time)
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
   </tr>
   <tr>
+    <td><span style="font-weight:bold"><b>11am - 3:30pm</b></span></td>
+    <td>Hacking on projects</td>
+  </tr>
+  <tr>
     <td><b>11am - 3pm</b></td>
     <td>
-      Hacking with elective in-depth breakouts (schedule TBD):
+      Elective in-depth breakouts (schedule TBD):
       <br>  - SpikeInterface
       <br>  - CaImAn
       <br>  - DataJoint
@@ -136,7 +140,7 @@ All times are in PDT (US west coast time)
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>3 - 4pm</b></span></td>
+    <td><span style="font-weight:bold"><b>3:30 - 4pm</b></span></td>
     <td>Check-in</td>
   </tr>
 </table>
@@ -145,7 +149,7 @@ All times are in PDT (US west coast time)
 <table width="400">
   <tr>
     <th><b>Friday, May 15</b></th>
-    <th><b>Final day: project hacking and final presentation</b></th>
+    <th><b>Final day: Project hacking and final presentation</b></th>
   </tr>
   <tr>
     <td><b>8:30 - 9am</b><br></td>
@@ -156,8 +160,11 @@ All times are in PDT (US west coast time)
     <td>Introduction to final day</td>
   </tr>
   <tr>
-    <td><b>9:10am - 3pm</b></td>
-    <td>Hacking with user interview about requirements gathering by topic (schedule TBD):
+    <td><span style="font-weight:bold"><b>9:10am - 3:pm</b></span></td>
+    <td>Hacking on projects</td>
+  </tr>
+  <tr>
+    <td>Elective discussions about requirements by topic (schedule TBD):
       <br>   - extracellular electrophysiology
       <br>   - intracellular electrophysiology
       <br>   - optical physiology
@@ -168,7 +175,7 @@ All times are in PDT (US west coast time)
     <td>Final check-in / lightning talks</td>
   </tr>
   <tr>
-    <td><b>4:30am - 5:30pm</b></td>
+    <td><b>4:30 - 5:30pm</b></td>
     <td>Social happy hour</td>
   </tr>
 </table>
