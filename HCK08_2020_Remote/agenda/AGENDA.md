@@ -36,20 +36,28 @@ All times are in PDT (US west coast time)
       </table>
     </td>
   <tr>
-    <td><span style="font-weight:bold"><b>1 - 2:15pm</b></span></td>
+    <td><span style="font-weight:bold"><b>1 - 1:50pm</b></span></td>
     <td>
-      Overview of NWB-enabled tools:
-      <br>  - DANDI
-      <br>  - SpikeInterface
-      <br>  - Brainstorm
-      <br>  - NWB Widgets
-      <br>  - CaImAn
+      Overview of NWB-enabled tools, Part 1:
       <br>  - NWB Explorer / Open Source Brain
-      <br>  - DataJoint
+      <br>  - DANDI
+      <br>  - NWB Widgets
+      <br>  - Brainstorm
+      <br>  - SpikeInterface
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>2:25 - ?</b></span></td>
+    <td><span style="font-weight:bold"><b>2 - 2:40pm</b></span></td>
+    <td>
+      Overview of NWB-enabled tools, Part 2:
+      <br>  - CaImAn
+      <br>  - calciumImagingAnalysis
+      <br>  - DataJoint
+      <br>  - Frank Lab
+    </td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold"><b>2:40 - ?</b></span></td>
     <td>Hacking on projects</td>
   </tr>
 </table>
@@ -68,17 +76,19 @@ All times are in PDT (US west coast time)
     <td>Project overviews / lightning talks</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>10 - 11am</b></span></td>
+    <td><span style="font-weight:bold"><b>10 - 3pm</b></span></td>
     <td>Break-outs by use-case and hacking on projects</td>
   </tr>
   <tr>
-    <td><b>11am - 3pm</b></td>
+    <td><b>10am - 3pm</b></td>
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
+      <br>  - NWB Explorer / Open Source Brain
+      <br>  - calciumImagingAnalysis
       <br>  - DANDI
       <br>  - NWB Widgets
-      <br>  - NWB Explorer
-    </td>
+      <br>  - Brainstorm
+   </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>3 - 4pm</b></span></td>
@@ -120,9 +130,9 @@ All times are in PDT (US west coast time)
     <td>
       Hacking with elective in-depth breakouts (schedule TBD):
       <br>  - SpikeInterface
-      <br>  - Brainstorm
       <br>  - CaImAn
       <br>  - DataJoint
+      <br>  - Frank Lab
     </td>
   </tr>
   <tr>
