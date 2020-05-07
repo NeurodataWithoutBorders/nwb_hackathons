@@ -2,7 +2,7 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Visualizing contents of NWB files with NWB Explorer and Open Source Brain 
+# Visualizing contents of NWB 2 files with NWB Explorer and Open Source Brain 
 
 ## Key Investigators
 
