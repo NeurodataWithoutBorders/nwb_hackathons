@@ -6,6 +6,7 @@ The lists below provide an overview of specific projects for which at least one 
 
 * [Project Template](projects/template)
 * [TiltBrush](projects/TiltBrushToNWB)
+* [Fieldtrip Integration](projects/fieldtrip_integration)
 
 ### Tool development and integration projects
 
