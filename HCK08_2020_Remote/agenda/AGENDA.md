@@ -19,7 +19,8 @@ All times are in PDT (US/Pacific time)
   </tr>
   <tr>
     <td><b>10am - 1pm</b></td>
-    <td>Tutorials / technical introductions (covers PyNWB and MatNWB). Users should attend the tutorial(s) that is relevant to them and hack on their projects at other times.
+    <td>Tutorials / technical introductions (covers PyNWB and MatNWB). <br/>
+      Users should attend the tutorial(s) that is relevant to them and hack on their projects at other times.
       <table>
         <tr>
           <td>10 - 11am</td>
