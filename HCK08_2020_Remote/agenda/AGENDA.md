@@ -82,7 +82,7 @@ All times are in PDT (US west coast time)
   <tr>
     <td><b>10am - 3pm</b></td>
     <td>
-      Hacking with elective in-depth breakouts (schedule TBD):
+      Elective in-depth breakouts (schedule TBD):
       <br>  - NWB Explorer / Open Source Brain
       <br>  - calciumImagingAnalysis
       <br>  - DANDI
@@ -160,10 +160,11 @@ All times are in PDT (US west coast time)
     <td>Introduction to final day</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>9:10am - 3:pm</b></span></td>
+    <td><span style="font-weight:bold"><b>9:10am - 3pm</b></span></td>
     <td>Hacking on projects</td>
   </tr>
   <tr>
+    <td><span style="font-weight:bold"><b>11am - 3pm</b></span></td>
     <td>Elective discussions about requirements by topic (schedule TBD):
       <br>   - extracellular electrophysiology
       <br>   - intracellular electrophysiology
