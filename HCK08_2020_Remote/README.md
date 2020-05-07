@@ -6,8 +6,6 @@
   * [Registration](#registration)
   * [Logistics](#logistics)
   * [Organizing Committee](#organizing-committee)
-    * [Additional Organizational Support](#additional-organizational-support)
-  * [Attendees](#attendees)
   * [Resources](#resources)
   * [How to prepare?](#how-to-prepare)
   * [Objective](#objective)
@@ -15,12 +13,10 @@
      * [Creating a New Project](projects/README.md)
   * [Agenda](#agenda)
 
-
 ## Dates and Location
 
-- **Dates:** The May 12-15, 2020
+- **Dates:** May 12-15, 2020
 - **Location:** Your home!
-
 
 ## Registration
 
@@ -36,9 +32,7 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 **Program chairs:** Benjamin Dichter, Ryan Ly, Andrew Tritt, Pam Baker, and Oliver Rübel
 
-### Additional Organizational Support
-
-- The Kavli Foundation
+Additional organizational support is provided by the Kavli Foundation
 
 ## Resources
 
