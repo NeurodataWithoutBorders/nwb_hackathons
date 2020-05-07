@@ -16,13 +16,13 @@ When you are ready, create a new project by creating a new `README.md` file in a
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
 1. Go to the [projects](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK08_2020_Remote/projects) folder on GitHub
-1. Click on the "Create new file" button (toward the top-right of the page)
-1. Type `YourProjectName/README.md` as the new file name. Your project name cannot have any spaces. 
+1. Click the "Create new file" button (toward the top-right of the page)
+1. Type `YourProjectName/README.md` as the new file name. Your project name should not have any spaces. 
 1. Paste the previously copied content from the project template page into your new `README.md`
 1. Update at least your project's **title**, **key investigators**, and **project description** sections
 1. Click the "Propose new file" button
 1. Click the "Create pull request" button to open a pull request
-1. Click the "Create pull request" button. After an administrator reviews and merges your pull request, the website will be updated.
+1. Click the "Create pull request" button. After an administrator reviews and merges your pull request, the workshop website will be updated.
 1. Add a link to your project to the "Assigned Projects" section in the [project list](https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK08_2020_Remote/projects/PROJECTS.md) by editing the page. You will have to follow similar steps as above to create a pull request to have your changes merged.
 
 If you have any questions, please ask us on the NWB Slack workspace: https://bit.ly/nwb-slack
