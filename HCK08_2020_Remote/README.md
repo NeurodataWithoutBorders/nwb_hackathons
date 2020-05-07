@@ -28,35 +28,29 @@ The workshop is open to the public. Please complete our [registration form](http
 
 ## Logistics
 
-We will be using Zoom for the meeting. It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone. See installation instructions [here](https://zoom.us/download).
+We will be using Zoom for the meeting. We will send an email the day before the workshop with Zoom links for each day. 
+
+It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone. See installation instructions [here](https://zoom.us/download).
 
 ## Organizing Committee
 
-**Program chairs:** Benjamin Dichter and Oliver Rübel
+**Program chairs:** Benjamin Dichter, Ryan Ly, Andrew Tritt, Pam Baker, and Oliver Rübel
 
 ### Additional Organizational Support
 
 - The Kavli Foundation
 
-## Attendees
-
-<!-- ORGANIZERS: please edit REGISTRANTS.md -->
-{% include_relative REGISTRANTS.md %}
-
 ## Resources
 
-### Talks
-
-...
-
-### Code
-
-...
+Recorded talks will be uploaded after the talks are given.
 
 ## How to prepare?
 
 * Create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md)
 * Have example datasets that you need for your workshop project ready. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
+* Install the Python or MATLAB software for NWB: 
+  * PyNWB (Python): https://pynwb.readthedocs.io/en/stable/getting_started.html
+  * MatNWB (MATLAB): https://neurodatawithoutborders.github.io/matnwb/
 * For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
