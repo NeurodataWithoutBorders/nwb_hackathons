@@ -40,21 +40,21 @@ All times are in PDT (US/Pacific time)
     <td><span style="font-weight:bold"><b>1 - 1:50pm</b></span></td>
     <td>
       Overview of NWB-enabled tools, Part 1:
-      <br>  - NWB Explorer / Open Source Brain
-      <br>  - DANDI
-      <br>  - NWB Widgets
-      <br>  - Brainstorm
-      <br>  - SpikeInterface
+      <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
+      <br>  - <a href="https://dandiarchive.org">DANDI</a>
+      <br>  - <a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a>
+      <br>  - <a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a>
+      <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
     </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>2 - 2:40pm</b></span></td>
     <td>
       Overview of NWB-enabled tools, Part 2:
-      <br>  - CaImAn
-      <br>  - calciumImagingAnalysis
-      <br>  - DataJoint
-      <br>  - Frank Lab
+      <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
+      <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
+      <br>  - <a href="https://datajoint.io/">DataJoint</a>
+      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">Frank Lab, UCSF</a>
     </td>
   </tr>
   <tr>
