@@ -1,4 +1,4 @@
-All times are in PDT (US west coast time)
+All times are in PDT (US/Pacific time)
 
 <table width="400">
   <tr>
