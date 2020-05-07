@@ -12,6 +12,10 @@ The lists below provide an overview of specific projects for which at least one 
 * [Project Template](projects/template)
 * ...
 
+### Dataset visualization and analysis
+
+* [NWB Explorer](NWBExplorer)
+
 ## Project Suggestions
 You are free to come to this event with your own ideas for a project, but if you want some inspiration, here are some areas we have identified where we could use some help:
 
