@@ -83,12 +83,29 @@ All times are in PDT (US/Pacific time)
   <tr>
     <td><b>10am - 3pm</b></td>
     <td>
-      Elective in-depth breakouts (schedule TBD):
-      <br>  - NWB Explorer / Open Source Brain
-      <br>  - calciumImagingAnalysis
-      <br>  - DANDI
-      <br>  - NWB Widgets
-      <br>  - Brainstorm
+      Elective in-depth breakouts:
+      <table>
+        <tr>
+          <td>10 - 11am</td>
+          <td><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> (Padraig Gleeson, Matteo Cantarelli)</td>
+        </tr>
+        <tr>
+          <td>11am - 12pm</td>
+          <td><a href="https://dandiarchive.org">DANDI</a> (Satra Ghosh)</td>
+        </tr>
+        <tr>
+          <td>12 - 1pm</td>
+          <td><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> (Ben Dichter)</td>
+        </tr>
+        <tr>
+          <td>1 - 2pm</td>
+          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> (Biafra Ahanonu)</td>
+        </tr>
+        <tr>
+          <td>2 - 3pm</td>
+          <td><a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a> (Konstantinos Nasiotis)</td>
+        </tr>
+      </table>
    </td>
   </tr>
   <tr>
@@ -133,11 +150,25 @@ All times are in PDT (US/Pacific time)
   <tr>
     <td><b>11am - 3pm</b></td>
     <td>
-      Elective in-depth breakouts (schedule TBD):
-      <br>  - SpikeInterface
-      <br>  - CaImAn
-      <br>  - DataJoint
-      <br>  - Frank Lab
+      Elective in-depth breakouts:
+      <table>
+        <tr>
+          <td>11am - 12pm</td>
+          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> (Alessio Paolo Buccino)</td>
+        </tr>
+        <tr>
+          <td>12 - 1pm</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> (Changjia Cai)</td>
+        </tr>
+        <tr>
+          <td>1 - 2pm</td>
+          <td><a href="https://datajoint.io/">DataJoint</a> (Dimitri Yatsenko, Thinh Nguyen)</td>
+        </tr>
+        <tr>
+          <td>2 - 3pm</td>
+          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">Frank Lab, UCSF</a> (Loren Frank)</td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
