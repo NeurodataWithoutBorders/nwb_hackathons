@@ -43,8 +43,8 @@ Recorded talks will be uploaded after the talks are given.
 * Create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md)
 * Have example datasets that you need for your workshop project ready. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
 * Install the Python or MATLAB software for NWB: 
-  * PyNWB (Python): https://pynwb.readthedocs.io/en/stable/getting_started.html
-  * MatNWB (MATLAB): https://neurodatawithoutborders.github.io/matnwb/
+  * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
+  * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 * For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
