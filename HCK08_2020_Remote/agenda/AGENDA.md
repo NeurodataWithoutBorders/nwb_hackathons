@@ -207,7 +207,7 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   <tr>
     <td><span style="font-weight:bold"><b>11am - 3pm</b></span></td>
     <td>
-      Elective discussions about user needs by data modality:
+      Elective user discussions by data modality:
       <table>
         <tr>
           <td>11am - 12pm</td>
