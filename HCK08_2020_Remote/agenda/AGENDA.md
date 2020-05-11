@@ -210,11 +210,11 @@ All times are in PDT (US/Pacific time)
         </tr>
         <tr>
           <td>12 - 1pm</td>
-          <td>Intracellular electrophysiology</td>
+          <td>Optical physiology</td>
         </tr>
         <tr>
           <td>1 - 2pm</td>
-          <td>Optical physiology</td>
+          <td>Intracellular electrophysiology</td>
         </tr>
         <tr>
           <td>2 - 3pm</td>
