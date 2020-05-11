@@ -1,5 +1,7 @@
 All times are in PDT (US/Pacific time)
 
+<img alt="Agenda calendar graphic" src="NWB User Days Workshop Agenda.png">
+
 <table width="400">
   <tr>
     <th><b>Tuesday, May 12</b></th>
