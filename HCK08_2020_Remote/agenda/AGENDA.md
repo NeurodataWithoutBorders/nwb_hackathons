@@ -74,7 +74,7 @@ All times are in PDT (US/Pacific time)
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9 - 10am</b></span></td>
-    <td>Project overviews / lightning talks</td>
+    <td>Project overviews / lightning talks on proposed hacking projects</td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>10am - 3:30pm</b></span></td>
@@ -225,7 +225,7 @@ All times are in PDT (US/Pacific time)
   </tr>
   <tr>
     <td><b>3 - 4:30pm</b></td>
-    <td>Final check-in / lightning talks</td>
+    <td>Final check-in / lightning talks on hacking projects</td>
   </tr>
   <tr>
     <td><b>4:30 - 5:30pm</b></td>
