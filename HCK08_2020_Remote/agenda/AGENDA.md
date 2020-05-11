@@ -27,7 +27,7 @@ All times are in PDT (US/Pacific time)
         </tr>
         <tr>
           <td>11am - 12pm</td>
-          <td>Intro to NWB for optical imaging (Ben Dichter, Ryan Ly)</td>
+          <td>Intro to NWB for optical physiology (Ben Dichter, Ryan Ly)</td>
         </tr>
         <tr>
           <td>12 - 1pm</td>
