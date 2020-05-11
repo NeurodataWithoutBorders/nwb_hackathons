@@ -77,7 +77,7 @@ All times are in PDT (US/Pacific time)
     <td>Project overviews / lightning talks on proposed hacking projects</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>10am - 3:30pm</b></span></td>
+    <td><span style="font-weight:bold"><b>10am - 5pm</b></span></td>
     <td>Hacking on projects</td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ All times are in PDT (US/Pacific time)
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>11am - 3:30pm</b></span></td>
+    <td><span style="font-weight:bold"><b>11am - 5pm</b></span></td>
     <td>Hacking on projects</td>
   </tr>
   <tr>
