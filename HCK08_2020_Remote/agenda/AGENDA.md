@@ -1,6 +1,6 @@
 All times are in PDT (US/Pacific time)
 
-<img alt="Agenda calendar graphic" src="NWB User Days Workshop Agenda.png">
+<img alt="Agenda calendar graphic" src="NWB User Days Workshop Agenda 2.png">
 
 <table width="400">
   <tr>
