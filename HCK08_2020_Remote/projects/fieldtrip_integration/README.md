@@ -66,7 +66,8 @@ Potential issues:
 1
 The Fieldtrip data format seems not to allow units shared across contacts (see https://github.com/fieldtrip/fieldtrip/issues/721#issuecomment-603080632). It allows several units per contact (described in spike.unit which contains one integer for each channel and spike in that channel.
 
-
+2
+Dealing with different sampling rates. Comment Jan Mathijs: "...build in some glue-code in ft_read_header that 1) only selects the 'cont' type channels for further processing, and 2) then uses the majority Fs (by default). This would of course only work if the 'proper' LFPs are in the majority (as compared to the 40kHz cont-channels)"
 
 
 
