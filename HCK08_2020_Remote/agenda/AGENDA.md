@@ -109,12 +109,12 @@ All times are in PDT (US/Pacific time)
    </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>3:30 - 4pm</b></span></td>
+    <td><span style="font-weight:bold"><b>3 - 3:30pm</b></span></td>
     <td>Check-in</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>4 - 5pm</b></span></td>
-    <td>Social happy hour</td>
+    <td><span style="font-weight:bold"><b>3:30 - 5pm</b></span></td>
+    <td>Hacking on projects</td>
   </tr>
 </table>
 
@@ -158,7 +158,7 @@ All times are in PDT (US/Pacific time)
         </tr>
         <tr>
           <td>12 - 1pm</td>
-          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> (Changjia Cai)</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> (Andrea Giovannucci)</td>
         </tr>
         <tr>
           <td>1 - 2pm</td>
@@ -172,8 +172,12 @@ All times are in PDT (US/Pacific time)
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>3:30 - 4pm</b></span></td>
+    <td><span style="font-weight:bold"><b>3 - 3:30pm</b></span></td>
     <td>Check-in</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold"><b>3:30 - 5pm</b></span></td>
+    <td>Hacking on projects</td>
   </tr>
 </table>
 
@@ -197,11 +201,27 @@ All times are in PDT (US/Pacific time)
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>11am - 3pm</b></span></td>
-    <td>Elective discussions about requirements by topic (schedule TBD):
-      <br>   - extracellular electrophysiology
-      <br>   - intracellular electrophysiology
-      <br>   - optical physiology
-      <br>   - behavior</td>
+    <td>
+      Elective discussions about user needs by data modality:
+      <table>
+        <tr>
+          <td>11am - 12pm</td>
+          <td>Extracellular electrophysiology</td>
+        </tr>
+        <tr>
+          <td>12 - 1pm</td>
+          <td>Intracellular electrophysiology</td>
+        </tr>
+        <tr>
+          <td>1 - 2pm</td>
+          <td>Optical physiology</td>
+        </tr>
+        <tr>
+          <td>2 - 3pm</td>
+          <td>Behavior</td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <td><b>3 - 4:30pm</b></td>
