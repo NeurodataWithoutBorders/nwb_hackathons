@@ -22,7 +22,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9:10 - 10am</b></span></td>
-    <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)</td>
+    <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)
+    <br>https://youtu.be/w67ljQETZNc</td>
   </tr>
   <tr>
     <td><b>10am - 1pm</b></td>
