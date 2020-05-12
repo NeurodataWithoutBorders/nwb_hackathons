@@ -16,7 +16,9 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9 - 9:10am</b></span></td>
-    <td>Introduction: How to get the most out of this workshop</td>
+    <td>Introduction: How to get the most out of this workshop
+    <br>https://youtu.be/fRhuwBLs7tM
+    </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9:10 - 10am</b></span></td>
@@ -28,11 +30,16 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
       <table>
         <tr>
           <td>10 - 11am</td>
-          <td>Intro to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)</td>
+          <td>Intro to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)
+            <br>PyNWB: https://youtu.be/rlywed3ar-s
+            <br>MatNWB: https://youtu.be/K7L9B5EJOAs</td>
         </tr>
         <tr>
           <td>11am - 12pm</td>
-          <td>Intro to NWB for optical physiology (Ben Dichter, Ryan Ly)</td>
+          <td>Intro to NWB for optical physiology (Ben Dichter, Ryan Ly)
+           <br>PyNWB: https://youtu.be/HPjSxBjdFpM
+           <br>MatNWB: https://youtu.be/OBidHdocnTc
+          </td>
         </tr>
         <tr>
           <td>12 - 1pm</td>
