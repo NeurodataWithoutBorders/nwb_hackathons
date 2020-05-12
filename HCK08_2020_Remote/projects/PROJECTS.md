@@ -13,7 +13,7 @@ The lists below provide an overview of specific projects for which at least one 
 * [TiltBrush](projects/TiltBrushToNWB)
 * [Fieldtrip Integration](projects/fieldtrip_integration)
 * [NWB Explorer](projects/NWBExplorer)
-* [OpticalVoltagetoNWB](project/OpticalVoltagetoNWB)
+* [OpticalVoltagetoNWB](projects/OpticalVoltagetoNWB)
 * ...
 
 ## Project Suggestions
