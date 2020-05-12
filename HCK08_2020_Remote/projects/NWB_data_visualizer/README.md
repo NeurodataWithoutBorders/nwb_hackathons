@@ -6,11 +6,11 @@
 
 ## Key Investigators
 
-<!-- - Armin Najarpour Foroushani (UdeM)-->
+- Armin Najarpour Foroushani (UdeM)
 
 ## Project Description
 
-<!-- In this project we visualize Neuropixels data. -->
+In this project we visualize Neuropixels data.
 
 ## Objectives
 
