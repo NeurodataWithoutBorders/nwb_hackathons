@@ -154,7 +154,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   </tr>
   <tr>
     <td><b>10:30 - 11am</b></td>
-    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)</td>
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
+    <br>https://www.youtube.com/watch?v=PIE_F4iVv98</td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>11am - 5pm</b></span></td>
