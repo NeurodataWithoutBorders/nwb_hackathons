@@ -142,7 +142,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   </tr>
   <tr>
     <td><b>9 - 9:30am</b></td>
-    <td>How to build and share extensions (Ryan Ly)</td>
+    <td>How to build and share extensions (Ryan Ly)
+    <br>https://www.youtube.com/watch?v=_lvpY4PajS8</td>
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
