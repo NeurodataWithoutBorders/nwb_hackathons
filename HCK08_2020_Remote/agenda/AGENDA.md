@@ -17,13 +17,14 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   <tr>
     <td><span style="font-weight:bold"><b>9 - 9:10am</b></span></td>
     <td>Introduction: How to get the most out of this workshop
-    <br>https://youtu.be/fRhuwBLs7tM
+      <br><a href="https://youtu.be/fRhuwBLs7tM">YouTube Recording</a>
     </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>9:10 - 10am</b></span></td>
     <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)
-    <br>https://youtu.be/vfQsMyl0HQI</td>
+    <br><a href="https://youtu.be/vfQsMyl0HQI">YouTube Recording</a>
+    </td>
   </tr>
   <tr>
     <td><b>10am - 1pm</b></td>
@@ -32,14 +33,15 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
         <tr>
           <td>10 - 11am</td>
           <td>Intro to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)
-            <br>PyNWB: https://youtu.be/rlywed3ar-s
-            <br>MatNWB: https://youtu.be/K7L9B5EJOAs</td>
+            <br>PyNWB: <a href="https://youtu.be/rlywed3ar-s">YouTube Recording</a>
+            <br>MatNWB: <a href="https://youtu.be/K7L9B5EJOAs">YouTube Recording</a>
+          </td>
         </tr>
         <tr>
           <td>11am - 12pm</td>
           <td>Intro to NWB for optical physiology (Ben Dichter, Ryan Ly)
-           <br>PyNWB: https://youtu.be/HPjSxBjdFpM
-           <br>MatNWB: https://youtu.be/OBidHdocnTc
+           <br>PyNWB: <a href="https://youtu.be/HPjSxBjdFpM">YouTube Recording</a>
+           <br>MatNWB: <a href="https://youtu.be/OBidHdocnTc">YouTube Recording</a>
           </td>
         </tr>
         <tr>
@@ -143,7 +145,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   <tr>
     <td><b>9 - 9:30am</b></td>
     <td>How to build and share extensions (Ryan Ly)
-    <br>https://www.youtube.com/watch?v=_lvpY4PajS8</td>
+    <br><a href="https://www.youtube.com/watch?v=_lvpY4PajS8">YouTube Recording</a>
+    </td>
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
@@ -156,7 +159,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   <tr>
     <td><b>10:30 - 11am</b></td>
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
-    <br>https://www.youtube.com/watch?v=PIE_F4iVv98</td>
+    <br><a href="https://www.youtube.com/watch?v=PIE_F4iVv98">YouTube Recording</a>
+  </td>
   </tr>
   <tr>
     <td><span style="font-weight:bold"><b>11am - 5pm</b></span></td>
@@ -177,8 +181,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
         </tr>
         <tr>
           <td>1 - 2pm</td>
-          <td><a href="https://datajoint.io/">DataJoint</a> (Dimitri Yatsenko, Thinh Nguyen)<br/>
-              Presentation and demo repository: <a href="https://github.com/ttngu207/nwb_hackathons_2020">https://github.com/ttngu207/nwb_hackathons_2020</a></td>
+          <td><a href="https://datajoint.io/">DataJoint</a> (Dimitri Yatsenko, Thinh Nguyen)
+            <br/><a href="https://github.com/ttngu207/nwb_hackathons_2020">Presentation and demo repository</a></td>
         </tr>
         <tr>
           <td>2 - 3pm</td>
