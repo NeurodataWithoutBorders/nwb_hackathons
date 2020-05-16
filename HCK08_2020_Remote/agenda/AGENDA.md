@@ -177,7 +177,8 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
         </tr>
         <tr>
           <td>1 - 2pm</td>
-          <td><a href="https://datajoint.io/">DataJoint</a> (Dimitri Yatsenko, Thinh Nguyen)</td>
+          <td><a href="https://datajoint.io/">DataJoint</a> (Dimitri Yatsenko, Thinh Nguyen)<br/>
+              Presentation and demo repository: <a href="https://github.com/ttngu207/nwb_hackathons_2020">https://github.com/ttngu207/nwb_hackathons_2020</a></td>
         </tr>
         <tr>
           <td>2 - 3pm</td>
