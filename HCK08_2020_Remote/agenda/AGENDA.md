@@ -151,10 +151,12 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   <tr>
     <td><b>9:30 - 10am</b></td>
     <td>How to write custom API classes in PyNWB (Andrew Tritt)</td>
+    <br><a href="https://www.youtube.com/watch?v=ATgVWX5LyRQ">YouTube Recording</a>
   </tr>
   <tr>
     <td><b>10 - 10:30am</b></td>
     <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)</td>
+    <br><a href="https://www.youtube.com/watch?v=wduZHfNOaNg">YouTube Recording</a>
   </tr>
   <tr>
     <td><b>10:30 - 11am</b></td>
