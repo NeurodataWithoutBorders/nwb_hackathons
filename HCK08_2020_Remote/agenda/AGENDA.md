@@ -150,13 +150,15 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
   </tr>
   <tr>
     <td><b>9:30 - 10am</b></td>
-    <td>How to write custom API classes in PyNWB (Andrew Tritt)</td>
+    <td>How to write custom API classes in PyNWB (Andrew Tritt)
     <br><a href="https://www.youtube.com/watch?v=ATgVWX5LyRQ">YouTube Recording</a>
+    </td>
   </tr>
   <tr>
     <td><b>10 - 10:30am</b></td>
-    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)</td>
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)
     <br><a href="https://www.youtube.com/watch?v=wduZHfNOaNg">YouTube Recording</a>
+    </td>
   </tr>
   <tr>
     <td><b>10:30 - 11am</b></td>
@@ -175,11 +177,15 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
       <table>
         <tr>
           <td>11am - 12pm</td>
-          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> (Alessio Paolo Buccino)</td>
+          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> (Alessio Paolo Buccino)
+            <br><a href="https://youtu.be/nWJGwFB7oII">YouTube Recording</a>
+          </td>
         </tr>
         <tr>
           <td>12 - 1pm</td>
-          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> (Andrea Giovannucci)</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> (Andrea Giovannucci)
+          <br><a href="https://www.youtube.com/watch?v=wUhKkNtSu_s">YouTube Recording</a>
+          </td>
         </tr>
         <tr>
           <td>1 - 2pm</td>
