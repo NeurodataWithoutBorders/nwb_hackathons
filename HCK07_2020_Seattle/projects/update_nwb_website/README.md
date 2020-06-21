@@ -18,6 +18,7 @@ Ensure that latest information is on nwb.org
 
 ## ToDo items
 
+* Add INCF Training Space and YouTube channel to the tutorial page https://www.nwb.org/how-to-use/
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
 * Update dataset page to add missing datasets (e.g., Ruetighauser data) and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
 * Satra indicated that the format specification docs are hard to find. We should make Documentation a top-level item on the website.
