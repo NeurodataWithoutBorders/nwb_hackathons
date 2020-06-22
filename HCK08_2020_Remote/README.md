@@ -12,6 +12,10 @@
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Agenda](#agenda)
+  
+## Report
+
+The final report for the 8th NWB User Days is now available on GitHub (<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK08_2020_Remote/report/Report___8th_NWB_Hackathon.pdf" target="_blank">PDF</a>)(<a href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK08_2020_Remote/report/Report%208th%20NWB%20Hackathon.zip" target="_blank">LaTeX</a>)
 
 ## Dates and Location
 
