@@ -1,7 +1,7 @@
 
 <img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
 
-## Welcome to the 8th NWB User Days Workshop!
+## Welcome to the 9th NWB User Days Workshop!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -75,5 +75,4 @@ Reference herein to any specific commercial product, process, or service by its 
 The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its employees are agents of the US Government.
 
 Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
-
 
