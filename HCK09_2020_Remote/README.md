@@ -16,7 +16,7 @@
 
 ## Dates and Location
 
-- **Dates:** September, 2020
+- **Dates:** September 21-23, 2020
 - **Location:** Your home!
 
 ## Registration
@@ -54,7 +54,7 @@ The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.or
 
 The purpose of the NWB User Days training workshop is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB-based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
-In contrast to conferences, where the primary focus is to report results, the objective of the Hackathon is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
+In contrast to conferences, where the primary focus is to report results, the objective of the NWB User Days is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
 
 ## Projects
 
@@ -75,4 +75,3 @@ Reference herein to any specific commercial product, process, or service by its 
 The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its employees are agents of the US Government.
 
 Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
-
