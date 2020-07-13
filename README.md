@@ -2,7 +2,7 @@
 
 ### Upcoming Events
 
-- [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User and Developer Days will be held remotely through video conferencing. Exact dates TBD.
+- [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User Days will be held remotely through video conferencing on **September 21-23, 2020**.
 
 ### Past Hackathons
 - [Hackathon 8: May 2020](HCK08_2020_Remote/README.md){:target="_top"} - The 8th User and Developer Days will be held remotely through video conferencing on **May 12-15, 2020**.
