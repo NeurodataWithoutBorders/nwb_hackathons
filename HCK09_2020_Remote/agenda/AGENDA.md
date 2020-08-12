@@ -165,7 +165,7 @@ the workshop.
   <tr>
     <th style="width:130px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
-  </tr><!--
+  </tr>
   <tr>
     <td><b>9 - 9:45am</b></td>
     <td>NWB extensions: How to create and share non-standardized data types in NWB (Ryan Ly)
@@ -190,9 +190,9 @@ the workshop.
     </td>
   </tr>
   <tr>
-    <td><b>11 - 2pm/b></td>
+    <td><b>11 - 2pm</b></td>
     <td>Hacking on projects</td>
-  </tr>-->
+  </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
