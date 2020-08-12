@@ -11,7 +11,7 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:120px"><b>Day 1</b></th>
+    <th style="width:130px"><b>Day 1</b></th>
     <th><b>Monday, September 21</b></th>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ the workshop.
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
-    <td>Free time</td>
+    <td>Hacking on projects</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
@@ -90,7 +90,7 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:120px"><b>Day 2</b></th>
+    <th style="width:130px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
@@ -120,11 +120,10 @@ the workshop.
       will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
-  <!--
   <tr>
     <td><b>12 - 2pm</b></td>
     <td>Hacking on projects</td>
-  </tr>-->
+  </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
@@ -164,9 +163,9 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:120px"><b>Day 3</b></th>
+    <th style="width:130px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
-  </tr><!--
+  </tr>
   <tr>
     <td><b>9 - 9:45am</b></td>
     <td>NWB extensions: How to create and share non-standardized data types in NWB (Ryan Ly)
@@ -193,7 +192,7 @@ the workshop.
   <tr>
     <td><b>11 - 2pm/b></td>
     <td>Hacking on projects</td>
-  </tr>-->
+  </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
