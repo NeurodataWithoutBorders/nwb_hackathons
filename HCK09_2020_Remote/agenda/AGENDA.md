@@ -11,9 +11,9 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:100px"><b>Day 1</b></th>
+    <th style="width:120px"><b>Day 1</b></th>
     <th><b>Monday, September 21</b></th>
-  </tr>  <!--
+  </tr>
   <tr>
     <td><b>8:45 - 9am (CET)</b></td>
     <td>Call-in time, work out any technical issues</td>
@@ -33,7 +33,7 @@ the workshop.
   <tr>
     <td><b>10 - 10:50am</b></td>
     <td>
-      Overview of NWB-enabled tools, Part 1-->
+      Overview of NWB-enabled tools, Part 1
       <!--
       <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
@@ -41,25 +41,25 @@ the workshop.
       <br>  - <a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a>
       <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
       -->
-    <!--</td>
+    </td>
   </tr>
   <tr>
     <td><b>11 - 11:50pm</b></td>
     <td>
-      Overview of NWB-enabled tools, Part 2-->
+      Overview of NWB-enabled tools, Part 2
       <!--
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
       <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
       <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
       <br>  - <a href="https://datajoint.io/">DataJoint</a>
       <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">Frank Lab, UCSF</a>
-      --><!--
+      -->
     </td>
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
     <td>Free time</td>
-  </tr>-->
+  </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
@@ -90,7 +90,7 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:100px"><b>Day 2</b></th>
+    <th style="width:120px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
@@ -164,7 +164,7 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th style="width:100px"><b>Day 3</b></th>
+    <th style="width:120px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
   </tr><!--
   <tr>
