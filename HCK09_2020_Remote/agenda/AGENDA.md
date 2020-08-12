@@ -87,12 +87,12 @@ the workshop.
     </td>
   </tr>
 </table>
-<!--
+
 <table width="400">
   <tr>
     <th style="width:100px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
-  </tr>
+  </tr><!--
   <tr>
     <td><b>9am - 12pm</b></td>
     <td>Elective tutorials / technical introductions (covers PyNWB and MatNWB). <br/>
@@ -123,7 +123,7 @@ the workshop.
   <tr>
     <td><b>12 - 2pm</b></td>
     <td>Hacking on projects</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
@@ -165,7 +165,7 @@ the workshop.
   <tr>
     <th style="width:100px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
-  </tr>
+  </tr><!--
   <tr>
     <td><b>9 - 9:45am</b></td>
     <td>NWB extensions: How to create and share non-standardized data types in NWB (Ryan Ly)
@@ -192,7 +192,7 @@ the workshop.
   <tr>
     <td><b>11 - 2pm/b></td>
     <td>Hacking on projects</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
@@ -212,7 +212,7 @@ the workshop.
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td>--><!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)--><!--
+          <td><!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)-->
           </td>
         </tr>
       </table>
@@ -221,4 +221,3 @@ the workshop.
     </td>
   </tr>
 </table>
--->
