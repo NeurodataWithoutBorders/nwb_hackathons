@@ -92,7 +92,7 @@ the workshop.
   <tr>
     <th style="width:100px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
-  </tr><!--
+  </tr>
   <tr>
     <td><b>9am - 12pm</b></td>
     <td>Elective tutorials / technical introductions (covers PyNWB and MatNWB). <br/>
@@ -120,6 +120,7 @@ the workshop.
       will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
+  <!--
   <tr>
     <td><b>12 - 2pm</b></td>
     <td>Hacking on projects</td>
@@ -212,7 +213,7 @@ the workshop.
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)-->
+          <td>TBD<!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)-->
           </td>
         </tr>
       </table>
