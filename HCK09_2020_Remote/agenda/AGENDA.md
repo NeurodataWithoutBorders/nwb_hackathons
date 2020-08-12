@@ -10,7 +10,7 @@ This is a tentative schedule. Times are subject to change. A final schedule will
 the workshop.
 
 <table width="400">
-  <tr>
+  <tr colspan="2">
     <th><b>Day 1 - Monday, September 21</b></th>
   </tr>
   <tr>
@@ -82,13 +82,13 @@ the workshop.
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on Slack to answer questions.
+      will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
 </table>
 
 <table width="400">
-  <tr>
+  <tr colspan="2">
     <th><b>Day 2 - Tuesday, September 22</b></th>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ the workshop.
         </tr>
       </table>
       Users should attend the tutorial(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on Slack to answer questions.
+      will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
   <tr>
@@ -141,7 +141,8 @@ the workshop.
         </tr>
         <tr>
           <td>5 - 5:30pm</td>
-          <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)
+          <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access)
+            <br/>(Andrew Tritt)
 
           </td>
         </tr>
@@ -153,13 +154,13 @@ the workshop.
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on Slack to answer questions.
+      will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
 </table>
 
 <table width="400">
-  <tr>
+  <tr colspan="2">
     <th><b>Day 3 - Wednesday, September 23</b></th>
   </tr>
   <tr>
@@ -213,7 +214,7 @@ the workshop.
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on Slack to answer questions.
+      will be available in the main Zoom room and on the NWB Slack to answer questions.
     </td>
   </tr>
 </table>
