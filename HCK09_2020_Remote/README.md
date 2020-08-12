@@ -41,30 +41,31 @@ Recorded talks will be uploaded after the talks are given.
 
 ## How to prepare?
 
-* Create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md)
-* Have example datasets that you need for your workshop project ready. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
-* Install the Python or MATLAB software for NWB: 
+Install the Python or MATLAB software for NWB: 
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
-* For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
+
+If you are new to NWB, we encourage you to prepare a dataset that you would like to convert to NWB so that you can try the tutorials and ask the developers questions during the workshop. You should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
+
+If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md). We will advertise these projects during the workshop and check in with you each day.
+
+For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 ## Objective
 
-The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
+The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the NWB User Days training workshop is to bring the experimental neurophysiology community together to further adoption and the development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB-based tools, surface common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
-
-In contrast to conferences, where the primary focus is to report results, the objective of the NWB User Days is to provide a venue for NWB users and tool developers to learn about NWB and collaboratively work on any NWB-related research projects. This event is meant to foster community and collaboration around NWB, not competition. There will be no judges nor prizes. Participants will be expected to bring data from their lab, software they would like to integrate with NWB, and/or collaborate with others to build integration with NWB.
+The purpose of the NWB User Days user training workshop is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
 ## Projects
 
 <a name="ProjectsList"/>
 
-For instructions on how to create a project see [here](projects/README.md)
+For instructions on how to create a project, see [here](projects/README.md)
 
 ## Agenda
 
-TBD
+{% include_relative agenda/AGENDA.md %}
 
 <h2> Disclaimer </h2>
 
