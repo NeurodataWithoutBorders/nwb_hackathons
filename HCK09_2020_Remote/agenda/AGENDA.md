@@ -10,10 +10,10 @@ This is a tentative schedule. Times are subject to change. A final schedule will
 the workshop.
 
 <table width="400">
-  <!--<tr>
-    <th><b>Day 1</b></th>
+  <tr>
+    <th style="width:100px"><b>Day 1</b></th>
     <th><b>Monday, September 21</b></th>
-  </tr>
+  </tr>  <!--
   <tr>
     <td><b>8:45 - 9am (CET)</b></td>
     <td>Call-in time, work out any technical issues</td>
@@ -90,7 +90,7 @@ the workshop.
 <!--
 <table width="400">
   <tr>
-    <th><b>Day 2</b></th>
+    <th style="width:100px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ the workshop.
 
 <table width="400">
   <tr>
-    <th><b>Day 3</b></th>
+    <th style="width:100px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
   </tr>
   <tr>
