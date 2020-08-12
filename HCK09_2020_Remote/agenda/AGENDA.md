@@ -10,7 +10,7 @@ This is a tentative schedule. Times are subject to change. A final schedule will
 the workshop.
 
 <table width="400">
-  <tr>
+  <!--<tr>
     <th><b>Day 1</b></th>
     <th><b>Monday, September 21</b></th>
   </tr>
@@ -19,21 +19,21 @@ the workshop.
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>9 - 9:10am</b></span></td>
+    <td><b>9 - 9:10am</b></td>
     <td>Introduction: How to get the most out of this workshop (Ben Dichter)
 
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>9:10 - 9:55am</b></span></td>
+    <td><b>9:10 - 9:55am</b></td>
     <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)
 
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>10 - 10:50am</b></span></td>
+    <td><b>10 - 10:50am</b></td>
     <td>
-      Overview of NWB-enabled tools, Part 1
+      Overview of NWB-enabled tools, Part 1-->
       <!--
       <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
@@ -41,25 +41,25 @@ the workshop.
       <br>  - <a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a>
       <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
       -->
-    </td>
+    <!--</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>11 - 11:50pm</b></span></td>
+    <td><b>11 - 11:50pm</b></td>
     <td>
-      Overview of NWB-enabled tools, Part 2
+      Overview of NWB-enabled tools, Part 2-->
       <!--
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
       <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
       <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
       <br>  - <a href="https://datajoint.io/">DataJoint</a>
       <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">Frank Lab, UCSF</a>
-      -->
+      --><!--
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>12 - 2pm</b></span></td>
+    <td><b>12 - 2pm</b></td>
     <td>Free time</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
@@ -87,7 +87,7 @@ the workshop.
     </td>
   </tr>
 </table>
-
+<!--
 <table width="400">
   <tr>
     <th><b>Day 2</b></th>
@@ -121,7 +121,7 @@ the workshop.
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>12 - 2pm/b></span></td>
+    <td><b>12 - 2pm</b></td>
     <td>Hacking on projects</td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ the workshop.
     </td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold"><b>11 - 2pm/b></span></td>
+    <td><b>11 - 2pm/b></td>
     <td>Hacking on projects</td>
   </tr>
   <tr>
@@ -212,7 +212,7 @@ the workshop.
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)-->
+          <td>--><!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)--><!--
           </td>
         </tr>
       </table>
@@ -221,3 +221,4 @@ the workshop.
     </td>
   </tr>
 </table>
+-->
