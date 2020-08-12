@@ -10,8 +10,9 @@ This is a tentative schedule. Times are subject to change. A final schedule will
 the workshop.
 
 <table width="400">
-  <tr colspan="2">
-    <th><b>Day 1 - Monday, September 21</b></th>
+  <tr>
+    <th><b>Day 1</b></th>
+    <th><b>Monday, September 21</b></th>
   </tr>
   <tr>
     <td><b>8:45 - 9am (CET)</b></td>
@@ -88,8 +89,9 @@ the workshop.
 </table>
 
 <table width="400">
-  <tr colspan="2">
-    <th><b>Day 2 - Tuesday, September 22</b></th>
+  <tr>
+    <th><b>Day 2</b></th>
+    <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
     <td><b>9am - 12pm</b></td>
@@ -160,8 +162,9 @@ the workshop.
 </table>
 
 <table width="400">
-  <tr colspan="2">
-    <th><b>Day 3 - Wednesday, September 23</b></th>
+  <tr>
+    <th><b>Day 3</b></th>
+    <th><b>Wednesday, September 23</b></th>
   </tr>
   <tr>
     <td><b>9 - 9:45am</b></td>
