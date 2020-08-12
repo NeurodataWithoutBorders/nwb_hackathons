@@ -21,11 +21,11 @@
 
 ## Registration
 
-The workshop is open to the public. Please complete our [registration form](https://forms.gle/8LYAx743D4rEwSkT7) to attend the event. Anyone interested in NWB may request an invitation. 
+The workshop is open to the public. Please complete our [registration form](https://bit.ly/2PHbE34) to attend the event. Anyone interested in NWB may request an invitation.
 
 ## Logistics
 
-We will be using Zoom for the meeting. We will send an email the day before the workshop with Zoom links for each day. 
+We will be using Zoom for the meeting. We will send an email the day before the workshop with Zoom links for each day.
 
 It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone. See installation instructions [here](https://zoom.us/download).
 
@@ -41,7 +41,7 @@ Recorded talks will be uploaded after the talks are given.
 
 ## How to prepare?
 
-Install the Python or MATLAB software for NWB: 
+Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 
