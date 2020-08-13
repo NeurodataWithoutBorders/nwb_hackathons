@@ -142,17 +142,8 @@ the workshop.
           <td>TBD</td>
         </tr>
         <tr>
-          <td>5 - 5:30pm</td>
-          <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access)
-            <br/>(Andrew Tritt)
-
-          </td>
-        </tr>
-        <tr>
-          <td>5:30 - 6pm</td>
-          <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
-
-          </td>
+          <td>5 - 5:55pm</td>
+          <td>TBD</td>
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
