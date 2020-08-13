@@ -72,7 +72,7 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
-    <td>Hacking on projects</td>
+    <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
