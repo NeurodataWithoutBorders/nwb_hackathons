@@ -21,13 +21,13 @@
 
 ## Registration
 
-The workshop is open to the public. Please complete our [registration form](https://bit.ly/2PHbE34) to attend the event. Anyone interested in NWB may request an invitation.
+The workshop is open to the public. Please complete our [registration form](https://bit.ly/2PHbE34) to attend the event.
 
 Note: The workshop schedule is centered around 9am-6pm Central European Time.
 
 ## Logistics
 
-We will be using Zoom for the meeting. We will send an email the day before the workshop with Zoom links for each day.
+We will be using the Zoom videoconferencing platform for the meeting. We will send an email in the days before the workshop with Zoom links.
 
 It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone. See installation instructions [here](https://zoom.us/download).
 
@@ -57,7 +57,7 @@ For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the NWB User Days user training workshop is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+The purpose of the NWB User Days user training workshops is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
 <!--## Projects
 
@@ -70,7 +70,7 @@ For instructions on how to create a project, see [here](projects/README.md)
 
 {% include_relative agenda/AGENDA.md %}
 
-<h2> Disclaimer </h2>
+## Disclaimer
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
 
