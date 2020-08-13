@@ -47,9 +47,9 @@ Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 
-If you are new to NWB, we encourage you to prepare a dataset that you would like to convert to NWB so that you can try the tutorials and ask the developers questions during the workshop. You should know how to read the data using Python or MATLAB and ideally have scripts ready for reading the data.
+If you are new to NWB, we encourage you to prepare a dataset that you would like to convert to NWB so that you can try the tutorials and ask the developers questions during the workshop. You should know how to read the data using Python or MATLAB.
 
-If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md). We will advertise these projects during the workshop and check in with you each day.
+If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md). We will advertise these projects during the workshop.
 
 For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
 
@@ -59,11 +59,12 @@ The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.or
 
 The purpose of the NWB User Days user training workshop is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
-## Projects
+<!--## Projects
 
 <a name="ProjectsList"/>
 
 For instructions on how to create a project, see [here](projects/README.md)
+-->
 
 ## Agenda
 
