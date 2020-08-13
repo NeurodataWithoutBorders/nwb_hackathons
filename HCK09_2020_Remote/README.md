@@ -31,7 +31,7 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 ## Organizing Committee
 
-**Program chairs:** Benjamin Dichter, Ryan Ly, Andrew Tritt, Pam Baker, and Oliver Rübel
+**Program chairs:** Ryan Ly, Benjamin Dichter, Andrew Tritt, Pam Baker, and Oliver Rübel
 
 Additional organizational support is provided by the Kavli Foundation
 

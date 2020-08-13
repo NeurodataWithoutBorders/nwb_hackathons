@@ -9,6 +9,20 @@ You can also add this Google Calendar to your calendar to see the workshop's eve
 This is a tentative schedule. Times are subject to change. A final schedule will be released a couple weeks prior to
 the workshop.
 
+Confirmed tool developer speakers:
+<ul>
+<li><a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a> - Konstantinos Nasiotis</li>
+<li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Andrea Giovannucci</li>
+<li><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</li>
+<li><a href="https://dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
+<li><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> - Loren Frank</li>
+<li><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun</li>
+<li><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> - Padraig Gleeson, Matteo Cantarelli</li>
+<li><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter</li>
+<li><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</li>
+<li><a href="https://datajoint.io/">suite2p</a> - Carsen Stringer</li>
+</ul>
+
 <table width="400">
   <tr>
     <th style="width:130px"><b>Day 1</b></th>
@@ -122,7 +136,7 @@ the workshop.
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
-    <td>Hacking on projects</td>
+    <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
@@ -182,7 +196,7 @@ the workshop.
   </tr>
   <tr>
     <td><b>11 - 2pm</b></td>
-    <td>Hacking on projects</td>
+    <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
