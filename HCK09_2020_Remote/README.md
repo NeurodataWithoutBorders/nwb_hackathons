@@ -23,6 +23,8 @@
 
 The workshop is open to the public. Please complete our [registration form](https://bit.ly/2PHbE34) to attend the event. Anyone interested in NWB may request an invitation.
 
+Note: The workshop schedule is centered around 9am-6pm Central European Time.
+
 ## Logistics
 
 We will be using Zoom for the meeting. We will send an email the day before the workshop with Zoom links for each day.
