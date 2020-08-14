@@ -14,7 +14,7 @@ Confirmed tool developer speakers:
 <li><a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a> - Konstantinos Nasiotis</li>
 <li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Andrea Giovannucci</li>
 <li><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</li>
-<li><a href="https://dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
+<li><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
 <li><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> - Loren Frank</li>
 <li><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun</li>
 <li><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> - Padraig Gleeson, Matteo Cantarelli</li>
