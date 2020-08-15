@@ -20,7 +20,7 @@ Confirmed tool developer speakers:
 <li><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> - Padraig Gleeson, Matteo Cantarelli</li>
 <li><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter</li>
 <li><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</li>
-<li><a href="https://datajoint.io/">suite2p</a> - Carsen Stringer</li>
+<li><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer</li>
 </ul>
 
 <table width="400">
