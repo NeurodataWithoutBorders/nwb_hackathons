@@ -1,4 +1,4 @@
-**All times are in CET (Central European Time)**
+**All times are in Central European Summer Time (CEST; UTC+2)**
 
 <!--This calendar view shows the workshop agenda. Events in blue are highly recommended. Events in orange are optional. All times not marked are considered time for attendees to hack on their projects. Developers will be available to answer questions in the main Zoom room from 8:30am to 5pm PDT.
 <img alt="Agenda calendar graphic" src="agenda/NWB User Days Workshop Agenda 2.png">
