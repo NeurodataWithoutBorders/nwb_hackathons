@@ -29,7 +29,7 @@ Confirmed tool developer speakers:
     <th><b>Monday, September 21</b></th>
   </tr>
   <tr>
-    <td><b>8:45 - 9am (CET)</b></td>
+    <td><b>8:45 - 9am (CEST)</b></td>
     <td>Call-in time, work out any technical issues</td>
   </tr>
   <tr>
