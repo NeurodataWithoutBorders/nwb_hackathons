@@ -1,7 +1,7 @@
 
 <img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
 
-## Welcome to the 9th NWB User Days Workshop!
+# Welcome to the 9th NWB User Days Workshop!
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -10,10 +10,10 @@
   * [Resources](#resources)
   * [How to prepare?](#how-to-prepare)
   * [Objective](#objective)
-  * [Projects](#projects)
-     * [Creating a New Project](projects/README.md)
   * [Agenda](#agenda)
-
+  <!--  * [Projects](#projects)
+     * [Creating a New Project](projects/README.md)-->
+     
 ## Dates and Location
 
 - **Dates:** September 21-23, 2020
@@ -49,15 +49,13 @@ Install the Python or MATLAB software for NWB:
 
 If you are new to NWB, we encourage you to prepare a dataset that you would like to convert to NWB so that you can try the tutorials and ask the developers questions during the workshop. You should know how to read the data using Python or MATLAB.
 
-If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. For further details and instructions on how to create a project, see [here](projects/README.md). We will advertise these projects during the workshop.
-
-For an overview of NWB, see also: [https://www.nwb.org/](https://www.nwb.org/)
+If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. To create a project page, see [here](projects/README.md). We will advertise these projects during the workshop.
 
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the NWB User Days user training workshops is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+The purpose of the NWB User Days training workshops is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
 <!--## Projects
 
