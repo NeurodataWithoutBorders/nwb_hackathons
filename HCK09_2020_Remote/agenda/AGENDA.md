@@ -46,29 +46,20 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>10 - 10:50am</b></td>
+    <td><b>10am-12pm</b></td>
     <td>
-      Overview of NWB-enabled tools, Part 1
-      <!--
-      <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
-      <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
-      <br>  - <a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a>
+      Overview of NWB-enabled tools (10 min per tool), schedule TBD
       <br>  - <a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a>
-      <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
-      -->
-    </td>
-  </tr>
-  <tr>
-    <td><b>11 - 11:50pm</b></td>
-    <td>
-      Overview of NWB-enabled tools, Part 2
-      <!--
+      <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
+      <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
-      <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
-      <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
       <br>  - <a href="https://datajoint.io/">DataJoint</a>
-      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">Frank Lab, UCSF</a>
-      -->
+      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint + NWB Integration in the Frank Lab, UCSF</a>
+      <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
+      <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
+      <br>  - <a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a>
+      <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
+      <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
     </td>
   </tr>
   <tr>
