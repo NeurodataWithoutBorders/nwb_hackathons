@@ -11,7 +11,6 @@ the workshop.
 
 Confirmed tool developer speakers:
 <ul>
-<li><a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a> - Konstantinos Nasiotis</li>
 <li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Andrea Giovannucci</li>
 <li><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</li>
 <li><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
@@ -49,7 +48,6 @@ Confirmed tool developer speakers:
     <td><b>10am-12pm</b></td>
     <td>
       Overview of NWB-enabled tools (10 min per tool), schedule TBD
-      <br>  - <a href="https://neuroimage.usc.edu/brainstorm/Introduction">Brainstorm</a>
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
       <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
