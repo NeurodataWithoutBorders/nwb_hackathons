@@ -43,7 +43,7 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>10am-12pm</b></td>
+    <td><b>10am - 12pm</b></td>
     <td>
       Overview of NWB-enabled tools (10 min per tool), schedule TBD
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
