@@ -11,7 +11,7 @@ the workshop.
 
 Confirmed tool developer speakers:
 <ul>
-<li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Andrea Giovannucci</li>
+<li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai</li>
 <li><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</li>
 <li><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
 <li><a href="https://datajoint.io">DataJoint</a> - Dimitri Yatsenko</li>
