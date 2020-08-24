@@ -35,13 +35,11 @@ Confirmed tool developer speakers:
   <tr>
     <td><b>9 - 9:10am</b></td>
     <td>Introduction: How to get the most out of this workshop (Ben Dichter)
-
     </td>
   </tr>
   <tr>
     <td><b>9:10 - 9:55am</b></td>
     <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)
-
     </td>
   </tr>
   <tr>
@@ -104,19 +102,16 @@ Confirmed tool developer speakers:
         <tr>
           <td>9 - 9:55am</td>
           <td>Introduction to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)
-
           </td>
         </tr>
         <tr>
           <td>10 - 10:55am</td>
           <td>Introduction to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)
-
           </td>
         </tr>
         <tr>
           <td>11am - 11:55pm</td>
           <td>Introduction to NWB for optical physiology (Ben Dichter, Ryan Ly)
-
           </td>
         </tr>
       </table>
@@ -125,18 +120,14 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>12 - 2pm</b></td>
+    <td><b>12 - 3pm</b></td>
     <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
-    <td><b>2 - 6pm</b></td>
+    <td><b>3 - 6pm</b></td>
     <td>
       Elective in-depth breakouts, Day 2:
       <table>
-        <tr>
-          <td>2 - 2:55pm</td>
-          <td>TBD</td>
-        </tr>
         <tr>
           <td>3 - 3:55pm</td>
           <td>TBD</td>
@@ -164,13 +155,11 @@ Confirmed tool developer speakers:
   <tr>
     <td><b>9 - 9:45am</b></td>
     <td>NWB extensions: How to create and share non-standardized data types in NWB (Ryan Ly)
-
     </td>
   </tr>
   <tr>
     <td><b>9:45 - 9:55am</b></td>
     <td>Review of workshop projects
-
     </td>
   </tr>
   <tr>
@@ -185,18 +174,14 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>11 - 2pm</b></td>
+    <td><b>11 - 3pm</b></td>
     <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
-    <td><b>2 - 6pm</b></td>
+    <td><b>3 - 6pm</b></td>
     <td>
       Elective in-depth breakouts, Day 3:
       <table>
-        <tr>
-          <td>2 - 2:55pm</td>
-          <td>TBD</td>
-        </tr>
         <tr>
           <td>3 - 3:55pm</td>
           <td>TBD</td>
