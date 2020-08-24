@@ -11,7 +11,8 @@
   * [How to prepare?](#how-to-prepare)
   * [Objective](#objective)
   * [Agenda](#agenda)
-  <!--  * [Projects](#projects)
+  
+<!--  * [Projects](#projects)
      * [Creating a New Project](projects/README.md)-->
      
 ## Dates and Location
