@@ -43,9 +43,9 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>10am - 12pm</b></td>
+    <td><b>10 - 11:45am</b></td>
     <td>
-      Overview of NWB-enabled tools (10 min per tool), schedule TBD
+      Overview of NWB-enabled tools (5-7 min per tool), schedule TBD
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
       <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
@@ -69,19 +69,19 @@ Confirmed tool developer speakers:
       <table>
         <tr>
           <td>2 - 2:55pm</td>
-          <td>TBD</td>
+          <td><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> - Padraig Gleeson, Matteo Cantarelli</td>
         </tr>
         <tr>
           <td>3 - 3:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai</td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer</td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</td>
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
@@ -130,15 +130,15 @@ Confirmed tool developer speakers:
       <table>
         <tr>
           <td>3 - 3:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter</td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</td>
         </tr>
       </table>
       Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
@@ -158,12 +158,23 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>9:45 - 9:55am</b></td>
+    <td><b>9:50 - 10:20am</b></td>
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)
+    </td>
+  </tr>
+  <tr>
+    <td><b>10:20 - 10:40am</b></td>
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
+    <br><a href="https://www.youtube.com/watch?v=PIE_F4iVv98">YouTube Recording</a>
+  </td>
+  </tr>
+  <tr>
+    <td><b>10:40 - 10:55am</b></td>
     <td>Review of workshop projects
     </td>
   </tr>
   <tr>
-    <td><b>10 - 10:55am</b></td>
+    <td><b>11 - 11:55am</b></td>
     <td>Discussion: The current state of NWB and data standardization in neurophysiology
       <ul>
         <li>What is the future of NWB?</li>
@@ -174,7 +185,7 @@ Confirmed tool developer speakers:
     </td>
   </tr>
   <tr>
-    <td><b>11 - 3pm</b></td>
+    <td><b>12 - 3pm</b></td>
     <td>Hacking on projects / NWB exercises</td>
   </tr>
   <tr>
@@ -184,15 +195,15 @@ Confirmed tool developer speakers:
       <table>
         <tr>
           <td>3 - 3:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun</td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td>TBD</td>
+          <td><a href="https://datajoint.io">DataJoint</a> - Dimitri Yatsenko</td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td>TBD<!--<a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> (Loren Frank)-->
+          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> - Loren Frank
           </td>
         </tr>
       </table>
