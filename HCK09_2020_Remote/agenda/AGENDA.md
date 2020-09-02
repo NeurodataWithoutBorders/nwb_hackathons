@@ -165,7 +165,6 @@ Confirmed tool developer speakers:
   <tr>
     <td><b>10:20 - 10:40am</b></td>
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
-    <br><a href="https://www.youtube.com/watch?v=PIE_F4iVv98">YouTube Recording</a>
   </td>
   </tr>
   <tr>
