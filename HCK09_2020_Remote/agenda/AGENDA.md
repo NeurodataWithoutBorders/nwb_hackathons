@@ -60,7 +60,7 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
-    <td>Hacking on projects / NWB exercises</td>
+    <td>Virtual coffee shop - Hack on projects, do NWB exercises, ask questions while on Zoom</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
@@ -121,7 +121,7 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>12 - 3pm</b></td>
-    <td>Hacking on projects / NWB exercises</td>
+    <td>Virtual coffee shop - Hack on projects, do NWB exercises, ask questions while on Zoom</td>
   </tr>
   <tr>
     <td><b>3 - 6pm</b></td>
@@ -185,7 +185,7 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>12 - 3pm</b></td>
-    <td>Hacking on projects / NWB exercises</td>
+    <td>Virtual coffee shop - Hack on projects, do NWB exercises, ask questions while on Zoom</td>
   </tr>
   <tr>
     <td><b>3 - 6pm</b></td>
