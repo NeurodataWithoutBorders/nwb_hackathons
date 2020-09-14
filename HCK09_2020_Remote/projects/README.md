@@ -12,8 +12,9 @@ If you would like to collaborate with others in the workshop who are working on 
 
 When you are ready, create a new project page by creating a new `README.md` file in a new subfolder of the [projects](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK09_2020_Remote/projects) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
 
-1. Open [project description template][project-description-template] and copy its full content to the clipboard
-1. Click the "Create new file" button (at the top-right of the page)
+1. Open [project description template][project-description-template] and copy its full content to the clipboard.
+1. Go to the [projects](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK09_2020_Remote/projects) folder on GitHub.
+1. Click the "Create new file" button (at the top-right of the page).
 1. Type `YourProjectName/README.md` as the new file name. Your project name should not have any spaces.
 1. Paste the previously copied content from the project template page into your new `README.md` Markdown file.
 1. Update at least your project's **title**, **key investigators**, and **project description** sections. Note that \<-- text --> denotes comments in Markdown format.
