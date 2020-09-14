@@ -8,7 +8,7 @@ Design your project in a way that you can make significant progress during the w
 
 If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, create a project page (see below) with an outline for your workshop project.
 
-## How to create a new project page
+## Create a new project page
 
 When you are ready, create a new project page by creating a new `README.md` file in a new subfolder of the [projects](https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK09_2020_Remote/projects) folder using the provided [project description template][project-description-template] and add your project to the project list in the [PROJECTS.md](PROJECTS.md) file. Step-by-step instructions for creating a new project using GitHub are:
 
@@ -25,3 +25,9 @@ When you are ready, create a new project page by creating a new `README.md` file
 If you have any questions, please ask us on the NWB Slack workspace: https://bit.ly/nwb-slack
 
 [project-description-template]: https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_hackathons/master/HCK09_2020_Remote/projects/template/README.md
+
+## Prepare for your workshop project
+
+Before the workshop, please install the Python or MATLAB software for NWB: 
+PyNWB (Python): https://pynwb.readthedocs.io/en/stable/getting_started.html
+MatNWB (MATLAB): https://neurodatawithoutborders.github.io/matnwb/
