@@ -4,11 +4,13 @@
 # Welcome to the 9th NWB User Days Workshop!
 
   * [Dates and Location](#dates-and-location)
+  * [Overview](#overview)
   * [Registration](#registration)
   * [Logistics](#logistics)
   * [Organizing Committee](#organizing-committee)
   * [Resources](#resources)
   * [How to prepare?](#how-to-prepare)
+  * [Projects](#projects)
   * [Objective](#objective)
   * [Agenda](#agenda)
 
@@ -54,7 +56,7 @@ Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 
-### Projects
+## Projects
 
 During the workshop, there will be time to work on NWB-related projects to practice using the NWB software and ask
 questions to the NWB developers. Working on a project is optional but encouraged for you to get the most out of this
