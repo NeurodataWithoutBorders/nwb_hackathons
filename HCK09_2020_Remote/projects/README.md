@@ -6,6 +6,13 @@ Projects may span a broad range of topics, e.g., converting data to NWB, integra
 
 Design your project in a way that you can make significant progress during the workshop (i.e., in ~2 days). This also means that you should come prepared for the workshop. For example, if your project is about converting data to NWB, then you should know the data and ideally have scripts for reading the data in Python or MATLAB already working.
 
+Suggestions for projects:
+* convert some of your or a collaborator’s data to NWB
+* convert data from a public archive to NWB
+* integrate a software tool with NWB
+* work through NWB online tutorials
+* practice using NWB-compatible tools on publicly available NWB data, e.g., on [DANDI](https://dandiarchive.org/)
+
 We ask that you create a project page with a description of the goals of your project. We will use these pages to connect people who are working on similar projects (e.g. converting data from the same acquisition system) and follow your progress.
 
 ## Create a new project page
