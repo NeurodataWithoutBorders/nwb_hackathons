@@ -1,8 +1,8 @@
 **All times are in Central European Summer Time (CEST; UTC+2)**
 
 This calendar view shows the workshop agenda. We strongly encourage you to attend the first three hours of Day 1 for an
-introduction to NWB and NWB software tools. Afterward, in the afternoons, there will be optional breakout sessions
-where you can learn more about community software tools that support NWB. And in the mornings, there will be optional
+introduction to NWB and NWB software tools. In the afternoons of all three days, there will be optional breakout sessions
+where you can learn more about community software tools that support NWB. And in the mornings of Days 2 and 3, there will be optional
 tutorials on how to use NWB for different types of data and situations, as well as a discussion about NWB and data
 standardization in neurophysiology on Day 3.
 
