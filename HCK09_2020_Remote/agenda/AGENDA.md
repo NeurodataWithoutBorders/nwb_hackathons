@@ -33,28 +33,28 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>9 - 9:10am</b></td>
-    <td>Introduction: How to get the most out of this workshop (Ben Dichter)
+    <td>Welcome and introduction: How to get the most out of this workshop (Ryan Ly)
     </td>
   </tr>
   <tr>
     <td><b>9:10 - 9:55am</b></td>
-    <td>What is NWB, with short intro to NWB-enabled tools (Oliver Ruebel)
+    <td>Overview of NWB: An ecosystem for neurophysiolgoy data standardization (Oliver Ruebel)
     </td>
   </tr>
   <tr>
     <td><b>10 - 11:45am</b></td>
     <td>
-      Overview of NWB-enabled tools (5-7 min per tool), 
-      <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
-      <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
-      <br>  - <a href="https://dandiarchive.org">DANDI</a>
-      <br>  - <a href="https://datajoint.io/">DataJoint</a>
-      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a>
+      NWB tools showcase (5-7 min per tool), 
       <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
+      <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
+      <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
+      <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
+      <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
+      <br>  - <a href="https://datajoint.io/">DataJoint</a>
       <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
       <br>  - <a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a>
-      <br>  - <a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a>
-      <br>  - <a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a>
+      <br>  - <a href="https://dandiarchive.org">DANDI</a>
+      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a>
     </td>
   </tr>
   <tr>
