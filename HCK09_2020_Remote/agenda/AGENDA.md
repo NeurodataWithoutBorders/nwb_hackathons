@@ -11,9 +11,9 @@ When you are not attending a session, we encourage you to work on your NWB-relat
 (e.g., converting your data to NWB, doing NWB exercises, running the tutorials yourself). Developers will be available
 to answer questions on Slack throughout the workshop, as well as on Zoom during the virtual coffee breaks.
 
-<img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
-
 You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](https://bit.ly/3kjHjVK) to your personal calendar to see the workshop sessions in your time zone.
+
+<img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
 
 **Detailed agenda:**
 
