@@ -13,11 +13,7 @@ to answer questions on Slack throughout the workshop, as well as on Zoom during 
 
 <img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
 
-You can also add this calendar to your personal calendar to see the workshop sessions in your time zone:
-
-Google Calendar: [https://bit.ly/3c02edx](https://bit.ly/3c02edx)
-
-iCal: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
+You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](https://bit.ly/3kjHjVK) to your personal calendar to see the workshop sessions in your time zone.
 
 **Detailed agenda:**
 
