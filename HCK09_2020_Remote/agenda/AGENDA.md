@@ -6,7 +6,7 @@ to NWB and NWB software tools.
 <img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
 
 You can also add this calendar to your personal calendar to see the workshop sessions in your time zone:
-Google Calendar: [https://bit.ly/2yBXU4V](https://bit.ly/2yBXU4V)
+Google Calendar: [https://bit.ly/3c02edx](https://bit.ly/3c02edx)
 iCal URL: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
 
 During periods where you are not attending a session, we encourage you to work on your NWB-related projects
