@@ -19,6 +19,8 @@ Google Calendar: [https://bit.ly/3c02edx](https://bit.ly/3c02edx)
 
 iCal: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
 
+**Detailed agenda:**
+
 <table width="400">
   <tr>
     <th style="width:130px"><b>Day 1</b></th>
