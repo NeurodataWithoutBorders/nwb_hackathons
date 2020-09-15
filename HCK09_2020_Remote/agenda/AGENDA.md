@@ -1,26 +1,17 @@
 **All times are in Central European Summer Time (CEST; UTC+2)**
 
-<!--This calendar view shows the workshop agenda. Events in blue are highly recommended. Events in orange are optional. All times not marked are considered time for attendees to hack on their projects. Developers will be available to answer questions in the main Zoom room from 8:30am to 5pm PDT.
-<img alt="Agenda calendar graphic" src="agenda/NWB User Days Workshop Agenda 2.png">
+This calendar view shows the workshop agenda. All sessions are optional, and we encourage you to attend the sessions
+that would be useful to you. We highly recommend that you attend the first three hours of Day 1 for an introduction
+to NWB and NWB software tools.
+<img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
 
-You can also add this Google Calendar to your calendar to see the workshop's events with Zoom links in your time zone. [https://bit.ly/2yBXU4V](https://bit.ly/2yBXU4V)   
--->
+You can also add this calendar to your personal calendar to see the workshop sessions in your time zone:
+Google Calendar: [https://bit.ly/2yBXU4V](https://bit.ly/2yBXU4V)
+iCal URL: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
 
-Because the NWB standard covers many different types of data, some presentations are targeted toward specific audiences. All sessions are optional, and we encourage you to attend the sessions that would be useful to you.
-
-Confirmed tool developer speakers:
-<ul>
-<li><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai</li>
-<li><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</li>
-<li><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</li>
-<li><a href="https://datajoint.io">DataJoint</a> - Dimitri Yatsenko</li>
-<li><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> - Loren Frank</li>
-<li><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun</li>
-<li><a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a> - Padraig Gleeson, Matteo Cantarelli</li>
-<li><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter</li>
-<li><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</li>
-<li><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer</li>
-</ul>
+During periods where you are not attending a session, we encourage you to work on your NWB-related projects
+(e.g., converting your data to NWB) or doing NWB exercises and running the tutorials yourself to practice interacting
+with NWB data.
 
 <table width="400">
   <tr>
@@ -44,7 +35,7 @@ Confirmed tool developer speakers:
   <tr>
     <td><b>10 - 11:45am</b></td>
     <td>
-      NWB tools showcase (5-7 min per tool), 
+      NWB tools showcase (5-7 min per tool),
       <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
       <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
