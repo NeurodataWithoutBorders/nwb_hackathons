@@ -69,6 +69,9 @@ Here are suggestions for projects:
 
 Please create a project page with a description of the goals of your project. See the instructions [here](projects/README.md) to create a project page. We will use these pages to connect people who are working on similar projects (e.g. converting data from the same acquisition system) and follow your progress.
 
+If you have questions about choosing a project or creating a project page, please attend the pre-workshop session on
+Thursday, September 17 at 4-4:30pm CEST (Zoom link will be sent by email) or email the organizers.
+
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
