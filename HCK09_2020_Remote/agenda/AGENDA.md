@@ -19,7 +19,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
 
 <table width="400">
   <tr>
-    <th style="width:130px"><b>Day 1</b></th>
+    <th style="width:140px"><b>Day 1</b></th>
     <th><b>Monday, September 21</b></th>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
 
 <table width="400">
   <tr>
-    <th style="width:130px"><b>Day 2</b></th>
+    <th style="width:140px"><b>Day 2</b></th>
     <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
 
 <table width="400">
   <tr>
-    <th style="width:130px"><b>Day 3</b></th>
+    <th style="width:140px"><b>Day 3</b></th>
     <th><b>Wednesday, September 23</b></th>
   </tr>
   <tr>
