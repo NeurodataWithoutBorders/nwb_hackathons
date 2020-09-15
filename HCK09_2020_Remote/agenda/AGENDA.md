@@ -1,17 +1,23 @@
 **All times are in Central European Summer Time (CEST; UTC+2)**
 
-This calendar view shows the workshop agenda. All sessions are optional, and we encourage you to attend the sessions
-that would be useful to you. We highly recommend that you attend the first three hours of Day 1 for an introduction
-to NWB and NWB software tools.
+This calendar view shows the workshop agenda. We strongly encourage you to attend the first three hours of Day 1 for an
+introduction to NWB and NWB software tools. Afterward, in the afternoons, there will be optional breakout sessions
+where you can learn more about community software tools that support NWB. And in the mornings, there will be optional
+tutorials on how to use NWB for different types of data and situations, as well as a discussion about NWB and data
+standardization in neurophysiology on Day 3.
+
+We recommend that you attend the sessions that would be useful to you.
+When you are not attending a session, we encourage you to work on your NWB-related projects
+(e.g., converting your data to NWB, doing NWB exercises, running the tutorials yourself). Developers will be available
+to answer questions on Slack throughout the workshop, as well as on Zoom during the virtual coffee breaks.
+
 <img alt="Agenda calendar graphic" src="agenda/NWB User Days 9 Agenda.png">
 
 You can also add this calendar to your personal calendar to see the workshop sessions in your time zone:
-Google Calendar: [https://bit.ly/3c02edx](https://bit.ly/3c02edx)
-iCal URL: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
 
-During periods where you are not attending a session, we encourage you to work on your NWB-related projects
-(e.g., converting your data to NWB) or doing NWB exercises and running the tutorials yourself to practice interacting
-with NWB data.
+Google Calendar: [https://bit.ly/3c02edx](https://bit.ly/3c02edx)
+
+iCal: [https://bit.ly/3kjHjVK](https://bit.ly/3kjHjVK)
 
 <table width="400">
   <tr>
@@ -29,7 +35,7 @@ with NWB data.
   </tr>
   <tr>
     <td><b>9:10 - 9:55am</b></td>
-    <td>Overview of NWB: An ecosystem for neurophysiolgoy data standardization (Oliver Ruebel)
+    <td>Overview of NWB: An ecosystem for neurophysiology data standardization (Oliver Ruebel)
     </td>
   </tr>
   <tr>
@@ -50,7 +56,7 @@ with NWB data.
   </tr>
   <tr>
     <td><b>12 - 2pm</b></td>
-    <td>Virtual coffee shop time - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
+    <td>Break / Virtual coffee shop - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
@@ -74,7 +80,6 @@ with NWB data.
           <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
@@ -111,7 +116,7 @@ with NWB data.
   </tr>
   <tr>
     <td><b>2 - 3pm</b></td>
-    <td>Virtual coffee shop time - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
+    <td>Break / Virtual coffee shop - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
   </tr>
   <tr>
     <td><b>3 - 6pm</b></td>
@@ -131,7 +136,6 @@ with NWB data.
           <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
@@ -174,7 +178,7 @@ with NWB data.
   </tr>
   <tr>
     <td><b>12 - 3pm</b></td>
-    <td>Virtual coffee shop time - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
+    <td>Break / Virtual coffee shop - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
   </tr>
   <tr>
     <td><b>3 - 6pm</b></td>
@@ -195,7 +199,6 @@ with NWB data.
           </td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
