@@ -59,7 +59,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   <tr>
     <td><b>2 - 6pm</b></td>
     <td>
-      Elective in-depth breakouts, Day 1:
+      In-depth tool breakout sessions, Day 1:
       <table>
         <tr>
           <td>2 - 2:55pm</td>
@@ -119,7 +119,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   <tr>
     <td><b>3 - 6pm</b></td>
     <td>
-      Elective in-depth breakouts, Day 2:
+      In-depth tool breakout sessions, Day 2:
       <table>
         <tr>
           <td>3 - 3:55pm</td>
@@ -181,7 +181,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   <tr>
     <td><b>3 - 6pm</b></td>
     <td>
-      Elective in-depth breakouts, Day 3:
+      In-depth tool breakout sessions, Day 3:
       <table>
         <tr>
           <td>3 - 3:55pm</td>
