@@ -83,8 +83,7 @@ Confirmed tool developer speakers:
           <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on the NWB Slack to answer questions.
+      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
@@ -95,31 +94,32 @@ Confirmed tool developer speakers:
     <th><b>Tuesday, September 22</b></th>
   </tr>
   <tr>
-    <td><b>9am - 12pm</b></td>
-    <td>Elective tutorials / technical introductions (covers PyNWB and MatNWB). <br/>
-      <table>
-        <tr>
-          <td>9 - 9:55am</td>
-          <td>Introduction to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)
-          </td>
-        </tr>
-        <tr>
-          <td>10 - 10:55am</td>
-          <td>Introduction to NWB for extracellular electrophysiology (Ben Dichter, Ryan Ly)
-          </td>
-        </tr>
-        <tr>
-          <td>11am - 11:55pm</td>
-          <td>Introduction to NWB for optical physiology (Ben Dichter, Ryan Ly)
-          </td>
-        </tr>
-      </table>
-      Users should attend the tutorial(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on the NWB Slack to answer questions.
+    <td><b>9 - 9:55am</b></td>
+    <td>Introduction to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)
     </td>
   </tr>
   <tr>
-    <td><b>12 - 3pm</b></td>
+    <td><b>10 - 10:55am</b></td>
+    <td>Introduction to NWB for extracellular electrophysiology in Python (Ryan Ly)
+    </td>
+  </tr>
+  <tr>
+    <td><b>11 - 11:55am</b></td>
+    <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)
+    </td>
+  </tr>
+  <tr>
+    <td><b>12pm - 12:55pm</b></td>
+    <td>Introduction to NWB for optical physiology in Python (Ryan Ly)
+    </td>
+  </tr>
+  <tr>
+    <td><b>1pm - 1:55pm</b></td>
+    <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)
+    </td>
+  </tr>
+  <tr>
+    <td><b>9 - 3pm</b></td>
     <td>Lunch and virtual coffee shop time - Hack on projects, do NWB exercises, ask questions while on Zoom</td>
   </tr>
   <tr>
@@ -140,8 +140,7 @@ Confirmed tool developer speakers:
           <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on the NWB Slack to answer questions.
+      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
@@ -153,7 +152,7 @@ Confirmed tool developer speakers:
   </tr>
   <tr>
     <td><b>9 - 9:45am</b></td>
-    <td>NWB extensions: How to create and share non-standardized data types in NWB (Ryan Ly)
+    <td>NWB extensions: How to store and share non-standardized data types in NWB (Ryan Ly)
     </td>
   </tr>
   <tr>
@@ -205,8 +204,7 @@ Confirmed tool developer speakers:
           </td>
         </tr>
       </table>
-      Users should attend the session(s) that is relevant to them and hack on their projects at other times. Developers
-      will be available in the main Zoom room and on the NWB Slack to answer questions.
+      Users should attend the session(s) that is relevant to them and hack on their projects at other times.
     </td>
   </tr>
 </table>
