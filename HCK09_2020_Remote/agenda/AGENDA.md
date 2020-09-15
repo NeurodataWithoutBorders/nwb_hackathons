@@ -6,8 +6,7 @@
 You can also add this Google Calendar to your calendar to see the workshop's events with Zoom links in your time zone. [https://bit.ly/2yBXU4V](https://bit.ly/2yBXU4V)   
 -->
 
-This is a tentative schedule. Times are subject to change. A final schedule will be released a couple weeks prior to
-the workshop.
+Because the NWB standard covers many different types of data, some presentations are targeted toward specific audiences. All sessions are optional, and we encourage you to attend the sessions that would be useful to you.
 
 Confirmed tool developer speakers:
 <ul>
@@ -45,12 +44,12 @@ Confirmed tool developer speakers:
   <tr>
     <td><b>10 - 11:45am</b></td>
     <td>
-      Overview of NWB-enabled tools (5-7 min per tool), schedule TBD
+      Overview of NWB-enabled tools (5-7 min per tool), 
       <br>  - <a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a>
       <br>  - <a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a>
       <br>  - <a href="https://dandiarchive.org">DANDI</a>
       <br>  - <a href="https://datajoint.io/">DataJoint</a>
-      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint + NWB Integration in the Frank Lab, UCSF</a>
+      <br>  - <a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a>
       <br>  - <a href="https://alleninstitute.github.io/MIES/index.html">MIES</a>
       <br>  - <a href="http://nwbexplorer.opensourcebrain.org/">NWB Explorer / Open Source Brain</a>
       <br>  - <a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a>
@@ -202,7 +201,7 @@ Confirmed tool developer speakers:
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">DataJoint & NWB Integration in the Frank Lab, UCSF</a> - Loren Frank
+          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a> - Loren Frank
           </td>
         </tr>
       </table>
