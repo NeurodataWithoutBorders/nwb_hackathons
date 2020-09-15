@@ -11,14 +11,20 @@
   * [How to prepare?](#how-to-prepare)
   * [Objective](#objective)
   * [Agenda](#agenda)
-  
+
 <!--  * [Projects](#projects)
      * [Creating a New Project](projects/README.md)-->
-     
+
 ## Dates and Location
 
 - **Dates:** September 21-23, 2020
 - **Location:** Your home!
+
+## Overview
+
+The workshop will focus primarily on user training, including lessons for complete beginners to NWB and training in more advanced usage of NWB. We will also hold breakout sessions where the developers of state-of-the-art data analysis, visualization, and management tools (e.g., CaImAn, SpikeInterface, DANDI, suite2p, DataJoint, and more) will demonstrate their tools and show how to use NWB with their tools. The schedule will also include time for attendees to work on projects converting data to NWB, using NWB-compatible software tools, or going through the NWB online tutorials.
+
+To accommodate researchers in Europe, the Middle East, and Africa, we are holding this workshop 9am-6pm Central European Time (UTC+2).
 
 ## Registration
 
@@ -36,7 +42,7 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 **Program chairs:** Ryan Ly, Benjamin Dichter, Andrew Tritt, Pam Baker, and Oliver Rübel
 
-Additional organizational support is provided by the Kavli Foundation
+Additional organizational support is provided by the Kavli Foundation.
 
 ## Resources
 
@@ -48,9 +54,20 @@ Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 
-If you are new to NWB, we encourage you to prepare a dataset that you would like to convert to NWB so that you can try the tutorials and ask the developers questions during the workshop. You should know how to read the data using Python or MATLAB.
+### Projects
 
-If you would like to collaborate with others in the workshop who are working on similar datasets or tool development, we encourage you to create a project page with an outline for your workshop project. To create a project page, see [here](projects/README.md). We will advertise these projects during the workshop.
+During the workshop, there will be time to work on NWB-related projects to practice using the NWB software and ask
+questions to the NWB developers. Working on a project is optional but encouraged for you to get the most out of this
+workshop.
+
+Here are suggestions for projects:
+  * convert some of your or a collaborator's data to NWB
+  * convert data from a public archive to NWB
+  * integrate a software tool with NWB
+  * work through NWB online tutorials
+  * practice using NWB-compatible tools on publicly available NWB data, e.g., on [DANDI](https://dandiarchive.org/)
+
+Please create a project page with a description of the goals of your project. See the instructions [here](projects/README.md) to create a project page. We will use these pages to connect people who are working on similar projects (e.g. converting data from the same acquisition system) and follow your progress.
 
 ## Objective
 
