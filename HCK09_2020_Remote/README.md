@@ -34,6 +34,8 @@ The workshop is open to the public. Please complete our [registration form](http
 
 Note: The workshop schedule is centered around 9am-6pm Central European Summer Time (UTC+2).
 
+Registration will close on September 21.
+
 ## Logistics
 
 We will be using the Zoom videoconferencing platform for the meeting. We will send an email in the days before the workshop with Zoom links.
