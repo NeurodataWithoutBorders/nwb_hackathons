@@ -6,13 +6,13 @@
 Convert simulated primary motor cortex data to NWB format
 ## Key Investigators
 
-<!-- - Donald Doherty (SUNY Downstate Medical Center)-->
-<!-- - Salvador Dura-Bernal (SUNY Downstate Medical Center)-->
-<!-- - William Lytton (SUNY Downstate Medical Center)-->
+ - Donald Doherty (SUNY Downstate Medical Center)
+ - Salvador Dura-Bernal (SUNY Downstate Medical Center)
+ - William Lytton (SUNY Downstate Medical Center)
 
 ## Project Description
 
-<!--Convert a dataset from our large scale model of mouse primary motor cortex into NWB format. The dataset will include submillisecond spike trains from 10,073 neurons, each identified and from one of 15 neuron subtypes from across 6 layers. In addition, we hope to include connectivity data (approximately 20 million connections). -->
+Convert a dataset from our large scale model of mouse primary motor cortex into NWB format. The dataset will include submillisecond spike trains from 10,073 neurons, each identified and from one of 15 neuron subtypes from across 6 layers. In addition, we hope to include connectivity data (approximately 20 million connections).
 
 ## Objectives
 
@@ -43,6 +43,6 @@ Convert simulated primary motor cortex data to NWB format
 ## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/Neurosim-lab/netpyne -->
-<!-- - Documentation: http://www.netpyne.org -->
+- Source code: https://github.com/Neurosim-lab/netpyne
+- Documentation: http://www.netpyne.org
 <!-- - Test data: https://link.to.test.data -->
