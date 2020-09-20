@@ -67,7 +67,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>3 - 3:55pm</td>
-          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Andrea Giovannucci, Changjia Cai</td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
