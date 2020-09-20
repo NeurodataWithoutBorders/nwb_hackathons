@@ -20,7 +20,7 @@
 ## Dates and Location
 
 - **Dates:** September 21-23, 2020
-- **Location:** Your home!
+- **Location:** Anywhere with an internet connection
 
 ## Overview
 
