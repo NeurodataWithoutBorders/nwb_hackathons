@@ -76,18 +76,21 @@ Please create a project page with a description of the goals of your project. Se
 If you have questions about choosing a project or creating a project page, please attend the pre-workshop session on
 Thursday, September 17 at 4-4:30pm CEST (Zoom link will be sent by email) or email the organizers.
 
+### Project Pages
+
+* [Integrate software tools for simulation and analysis](projects/ConversionAndSoftwareTools/README.md)
+* [Learning how to convert files into the NWB file format for the TRR Retune](projects/Conversion_for_CRC_Retune/README.md)
+* [One-Photon Calcium Imaging of Neuronal Dynamics During Behaviour](projects/M3Platform/README.md)
+* [MIES](projects/MIES/README.md)
+* [Convert PFC Neuropixels Data to NWB](projects/PFCNeuropixels2NWB/README.md)
+* [Port Current LFP/Behavioral Database to NWB](projects/lfp_data_port/README.md)
+* [Convert simulated primary motor cortex data to NWB format](projects/m1-cort-column-data-to-nwb/README.md)
+
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
 The purpose of the NWB User Days training workshops is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
-
-<!--## Projects
-
-<a name="ProjectsList"/>
-
-For instructions on how to create a project, see [here](projects/README.md)
--->
 
 ## Agenda
 
