@@ -2,8 +2,8 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
-Convert simulated primary motor cortex data to NWB format
+# Convert simulated primary motor cortex data to NWB format
+
 ## Key Investigators
 
  - Donald Doherty (SUNY Downstate Medical Center)
