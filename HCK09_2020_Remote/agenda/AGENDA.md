@@ -53,8 +53,13 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     </td>
   </tr>
   <tr>
-    <td><b>12 - 2pm</b></td>
-    <td>Break / Virtual coffee shop - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom</td>
+    <td><b>12 - 1pm</b></td>
+    <td>Break / Virtual coffee shop - Hack on projects, do NWB exercises, ask questions to NWB developers on Zoom<br/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>1 - 2pm</b></td>
+    <td>Tutorial: Reading data in NWB in Python and Matlab - Ben Dichter and Ryan Ly</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
