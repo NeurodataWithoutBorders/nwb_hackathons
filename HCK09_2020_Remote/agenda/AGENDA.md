@@ -132,7 +132,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
       <table>
         <tr>
           <td>3 - 3:55pm</td>
-          <td><a href="https://www.dandiarchive.org">DANDI</a> - Satrajit Ghosh</td>
+          <td><a href="https://www.dandiarchive.org">DANDI</a> - Yaroslav Halchenko, Satrajit Ghosh</td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
