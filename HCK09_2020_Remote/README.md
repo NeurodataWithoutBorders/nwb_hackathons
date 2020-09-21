@@ -85,6 +85,7 @@ Thursday, September 17 at 4-4:30pm CEST (Zoom link will be sent by email) or ema
 * [Convert PFC Neuropixels Data to NWB](projects/PFCNeuropixels2NWB/README.md)
 * [Port Current LFP/Behavioral Database to NWB](projects/lfp_data_port/README.md)
 * [Convert simulated primary motor cortex data to NWB format](projects/m1-cort-column-data-to-nwb/README.md)
+* [Convert 2P and Neuropixels Ephys to NWB](projects/convert_2P_and_Neuropixels_ephys_to_NWB/README.md)
 
 ## Objective
 
