@@ -30,11 +30,11 @@ To accommodate researchers in Europe, the Middle East, and Africa, we are holdin
 
 ## Registration
 
+**Registration is now closed. Please stay tuned for the next NWB User Days Workshop in 2021.**
+
 The workshop is open to the public. Please complete our [registration form](https://bit.ly/2PHbE34) to attend the event.
 
 Note: The workshop schedule is centered around 9am-6pm Central European Summer Time (UTC+2).
-
-Registration will close on September 21.
 
 ## Logistics
 
