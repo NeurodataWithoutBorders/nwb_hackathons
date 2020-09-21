@@ -61,8 +61,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td><b>1 - 2pm</b></td>
     <td>Tutorial: Reading NWB data in Python and Matlab (Ben Dichter, Ryan Ly)<br/>
     <ul>
-      <li>[Python Jupyter notebook](https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/pynwb_read_demo.ipynb)</li>
-      <li>[MATLAB live script](https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/matnwb_read_demo.mlx)</li>
+      <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/pynwb_read_demo.ipynb">Python Jupyter notebook</a></li>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/matnwb_read_demo.mlx">MATLAB live script</a></li>
     </ul></td>
   </tr>
   <tr>
