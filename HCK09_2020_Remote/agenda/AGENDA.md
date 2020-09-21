@@ -59,7 +59,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>1 - 2pm</b></td>
-    <td>Tutorial: Reading data in NWB in Python and Matlab - Ben Dichter and Ryan Ly</td>
+    <td>Tutorial: Reading NWB data in Python and Matlab (Ben Dichter, Ryan Ly)</td>
   </tr>
   <tr>
     <td><b>2 - 6pm</b></td>
