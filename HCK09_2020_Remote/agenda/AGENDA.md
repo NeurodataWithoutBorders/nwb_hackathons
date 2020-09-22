@@ -117,7 +117,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td><b>11 - 11:55am</b></td>
     <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)<br/>
     <ul>
-      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ecephys_tutorial.mlx">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ecephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
     </ul>
     </td>
   </tr>
@@ -133,7 +133,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td><b>1pm - 1:55pm</b></td>
     <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)<br/>
     <ul>
-      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ophys_tutorial.mlx">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ophys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
     </ul>
     </td>
   </tr>
