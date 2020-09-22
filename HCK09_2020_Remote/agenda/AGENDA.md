@@ -98,27 +98,43 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>9 - 9:55am</b></td>
-    <td>Introduction to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)
+    <td>Introduction to NWB for intracellular electrophysiology (Oliver Ruebel, Pam Baker)<br/>
+    <ul>
+      <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/icephys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/icephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td><b>10 - 10:55am</b></td>
-    <td>Introduction to NWB for extracellular electrophysiology in Python (Ryan Ly)
+    <td>Introduction to NWB for extracellular electrophysiology in Python (Ryan Ly)<br/>
+    <ul>
+      <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/ecephys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td><b>11 - 11:55am</b></td>
-    <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)
+    <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)<br/>
+    <ul>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ecephys_tutorial.mlx">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td><b>12pm - 12:55pm</b></td>
-    <td>Introduction to NWB for optical physiology in Python (Ryan Ly)
+    <td>Introduction to NWB for optical physiology in Python (Ryan Ly)<br/>
+    <ul>
+      <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/ophys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+    </ul>
     </td>
   </tr>
   <tr>
     <td><b>1pm - 1:55pm</b></td>
-    <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)
+    <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)<br/>
+    <ul>
+      <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ophys_tutorial.mlx">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+    </ul>
     </td>
   </tr>
   <tr>
