@@ -211,7 +211,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
       <table>
         <tr>
           <td>3 - 3:55pm</td>
-          <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun</td>
+          <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun (<a href="https://youtu.be/Y3I-LDX-R2Q" a>Youtube</a>)</td> 
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
