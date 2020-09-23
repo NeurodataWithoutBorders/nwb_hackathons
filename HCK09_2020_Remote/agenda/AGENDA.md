@@ -180,7 +180,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>10:20 - 10:40am</b></td>
-    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter)
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter) ([Youtube](https://youtu.be/PIE_F4iVv98))
   </td>
   </tr>
   <tr>
