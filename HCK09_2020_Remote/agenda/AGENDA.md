@@ -157,7 +157,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu</td>
+          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu (<a href="https://youtu.be/I6abW3uuJJw">Youtube</a>)</td>
         </tr>
       </table>
     </td>
