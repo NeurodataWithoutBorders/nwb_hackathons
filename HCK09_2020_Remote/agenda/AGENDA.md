@@ -80,7 +80,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer</td>
+          <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer (<a href="https://youtu.be/Ey9_xVPinmo">Youtube</a>)</td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
@@ -134,6 +134,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)<br/>
     <ul>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ophys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
+      <li><a href="https://youtu.be/OBidHdocnTc">Youtube</a></li>
     </ul>
     </td>
   </tr>
