@@ -220,7 +220,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a> - Loren Frank
+          <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a> - Loren Frank<br/>
+            <a href="https://github.com/LorenFrankLab/nwb_datajoint">Link to Jupyter notebooks</a>
           </td>
         </tr>
       </table>
