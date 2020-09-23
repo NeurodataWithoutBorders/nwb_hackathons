@@ -215,7 +215,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td><a href="https://datajoint.io">DataJoint</a> - Thinh Nguyen, Dimitri Yatsenko</td>
+          <td><a href="https://datajoint.io">DataJoint</a> - Thinh Nguyen, Dimitri Yatsenko<br/>
+            <a href="https://github.com/ttngu207/nwb_hackathons_2020">Link to Jupyter notebooks</a></td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
