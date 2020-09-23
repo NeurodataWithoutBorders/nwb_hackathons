@@ -175,7 +175,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>9:50 - 10:20am</b></td>
-    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt) (<a href=https://youtu.be/wduZHfNOaNg>Youtube</a>)
     </td>
   </tr>
   <tr>
