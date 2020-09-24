@@ -84,7 +84,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz</td>
+          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz (<a href="https://youtu.be/Y3I-LDX-R2Q">Youtube</a>)</td>
         </tr>
       </table>
     </td>
