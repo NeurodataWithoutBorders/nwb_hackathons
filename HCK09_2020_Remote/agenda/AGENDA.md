@@ -102,6 +102,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <ul>
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/icephys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/icephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
+      <li><a href="https://www.youtube.com/watch?v=WLJivIn_Tls">Recording on YouTube - Tutorial</a></li>
+      <li><a href="https://www.youtube.com/watch?v=TClUoKA1pEU">Recording on YouTube - Intracellular Electrophysiology Experiment Metadata"</a></li>
     </ul>
     </td>
   </tr>
@@ -126,6 +128,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for optical physiology in Python (Ryan Ly)<br/>
     <ul>
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/ophys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+      <li><a href="https://www.youtube.com/watch?v=HPjSxBjdFpM">Recording on YouTube</a></li>
     </ul>
     </td>
   </tr>
@@ -134,7 +137,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for optical physiology in MATLAB (Ben Dichter)<br/>
     <ul>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ophys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
-      <li><a href="https://youtu.be/OBidHdocnTc">Youtube</a></li>
+      <li><a href="https://youtu.be/OBidHdocnTc">Recording on YouTube</a></li>
     </ul>
     </td>
   </tr>
@@ -176,12 +179,14 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>9:50 - 10:20am</b></td>
-    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt) (<a href=https://youtu.be/wduZHfNOaNg>Youtube</a>)
+    <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)<br/>
+        <a href=https://youtu.be/wduZHfNOaNg>Recording on Youtube</a>
     </td>
   </tr>
   <tr>
     <td><b>10:20 - 10:40am</b></td>
-    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter) (<a href=https://youtu.be/PIE_F4iVv98>Youtube</a>)
+    <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter) <br/>
+        <a href=https://youtu.be/PIE_F4iVv98>Recording on Youtube</a>
   </td>
   </tr>
   <tr>
@@ -211,7 +216,9 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
       <table>
         <tr>
           <td>3 - 3:55pm</td>
-          <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun (<a href="https://youtu.be/Y3I-LDX-R2Q" a>Youtube</a>)</td> 
+          <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun <br/>
+            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on Youtube</a>
+          </td> 
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
