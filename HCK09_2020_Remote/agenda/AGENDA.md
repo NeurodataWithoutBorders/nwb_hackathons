@@ -33,7 +33,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>9:10 - 9:55am</b></td>
-    <td>Overview of NWB: An ecosystem for neurophysiology data standardization (Oliver Ruebel)
+    <td>Overview of NWB: An ecosystem for neurophysiology data standardization (Oliver Ruebel)<br/>
+      <a href="https://youtu.be/hPgPUT9fDoQ">Recording on YouTube</a>
     </td>
   </tr>
   <tr>
