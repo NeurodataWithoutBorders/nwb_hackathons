@@ -82,11 +82,13 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer (<a href="https://youtu.be/Ey9_xVPinmo">Youtube</a>)</td>
+          <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer <br/>
+            <a href="https://youtu.be/Ey9_xVPinmo">Recording on Youtube</a></td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz (<a href="https://youtu.be/Y3I-LDX-R2Q">Youtube</a>)</td>
+          <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz<br/>
+            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on Youtube</a></td>
         </tr>
       </table>
     </td>
@@ -163,7 +165,8 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
-          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu (<a href="https://youtu.be/I6abW3uuJJw">Youtube</a>)</td>
+          <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu<br/>
+            <a href="https://youtu.be/I6abW3uuJJw">Recording on Youtube</a></td>
         </tr>
       </table>
     </td>
