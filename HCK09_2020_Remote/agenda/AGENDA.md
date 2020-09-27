@@ -63,6 +63,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <ul>
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/pynwb_read_demo.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/matnwb_read_demo.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
+      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube - Matlab Tutorial</a>
     </ul></td>
   </tr>
   <tr>
@@ -120,6 +121,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)<br/>
     <ul>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ecephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
+      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube</a>
     </ul>
     </td>
   </tr>
