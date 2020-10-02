@@ -124,7 +124,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for extracellular electrophysiology in MATLAB (Ben Dichter)<br/>
     <ul>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/ecephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
-      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube</a>
+      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube</a></li>
     </ul>
     </td>
   </tr>
