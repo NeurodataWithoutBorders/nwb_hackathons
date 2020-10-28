@@ -64,7 +64,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <ul>
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/pynwb_read_demo.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/matnwb_read_demo.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
-      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube - Matlab Tutorial</a>
+      <li><a href="https://www.youtube.com/watch?v=ig_Xv2bTxjs">Recording on YouTube - Matlab Tutorial</a></li>
     </ul></td>
   </tr>
   <tr>
@@ -78,17 +78,18 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>3 - 3:55pm</td>
-          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai, Andrea Giovannucci</td>
+          <td><a href="https://github.com/flatironinstitute/CaImAn">CaImAn</a> - Changjia Cai, Andrea Giovannucci<br/>
+            <a href="https://www.youtube.com/watch?v=wUhKkNtSu_s">Recording on YouTube</a></td>
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
           <td><a href="https://suite2p.readthedocs.io/en/latest/">suite2p</a> - Carsen Stringer <br/>
-            <a href="https://youtu.be/Ey9_xVPinmo">Recording on Youtube</a></td>
+            <a href="https://youtu.be/Ey9_xVPinmo">Recording on YouTube</a></td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
           <td><a href="https://spikeinterface.readthedocs.io/">SpikeInterface</a> - Alessio Buccino, Cole Hurwitz<br/>
-            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on Youtube</a></td>
+            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on YouTube</a></td>
         </tr>
       </table>
     </td>
@@ -107,7 +108,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/icephys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
       <li><a href="https://github.com/NeurodataWithoutBorders/nwb_tutorial/blob/master/HCK09/icephys_tutorial.mlx">MATLAB live script</a> (click link, then click Download button to save file to your computer)</li>
       <li><a href="https://www.youtube.com/watch?v=WLJivIn_Tls">Recording on YouTube - Tutorial</a></li>
-      <li><a href="https://www.youtube.com/watch?v=TClUoKA1pEU">Recording on YouTube - Intracellular Electrophysiology Experiment Metadata"</a></li>
+      <li><a href="https://www.youtube.com/watch?v=TClUoKA1pEU">Recording on YouTube - Intracellular Electrophysiology Experiment Metadata</a></li>
     </ul>
     </td>
   </tr>
@@ -116,6 +117,7 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
     <td>Introduction to NWB for extracellular electrophysiology in Python (Ryan Ly)<br/>
     <ul>
       <li><a href="https://raw.githubusercontent.com/NeurodataWithoutBorders/nwb_tutorial/master/HCK09/ecephys_tutorial.ipynb">Python Jupyter notebook</a> (right click link, save link to your computer)</li>
+      <li><a href="https://www.youtube.com/watch?v=rlywed3ar-s">Recording on YouTube</a></li><!--TODO update me-->
     </ul>
     </td>
   </tr>
@@ -161,12 +163,13 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
-          <td><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter</td>
+          <td><a href="https://github.com/NeurodataWithoutBorders/nwb-jupyter-widgets">NWB Widgets</a> - Ben Dichter<br/>
+            <a href="https://www.youtube.com/watch?v=XoWdLNS_wHE">Recording on YouTube</a></td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
           <td><a href="https://github.com/bahanonu/calciumImagingAnalysis">calciumImagingAnalysis</a> - Biafra Ahanonu<br/>
-            <a href="https://youtu.be/I6abW3uuJJw">Recording on Youtube</a></td>
+            <a href="https://youtu.be/I6abW3uuJJw">Recording on YouTube</a></td>
         </tr>
       </table>
     </td>
@@ -180,19 +183,20 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
   </tr>
   <tr>
     <td><b>9 - 9:45am</b></td>
-    <td>NWB extensions: How to store and share non-standardized data types in NWB (Ryan Ly)
+    <td>NWB extensions: How to store and share non-standardized data types in NWB (Ryan Ly)<br/>
+      <a href="https://www.youtube.com/watch?v=_lvpY4PajS8">Recording on YouTube</a><!--UPDATE ME-->
     </td>
   </tr>
   <tr>
     <td><b>9:50 - 10:20am</b></td>
     <td>Advanced write in PyNWB (compression, chunking, iterative write, and parallel access) (Andrew Tritt)<br/>
-        <a href=https://youtu.be/wduZHfNOaNg>Recording on Youtube</a>
+        <a href=https://youtu.be/wduZHfNOaNg>Recording on YouTube</a>
     </td>
   </tr>
   <tr>
     <td><b>10:20 - 10:40am</b></td>
     <td>Advanced write in MatNWB (compression, chunking, and iterative write) (Ben Dichter) <br/>
-        <a href=https://youtu.be/PIE_F4iVv98>Recording on Youtube</a>
+        <a href=https://youtu.be/PIE_F4iVv98>Recording on YouTube</a>
   </td>
   </tr>
   <tr>
@@ -223,20 +227,21 @@ You can add this [Google Calendar](https://bit.ly/3c02edx) or [iCal calendar](ht
         <tr>
           <td>3 - 3:55pm</td>
           <td><a href="https://alleninstitute.github.io/MIES/index.html">MIES</a> - Thomas Braun <br/>
-            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on Youtube</a>
+            <a href="https://youtu.be/Y3I-LDX-R2Q">Recording on YouTube</a>
           </td> 
         </tr>
         <tr>
           <td>4 - 4:55pm</td>
           <td><a href="https://datajoint.io">DataJoint</a> - Thinh Nguyen, Dimitri Yatsenko<br/>
-            <a href="https://github.com/ttngu207/nwb_hackathons_2020">Link to Jupyter notebooks</a></td>
+            <a href="https://github.com/ttngu207/nwb_hackathons_2020">Link to Jupyter notebooks</a><br/>
+            <a href="https://www.youtube.com/watch?v=y6phSqrikGw">Recording on YouTube</a></td>
         </tr>
         <tr>
           <td>5 - 5:55pm</td>
           <td><a href="https://www.cin.ucsf.edu/HTML/Loren_Frank.html">NWB & DataJoint Integration in the Frank Lab, UCSF</a> - Loren Frank <br/>
             <ul>
               <li> <a href="https://github.com/LorenFrankLab/nwb_datajoint">Link to Jupyter notebooks</a> </li>
-              <li> <a href="https://youtu.be/dzf9M_G-5-A">Recording on Youtube</a></li>
+              <li> <a href="https://youtu.be/dzf9M_G-5-A">Recording on YouTube</a></li>
             </ul>
           </td>
         </tr>
