@@ -1,7 +1,7 @@
 
 <img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
 
-# Welcome to the web page for the 7th NWB Hackathon!
+# Welcome to the web page for the 10th NWB Hackathon!
 
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
