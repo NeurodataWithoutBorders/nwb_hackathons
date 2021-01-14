@@ -2,7 +2,7 @@
 
 ### Upcoming Events
 
-- [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **March 30- April 1, 2021**.
+- [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **March 30 - April 1, 2021**.
 
 ### Past Hackathons
 - [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User Days was held remotely through video conferencing on **September 21-23, 2020**.
