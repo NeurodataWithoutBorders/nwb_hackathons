@@ -1,5 +1,5 @@
 
-<img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
+<img alt="Remote hackathon" src="nwb+dandi_logo.png">
 
 # Welcome to the web page for the 10th NWB Hackathon!
 
@@ -24,8 +24,7 @@
 
 ## Overview
 
-The workshop will focus primarily on developers, and will allow software developers in the NWB ecosystem to collaborate
- on NWB or DANDI-related projects.
+The workshop will focus primarily on developers, and will allow software developers in the NWB ecosystem to collaborate on NWB or DANDI-related projects.
 
 ## Registration
 
