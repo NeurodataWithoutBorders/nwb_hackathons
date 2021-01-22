@@ -1,7 +1,7 @@
 
 <img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
 
-# Welcome to the web page for the 10th NWB Hackathon!
+# Welcome to the 2021 NWB-DANDI Remote Developer Hackathon!
 
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
@@ -19,18 +19,21 @@
 
 ## Dates and Location
 
-- **Dates:** March 30 - April 1, 2021
+- **Pre-hackathon project pitch session:** Wednesday, March 17, 2021, 9am PST (12pm EST)
+- **Dates:** Tuesday, March 30, 2021 - Thursday, April 1, 2021, 8am - 3pm PST (11am - 6pm EST)
 - **Location:** Anywhere with an internet connection
 
 ## Overview
 
-The workshop will focus primarily on developers, and will allow software developers in the NWB ecosystem to collaborate
- on NWB or DANDI-related projects.
+Neurodata Without Borders (NWB) and the DANDI neurophysiology data archive development teams are joining together to create a remote hackathon event for developers. In contrast to the User Days hackathons that focus on training users, this event will focus on bringing together the developers of the NWB data standard, the DANDI development team, and developers of tools in the NWB ecosystem.
+
+This hackathon will enable participants to work intensively on an NWB or DANDI-related project with the assistance of core developers and others in the community. We will share updates with each other on NWB, DANDI, and related community projects. Together, we can develop and discuss ideas for solving technical problems that impact the broader community. Our goal is to foster collaboration and community among developers working on and with NWB and DANDI.
 
 ## Registration
 
 **Registration is not open yet. A link will be posted here when registration opens.**
 
+Please complete the [registation from](https://docs.google.com/forms/d/e/1FAIpQLScfZ7ZtO1gN_IZkdhY9kL_FCTTEEJwlpilx4KKrQtRnm2iqrw/viewform?usp=sf_link) to attend the event.
 
 ## Logistics
 
@@ -40,19 +43,16 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 ## Organizing Committee
 
-**Program chairs:** Ryan Ly, Benjamin Dichter, Andrew Tritt, Pam Baker, and Oliver Rübel
-
-Additional organizational support is provided by the Kavli Foundation.
-
-## Resources
-
-Recorded talks will be uploaded after the talks are given.
+**NWB POC:** Oliver Rübel
+**DANDI POC:** Satrajit S. Ghosh
+**Program Commitee:** Ryan Ly, Benjamin Dichter, Andrew Tritt, Pam Baker, Oliver Rübel, Satrajit S Ghosh, Yaroslav O. Halchenko
 
 ## How to prepare?
 
 Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
+  * Create an account with DANDI: https://gui.dandiarchive.org
 
 ## Projects
 
@@ -60,13 +60,25 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
+### Suggested Tracks
+
+- Information standards, Ontologies, NWB extensions
+- NWB and/or DANDI-enabled tools
+- Contributions to NWB and/or DANDI core software
+- Interfacing with data acquisition systems and building tools for data conversion
+- Documentation and diagrams
+
+
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the NWB User Days training workshops is to bring the experimental neurophysiology community together to further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB. Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+The Distributed Archives for Neurophysiology Data Integration (DANDI, [https://www.dandiarchive.org/](https://www.dandiarchive.org/)) is a platform for publishing, sharing, and processing neurophysiology data funded by the BRAIN Initiative. The platform is now available for data upload and distribution. 
+
+The purpose of the NWB+DANDI Developer Hackathon is to bring the neurophysiology developer community together to further the development NWB and DANDI and integration of NWB and DANDI with tools.  Members of the community will work jointly on coding projects, exchange ideas and best practices, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages. 
 
 ## Agenda
+
 TBD
 {% include_relative agenda/AGENDA.md %}
 
