@@ -1,5 +1,5 @@
 
-<img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
+<img alt="Remote hackathon" src="nwb+dandi_logo.png">
 
 # Welcome to the 2021 NWB-DANDI Remote Developer Hackathon!
 
