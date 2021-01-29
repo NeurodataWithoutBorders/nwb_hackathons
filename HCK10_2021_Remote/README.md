@@ -31,9 +31,7 @@ This hackathon will enable participants to work intensively on an NWB or DANDI-r
 
 ## Registration
 
-**Registration is not open yet. A link will be posted here when registration opens.**
-
-Please complete the [registation from](https://docs.google.com/forms/d/e/1FAIpQLScfZ7ZtO1gN_IZkdhY9kL_FCTTEEJwlpilx4KKrQtRnm2iqrw/viewform?usp=sf_link) to attend the event.
+Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLScfZ7ZtO1gN_IZkdhY9kL_FCTTEEJwlpilx4KKrQtRnm2iqrw/viewform?usp=sf_link) to attend the event.
 
 ## Logistics
 
