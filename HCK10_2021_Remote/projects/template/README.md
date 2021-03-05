@@ -2,11 +2,11 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# Integration with other data standards
 
 ## Key Investigators
 
-<!-- - Investigator 1 (Affiliation)-->
+Ben Dichter (CatalystNeuro)
 <!-- - Investigator 2 (Affiliation)-->
 
 ## Project Description
@@ -15,6 +15,7 @@
 
 ## Objectives
 
+Refine [ephy-BIDS BEP](https://docs.google.com/document/d/1oG-C8T-dWPqfVzL2W8HO3elWK8NIh2cOCPssRGv23n0/edit?ts=6038e4f4#heading=h.xusg1m9qm1ca) and create example dataset
 <!-- Briefly describe the objectives of your project. What would you like to achive?-->
 
 <!-- 1. Objective A. Describe it in 1-2 sentences.-->
