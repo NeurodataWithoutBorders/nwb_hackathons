@@ -42,7 +42,9 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 ## Organizing Committee
 
 **NWB POC:** Oliver Rübel
+
 **DANDI POC:** Satrajit S. Ghosh
+
 **Program Commitee:** Ryan Ly, Benjamin Dichter, Andrew Tritt, Pam Baker, Oliver Rübel, Satrajit S Ghosh, Yaroslav O. Halchenko
 
 ## How to prepare?
