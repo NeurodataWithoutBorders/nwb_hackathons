@@ -19,7 +19,7 @@
 
 ## Dates and Location
 
-- **Pre-hackathon project pitch session:** Wednesday, March 17, 2021, 9am PST (12pm EST)
+- **Pre-hackathon project pitch session:** Friday, March 19, 2021, 9am PST (12pm EST)
 - **Dates:** Tuesday, March 30, 2021 - Thursday, April 1, 2021, 8am - 3pm PST (11am - 6pm EST)
 - **Location:** Anywhere with an internet connection
 
