@@ -5,3 +5,6 @@ The lists below provides an overview of specific projects for which at least one
 * [Template Project](projects/template)
 * [Common analytics with NWB data](projects/analytics)
 * [Interoperability with other standards](projects/other_standards)
+* [Genotype representation](projects/genotype_representation)
+* [Extensions infrastructure](projects/extensions_infrastructure)
+* [NWB-DataJoint-SpikeInterface pipeline] (projects/nwb_dj_si_pipeline)
