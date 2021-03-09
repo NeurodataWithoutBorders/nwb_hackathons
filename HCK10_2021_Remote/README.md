@@ -49,10 +49,12 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 ## How to prepare?
 
+If you are not experienced with NWB, please watch this [introduction to NWB](https://training.incf.org/lesson/what-nwb-short-intro-nwb-enabled-tools) and optionally the subsequent lessons in Python (or in MATLAB [here](https://training.incf.org/lesson/what-nwb-short-intro-nwb-enabled-tools-0)).
 Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
-  * Create an account with DANDI: https://gui.dandiarchive.org
+  
+If you are not experienced with DANDI, please read the [DANDI documentation](https://www.dandiarchive.org/handbook/), browse the [DANDI GitHub organization](https://github.com/dandi/), and create an account on [DANDI](https://gui.dandiarchive.org/#/).
 
 ## Projects
 
