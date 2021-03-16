@@ -8,3 +8,4 @@ The lists below provides an overview of specific projects for which at least one
 * [Genotype representation](projects/genotype_representation)
 * [Extensions infrastructure](projects/extensions_infrastructure)
 * [NWB-DataJoint-SpikeInterface pipeline](projects/nwb_dj_si_pipeline)
+* [DANDI](projects/dandi)
