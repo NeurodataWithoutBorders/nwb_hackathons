@@ -13,7 +13,7 @@ This working group will explore the relealtionship between NWB and other electro
 <!-- - Investigator 2 (Affiliation)-->
 * Ben Dichter (LBNL/CatalystNeuro)
 * Julia Sprenger
-(...feel free to add yourself)
+* (...feel free to add yourself)
 
 ## Project Description
 
