@@ -8,10 +8,10 @@
 
 <!-- - Investigator 1 (Affiliation)-->
 <!-- - Investigator 2 (Affiliation)-->
-Ben Dichter (LBNL/CatalystNeuro/Stanford)
-Alessio Buccino (CatalystNeuro)
-Cody Baker (CatalystNeuro)
-(...feel free to add yourself)
+* Ben Dichter (LBNL/CatalystNeuro/Stanford)
+* Alessio Buccino (CatalystNeuro)
+* Cody Baker (CatalystNeuro)
+* (...feel free to add yourself)
 
 ## Project Description
 
