@@ -2,6 +2,7 @@ The lists below provides an overview of planned breakout sessions during the hac
 focused on topics of common interest. Each breakout session has an assigned session chair to help coordinate the meeting.
 
 * [template breakout](projects/template_breakout)
+* [External Resources and Persistent Identifiers in NWB](projects/uri_breakout)
 
 ## Proposing breakout sessions
 
