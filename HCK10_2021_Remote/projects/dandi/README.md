@@ -9,6 +9,10 @@
 - Roni Choudhury (Kitware)
 - Mike Grauer (Kitware)
 
+## Participants
+
+- Yaroslav O. Halchenko
+
 ## Project Description
 
 Come talk to the DANDI team, to share your experiences searching for and archiving data, and to suggest what features or improvements would be useful to you or your lab in a public data archive.
