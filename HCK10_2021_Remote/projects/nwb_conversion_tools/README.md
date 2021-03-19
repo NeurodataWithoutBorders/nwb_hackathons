@@ -12,7 +12,7 @@
 <!-- - Investigator 2 (Affiliation)-->
 
 ## Project Description
-Develop NWB Conversion Tools, a library for automatic conversion from a large variety of neurophysiology data formats
+Develop [NWB Conversion Tools](https://github.com/catalystneuro/nwb-conversion-tools), a library for automatic conversion from a large variety of neurophysiology data formats
  to NWB. 
 <!-- Add a short paragraph describing the project. -->
 
