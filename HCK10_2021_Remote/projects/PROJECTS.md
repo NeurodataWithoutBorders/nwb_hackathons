@@ -9,5 +9,6 @@ The lists below provides an overview of specific projects for which at least one
 * [Extensions infrastructure](projects/extensions_infrastructure)
 * [NWB-DataJoint-SpikeInterface pipeline](projects/nwb_dj_si_pipeline)
 * [DANDI](projects/dandi)
-* [Intracellular Ephys Stimulus Description and Ontology] (projects/icephys_stims)
-* [Controlled Terms and Definitions for Experimental Metadata in NWB] (projects/terms_and_definitions)
+* [Intracellular Ephys Stimulus Description and Ontology](projects/icephys_stims)
+* [Controlled Terms and Definitions for Experimental Metadata in NWB](projects/terms_and_definitions)
+* [NWB Conversion Tools]
