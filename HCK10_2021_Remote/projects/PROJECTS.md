@@ -13,3 +13,5 @@ The lists below provides an overview of specific projects for which at least one
 * [Controlled Terms and Definitions for Experimental Metadata in NWB](projects/terms_and_definitions)
 * [NWB Conversion Tools](projects/nwb_conversion_tools)
 * [OpenScope PredictiveCoding to NWB](/projects/OpenScopePredictive)
+* [NWB–DeepLabCut integration](projects/deeplabcut-nwb)
+* [fNIRS neurodata type](projects/fnirs_datatype)
