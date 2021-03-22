@@ -83,7 +83,7 @@ For instructions on how to create a project see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
-### Suggested Tracks
+### Suggested Project Themes
 
 - Information standards, Ontologies, NWB extensions
 - NWB and/or DANDI-enabled tools
