@@ -11,6 +11,7 @@
   * [Resources](#resources)
   * [How to prepare?](#how-to-prepare)
   * [Projects](#projects)
+  * [Breakout Sessions](#breakout-sessions)
   * [Objective](#objective)
   * [Agenda](#agenda)
 
