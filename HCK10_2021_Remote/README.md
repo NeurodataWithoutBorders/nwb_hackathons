@@ -79,7 +79,7 @@ If you are not experienced with DANDI, please read the [DANDI documentation](htt
 
 ## Projects
 
-For instructions on how to create a project see [here](projects/README.md)
+For instructions on how to create a project, see [here](projects/README.md)
 
 {% include_relative projects/PROJECTS.md %}
 
@@ -91,6 +91,9 @@ For instructions on how to create a project see [here](projects/README.md)
 - Interfacing with data acquisition systems and building tools for data conversion
 - Documentation and diagrams
 
+## Breakout Sessions
+
+{% include_relative projects/BREAKOUTS.md %}
 
 ## Objective
 
