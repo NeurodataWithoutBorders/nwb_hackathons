@@ -15,3 +15,4 @@ The lists below provides an overview of specific projects for which at least one
 * [OpenScope PredictiveCoding to NWB](/projects/OpenScopePredictive)
 * [NWB–DeepLabCut integration](projects/deeplabcut-nwb)
 * [fNIRS neurodata type](projects/fnirs_datatype)
+* [NWB External Resources](projects/ExternalResources)
