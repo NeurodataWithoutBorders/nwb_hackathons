@@ -66,6 +66,8 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 **Sponsored by The Kavli Foundation**
 
+<a href="https://kavlifoundation.org/"><img alt="Kavli Foundation logo" src="kavli_logo.svg"></a>
+
 ## How to prepare?
 
 If you are not experienced with NWB, please watch this [introduction to NWB](https://training.incf.org/lesson/what-nwb-short-intro-nwb-enabled-tools) and optionally the subsequent lessons in Python (or in MATLAB [here](https://training.incf.org/lesson/what-nwb-short-intro-nwb-enabled-tools-0)).
