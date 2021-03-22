@@ -1,7 +1,7 @@
 The lists below provides an overview of planned breakout sessions during the hackathon. Breakout sessions are collaborative meetings
 focused on topics of common interest. Each breakout session has an assigned session chair to help coordinate the meeting.
 
-* [template breakout](projects/template_breakout)
+* [Template Breakout](projects/template_breakout)
 
 * [External Resources and Persistent Identifiers in NWB](projects/uri_breakout)
 * [Icephys + Stimulation Ontology](projects/icephys_breakout)
@@ -13,7 +13,7 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [Conversion of Proprietary Formats to NWB](projects/conversion_breakout)
 
 
-## Proposing breakout sessions
+### Proposing breakout sessions
 
 To propose additional breakout sessions, please contact the hackathon organizing team.
 
