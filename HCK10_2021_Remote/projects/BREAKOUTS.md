@@ -10,7 +10,6 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [Storing Analysis Results and Provenance in NWB](projects/analysis_results_breakout)
 * [Feature Requests for NWB + DANDI Over the Next 5 Years](projects/feature_requests_breakout)
 * [Coordination meeting for behavioral quantification](projects/behavioral_quantification_breakout)
-* [Conversion of Proprietary Formats to NWB](projects/conversion_breakout)
 * [NWB Conversion Tools](projects/nwb_conversion_tools)
 * [Findability: search and metadata extraction](projects/findability_breakout)
 
