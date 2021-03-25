@@ -44,12 +44,12 @@ In Gather, you control a video-game-like avatar with your arrow keys. When your 
 
 We have a few tips for using Gather, especially if it is your first time:
 - Sign in to the space before the meeting and practice using the controls.
-- Use a desktop/laptop computer, not a mobile device. Chrome seems to works best. The desktop app also works.
+- Use a **desktop/laptop computer**, not a mobile device. Chrome seems to works best. The desktop app also works.
 - This is not a 20+ person Zoom call. You can "walk" up to different people and communicate with only the people within a few tiles from your avatar.
-- Shaded areas are "private spaces" - only people inside the private space can see and hear you. There are private spaces for each breakout room, each table/desk, and the main stage area.
-- While you are hacking, we recommend that you keep Gather open in the background with your speakers/audio on, so that others can more easily reach you. This will help us better emulate an in-person hackathon where everyone is approachable. Feel free to mute yourself and turn off your video when you are not interacting with anyone.
+- **Shaded areas are "private spaces" - only people inside the private space can see and hear you.** There are private spaces for each breakout room, each table/desk, and the main stage area.
+- While you are hacking, we recommend that you **keep Gather open in the background with your speakers/audio on**, so that others can more easily reach you. This will help us better emulate an in-person hackathon where everyone is approachable. Feel free to mute yourself and turn off your video when you are not interacting with anyone.
 - Click on a name in the People panel (bottom-left button) to send them a message or locate them.
-- We recommend keeping the Chat panel open in case someone messages you.
+- We recommend that you **keep the Chat panel on the left open in case someone messages you**.
 - If you are leaving your computer for a prolonged period, please close the browser to make your avatar leave the space.
 - You can click the arrow icon in the top right of the video feed to make everyone’s videos bigger. You can also click your name at the bottom of the screen, User/Video preferences, and Use HD Video Quality for better video.
 
