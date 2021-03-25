@@ -41,6 +41,9 @@ We will be developing a NWB conversion tool to convert the UCLA Miniscope data f
 ## Background and References
 
 Miniscope Hardware Github Repo: https://github.com/Aharoni-Lab/Miniscope-v4
+
 Miniscope Wiki: https://github.com/Aharoni-Lab/Miniscope-v4/wiki
+
 Miniscope DAQ Software Source Code: https://github.com/Aharoni-Lab/Miniscope-DAQ-QT-Software
+
 
