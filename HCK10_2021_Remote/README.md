@@ -113,7 +113,7 @@ During the chat, we recommend the following, but feel free to structure your mee
 - Please be kind and respectful during your meeting (see more on our code of conduct page).
 - Don’t worry if you don’t find something, our algorithms aren’t perfect and you’re not being judged on how well you do - have fun!
 
-These tips are largely adapted from the [successful mindmatching from the neuromatch conference](https://neuromatch.io/instructions/how-to-register/). See also this paper on the format and a matching algorithm: https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists 
+These tips are largely adapted from the [successful mindmatching from the neuromatch conference](https://neuromatch.io/instructions/how-to-register/). See also this [paper](https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists) on the format and a matching algorithm.
 
 ## Objective
 
@@ -125,7 +125,6 @@ The purpose of the NWB+DANDI Developer Hackathon is to bring the neurophysiology
 
 ## Agenda
 
-TBD
 {% include_relative agenda/AGENDA.md %}
 
 ## Disclaimer
