@@ -112,13 +112,13 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>8:30 - 9:30am</b></td>
-    <td>Breakout: Intracellular Ephys and Stimulation (Room 1)
+    <td><b>9:30 - 3pm</b></td>
+    <td>Open Hacking
     </td>
   </tr>
   <tr>
-    <td><b>9:30 - 3pm</b></td>
-    <td>Open Hacking
+    <td><b>8:30 - 9:30am</b></td>
+    <td>Breakout: Intracellular Ephys and Stimulation (Room 1)
     </td>
   </tr>
   <tr>
