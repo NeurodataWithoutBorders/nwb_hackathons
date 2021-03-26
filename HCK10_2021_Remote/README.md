@@ -12,6 +12,7 @@
   * [How to prepare?](#how-to-prepare)
   * [Projects](#projects)
   * [Breakout Sessions](#breakout-sessions)
+  * [Matchmaking Chat](#matchmaking-chat)
   * [Objective](#objective)
   * [Agenda](#agenda)
 
