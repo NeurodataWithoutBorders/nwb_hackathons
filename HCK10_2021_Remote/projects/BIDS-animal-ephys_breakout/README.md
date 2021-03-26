@@ -4,8 +4,7 @@
 
 # Interoperability with other standards
 
-This working group will explore the relealtionship between NWB and other electrophysiology data emerging standards, e.g
-. BIDS-ephy, NDS, and DANDIsets.
+Discuss the BIDS-animal-ephys extension proposal, and how it would integrate with NWB and DANDI.
 
 ## Key Investigators
 

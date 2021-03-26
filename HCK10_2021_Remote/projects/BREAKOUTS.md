@@ -12,6 +12,7 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [Coordination meeting for behavioral quantification](projects/behavioral_quantification_breakout)
 * [NWB Conversion Tools](projects/nwb_conversion_tools)
 * [Findability: search and metadata extraction](projects/findability_breakout)
+* [BIDS-animal-ephys](projects/BIDS-animal-ephys_breakout)
 
 
 ### Proposing breakout sessions
