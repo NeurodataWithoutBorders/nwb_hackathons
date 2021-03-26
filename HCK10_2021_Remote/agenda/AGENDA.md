@@ -23,7 +23,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>10am - 3pm</b></td>
+    <td><b>10 - 3pm</b></td>
     <td>Open Hacking
     </td>
   </tr>
@@ -33,7 +33,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>11am - 12pm</b></td>
+    <td><b>11 - 12pm</b></td>
     <td>Breakout: Validation (Room 2)
     </td>
   </tr>
@@ -70,7 +70,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>10am - 3pm</b></td>
+    <td><b>10 - 3pm</b></td>
     <td>Open Hacking
     </td>
   </tr>
@@ -117,7 +117,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>9:30am - 3pm</b></td>
+    <td><b>9:30 - 3pm</b></td>
     <td>Open Hacking
     </td>
   </tr>
