@@ -18,6 +18,7 @@ the metadata contained in an NWB file to make it findable?
 
 Tom Gillespie (UCSD)
 <!-- - Investigator 2 (Affiliation)-->
+Pamela Baker (AIBS/NWB)
 
 ## Objectives
 

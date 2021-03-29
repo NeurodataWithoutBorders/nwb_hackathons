@@ -12,6 +12,7 @@
   * [How to prepare?](#how-to-prepare)
   * [Projects](#projects)
   * [Breakout Sessions](#breakout-sessions)
+  * [Matchmaking Chat](#matchmaking-chat)
   * [Objective](#objective)
   * [Agenda](#agenda)
 
@@ -96,6 +97,24 @@ For instructions on how to create a project, see [here](projects/README.md)
 
 {% include_relative projects/BREAKOUTS.md %}
 
+## Matchmaking Chat
+
+Successful collaborations often begin from casual social interactions. To facilitate networking and social interactions during the hackathon, we will have a session of 2 one-on-one 15-minute chats between participants. Please fill out the form you received by email to let us know your interests, and we will pair you up during the hackathon.
+
+Prior to the chat, please take a quick look at your partner's webpage or list of publications (a link will be included in the email we send you), but there is no expectation that you will read their papers. Please also think about how to quickly describe your research interests bearing in mind your partner’s background.
+
+During the chat, we recommend the following, but feel free to structure your meeting however you like.
+
+- Start by each of you talking for 1 - 2 minutes about your general interests and approach.
+- If you immediately see a point of connection, go for it and talk about that.
+- Feel free to use screen-sharing and your slides if you think they help.
+- If not, try each of you describing briefly one or two projects that you think would be relevant or interesting to the other one, and see if that sparks an interesting discussion.
+- Keep in mind, the idea is to give yourselves the best chance of finding an unexpected and useful connection, so think broadly and try to get across a range of ideas until you find something that gets you both excited that you can talk about in more detail.
+- Please be kind and respectful during your meeting (see more on our code of conduct page).
+- Don’t worry if you don’t find something, our algorithms aren’t perfect and you’re not being judged on how well you do - have fun!
+
+These tips are largely adapted from the [successful mindmatching from the neuromatch conference](https://neuromatch.io/instructions/how-to-register/). See also this [paper](https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists) on the format and a matching algorithm.
+
 ## Objective
 
 The Neurodata Without Borders: Neurophysiology project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs. Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB. The community needs to join forces to achieve data standardization in neurophysiology.
@@ -106,7 +125,6 @@ The purpose of the NWB+DANDI Developer Hackathon is to bring the neurophysiology
 
 ## Agenda
 
-TBD
 {% include_relative agenda/AGENDA.md %}
 
 ## Disclaimer
