@@ -90,7 +90,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>2 - 3pm</b></td>
+    <td><b>1 - 2pm</b></td>
     <td>Breakout: Storing Analysis Results and Provenance in NWB (Room 1)
     </td>
   </tr>
@@ -122,8 +122,13 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
+    <td><b>10 - 11am</b></td>
+    <td>Breakout: NWB Jupyter Widgets (Room 2)
+    </td>
+  </tr>
+  <tr>
     <td><b>11 - 12pm</b></td>
-    <td>Feature Requests for NWB + DANDI (Room 2)
+    <td>Feature Requests for NWB + DANDI (Room 1)
     </td>
   </tr>
   <tr>
