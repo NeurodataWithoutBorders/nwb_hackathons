@@ -12,6 +12,7 @@ focused on topics of common interest. Each breakout session has an assigned sess
 * [NWB Conversion Tools](projects/nwb_conversion_tools)
 * [Findability: search and metadata extraction](projects/findability_breakout)
 * [BIDS-animal-ephys](projects/BIDS-animal-ephys_breakout)
+* [NWB_Jupyter_Widgets](/projects/nwb_jupyter_widgets_breakout)
 
 
 ### Proposing breakout sessions
