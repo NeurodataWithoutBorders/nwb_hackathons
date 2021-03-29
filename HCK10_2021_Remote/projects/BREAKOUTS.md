@@ -5,7 +5,6 @@ focused on topics of common interest. Each breakout session has an assigned sess
 
 * [External Resources and Persistent Identifiers in NWB](projects/uri_breakout)
 * [Icephys + Stimulation Ontology](projects/icephys_breakout)
-* [Interoperability with Other Standards](projects/interoperability_breakout)
 * [Validation](projects/validation_breakout)
 * [Storing Analysis Results and Provenance in NWB](projects/analysis_results_breakout)
 * [Feature Requests for NWB + DANDI Over the Next 5 Years](projects/feature_requests_breakout)

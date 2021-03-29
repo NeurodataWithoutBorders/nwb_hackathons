@@ -10,8 +10,8 @@ Discuss the BIDS-animal-ephys extension proposal, and how it would integrate wit
 
 <!-- - Investigator 1 (Affiliation)-->
 <!-- - Investigator 2 (Affiliation)-->
-* Ben Dichter (LBNL/CatalystNeuro)
 * Julia Sprenger
+* Ben Dichter (LBNL/CatalystNeuro)
 * Oliver Ruebel (LBNL)
 * (...feel free to add yourself)
 
