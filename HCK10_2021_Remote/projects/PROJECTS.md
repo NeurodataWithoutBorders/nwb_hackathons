@@ -16,3 +16,4 @@ The lists below provides an overview of specific projects for which at least one
 * [fNIRS neurodata type](projects/fnirs_datatype)
 * [NWB External Resources](projects/ExternalResources)
 * [Miniscope-NWB Integration](projects/miniscope_nwb)
+* [Integrate ndx-icephys-meta with NWB](projects/icephys_ndx_integration)
