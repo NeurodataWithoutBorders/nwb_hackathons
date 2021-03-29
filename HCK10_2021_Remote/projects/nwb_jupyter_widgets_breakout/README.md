@@ -7,14 +7,14 @@
 **Session Chair:** ...
 
 <!-- Add the name of the session chair. -->
-* Michael Scheid
+* Michael Scheid (Catalyst Neuro)
 <!-- Add a short paragraph describing the topic and breakout session. -->
 
 ## Participants
 
 <!-- - Investigator 1 (Affiliation)-->
-* Michael Scheid
-* Ben Dichter
+* Michael Scheid (Catalyst Neuro)
+* Ben Dichter (Catalyst Neuro)
 <!-- - Investigator 2 (Affiliation)-->
 
 ## Objectives
