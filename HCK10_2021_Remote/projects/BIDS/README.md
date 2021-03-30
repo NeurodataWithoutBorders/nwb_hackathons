@@ -42,9 +42,10 @@ Here are our main objectives:
 <!-- 1. ... -->
 Three practical items are on the agenda to start with at the beginning of this hackathon:
 * homogeneize directory validation structure in the existing tools (Saksham, Jeremy, Julia, ?)
-* discuss the metadata consistency between BIDS, DANDI and NWB to progress towards conversion/integration tools (Julia, Ben, a DANDI guru?)
 * finalize a BIDS-compliant NWB dataset and integrate it in the BIDS extension proposal (Ben, Sylvain, ?)
-These should be easy... Then, we'll see alltogether on how to move forward!
+* discuss the metadata consistency between BIDS, DANDI and NWB to progress towards conversion/integration tools (Julia, Ben, a DANDI guru?)
+
+The first two should be easy, the third is fairly open... After completing the first two, we'll see alltogether on how to move forward!
 
 ## Progress and Next Steps
 

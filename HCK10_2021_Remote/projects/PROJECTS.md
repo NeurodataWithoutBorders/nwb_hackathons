@@ -22,3 +22,4 @@ The lists below provides an overview of specific projects for which at least one
 * [M3Platform to NWB](projects/M3Platform_to_NWB)
 * [Icephys DANDI Publishing](projects/icephys_dandi_publishing)
 * [Signal files to NWB](projects/signal_to_NWB)
+* [NWB-DANDI-BIDS integration](projects/BIDS)
