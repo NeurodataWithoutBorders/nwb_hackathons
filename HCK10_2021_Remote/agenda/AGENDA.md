@@ -80,8 +80,8 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>10 - 11am</b></td>
-    <td>Breakout: Interoperability with Other Standards (Room 1)
+    <td><b>9 - 10am</b></td>
+    <td>Breakout: Interoperability with Other Standards, in particular BIDS-animal-ephys (Room 1)
     </td>
   </tr>
   <tr>
