@@ -13,7 +13,7 @@ David Wyrick
 
 ## Project Description
 
-The goal of this project is to convert datasets collected at the Allen Institute, as part of the OpenScope Credit Assignement project into NWB files.
+The goal of this project is to convert datasets collected at the Allen Institute, as part of the OpenScope Predictive Coding project into NWB files.
 Ultimately we will upload those datasets to Dandihub and check compatibility with scientific analysis code. 
 
 ## Objectives
