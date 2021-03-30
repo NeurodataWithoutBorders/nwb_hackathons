@@ -58,6 +58,7 @@ Participants should add topics of possible interest for discussion here
 <!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
 <!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
 <!--![Description of picture](Example2.jpg)-->
+* Meeting notes available in GoogleDoc at https://docs.google.com/document/d/1gS_xTHCWkVT3-OUCinLjnI8RvojVscyY7ZLF1eARvQY/edit?usp=sharing
 
 ## Background and References
 
