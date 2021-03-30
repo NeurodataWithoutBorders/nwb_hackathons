@@ -17,3 +17,4 @@ The lists below provides an overview of specific projects for which at least one
 * [NWB External Resources](projects/ExternalResources)
 * [Miniscope-NWB Integration](projects/miniscope_nwb)
 * [Integrate ndx-icephys-meta with NWB](projects/icephys_ndx_integration)
+* [Complex Behavior](projects/complex-behavior)
