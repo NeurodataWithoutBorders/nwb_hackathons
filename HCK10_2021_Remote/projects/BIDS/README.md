@@ -18,7 +18,9 @@
 ## Project Description
 
 <!-- Add a short paragraph describing the project. -->
-With the recently proposed standard for the organization of data and metadata obtained with animal electrophysiology (see the [BIDS extension proposal](http://bit.ly/BIDS-animal-ephys)), we here aim at maximizing the integration and inter-operability between the NWB, DANDI and BIDS ecosystems. A dedicated breakout session is scheduled to present this BIDS-animal-ephys to the audience and to discuss all this with all interested parties! Come join us, it's on Wednesday March 31 at 9am PDT, in Room1).
+With the recently proposed standard for the organization of data and metadata obtained with animal electrophysiology (see the [BIDS extension proposal, BEP32](http://bit.ly/BIDS-animal-ephys)), we here aim at maximizing the integration and inter-operability between the NWB, DANDI and BIDS ecosystems. A dedicated breakout session is scheduled to present this BIDS-animal-ephys to the audience and to discuss all this with all interested parties! Come join us, it's on Wednesday March 31 at 9am PDT, in Room1).
+
+Also, this BIDS extension proposal is actively looking for user feedback! So do not hesitate to go through the document and comment on it (don't be shy, add whatever you think, the mode comments from the community the wider the consensus at the end)
 
 ## Objectives
 
@@ -42,6 +44,7 @@ Three practical items are on the agenda to start with at the beginning of this h
 * homogeneize directory validation structure in the existing tools (Saksham, Jeremy, Julia, ?)
 * discuss the metadata consistency between BIDS, DANDI and NWB to progress towards conversion/integration tools (Julia, Ben, a DANDI guru?)
 * finalize a BIDS-compliant NWB dataset and integrate it in the BIDS extension proposal (Ben, Sylvain, ?)
+These should be easy... Then, we'll see alltogether on how to move forward!
 
 ## Progress and Next Steps
 
@@ -58,7 +61,7 @@ Three practical items are on the agenda to start with at the beginning of this h
 * the [BIDS-animal-ephys extension proposal](http://bit.ly/BIDS-animal-ephys)
 * the corresponding validation tool, for now called [AnDOChecker](https://github.com/INT-NIT/AnDO)
 * the draft of a BIDS-compliant NWB [dataset](https://drive.google.com/drive/u/1/folders/1-5HgytYZQLkXgm3-R9kpZj-EhEqHs_2f)
-* the draft of a conversion tool from [NWB2BIDS](https://github.com/catalystneuro/BIDS_ephys/blob/master/BIDS_ext.py)
+* the first version of a conversion tool [from NWB to BIDS](https://github.com/catalystneuro/BIDS_ephys/blob/master/BIDS_ext.py)
 * the [DANDI CLI](https://www.dandiarchive.org/handbook/10_using_dandi/#uploading-a-dandiset), that include tools to organize NWB files for DANDI
 
 ## Background and References
