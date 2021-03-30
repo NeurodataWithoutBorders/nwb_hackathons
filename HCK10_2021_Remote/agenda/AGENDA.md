@@ -33,6 +33,11 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
+    <td><b>10 - 11am</b></td>
+    <td>Breakout: Coordination meeting for behavioral quantification (Room 2)
+    </td>
+  </tr>
+  <tr>
     <td><b>11 - 12pm</b></td>
     <td>Breakout: Validation (Room 2)
     </td>
