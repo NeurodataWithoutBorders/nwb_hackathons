@@ -2,38 +2,39 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-#  Write full breakout session title here
+#  Coordination for Complex Behavioral Quantification 
 
-**Session Chair:** ...
-
-<!-- Add the name of the session chair. -->
-<!-- Add a short paragraph describing the topic and breakout session. -->
+**Session Chair:**  Akshay Jaggi
 
 ## Participants
 
-<!-- - Investigator 1 (Affiliation)-->
-<!-- - Investigator 2 (Affiliation)-->
+Talmo Pereira (Princeton)
+Arie Matsliah (Princeton)
+Kanishk Jain (Emory)
+Jim Bohnslav (Harvard)
+Laurel Keyes (Salk)
+Jonny Saunders (Oregon)
 
 ## Objectives
 
-<!-- Briefly describe the objectives of the breakout session. What would you like to achive?-->
+1. Assess range of NWB needs for diverse behavioral quantification pipelines
+2. Identify set of common NWB types useful for all pipelines
+3. Discuss long term maintenance / ownership of tools and integration into pipelines
+4. Divide up tasks among available workers
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
+## Deliverables
 
-### Proposed discussion topics
-
-Participants should add topics of possible interest for discussion here
-
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
+1. ndx-labels: both supervised and unsupervised behavioral labels for single- and multi- animal sessions
+2. ndx-datatransforms: structuring matrix transformations (PCA, NMF, tSNE, etc.) and metadata
+3. ndx-multi: allowing multi-animal coordination of NWB sessions. Likely will be an extension of objects like Subject
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+1. Objective 1 (20 min): Open discussion, provide everyone a few minutes to describe their tools and needs 
+2. Objective 2 (20 min): Akshay proposes pre-designed plan, discuss feedback and criticism, update plan
+3. Objective 3 (10 min): Open discussion about ownership, authority moving forward
+4. Objective 4 (10 min): Divy up tasks
+
 
 ## Progress and Next Steps
 
@@ -43,9 +44,7 @@ Participants should add topics of possible interest for discussion here
 
 ## Materials
 
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
+Overview Presentation: https://docs.google.com/presentation/d/1LFkAbY-lNrwpxQkO1J1S8lcBlJCF8kUQ8EJlSkTb-Z8/edit?usp=sharing
 
 ## Background and References
 
