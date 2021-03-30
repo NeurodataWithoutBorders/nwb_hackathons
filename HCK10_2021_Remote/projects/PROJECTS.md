@@ -1,8 +1,9 @@
 ## Assigned Projects
 
-The lists below provides an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projets then please contact the team listed on the project page and add your name to the list of participants for the project.
+The lists below provides an overview of specific projects for which at least one or more attendees have signed up for to contribute to. Projects are collaborative in nature. If you are attending the hackathon and are interested in participating in any of the existing projects then please contact the team listed on the project page and add your name to the list of participants for the project.
 
 * [Template Project](projects/template)
+
 * [Common analytics with NWB data](projects/analytics)
 * [Genotype representation](projects/genotype_representation)
 * [Extensions infrastructure](projects/extensions_infrastructure)
@@ -18,3 +19,6 @@ The lists below provides an overview of specific projects for which at least one
 * [Miniscope-NWB Integration](projects/miniscope_nwb)
 * [Integrate ndx-icephys-meta with NWB](projects/icephys_ndx_integration)
 * [Complex Behavior](projects/complex-behavior)
+* [M3Platform to NWB](projects/M3Platform_to_NWB)
+* [Icephys DANDI Publishing](projects/icephys_dandi_publishing)
+* [Signal files to NWB](projects/signal_to_NWB)
