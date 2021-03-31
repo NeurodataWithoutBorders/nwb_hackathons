@@ -151,4 +151,9 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     <td>Final presentations (Main Stage)
     </td>
   </tr>
+  <tr>
+    <td><b>3 - 4pm</b></td>
+    <td>Social hour (Yoh's Island Bar)
+    </td>
+  </tr>
 </table>
