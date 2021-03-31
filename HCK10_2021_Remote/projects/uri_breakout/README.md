@@ -63,10 +63,14 @@ Participants should add topics of possible interest for discussion here
 <!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
 <!--![Description of picture](Example2.jpg)-->
 
+* [Link to Lydia's slides on Genotype/Atlasing](https://docs.google.com/presentation/d/1AaFPlfpGZ6qQuGHjOdtoVPnoJpSHNMZ-C_NzATij5Ww/edit?usp=sharing)
+
 ## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
 <!-- - Source code: https://github.com/YourUser/YourRepository -->
 <!-- - Documentation: https://link.to.docs -->
 <!-- - Test data: https://link.to.test.data -->
+
+
 
