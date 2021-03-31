@@ -75,17 +75,17 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>10 - 3pm</b></td>
-    <td>Open Hacking
-    </td>
-  </tr>
-  <tr>
     <td><b>9 - 10am</b></td>
     <td>Breakout: Interoperability with Other Standards, in particular BIDS-animal-ephys (Room 1)
     </td>
   </tr>
   <tr>
-    <td><b>11am - 12pm</b></td>
+    <td><b>10 - 3pm</b></td>
+    <td>Open Hacking
+    </td>
+  </tr>
+  <tr>
+    <td><b>10am - 11am</b></td>
     <td>Breakout: External Resources and Persistent Identifiers in NWB (Room 2)
     </td>
   </tr>
