@@ -30,10 +30,8 @@ Write a set of basic neurodata types to cover commonly used behavioral data in n
 <!-- 1. ... -->
 
 ## Progress and Next Steps
-
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+1. [ndx-labels](https://github.com/ndx-complex-behavior/ndx-labels): Consolidated ndx-labels and ndx-datatransforms into one extension called ndx-labels. We wrote up a [simple schematic](https://docs.google.com/presentation/d/1fm3O5euwQjAbvewN22YEt9INxPaSViszgw43MfDkZlI/edit?usp=sharing) for how to relate a behavioral video to a general label class and how to relate a general label class to a potential learned, low-dimensional "representation" of the raw data (say PCs or tSNE factors). We spec'd this schema, wrote a roundtrip test, and finished with a working example .py file. Potential extensions include making the representation class more flexible to include relevant metadata for certain representations (say PC loadings / eigenvalues), writing unit tests, testing that labels and representations could be used with neural data instead of a video, and more ideas. 
+2. [ndx-pose](https://github.com/ndx-complex-behavior/ndx-pose): Extended ndx-pose to include support for part grouping procedures for creating animal instances and support for animal identity estimation in multi-animal experiments. Wrote unit tests. Potential extensions include writing up a schema diagram for documentation, writing a round trip test, integrating this with ndx-labels, and more ideas. Special shoutout to Talmo for working on wrapping this up. 
 
 ## Materials
 
