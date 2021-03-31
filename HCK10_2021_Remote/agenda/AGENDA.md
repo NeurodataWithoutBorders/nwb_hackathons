@@ -70,6 +70,11 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
+    <td><b>815-ish - 9am</b></td>
+    <td>Breakout: BEADL and Behavioral Metadata (Room 2)
+    </td>
+  </tr>
+  <tr>
     <td><b>8:30 - 9am</b></td>
     <td>Matchmaking chats
     </td>
