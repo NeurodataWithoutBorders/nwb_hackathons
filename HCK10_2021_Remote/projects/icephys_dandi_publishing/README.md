@@ -2,33 +2,25 @@
 
 <!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-OpenScope Predictive Coding to NWB
+# Publishing IC ephys data on DANDI
 
 ## Key Investigators
 
-Jerome Lecoq
-Hannah Choi
-Marina Garrett
-David Wyrick
+Shreejoy Tripathy, CAMH
 
 ## Project Description
 
-The goal of this project is to convert datasets collected at the Allen Institute, as part of the OpenScope Predictive Coding project into NWB files.
-Ultimately we will upload those datasets to Dandihub and check compatibility with scientific analysis code. 
+Publishing a set of intracellular ephys experiments converted from abf to NWB format to DANDI. 
 
 ## Objectives
 
-<!-- Briefly describe the objectives of your project. What would you like to achive?-->
-
- 1. Objective A. Convert one experiment into NWB file, including optical physiology and stimulus template
- 2. Objective B. Scale up conversion to all experiments and test integrity with DandiHub
- 3. Objective C. Test basis analysis code to showcase access to the NWB file within a jupyter notebook online environment. 
+- Document and describe the conversion process going from experimental data collection in .abf format to NWB
+- Publish a preliminary version of the dataset
+- Learn how to update datasets on DANDI
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+- Think about grouping individual recordings/traces by experimental conditions (currently, each .abf file is converted to a single NWB file)
 
 ## Progress and Next Steps
 

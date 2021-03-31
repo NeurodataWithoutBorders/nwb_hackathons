@@ -33,6 +33,11 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
+    <td><b>10 - 11am</b></td>
+    <td>Breakout: Coordination meeting for behavioral quantification (Room 2)
+    </td>
+  </tr>
+  <tr>
     <td><b>11 - 12pm</b></td>
     <td>Breakout: Validation (Room 2)
     </td>
@@ -65,8 +70,18 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
+    <td><b>815-ish - 9am</b></td>
+    <td>Breakout: BEADL and Behavioral Metadata (Room 2)
+    </td>
+  </tr>
+  <tr>
     <td><b>8:30 - 9am</b></td>
     <td>Matchmaking chats
+    </td>
+  </tr>
+  <tr>
+    <td><b>9 - 10am</b></td>
+    <td>Breakout: Interoperability with Other Standards, in particular BIDS-animal-ephys (Room 1)
     </td>
   </tr>
   <tr>
@@ -75,12 +90,7 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>10 - 11am</b></td>
-    <td>Breakout: Interoperability with Other Standards (Room 1)
-    </td>
-  </tr>
-  <tr>
-    <td><b>11am - 12pm</b></td>
+    <td><b>10am - 11am</b></td>
     <td>Breakout: External Resources and Persistent Identifiers in NWB (Room 2)
     </td>
   </tr>

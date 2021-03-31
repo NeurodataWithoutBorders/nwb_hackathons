@@ -18,16 +18,16 @@
 
 <!-- Briefly describe the objectives of the breakout session. What would you like to achive?-->
 
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
+1. Objective A. Discuss usage of NWB for storing intermediate and final analysis results. 
+2. Objective B. Discuss linkage between NWB files on DANDI and code / DataJoint database that generated with the dandiset.
 
 ### Proposed discussion topics
 
 Participants should add topics of possible interest for discussion here
 
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
+1. What are shortcomings of existing data types? Should NWB support the storage of arbitrarily nested dicts, Python pickles, and other data types within the scratch space and elsewhere? 
+2. How can users store summary statistics, like mean of a value, or the results of a session-level t-test or permutation test, or experiment-level summary statistics? Should they store these data within the NWB file?
+3. Can DANDI store files that are not NWB but NWB-adjacent like a DataJoint MySQL dump that was used to generate the NWB file? How can users associate a dandiset with a particular release of a codebase used to generate the NWB file?
 
 ## Approach and Plan
 

@@ -4,7 +4,7 @@
 
 #  Write full breakout session title here
 
-**Session Chair:** ...
+**Session Chair:** Andrew Tritt (LBNL) and Yaroslav Halchenko  (Dartmouth)
 
 <!-- Add the name of the session chair. -->
 <!-- Add a short paragraph describing the topic and breakout session. -->
@@ -16,30 +16,21 @@
 
 ## Objectives
 
-<!-- Briefly describe the objectives of the breakout session. What would you like to achive?-->
-
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
+The main objective of this breakout is to provide a forum for developers to share and discuss features
+that would be useful for the NWB and DANDI community. 
 
 ### Proposed discussion topics
 
-Participants should add topics of possible interest for discussion here
-
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
-<!-- 1. Proposed topic, describe it in 1-2 sentences.-->
+1. NWB specific features
+2. DANDI specific features
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+Ask questions... but mainly give participants to share their thoughts. Through this, we hope to identify
+action items to move forward with. These will be translated into issues on Github for further discussion and tracking.
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
 
 ## Materials
 

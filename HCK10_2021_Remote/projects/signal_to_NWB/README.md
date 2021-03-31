@@ -5,6 +5,7 @@
 # Rudimentary Implementation of Signal files (cfs) to nwb pipeline
 
 ## Key Investigators
+* Sam Mestern
 
 ## Project Description
 
