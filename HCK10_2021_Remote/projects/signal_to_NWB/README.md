@@ -5,7 +5,7 @@
 # Rudimentary Implementation of Signal files (cfs) to nwb pipeline
 
 ## Key Investigators
-* Sam Mestern
+* Sam Mestern (University of Western Ontario)
 
 ## Project Description
 
@@ -27,7 +27,14 @@ Present a rudimentary implementation of signal data files (cfs) to NWB script. T
 
 ## Progress and Next Steps
 
-Previously I have written a python package to open signal data (pyCEDFS), this uses a precompiled c library to load the data into numpy arrays. Ideally this could be used to work on this project.
+Previously:
+     A python package to open signal data (pyCEDFS), this uses a precompiled c library to load the data into numpy arrays. Ideally this could be used to work on this project.
+
+31/3/2021:
+    Conversion into NWB sucessful. However error prone and missing much metadata. 
+    [https://github.com/smestern/pyCEDFS/blob/master/pyCEDFS/CFSConverter.py](https://github.com/smestern/pyCEDFS/blob/master/pyCEDFS/CFSConverter.py)
+
+
 
 ## Materials
 
