@@ -70,13 +70,13 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>8:30 - 9am</b></td>
-    <td>Matchmaking chats
+    <td><b>815-ish - 9am</b></td>
+    <td>Breakout: BEADL and Behavioral Metadata (Room 2)
     </td>
   </tr>
   <tr>
-    <td><b>10 - 3pm</b></td>
-    <td>Open Hacking
+    <td><b>8:30 - 9am</b></td>
+    <td>Matchmaking chats
     </td>
   </tr>
   <tr>
@@ -85,7 +85,12 @@ You can add this [Google Calendar](https://calendar.google.com/calendar/u/0/embe
     </td>
   </tr>
   <tr>
-    <td><b>11am - 12pm</b></td>
+    <td><b>10 - 3pm</b></td>
+    <td>Open Hacking
+    </td>
+  </tr>
+  <tr>
+    <td><b>10am - 11am</b></td>
     <td>Breakout: External Resources and Persistent Identifiers in NWB (Room 2)
     </td>
   </tr>
