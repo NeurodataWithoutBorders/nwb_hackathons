@@ -38,6 +38,10 @@ Come talk to the DANDI team, to share your experiences searching for and archivi
 
 ## Progress and Next Steps
 
+This ended up not being particularly successful.
+
+What was successful was a large amount of development progress towards migrating to the new DANDI API, which is able to support much larger files and will provide support for publishing Dandisets and DOIs.
+
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
