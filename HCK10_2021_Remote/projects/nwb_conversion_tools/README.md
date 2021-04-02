@@ -41,9 +41,9 @@ Develop [NWB Conversion Tools](https://github.com/catalystneuro/nwb-conversion-t
 
 Before: created generic classes for an NWBConverter class object reliant on modular DataInterface classes (one for each format/type). Added DataInterfaces for several `spikeextractors` and `roiextractors` formats, as well as a custom DataInterface for Movie objects (currently on dev branch `add_movie_interface`)
 
-During:
+During: Gave presentation on origins and use of the NWB conversion tools, as well as supported features and future directions. Went through notebook tutorials demonstrating the current capabilities and then opened to general discussion. Discussion focused on how to make the process not just automated, but code-independent so that non-programmers could easily specify the data formats they wanted to import and run the full conversion pipeline without ever interacting with python itself.
 
-After:
+After: Began draft work and design stages of dynamic class construction from yaml files as well as a folder path iteration based on semantic structure specified by the user in order to run a full conversion over a directory without having to iterate over individual file paths.
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
