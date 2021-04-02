@@ -2,6 +2,7 @@
 
 ## Welcome to the 8th NWB User Days Workshop!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)

@@ -3,6 +3,7 @@
 
 # Welcome to the 9th NWB User Days Workshop!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
   * [Registration](#registration)
@@ -14,8 +15,10 @@
   * [Objective](#objective)
   * [Agenda](#agenda)
 
-<!--  * [Projects](#projects)
-     * [Creating a New Project](projects/README.md)-->
+
+## Report
+
+The final report for the 9th NWB User Days is now available on GitHub ([PDF](report/Report___9th_NWB_Hackathon.pdf)) ([LaTeX](report/Report_9th_NWB_Hackathon.zip)).
 
 ## Dates and Location
 
