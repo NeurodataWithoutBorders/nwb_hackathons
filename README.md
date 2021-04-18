@@ -1,3 +1,5 @@
+<img alt="Remote hackathon" src="HCK08_2020_Remote/logo_brain_text_white_hor.png">
+
 ## Hackathon Events
 
 ### Upcoming Events
