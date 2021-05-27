@@ -3,6 +3,7 @@
 
 # Welcome to the 2021 NWB-DANDI Remote Developer Hackathon!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
   * [Registration](#registration)
@@ -16,8 +17,10 @@
   * [Agenda](#agenda)
   * [Code of Conduct](#code-of-conduct)
 
-<!--  * [Projects](#projects)
-     * [Creating a New Project](projects/README.md)-->
+
+## Report
+
+The final report for the 2021 NWB-DANDI Developer Hackathon is now available on GitHub ([PDF](report/Report___10th_NWB_and_DANDI_Hackathon.pdf)) ([LaTeX](report/Report___10th_NWB_and_DANDI_Hackathon.zip)).
 
 ## Dates and Location
 
