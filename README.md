@@ -3,7 +3,8 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- Stay tuned
+- [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely 
+  through video conferencing on **August 23-25, 2021** in partnership with INCF.
 
 ### Past Hackathons
 - [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **March 30 - April 1, 2021**.
