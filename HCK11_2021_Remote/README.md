@@ -88,3 +88,17 @@ The purpose of the NWB User Days training workshops is to bring the experimental
 further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB.
 Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages.
 The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
+
+## Agenda
+
+{% include_relative agenda/hck11_schedule.png %}
+
+## Disclaimer
+
+This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
+
+Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or The Regents of the University of California.  Use of the Laboratory or University's name for endorsements is prohibited.
+
+The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its employees are agents of the US Government.
+
+Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or company and we are not responsible for the content of such links.
