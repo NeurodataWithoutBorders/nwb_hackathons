@@ -89,6 +89,10 @@ further the adoption and development of NWB, the NWB software libraries, and sci
 Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages.
 The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
 
+## Agenda
+
+{% include_relative agenda/AGENDA.md %}
+
 ## Disclaimer
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
