@@ -41,3 +41,6 @@ Choose one or more:
 1 - 2: Wrapping up and exit survey - Oliver Ruebel
 
 You can add this [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MjIxZmRsbGZhOW8xbDJwcDZ2bG1nYmN0NWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to your personal calendar to see the workshop sessions in your time zone.
+
+
+<img alt="Agenda calendar view" src="hck11_schedule.png">
