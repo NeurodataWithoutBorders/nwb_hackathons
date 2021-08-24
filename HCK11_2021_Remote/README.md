@@ -71,3 +71,20 @@ Here are suggestions for projects:
 Please create a project page with a description of the goals of your project.
 See the instructions [here](projects/README.md) to create a project page.
 We will use these pages to connect people who are working on similar projects (e.g. converting data from the same acquisition system) and follow your progress.
+
+### Project Pages 
+
+* [template](projects/template/README.md)
+
+## Objective
+
+The Neurodata Without Borders project (NWB, [https://www.nwb.org/](https://www.nwb.org/)) is an effort to 
+standardize the description and storage of neurophysiology data and metadata.
+NWB enables data sharing and reuse and reduces the energy barrier to applying data analysis both within and across labs.
+Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB.
+The community needs to join forces to achieve data standardization in neurophysiology.
+
+The purpose of the NWB User Days training workshops is to bring the experimental neurophysiology community together to
+further the adoption and development of NWB, the NWB software libraries, and scientific workflows that rely on NWB.
+Members of the community will exchange ideas and best practices for using NWB, share NWB-based tools, surface common needs, resolve coding issues, make feature requests, brainstorm about future collaboration, and make progress on current blockages.
+The event will also enable NWB developers and users to interact with each other to facilitate communication, gather requirements, and train users.
