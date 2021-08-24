@@ -16,7 +16,7 @@ Choose one or more:
 
 9am - 10am: NWB Explorer - Padraig Gleeson
 
-10am - 11am: DANDI Archive - Yaroslov Halchenko
+10am - 11am: DANDI Archive - Yaroslav Halchenko
 
 11-11:30: Adopting NWB, Ueli Rutishauser’s Lab - Ueli Rutishauser
 
