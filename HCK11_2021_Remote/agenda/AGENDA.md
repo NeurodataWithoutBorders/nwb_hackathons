@@ -18,9 +18,9 @@ Choose one or more:
 
 10am - 11am: DANDI Archive - Yaroslav Halchenko
 
-11-11:30: Adopting NWB, Ueli Rutishauser’s Lab - Ueli Rutishauser
+11 - 11:30: Adopting NWB, Ueli Rutishauser’s Lab - Ueli Rutishauser
 
-11:30 - 12: Adopting NWB, Loren Frank’s Lab - Kyu Huan Lee
+11:30 - 12: Adopting NWB, Loren Frank’s Lab - Kyu Hyun Lee
 
 12 - 1: CellExplorer - Peter Petersen, Buzsaki Lab
 
