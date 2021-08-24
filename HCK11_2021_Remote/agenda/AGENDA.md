@@ -1,5 +1,6 @@
-This calendar view shows the workshop agenda. We strongly encourage you to attend the first three hours of Day 1 for an
-introduction to NWB and NWB software tools. Agenda (times in PT)
+We strongly encourage you to attend at least Day 1 for an introduction to NWB and NWB software tools. 
+
+Agenda (times in PT (UTC-7))
 
 **Aug 25: Day 1 - New user training**
 
