@@ -41,7 +41,7 @@ See installation instructions [here](https://zoom.us/download).
 
 ## Organizing Committee
 
-**Program chairs:** Benjamin Dichter, Ryan Ly, Andrew Tritt, Pam Baker, and Oliver Rübel
+**Program chairs:** Benjamin Dichter, Ryan Ly, Andrew Tritt, Pam Baker, and Oliver Ruebel
 
 Additional organizational support is provided by the Kavli Foundation.
 
@@ -98,7 +98,7 @@ The event will also enable NWB developers and users to interact with each other 
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by the United States Government. While we strive to provide correct information, neither the United States Government nor any agency thereof, nor The Regents of the University of California, nor any of their employees, makes any warranty, express or implied, or assumes any legal responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
 
-Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or The Regents of the University of California.  Use of the Laboratory or University’s name for endorsements is prohibited.
+Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or The Regents of the University of California.  Use of the Laboratory or University's name for endorsements is prohibited.
 
 The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its employees are agents of the US Government.
 
