@@ -41,6 +41,12 @@ In this little project, I´d like to get some support from the developers for so
 
 ## Progress and Next Steps
 
+All issues could be adressed quite quickly.
+
+1. One argument was passed in excess, preventing the external link
+2. The scored behavioral intervals were stored in a TimeInterval table 
+3. I was using a `with` statement to read the file and called the nwb2widget outside of it. Since the data is only read on demand (and was in fact closed before that demand actually arised by calling the nwb2widget outside of the `with` statement), only metadata was displayed in the widget and everything else raised an error. Thus, omitting the `with` statement solved the issue.
+
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
