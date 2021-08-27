@@ -29,7 +29,7 @@ format.
 
 ## Approach and Plan
 
-1. Behavior Data
+Behavior Data
   * Data has been cleaned into pandas dataframes from the raw csv files and
   then written to HDF5. However, after speaking with Ryan Ly, it should be
   done in a different way so people writing in MATLAB _or_ Python can use it.
@@ -37,7 +37,8 @@ format.
   1. Clean data into timestamps and populate a dynamic table for stimuli and
   an events list for licking behavior
   1. Write out configuration file of experimental metadata to the NWB file
-1. 2P Data
+
+2P Data
   * Data is written at runtime to disk in Bruker's proprietary format and then
   converted into tiffs using their imaging ripping utility. These tiffs are
   merged into one HDF5 file in MATLAB but not in NWB format.
@@ -49,16 +50,22 @@ format.
 
 ## Progress and Next Steps
 
-8/25/21:
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+8/25/21: Didn't work on this much this day.
+8/26/21: Starting building base NWB file as part of experiment runtime.
+I can build NWB files no problem, but need to determine which fields
+I can automate/gather from XML file for imaging/configuration files.
+I'm also trying to find out how to make the NWB Subject format fit
+into the data framework, need some assistance there. Containerization
+for 2P writing will be worked on tomorrow/this weekend using both
+CaImAn and Suite2p so I can compare the process for each version.
+I also need to ask about how to put the raw CSV file, XML file, and
+raw Bruker format into NWB as well/determine if it's needed at all.
 
 ## Materials
 
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
+The developments can be followed along in the bruker_control folder
+in the git repo below's source code in the branch:
+"bruker_control_refactor"
 
 ## Background and References
 
@@ -73,4 +80,5 @@ some documentation hosted on readthedocs that is still very much under
 development.
 
 Source code: https://github.com/Tyelab/headfix_control
+
 Documentation: https://bruker-control.readthedocs.io/en/latest/
