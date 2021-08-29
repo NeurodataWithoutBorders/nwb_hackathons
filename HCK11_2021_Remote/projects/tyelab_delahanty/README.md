@@ -60,12 +60,26 @@ for 2P writing will be worked on tomorrow/this weekend using both
 CaImAn and Suite2p so I can compare the process for each version.
 I also need to ask about how to put the raw CSV file, XML file, and
 raw Bruker format into NWB as well/determine if it's needed at all.
+8/28/21 & 8/29/21: Gathered metadata from Bruker's Prairie View and 
+built project specific yml files for configuration values. One day
+this should definitely be made into a database, probably with DJ.
+These metadata then populate an NWB file which currently has the
+following information built: Lab/experimenter, devices, imaging plane.
+There's a few things I need to double check about what's the appropriate
+values for the fields in the file, but I made a fair bit of progress
+this evening with automating the building of relevant metadata for NWB
+the moment the microscopy session (read: imaging plane) ends.
 
 ## Materials
 
 The developments can be followed along in the bruker_control folder
 in the git repo below's source code in the branch:
 "bruker_control_refactor"
+
+8/29/21: If you want to see the updates from the above progress notes,
+check out the nwb_utils.py file in the bruker_control folder. It's
+quite messy in there for now, but hopefully it does make a little
+sense if you look around.
 
 ## Background and References
 
