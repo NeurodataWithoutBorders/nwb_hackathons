@@ -69,6 +69,11 @@ There's a few things I need to double check about what's the appropriate
 values for the fields in the file, but I made a fair bit of progress
 this evening with automating the building of relevant metadata for NWB
 the moment the microscopy session (read: imaging plane) ends.
+9/13/21: A week ago, with the help of Ryan Ly, I finally got
+all the available base metadata written to an NWB file the moment the
+experiment is over! I've been informed of the different kinds of
+things that require extensions so I will be working on those in the
+coming weeks. Forgot to update here...
 
 ## Materials
 
@@ -80,6 +85,11 @@ in the git repo below's source code in the branch:
 check out the nwb_utils.py file in the bruker_control folder. It's
 quite messy in there for now, but hopefully it does make a little
 sense if you look around.
+
+9/13/21: The bruker_control refactor that includes the completed
+nwb_utils module is complete! You can check it out on the repo if
+you want. There's also better documentation for things now on the
+linked readthedocs site below.
 
 ## Background and References
 
