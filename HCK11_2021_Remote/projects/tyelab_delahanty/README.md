@@ -51,6 +51,7 @@ Behavior Data
 ## Progress and Next Steps
 
 8/25/21: Didn't work on this much this day.
+
 8/26/21: Starting building base NWB file as part of experiment runtime.
 I can build NWB files no problem, but need to determine which fields
 I can automate/gather from XML file for imaging/configuration files.
@@ -60,6 +61,7 @@ for 2P writing will be worked on tomorrow/this weekend using both
 CaImAn and Suite2p so I can compare the process for each version.
 I also need to ask about how to put the raw CSV file, XML file, and
 raw Bruker format into NWB as well/determine if it's needed at all.
+
 8/28/21 & 8/29/21: Gathered metadata from Bruker's Prairie View and 
 built project specific yml files for configuration values. One day
 this should definitely be made into a database, probably with DJ.
@@ -74,6 +76,18 @@ all the available base metadata written to an NWB file the moment the
 experiment is over! I've been informed of the different kinds of
 things that require extensions so I will be working on those in the
 coming weeks. Forgot to update here...
+
+8/30/21: I've completed building a base NWB file but need to review
+it with someone from the Dev team before I feel confident pushing it
+into production. Struggled to understand the Subject file and how to
+use it properly, but will be hopefully getting advice soon. Main
+problem was how I'll need multiple weights accounted for per animal
+but that functionality doesn't appear to be present in NWB. There's
+additional metadata that I think makes sense to incorporate into the
+system such as laser power and PMT gains, but I see no way to do so
+in NWB. I still need to build a base behavior part of the dataset as
+well and review what makes sense to have timestamp wise for given
+behavior datasets.
 
 ## Materials
 

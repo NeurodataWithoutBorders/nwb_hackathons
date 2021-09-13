@@ -72,9 +72,9 @@ Please create a project page with a description of the goals of your project.
 See the instructions [here](projects/README.md) to create a project page.
 We will use these pages to connect people who are working on similar projects (e.g. converting data from the same acquisition system) and follow your progress.
 
-### Project Pages 
+{% include_relative projects/PROJECTS.md %}
 
-* [template](projects/template/README.md)
+
 
 ## Objective
 
