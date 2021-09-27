@@ -71,11 +71,6 @@ There's a few things I need to double check about what's the appropriate
 values for the fields in the file, but I made a fair bit of progress
 this evening with automating the building of relevant metadata for NWB
 the moment the microscopy session (read: imaging plane) ends.
-9/13/21: A week ago, with the help of Ryan Ly, I finally got
-all the available base metadata written to an NWB file the moment the
-experiment is over! I've been informed of the different kinds of
-things that require extensions so I will be working on those in the
-coming weeks. Forgot to update here...
 
 8/30/21: I've completed building a base NWB file but need to review
 it with someone from the Dev team before I feel confident pushing it
@@ -88,6 +83,47 @@ system such as laser power and PMT gains, but I see no way to do so
 in NWB. I still need to build a base behavior part of the dataset as
 well and review what makes sense to have timestamp wise for given
 behavior datasets.
+
+9/13/21: A week ago, with the help of Ryan Ly, I finally got
+all the available base metadata written to an NWB file the moment the
+experiment is over! I've been informed of the different kinds of
+things that require extensions so I will be working on those in the
+coming weeks. Forgot to update here...
+
+9/26/21: Started writing an extension for including Arduino config
+metadata that's used for performing the behavior experiments this
+evening. A little stuck on the next steps file, but slowly working
+through it. The planned extensions I'll be writing are to include
+the following:
+- Arduino metadata used for configuring behavior experiment
+- More specific surgery information for the surgery field in `Subject`
+- Additional metadata about pockel and PMT values used during imaging
+- Behavior specific metadata (i.e. sucrose concentration, air PSI)
+- Mouse facial expression recordings with associated metadata
+
+A complete NWB File for the Bruker 2P setup will thus include:
+_Raw Data_
+- Raw behavior data (voltage recording)
+- Raw video of mouse face
+- Raw 2P Data
+- Raw Z-stacks (likely 8 - 16 of them) per indicator
+- Arduino configuration
+- Trial structure configuration
+- Behavioral setup metadata
+- Laser/PMT/Pockel/Scope objective configuration for T-Series
+- Laser/PMT/Pockel/Scope objective configuration for Z-Stacks
+
+_Processed Data_
+- Reference image for recordings from Suite2P
+- Suite2p configurations for segmentation/analysis
+- Motion corrected t-series
+- Cell registrations as `optical-channels`
+- Cell traces
+- Spike deconvolution (maybe...)
+- Averaged z-stacks
+- HOG Matrcies of mouse facial expression
+- Mouse behavior timestamps from trial structures according to paper's analysis
+- More?
 
 ## Materials
 
