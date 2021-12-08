@@ -3,6 +3,7 @@
 
 # Welcome to the 11th NWB User Days Workshop!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
   * [Registration](#registration)
@@ -13,6 +14,10 @@
   * [Projects](#projects)
   * [Objective](#objective)
   * [Agenda](#agenda)
+
+## Report
+
+The final report for the 2022 NWB User Days is now available on GitHub ([PDF](report/Report___11th_NWB_User_Days_at_INCF.pdf)) ([LaTeX](report/Report___11th_NWB_User_Days_at_INCF.zip)).
 
 ## Dates and Location
 
