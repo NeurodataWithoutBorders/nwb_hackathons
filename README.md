@@ -3,12 +3,12 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Docuthon: March 2021](Docuthon_2022/README.md){:target="_top"} - The 2022 Docuthon focused on NWB documentation will be held remotely through video conferencing on **March 10 - 11, 2021**.
+- [Docuthon: March 2022](Docuthon_2022/README.md){:target="_top"} - The 2022 Docuthon focused on NWB documentation will be held remotely through video conferencing on **March 10 - 11, 2022**.
 
-- [Hackathon 12: February 2021](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2021**.
+- [Hackathon 12: February 2022](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2022**.
 
 ### Past Hackathons
-- [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely 
+- [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely
   through video conferencing on **August 23-25, 2021** in partnership with INCF.
 - [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **March 30 - April 1, 2021**.
 - [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User Days was held remotely through video conferencing on **September 21-23, 2020**.
