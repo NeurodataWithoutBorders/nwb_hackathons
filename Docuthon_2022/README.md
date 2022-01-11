@@ -25,6 +25,11 @@
 The workshop will focus primarily on improving documentation and tutorials for the NWB APIs, schema, and community
 tools that use NWB.
 
+## Registration
+
+Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdO77FgZeHxvRGQNiEc-nSj5FTvZBpEBcssdAga9DedQGjvHA/viewform?vc=0&c=0&w=1&flr=0) to attend the event.
+
+
 ## Logistics
 
 We will be using the Zoom videoconferencing platform for the meeting.
