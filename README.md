@@ -3,6 +3,8 @@
 ## Hackathon Events
 
 ### Upcoming Events
+- [Docuthon: March 2021](Docuthon_2022/README.md){:target="_top"} - The 2022 Docuthon focused on NWB documentation will be held remotely through video conferencing on **March 10 - 11, 2021**.
+
 - [Hackathon 12: February 2021](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2021**.
 
 ### Past Hackathons
