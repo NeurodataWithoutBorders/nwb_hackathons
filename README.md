@@ -3,7 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
-TBD
+- [Hackathon 12: February 2021](HCK12_2021_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2021**.
 
 ### Past Hackathons
 - [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely 
