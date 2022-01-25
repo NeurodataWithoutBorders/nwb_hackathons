@@ -2,10 +2,6 @@
 
 This calendar view shows the hackathon agenda.
 
-You can add this [Google Calendar](TODO) or [iCal calendar](TODO) to your personal calendar to see the sessions in your time zone.
-
-<img alt="Agenda calendar graphic" src="agenda/hackathon_agenda.png">
-
 **Detailed agenda:**
 
 <table width="400">
