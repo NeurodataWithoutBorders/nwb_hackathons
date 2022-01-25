@@ -47,11 +47,6 @@ You can add this [Google Calendar](TODO) or [iCal calendar](TODO) to your person
     <td>Breakout: TBD
     </td>
   </tr>
-  <tr>
-    <td><b>3 - 4pm</b></td>
-    <td>Social hour (Yoh's Island Bar)
-    </td>
-  </tr>
 </table>
 
 <table width="400">
@@ -94,11 +89,6 @@ You can add this [Google Calendar](TODO) or [iCal calendar](TODO) to your person
     <td>Breakout: TBD
     </td>
   </tr>
-  <tr>
-    <td><b>3 - 4pm</b></td>
-    <td>Social hour (Yoh's Island Bar)
-    </td>
-  </tr>
 </table>
 
 <table width="400">
@@ -117,13 +107,8 @@ You can add this [Google Calendar](TODO) or [iCal calendar](TODO) to your person
     </td>
   </tr>
   <tr>
-    <td><b>12 - 12:15pm</b></td>
-    <td>Coffee Break (Fountain)
-    </td>
-  </tr>
-  <tr>
-    <td><b>3 - 4pm</b></td>
-    <td>Social hour (Yoh's Island Bar)
+    <td><b>12 - 12:30pm</b></td>
+    <td>Group games and social hour (Yoh's Island Bar)
     </td>
   </tr>
 </table>
