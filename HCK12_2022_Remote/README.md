@@ -58,7 +58,7 @@ It is possible to use Zoom from the browser, but we recommend you install the Zo
 
 ## Organizing Committee
 
-**NWB POC:** Ryan Ly
+**NWB POC:** Ryan Ly (rly@lbl.gov)
 
 **DANDI POC:** Satrajit S. Ghosh
 
