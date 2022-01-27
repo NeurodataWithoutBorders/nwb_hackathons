@@ -1,7 +1,7 @@
 
 <img alt="Remote hackathon" src="logo_brain_text_white_hor.png">
 
-# Welcome to the 2022 NWB Docuthon!
+# Welcome to the 2022 NWB Docathon!
 
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
@@ -75,7 +75,7 @@ NWB enables data sharing and reuse and reduces the energy barrier to applying da
 Several laboratories, including the Allen Institute for Brain Science, have wholeheartedly adopted NWB.
 The community needs to join forces to achieve data standardization in neurophysiology.
 
-The purpose of the NWB Docuthon to bring users and developers of the experimental neurophysiology community together to
+The purpose of the NWB Docathon to bring users and developers of the experimental neurophysiology community together to
 improve documentation and tutorials for the NWB APIs, schema, and community tools that use NWB.
 
 ## Agenda
