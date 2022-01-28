@@ -19,9 +19,8 @@
 
 ## Registration
 
-Registration for the hackathon is now open! Register to attend in person here.
+Registration is not open yet.
 
-To attend remotely, please complete the [remote attendee registration form](https://goo.gl/forms/che8NIHzngXLwVIs1). 
 
 ## Logistics
 
