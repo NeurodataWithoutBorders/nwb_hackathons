@@ -3,6 +3,7 @@
 
 # Welcome to the 2022 NWB Docathon!
 
+  * [Survey](#survey)
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
   * [Registration](#registration)
@@ -14,6 +15,10 @@
   * [Objective](#objective)
   * [Agenda](#agenda)
   * [Code of Conduct](#code-of-conduct)
+
+## Survey
+
+Let us know about your experience with the NWB documentation and on how we can improve your experience with NWB by completing the [NWB Documentation Survey](https://forms.gle/TadZBRKJpwEWeErv8). Please complete the survey even if you are unable to participate in the Docathon. The survey is a great way to give back by helping us better understand your experience with the NWB documentation.
 
 ## Dates and Location
 
@@ -27,7 +32,9 @@ tools that use NWB.
 
 ## Registration
 
-Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdO77FgZeHxvRGQNiEc-nSj5FTvZBpEBcssdAga9DedQGjvHA/viewform?vc=0&c=0&w=1&flr=0) to attend the event.
+Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdO77FgZeHxvRGQNiEc-nSj5FTvZBpEBcssdAga9DedQGjvHA/viewform?vc=0&c=0&w=1&flr=0) to attend the event. 
+
+In addition, please also consider participating in the [NWB Documentation Survey](https://forms.gle/TadZBRKJpwEWeErv8) to help us prepare for the event and help us improve our documentation.
 
 
 ## Logistics
