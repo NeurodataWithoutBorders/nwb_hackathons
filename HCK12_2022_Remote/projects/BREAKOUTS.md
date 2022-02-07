@@ -1,24 +1,8 @@
 Breakout sessions are collaborative meetings focused on topics of common interest.
 Each breakout session has an assigned session chair to help coordinate the meeting.
 
-The list below provides an overview of planned breakout sessions during the hackathon.
-* [Best practices and validation](projects/best_practices_validation_breakout)
-* Ontologies and external resources in NWB
-* NWB, BIDS-ephys, and DANDI
-* External links in NWB and DANDI
-* Data overlays in NWB
-* Documentation and tutorials
-* NWB behavioral task working group
-* Conversion to NWB
-* Acquisition in NWB
-
-
-
-* [Template Breakout](projects/template_breakout)
-
-
-
+Please see the [Breakout GoogleDoc](https://docs.google.com/document/d/e/2PACX-1vT3P_pyFRolsFSSARACyhjfdvSYv5I_ed0VbYQHQFcy22Ir3z2-avEd9mxds4DukDVsP5DKGjBB1-88/pub) for the list of breakout sessions.
 
 ### Proposing breakout sessions
 
-To propose additional breakout sessions, please contact the hackathon organizing team.
+To propose additional breakout sessions, please contact the hackathon organizing team to request edit access to the  [Breakout GoogleDoc](https://docs.google.com/document/d/e/2PACX-1vT3P_pyFRolsFSSARACyhjfdvSYv5I_ed0VbYQHQFcy22Ir3z2-avEd9mxds4DukDVsP5DKGjBB1-88/pub).
