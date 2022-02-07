@@ -40,6 +40,8 @@ Create a set of classes to interact with NWB data (read/write) from NANSEN. NANS
 <!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
 <!--![Description of picture](Example2.jpg)-->
 
+See https://github.com/ehennestad/Nansen-NWB.git for details
+
 ## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
