@@ -10,7 +10,7 @@ Eivind Hennestad (University of Oslo)
 
 ## Project Description
 
-Create a set of classes to interact with NWB data (read/write) from NANSEN. NANSEN is a matlab package for managing, processing and visualizing calcium imaging data: https://github.com/VervaekeLab/NANSEN
+Create a set of classes to interact with NWB data (read/write) from NANSEN. NANSEN is a matlab package for managing, processing and visualizing calcium imaging data: [https://github.com/VervaekeLab/NANSEN](https://github.com/VervaekeLab/NANSEN)
 
 ## Objectives
 
