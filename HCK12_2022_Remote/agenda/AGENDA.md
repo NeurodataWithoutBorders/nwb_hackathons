@@ -40,7 +40,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>1 - 2pm</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: Conversion of Proprietary Formats to NWB
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>9 - 10am</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: NWB Trials and Events Working Group
     </td>
   </tr>
   <tr>
