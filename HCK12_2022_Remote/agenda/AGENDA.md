@@ -25,7 +25,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
-    <td>:star: Breakout: Ontologies and External Resources
+    <td>:star: Breakout: Data Overlays in NWB
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
-    <td>:star: Breakout: Data Overlays in NWB
+    <td>:star: Breakout: Ontologies and External Resources
     </td>
   </tr>
   <tr>
