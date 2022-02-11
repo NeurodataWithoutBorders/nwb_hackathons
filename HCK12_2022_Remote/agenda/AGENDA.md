@@ -34,7 +34,7 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
-    <td><b>12 - 12:15pm</b></td>
+    <td><b>12 - 12:30pm</b></td>
     <td>Coffee Break (Fountain)
     </td>
   </tr>
@@ -141,7 +141,7 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
-    <td><b>12 - 12:15pm</b></td>
+    <td><b>12 - 12:30pm</b></td>
     <td>Coffee Break (Fountain)
     </td>
   </tr>
