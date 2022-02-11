@@ -81,11 +81,6 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
-    <td><b>12:30 - 1pm</b></td>
-    <td>Matchmaking chats (optional)
-    </td>
-  </tr>
-  <tr>
     <td><b>2 - 3pm</b></td>
     <td>Breakout: MatNWB Working Group
     </td>
@@ -109,6 +104,11 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>12 - 12:30pm</b></td>
+    <td>Matchmaking chats (optional)
+    </td>
+  </tr>
+  <tr>
+    <td><b>12:30 - 1pm</b></td>
     <td>Group games and social hour (Yoh's Island Bar)
     </td>
   </tr>
