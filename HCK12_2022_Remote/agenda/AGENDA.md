@@ -67,7 +67,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>10am - 11am</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: Data Overlays in NWB
     </td>
   </tr>
   <tr>
