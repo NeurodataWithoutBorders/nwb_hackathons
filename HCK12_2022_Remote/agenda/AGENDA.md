@@ -30,7 +30,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>11 - 12pm</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: Best Practices and Validation
     </td>
   </tr>
   <tr>
