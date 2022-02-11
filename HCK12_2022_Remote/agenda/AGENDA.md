@@ -20,7 +20,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>10 - 3pm</b></td>
-    <td>Open Hacking
+    <td>:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>8am - 3pm</b></td>
-    <td>Open Hacking
+    <td>:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>8:15am - 3pm</b></td>
-    <td>Open Hacking
+    <td>:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>8am - 3pm</b></td>
-    <td>Open Hacking
+    <td>:computer: Open Hacking
     </td>
   </tr>
   <tr>
