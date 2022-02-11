@@ -131,7 +131,7 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
-    <td><b>10am - 11am</b></td>
+    <td><b>10 - 11am</b></td>
     <td>Breakout: NWB Documentation
     </td>
   </tr>
