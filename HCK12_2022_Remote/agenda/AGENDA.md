@@ -25,7 +25,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: Ontologies and External Resources
     </td>
   </tr>
   <tr>
@@ -56,8 +56,13 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
+    <td><b>8 - 9am</b></td>
+    <td>Breakout: BIDS-ephys
+    </td>
+  </tr>
+  <tr>
     <td><b>9 - 10am</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: External Links in NWB and DANDI
     </td>
   </tr>
   <tr>
@@ -67,7 +72,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>11 - 12pm</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: Data Acquisition API for NWB
     </td>
   </tr>
   <tr>
@@ -82,7 +87,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>2 - 3pm</b></td>
-    <td>Breakout: TBD
+    <td>Breakout: MatNWB Working Group
     </td>
   </tr>
 </table>
