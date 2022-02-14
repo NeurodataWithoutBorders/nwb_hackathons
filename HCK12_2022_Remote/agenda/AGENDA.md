@@ -107,12 +107,12 @@ This calendar view shows the hackathon agenda.
     <th colspan="2"><b>Thursday, February 17</b></th>
   </tr>
   <tr>
-    <td><b>8 - 8:15am</b></td>
+    <td><b>8 - 8:10am</b></td>
     <td colspan="2">:question: Project check-in (Main Stage)
     </td>
   </tr>
   <tr>
-    <td><b>8:15am - 12pm</b></td>
+    <td><b>8:10am - 12pm</b></td>
     <td></td>
     <td rowspan="4">:computer: Open Hacking
     </td>
