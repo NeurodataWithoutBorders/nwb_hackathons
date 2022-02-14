@@ -24,7 +24,7 @@
     <td><b>9 - 9:30am</b></td>
     <td>:star: Breakout: Conversion of Proprietary Formats to NWB
     </td>
-    <td rowspan="6">:computer: Open Hacking
+    <td rowspan="7">:computer: Open Hacking
     </td>
   </tr>
   <tr>
