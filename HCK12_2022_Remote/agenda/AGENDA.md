@@ -24,7 +24,7 @@
     <td><b>9 - 9:30am</b></td>
     <td>:star: Breakout: Conversion of Proprietary Formats to NWB
     </td>
-    <td rowspan="7">:computer: Open Hacking
+    <td rowspan="6">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
     <td><b>8 - 8:30am</b></td>
     <td>:star: Breakout: BIDS-ephys
     </td>
-    <td rowspan="8">:computer: Open Hacking
+    <td rowspan="9">:computer: Open Hacking
     </td>
   </tr>
   <tr>
