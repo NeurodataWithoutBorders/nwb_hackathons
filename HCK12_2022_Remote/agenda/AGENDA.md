@@ -97,8 +97,13 @@
     </td>
   </tr>
   <tr>
-    <td><b>2 - 3pm</b></td>
+    <td><b>1 - 2pm</b></td>
     <td>:star: Breakout: MatNWB Working Group
+    </td>
+  </tr>
+  <tr>
+    <td><b>2 - 3pm</b></td>
+    <td align="center">:computer:
     </td>
   </tr>
 </table>
