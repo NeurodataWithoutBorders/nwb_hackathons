@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>12:30 - 2pm</b></td>
+    <td><b>12:30 - 1pm</b></td>
     <td align="center">:computer:
     </td>
   </tr>
