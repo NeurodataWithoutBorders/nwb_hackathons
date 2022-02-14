@@ -146,18 +146,23 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
-    <td><b>10 - 10:30am</b></td>
+    <td><b>9 - 9:30am</b></td>
     <td>:star: Breakout: NWB Trials and Events Working Group
     </td>
   </tr>
   <tr>
-    <td><b>10:30 - 11am</b></td>
+    <td><b>9:30 - 10am</b></td>
     <td>:star: Breakout: NWB Documentation
     </td>
   </tr>
   <tr>
-    <td><b>11 - 12pm</b></td>
+    <td><b>10 - 11am</b></td>
     <td>:star: Breakout: The Future of NWB
+    </td>
+  </tr>
+  <tr>
+    <td><b>11am - 12pm</b></td>
+    <td>
     </td>
   </tr>
   <tr>
