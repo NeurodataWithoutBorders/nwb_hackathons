@@ -140,7 +140,7 @@ This calendar view shows the hackathon agenda.
     <th colspan="2"><b>Friday, February 18</b></th>
   </tr>
   <tr>
-    <td><b>8 - 10am</b></td>
+    <td><b>8 - 9am</b></td>
     <td></td>
     <td rowspan="6">:computer: Open Hacking
     </td>
