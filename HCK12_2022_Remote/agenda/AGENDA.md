@@ -41,7 +41,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>11am - 12pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
   <tr>
     <td><b>12 - 12:30pm</b></td>
@@ -50,7 +51,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>12:30 - 3pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
 </table>
 
@@ -83,7 +85,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>11am - 12pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
   <tr>
     <td><b>12 - 12:30pm</b></td>
@@ -92,7 +95,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>12:30 - 2pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
   <tr>
     <td><b>2 - 3pm</b></td>
@@ -113,7 +117,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>8:10am - 12pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
     <td rowspan="4">:computer: Open Hacking
     </td>
   </tr>
@@ -129,7 +134,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>1 - 3pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
 </table>
 
@@ -141,8 +147,9 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>8 - 9am</b></td>
-    <td></td>
-    <td rowspan="6">:computer: Open Hacking
+    <td align="center">:computer:
+    </td>
+    <td rowspan="7">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -162,7 +169,7 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>11am - 12pm</b></td>
-    <td>
+    <td align="center">:computer:
     </td>
   </tr>
   <tr>
@@ -172,7 +179,8 @@ This calendar view shows the hackathon agenda.
   </tr>
   <tr>
     <td><b>12:30 - 2pm</b></td>
-    <td></td>
+    <td align="center">:computer:
+    </td>
   </tr>
   <tr>
     <td><b>2 - 3pm</b></td>
