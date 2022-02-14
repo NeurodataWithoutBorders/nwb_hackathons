@@ -7,25 +7,26 @@ This calendar view shows the hackathon agenda.
 <table width="400">
   <tr>
     <th style="width:145px"><b>Day 1</b></th>
-    <th><b>Tuesday, February 15</b></th>
+    <th colspan="2"><b>Tuesday, February 15</b></th>
   </tr>
   <tr>
-    <td><b>8 - 9am (PDT)</b></td>
-    <td>:wave: Welcome and Introduction (Main Stage)</td>
+    <td><b>7:50 - 8am</b></td>
+    <td colspan="2">:running: Log in to Gather, learn controls, and explore the space</td>
+  </tr>
+  <tr>
+    <td><b>8 - 9am</b></td>
+    <td colspan="2">:wave: Welcome and Introduction (Main Stage)</td>
   </tr>
   <tr>
     <td><b>9 - 10am</b></td>
-    <td>:loudspeaker: Project presentations (3 min presentation each) (Main Stage)
-    </td>
-  </tr>
-  <tr>
-    <td><b>10 - 3pm</b></td>
-    <td>:computer: Open Hacking
+    <td colspan="2">:loudspeaker: Project presentations (3 min presentation each) (Main Stage)
     </td>
   </tr>
   <tr>
     <td><b>10 - 11am</b></td>
     <td>:star: Breakout: Data Overlays in NWB
+    </td>
+    <td rowspan="6">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -39,25 +40,30 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
+    <td><b>12:30 - 1pm</b></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><b>1 - 2pm</b></td>
     <td>:star: Breakout: Conversion of Proprietary Formats to NWB
     </td>
+  </tr>
+  <tr>
+    <td><b>2 - 3pm</b></td>
+    <td></td>
   </tr>
 </table>
 
 <table width="400">
   <tr>
     <th style="width:145px"><b>Day 2</b></th>
-    <th><b>Wednesday, February 16</b></th>
-  </tr>
-  <tr>
-    <td><b>8am - 3pm</b></td>
-    <td>:computer: Open Hacking
-    </td>
+    <th colspan="2"><b>Wednesday, February 16</b></th>
   </tr>
   <tr>
     <td><b>8 - 9am</b></td>
     <td>:star: Breakout: BIDS-ephys
+    </td>
+    <td rowspan="8">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -81,6 +87,14 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
+    <td><b>12:30 - 1pm</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>1 - 2pm</b></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><b>2 - 3pm</b></td>
     <td>:star: Breakout: MatNWB Working Group
     </td>
@@ -90,16 +104,17 @@ This calendar view shows the hackathon agenda.
 <table width="400">
   <tr>
     <th style="width:145px"><b>Day 3</b></th>
-    <th><b>Thursday, February 17</b></th>
+    <th colspan="2"><b>Thursday, February 17</b></th>
   </tr>
   <tr>
     <td><b>8 - 8:15am</b></td>
-    <td>:question: Project check-in (Main Stage)
+    <td colspan="2">:question: Project check-in (Main Stage)
     </td>
   </tr>
   <tr>
-    <td><b>8:15am - 3pm</b></td>
-    <td>:computer: Open Hacking
+    <td><b>8:15am - 12pm</b></td>
+    <td></td>
+    <td rowspan="4">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -112,17 +127,22 @@ This calendar view shows the hackathon agenda.
     <td>:game_die: Group games and social hour (Yoh's Island Bar)
     </td>
   </tr>
+  <tr>
+    <td><b>1pm - 3pm</b></td>
+    <td></td>
+  </tr>
 </table>
 
 
 <table width="400">
   <tr>
     <th style="width:145px"><b>Day 4</b></th>
-    <th><b>Friday, February 18</b></th>
+    <th colspan="2"><b>Friday, February 18</b></th>
   </tr>
   <tr>
-    <td><b>8am - 3pm</b></td>
-    <td>:computer: Open Hacking
+    <td><b>8 - 9am</b></td>
+    <td></td>
+    <td rowspan="7">:computer: Open Hacking
     </td>
   </tr>
   <tr>
@@ -146,13 +166,21 @@ This calendar view shows the hackathon agenda.
     </td>
   </tr>
   <tr>
+    <td><b>12:30 - 1pm</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>1 - 2pm</b></td>
+    <td></td>
+  </tr>
+  <tr>
     <td><b>2 - 3pm</b></td>
-    <td>:loudspeaker: Final presentations (Main Stage)
+    <td colspan="2">:loudspeaker: Final presentations (Main Stage)
     </td>
   </tr>
   <tr>
     <td><b>3 - 4pm</b></td>
-    <td>:tropical_drink: Social hour (Yoh's Island Bar)
+    <td colspan="2">:tropical_drink: Social hour (Yoh's Island Bar)
     </td>
   </tr>
 </table>
