@@ -1,4 +1,4 @@
-**All times are in Pacific Daylight Time (PDT; UTC-7)**
+**All times are in Pacific Standard Time (PST; UTC-8)**
 
 This calendar view shows the hackathon agenda.
 
