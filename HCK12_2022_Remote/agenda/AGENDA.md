@@ -1,8 +1,6 @@
 **All times are in Pacific Standard Time (PST; UTC-8)**
 
-This calendar view shows the hackathon agenda.
-
-**Detailed agenda:**
+**All breakout sessions will be held in Room 1 of the Gather space unless noted otherwise.**
 
 <table width="400">
   <tr>
