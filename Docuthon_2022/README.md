@@ -36,14 +36,28 @@ Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 In addition, please also consider participating in the [NWB Documentation Survey](https://forms.gle/TadZBRKJpwEWeErv8) to help us prepare for the event and help us improve our documentation.
 
-
 ## Logistics
 
-We will be using the Zoom videoconferencing platform for the meeting.
-We will send an email in the days before the workshop with Zoom links.
+We will be using the [Gather](https://gather.town/) spatial chat platform for most of the meeting. We will be using the [Zoom](https://zoom.us/) videoconferencing platform for the breakout sessions. We will send an email in the week before the workshop with the meeting links.
 
-It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer or phone.
-See installation instructions [here](https://zoom.us/download).
+### Gather Platform
+
+In Gather, you control a video-game-like avatar with your arrow keys. When your avatar is near another attendee's avatar, their video will appear and you will be able to speak with them. This platform allows for many small-group or one-on-one conversations to occur simultaneously and spontaneously. We hope that Gather will emulate the free-flowing social interactions of an in-person hackathon better than having everyone in a single Zoom meeting or messaging over Slack.
+
+We have a few tips for using Gather, especially if it is your first time:
+- Sign in to the space before the meeting and practice using the controls.
+- Use a **desktop/laptop computer**, not a mobile device. Chrome seems to works best. The desktop app also works.
+- This is not a 20+ person Zoom call. You can "walk" up to different people and communicate with only the people within a few tiles from your avatar.
+- **Shaded areas are "private spaces" - only people inside the private space can see and hear you.** There are private spaces for each breakout room, each table/desk, and the main stage area.
+- While you are hacking, we recommend that you **keep Gather open in the background with your speakers/audio on**, so that others can more easily reach you. This will help us better emulate an in-person hackathon where everyone is approachable. Feel free to mute yourself and turn off your video when you are not interacting with anyone.
+- Click on a name in the People panel (bottom-left button) to send them a message or locate them.
+- We recommend that you **keep the Chat panel on the left open in case someone messages you**.
+- If you are leaving your computer for a prolonged period, please close the browser to make your avatar leave the space.
+- You can click the arrow icon in the top right of the video feed to make everyone’s videos bigger. You can also click your name at the bottom of the screen, User/Video preferences, and Use HD Video Quality for better video.
+
+### Zoom Platform
+
+It is possible to use Zoom from the browser, but we recommend you install the Zoom app on your computer. See installation instructions [here](https://zoom.us/download).
 
 ## Organizing Committee
 
@@ -71,7 +85,6 @@ We will use these pages to connect people who are working on similar projects
 (e.g. converting data from the same acquisition system) and follow your progress.
 
 {% include_relative projects/PROJECTS.md %}
-
 
 
 ## Objective
