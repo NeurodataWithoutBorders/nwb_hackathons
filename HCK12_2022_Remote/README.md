@@ -3,6 +3,7 @@
 
 # Welcome to the 2022 NWB-DANDI Remote Developer Hackathon!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Overview](#overview)
   * [Registration](#registration)
@@ -15,6 +16,11 @@
   * [Objective](#objective)
   * [Agenda](#agenda)
   * [Code of Conduct](#code-of-conduct)
+
+
+## Report
+
+The final report for the 2022 NWB-DANDI Developer Hackathon is now available on GitHub ([PDF](report/Report___12th_NWB_and_DANDI_Hackathon.pdf)) ([LaTeX](report/Report___12th_NWB_and_DANDI_Hackathon.zip)).
 
 
 ## Dates and Location
