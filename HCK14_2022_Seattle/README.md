@@ -50,7 +50,7 @@ Recordings of talks will be made available on the [NWB Youtube channel](https://
 ## What to bring?
 
 * Create the outline for your project at the hackathon. For further details and instructions on how to create a project, see [here](projects/README.md)
-* Bring your laptop with appropriate software installed. For instructions on how to install PyNWB, see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
+* Bring your laptop with appropriate software installed. For instructions on how to install PyNWB, see [the PyNWB documentation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation). For instructions on how to install MatNWB, see [the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
 
 ## Objective
 
