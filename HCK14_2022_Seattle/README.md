@@ -1,4 +1,4 @@
-# Welcome to the 14th NWB Hackathon: Neurophysiology Data Mining
+# Welcome to the 14th NWB Hackathon: Neurophysiology Data Re-analysis
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
