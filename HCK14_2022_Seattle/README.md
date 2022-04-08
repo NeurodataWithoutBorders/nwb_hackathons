@@ -14,7 +14,7 @@
   
 ## Dates and Location
 
-- **Dates:** September 12-14, 2022
+- **Dates:** October 3-5, 2022
 - **Location:** [The Allen Institute](https://alleninstitute.org/) - 615 Westlake Ave N, Seattle, WA USA 98109
 
 ## Registration
