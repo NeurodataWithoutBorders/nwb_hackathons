@@ -3,7 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days will be held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 28, 2022**.
+- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days will be held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
 - [Hackathon 14: October 2022](HCK14_2022_Seattle/README.md){:target="_top"} - The 14th Hackathon: 
   Neurophysiology Data Re-analysis at the Allen Institute in Seattle, Washington, USA on **October 3-5, 2022**.
 
