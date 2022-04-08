@@ -14,7 +14,7 @@
   
 ## Dates and Location
 
-- **Dates:** July 25-28, 2022
+- **Dates:** July 25-27, 2022
 - **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147, [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655) [Directions](https://www.janelia.org/directions)
 
 ## Registration
