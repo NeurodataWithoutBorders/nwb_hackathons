@@ -19,7 +19,7 @@
 
 ## Registration
 
-Registration is not open yet.
+Registration here: https://docs.google.com/forms/d/e/1FAIpQLSeqorxesybb9nVLaGHpwZ4iZdwJUOvRrtEizWUgm7AeSjiHbQ/viewform
 
 Participation in this event requires strict adherence to Janelia’s COVID-19 safety protocols and policies, which may include a combination of pre-arrival testing, onsite testing, wearing masks, and more. Further details about our COVID policies and guidelines will be shared in due time.
 
