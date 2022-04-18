@@ -1,4 +1,5 @@
-# Welcome to the 14th NWB Hackathon: Neurophysiology Data Re-analysis
+# NeuroDataReHack
+## *Generate new insights from existing neurophysiology data through secondary analysis*
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
