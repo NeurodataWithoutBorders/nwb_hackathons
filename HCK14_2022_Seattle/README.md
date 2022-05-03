@@ -2,7 +2,7 @@
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
   * [Dates and Location](#dates-and-location)
-  * [Registration](#registration)
+  * [Application](#application)
 <!-- * [Logistics](#logistics) -->
   * [Organizing Committee](#organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
@@ -18,9 +18,9 @@
 - **Dates:** October 3-5, 2022
 - **Location:** [The Allen Institute](https://alleninstitute.org/) - 615 Westlake Ave N, Seattle, WA USA 98109
 
-## Registration
+## Application
 
-Registration is not open yet.
+Apply through the Allen Institute [here](https://alleninstitute.org/what-we-do/brain-science/events-training/2022-neurodatarehack-hackathon/).
 
 <!--
 ## Logistics
