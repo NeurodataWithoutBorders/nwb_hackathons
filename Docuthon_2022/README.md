@@ -72,7 +72,7 @@ Recorded talks will be uploaded after the talks are given.
 ## How to prepare?
 
 Install the Python or MATLAB software for NWB:
-  * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
+  * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/install_users.html](https://pynwb.readthedocs.io/en/stable/install_users.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/#setup](https://neurodatawithoutborders.github.io/matnwb/#setup)
 
 ## Projects
