@@ -9,6 +9,7 @@
   * [Resources](#resources)
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
+  * [Schedule](#schedule)
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Disclaimer](#disclaimer)
@@ -55,12 +56,61 @@ Recordings of talks will be made available on the [NWB Youtube channel](https://
 
 ## Objective
 
-The DANDI Archive now has 80+ neurophysiology datasets in the NWB format spanning many different species, brain 
+The DANDI Archive now has 89+ neurophysiology datasets in the NWB format spanning many different species, brain 
 areas, task types, and imaging modalities. It is now time for us to shift our focus to reanalyzing these datasets. 
 In this workshop, we will teach attendees about the open neurophysiology datasets available on the DANDI Archive and 
 train them on how to maximally utilize the archive and the NWB standard to incorporate existing data into their 
 scientific workflows. This is the first event of its type for NWB, so our team will also be learning 
 about how we can facilitate data reuse in the neuroscience community.
+
+## Schedule
+
+This schedule is tentative. A more detailed schedule will be provided closer to the event.
+
+### Day 0: Thurs, Sept 29: NWB and DANDI Data Showcase (online)
+
+9 - 9:30am - Data blitz (1 min presentations)
+
+9:30 - 11am - Poster session in Gather Town
+
+11 - 11:30am - Introduction to NWB: Scope, APIs, tools
+
+11:30 - 12pm - Introduction to DANDI: Scope, web interface, downloading data, DANDI Hub
+
+12 - 12:30pm - Introduction to OpenScope: Scope, available datasets, high-level tour of existing analysis notebooks
+
+### Day 1: Monday, Oct 3: Advanced core training
+
+9 - 9:15am - Meet and greet
+
+9:15 - 9:45am - Introduction to event: Goals, schedule, Kavli funding opportunities
+
+9:45 - 10:15am - Round table discussion of project plans (2 minutes each)
+
+10:15 - 11am - Hack and discuss
+
+11 - 12pm - Advanced DANDI queries
+
+12 - 1pm - Lunch
+
+1 - 2pm - DANDI Hub: ros3, nwbwidgets, analysis, example-notebooks repo
+
+2 - 3pm - OpenScope in-depth presentation of analysis notebooks
+
+3 - 5pm - Hacking
+
+
+### Day 2: Tuesday, Oct 4: Hacking with breakouts
+
+Hacking all day. Breakout sessions TBD.
+
+
+### Day 3: Wednesday Oct 5: Hacking and final presentations
+
+3 - 4pm - Final project presentations (5 minutes each)
+
+4 - 5pm - Feedback for organizers round table discussion
+
 
 ## Projects
 
