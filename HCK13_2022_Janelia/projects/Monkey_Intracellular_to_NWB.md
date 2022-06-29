@@ -6,8 +6,8 @@
 
 ## Key Investigators
 
-<!-- - Chenggang Chen (Johns Hopkins University)-->
-<!-- - Xiaoqin Wang (Johns Hopkins University)-->
+- Chenggang Chen (Johns Hopkins University)
+- Xiaoqin Wang (Johns Hopkins University)
 
 ## Project Description
 
