@@ -7,11 +7,12 @@
 ## Key Investigators
 
 - Chenggang Chen (Johns Hopkins University)
+- Lixia Gao (Johns Hopkins University)
 - Xiaoqin Wang (Johns Hopkins University)
 
 ## Project Description
 
-<!-- Add a short paragraph describing the project. -->
+Raw data came from our published papers (Gao et al., 2016, Neuron)
 
 ## Objectives
 
