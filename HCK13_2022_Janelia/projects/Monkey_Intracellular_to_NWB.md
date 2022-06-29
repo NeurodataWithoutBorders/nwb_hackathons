@@ -12,37 +12,30 @@
 
 ## Project Description
 
-Raw data came from our published papers (Gao et al., 2016, Neuron)
+Raw data came from our previously published papers (Gao et al., 2016, Neuron; Gao and Wang, 2018, Cerebral Cortex; Gao and Wang, 2020, Nature Protocols).
+Intracelluar recording in the primate is extremely challenging, and there are only 8 papers so far that have done this.
+We have collected high-quality intracellular recording data from 300+ neurons in the auditory cortex of awake marmosets.
+We collected and saved those data with custom codes written in MATLAB. Those data could be read out by MATLAB codes.
 
 ## Objectives
 
-<!-- Briefly describe the objectives of your project. What would you like to achive?-->
-
-<!-- 1. Objective A. Describe it in 1-2 sentences.-->
-<!-- 1. Objective B. Describe it in 1-2 sentences.-->
-<!-- 1. ...-->
+1. Each file contains the membrane potential of one neuron tested with one specific stimulus. It's necessary to archive the files from the same neuron into the same folder or structure or group or any other structure.  
+2. Save the stimulus information with the raw membrane potential data together, so that we could know which stimulus evokes this responses.
+3. The spike waveform from same neurons have some fluctuations (resting potential, threshold, half-maximum widt, etc.). Need some ways to characterize each neuron's response properities.
 
 ## Approach and Plan
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+Will update soon.
 
 ## Progress and Next Steps
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
+Will update soon.
 
 ## Materials
 
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
+![image](https://user-images.githubusercontent.com/37786589/176331310-e62b7565-cb5a-406f-a84a-0f7b9a28487f.png)
 
 ## Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/YourUser/YourRepository -->
-<!-- - Documentation: https://link.to.docs -->
-<!-- - Test data: https://link.to.test.data -->
+https://www.sciencedirect.com/science/article/pii/S0896627316303506
+https://www.nature.com/articles/s41596-020-0388-3
