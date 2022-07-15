@@ -37,18 +37,7 @@ Participation in this event requires strict adherence to Janelia’s COVID-19 sa
 **Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
 
 ## Agenda
-
-<img width="715" alt="image" src="https://user-images.githubusercontent.com/844306/172011895-f9f703e2-c3fe-4cb1-b0cc-41fa6130341c.png">
-
-<img width="880" alt="image" src="https://user-images.githubusercontent.com/844306/172011910-137295a3-08ae-4520-847c-b73a5468b5ad.png">
-
-<img width="881" alt="image" src="https://user-images.githubusercontent.com/844306/172011925-0f677ca1-116a-4ccb-8f15-9e13922ecb1c.png">
-
-
-<img width="881" alt="image" src="https://user-images.githubusercontent.com/844306/172011841-59059737-38c7-4504-bea2-29d557ec4fad.png">
-
-<img width="883" alt="image" src="https://user-images.githubusercontent.com/844306/172011865-40e73201-1712-4c1c-91e3-6fc332f68dff.png">
-
+![hck13_agenda](https://user-images.githubusercontent.com/310197/179284648-642fdcc5-cd15-4284-9db0-f59faeb69df2.png)
 
 https://docs.google.com/spreadsheets/d/1SDqiI-cXS7UxW2WPeq-7CzlCh7kv7DYjenc8kND4Jzw/edit?usp=sharing
 
