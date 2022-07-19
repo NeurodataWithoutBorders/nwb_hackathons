@@ -37,7 +37,7 @@ Participation in this event requires strict adherence to Janelia’s COVID-19 sa
 **Directions:** The Janelia Research Campus is located in Loudoun County, Virginia – just 30 miles from Washington, DC, and about eight miles north of Dulles International Airport (IAD). For directions see [https://www.janelia.org/directions](https://www.janelia.org/directions)
 
 ## Agenda
-![hck13_agenda](https://user-images.githubusercontent.com/310197/179284648-642fdcc5-cd15-4284-9db0-f59faeb69df2.png)
+![Agenda Planning -- 13th NWB Hackathon at HHMI Janelia](https://user-images.githubusercontent.com/844306/179828451-3d965a58-29ed-4e4d-9ea4-32de437a308b.png)
 
 https://docs.google.com/spreadsheets/d/1SDqiI-cXS7UxW2WPeq-7CzlCh7kv7DYjenc8kND4Jzw/edit?usp=sharing
 
