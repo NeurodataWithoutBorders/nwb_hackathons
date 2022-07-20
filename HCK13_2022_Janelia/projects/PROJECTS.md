@@ -4,4 +4,6 @@ The lists below provide an overview of specific projects for which at least one 
 
 * [Monkey_Intracellular_to_NWB](projects/Monkey_Intracellular_to_NWB)
 
+* [WebNWB](projects/webnwb)
+
 * [template](projects/template)
