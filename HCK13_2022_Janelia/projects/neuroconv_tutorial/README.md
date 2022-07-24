@@ -4,10 +4,6 @@
 
 1a) [Conda/Python](https://www.anaconda.com/)
 
-or
-
-1b) DANDI account
-
 2) `pip install neuroconv`
 
 3) Download the notebooks directly from this GitHub repo or clone it (`git clone https://github.com/neurodatawithoutborders/nwb_hackathons`)
@@ -18,13 +14,12 @@ as well as
 
 [video_mp4.mp4](https://gin.g-node.org/CatalystNeuro/behavior_testing_data/src/master/videos/CFR/video_mp4.mp4)
 
-or if on linux, install [Datalad](https://www.datalad.org/) and call
+4b) or if on linux, install [Datalad](https://www.datalad.org/) and call
 
-4b) datalad -rg https://gin.g-node.org/neuralensemble/ephy_testing_data/spikeglx/Noise4Sam_g0
-
-and
-
+```
+datalad -rg https://gin.g-node.org/neuralensemble/ephy_testing_data/spikeglx/Noise4Sam_g0
 datalad -rg https://gin.g-node.org/CatalystNeuro/behavior_testing_data
+```
 
 
 
@@ -34,6 +29,10 @@ datalad -rg https://gin.g-node.org/CatalystNeuro/behavior_testing_data
 
 2) `pip install neuroconv`
 
-3) Download the notebooks directly from this GitHub repo or clone it (`git clone https://github.com/neurodatawithoutborders/nwb_hackathons`)
+3) Download the notebooks directly from this GitHub repo or clone it with
+
+```
+git clone https://github.com/neurodatawithoutborders/nwb_hackathons
+```
 
 4) Tutorials are ready to run!
