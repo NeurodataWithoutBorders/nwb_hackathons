@@ -1,19 +1,39 @@
-# What you'll need
+# Requirements for tutorial
 
-1a) Conda/Python: add link
+## Running locally on your own device
+
+1a) [Conda/Python](https://www.anaconda.com/)
 
 or
 
-1b) DANDIHub account
+1b) DANDI account
 
 2) `pip install neuroconv`
 
-3a) Download some example data from: add links
+3) Download the notebooks directly from this GitHub repo or clone it (`git clone https://github.com/neurodatawithoutborders/nwb_hackathons`)
 
-or if on linux, install Datalad (add link) and call
+4a) Download some example data from GIN: [Noise4Sam_g0_t0.imec0.ap.meta](https://gin.g-node.org/NeuralEnsemble/ephy_testing_data/src/master/spikeglx/Noise4Sam_g0/Noise4Sam_g0_imec0/Noise4Sam_g0_t0.imec0.ap.meta) and [Noise4Sam_g0_t0.imec0.ap.bin](https://gin.g-node.org/NeuralEnsemble/ephy_testing_data/src/master/spikeglx/Noise4Sam_g0/Noise4Sam_g0_imec0/Noise4Sam_g0_t0.imec0.ap.bin)
 
-3b) datalad -rg https://gin.g-node.org/neuralensemble/ephy_testing_data/...
+as well as
 
-or if on the DANDIHub,
+[video_mp4.mp4](https://gin.g-node.org/CatalystNeuro/behavior_testing_data/src/master/videos/CFR/video_mp4.mp4)
 
-3c) data is already available in the `/shared/catalystneuro` folder!
+or if on linux, install [Datalad](https://www.datalad.org/) and call
+
+4b) datalad -rg https://gin.g-node.org/neuralensemble/ephy_testing_data/spikeglx/Noise4Sam_g0
+
+and
+
+datalad -rg https://gin.g-node.org/CatalystNeuro/behavior_testing_data
+
+
+
+## Running on the DANDIHub
+
+1) Log into the Hub, select any instance: https://hub.dandiarchive.org/hub
+
+2) `pip install neuroconv`
+
+3) Download the notebooks directly from this GitHub repo or clone it (`git clone https://github.com/neurodatawithoutborders/nwb_hackathons`)
+
+4) Tutorials are ready to run!
