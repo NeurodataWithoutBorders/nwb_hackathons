@@ -10,7 +10,6 @@
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Projects](#projects)
-     * [Creating a New Project](projects/README.md)
   * [Disclaimer](#disclaimer)
   
 ## Dates and Location
