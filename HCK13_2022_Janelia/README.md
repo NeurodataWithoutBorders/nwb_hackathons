@@ -4,6 +4,7 @@
   * [Registration](#registration)
   * [Logistics](#logistics)
   * [Agenda](#agenda)
+    * [Tutorial Materials](#tutorial-materials)  
   * [Organizing Committee](#organizing-committee)
     * [Additional Organizational Support](#additional-organizational-support)
   * [Resources](#resources)
@@ -42,6 +43,10 @@ Participation in this event requires strict adherence to Janelia’s COVID-19 sa
 
 https://docs.google.com/spreadsheets/d/1SDqiI-cXS7UxW2WPeq-7CzlCh7kv7DYjenc8kND4Jzw/edit?usp=sharing
 
+### Tutorial Materials
+
+* [BEADL Tutorial](projects/beadl_tutorial)
+* [NeuroConv Tutorial](projects/neuroconv_tutorial)
 
 ## Organizing Committee
 
