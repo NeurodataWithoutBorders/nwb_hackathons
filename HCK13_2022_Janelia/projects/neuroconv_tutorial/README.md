@@ -4,7 +4,7 @@
 
 1a) [Conda/Python](https://www.anaconda.com/)
 
-2) `pip install neuroconv`
+2) `pip install neuroconv` and `pip install opencv-python`
 
 3) Download the notebooks directly from this GitHub repo or clone it (`git clone https://github.com/neurodatawithoutborders/nwb_hackathons`)
 
@@ -27,7 +27,7 @@ datalad -rg https://gin.g-node.org/CatalystNeuro/behavior_testing_data
 
 1) Log into the Hub, select any instance: https://hub.dandiarchive.org/hub
 
-2) `pip install neuroconv`
+2) `pip install neuroconv` and `pip install opencv-python`
 
 3) Download the notebooks directly from this GitHub repo or clone it with
 
