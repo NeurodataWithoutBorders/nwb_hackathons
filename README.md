@@ -3,10 +3,13 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days will be held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
 - [Hackathon 14: October 2022](HCK14_2022_Seattle/README.md){:target="_top"} - NeuroDataReHack at the Allen Institute in Seattle, Washington, USA on **October 3-5, 2022**.
+- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"} - The September 2022 Docathon focused on NWB 
+  documentation will be held remotely through video conferencing on **Sept 22 - 23, 2022**.
+
 
 ### Past Hackathons
+- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days will be held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
 - [Docathon: March 2022](Docuthon_2022/README.md){:target="_top"} - The 2022 Docathon focused on NWB documentation will be held remotely through video conferencing on **March 10 - 11, 2022**.
 - [Hackathon 12: February 2022](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2022**.
 - [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely
