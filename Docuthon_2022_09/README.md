@@ -34,7 +34,7 @@ tools that use NWB.
 
 ## Registration
 
-Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdFC77E1H0xF1i2LShdCkzZYXH9TqZhwwksZpWSvwd_nTnRyA) to attend the event. 
+Please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdFC77E1H0xF1i2LShdCkzZYXH9TqZhwwksZpWSvwd_nTnRyA/viewform?usp=sf_link) to attend the event. 
 
 [//]: # (In addition, please also consider participating in the [NWB Documentation Survey]&#40;https://forms.gle/TadZBRKJpwEWeErv8&#41; to help us prepare for the event and help us improve our documentation.)
 
