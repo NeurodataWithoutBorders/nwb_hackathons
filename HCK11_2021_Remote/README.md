@@ -17,7 +17,7 @@
 
 ## Report
 
-The final report for the 2022 NWB User Days is now available on GitHub ([PDF](report/Report___11th_NWB_User_Days_at_INCF.pdf)) ([LaTeX](report/Report___11th_NWB_User_Days_at_INCF.zip)).
+The final report for the 2021 NWB User Days is now available on GitHub ([PDF](report/Report___11th_NWB_User_Days_at_INCF.pdf)) ([LaTeX](report/Report___11th_NWB_User_Days_at_INCF.zip)).
 
 ## Dates and Location
 
