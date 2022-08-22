@@ -1,5 +1,6 @@
 # Welcome to the 13th NWB Hackathon: User Days!!
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)
@@ -14,6 +15,9 @@
   * [Code of Conduct](#code-of-conduct)
   * [Disclaimer](#disclaimer)
 
+## Report
+
+The final report for the 2022 NWB User Days is now available on GitHub ([PDF](report/Report___13th_NWB_and_User_Days_at_HHMI_Janelia.pdf)) ([LaTeX](report/Report___13th_NWB_and_User_Days_at_HHMI_Janelia.zip)).
   
 ## Dates and Location
 
