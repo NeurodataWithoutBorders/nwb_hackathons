@@ -6,17 +6,17 @@
 
 
 ### Past Hackathons
-- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"} - The September 2022 Docathon focused on NWB 
-  documentation will be held remotely through video conferencing on **Sept 22 - 23, 2022**.
-- [Hackathon 14: October 2022](HCK14_2022_Seattle/README.md){:target="_top"} - NeuroDataReHack at the Allen Institute in Seattle, Washington, USA on **October 3-5, 2022**.
-- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days will be held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
-- [Docathon: March 2022](Docuthon_2022/README.md){:target="_top"} - The 2022 Docathon focused on NWB documentation will be held remotely through video conferencing on **March 10 - 11, 2022**.
-- [Hackathon 12: February 2022](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **February 15 - 18, 2022**.
+- [Hackathon 14: October 2022](HCK14_2022_Seattle/README.md){:target="_top"} - NeuroDataReHack was held at the Allen Institute in Seattle, Washington, USA on **October 3-5, 2022**.
+- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"} - The September 2022 Docathon focused on NWB
+  documentation was held remotely through video conferencing on **Sept 22 - 23, 2022**.
+- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days was held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
+- [Docathon: March 2022](Docuthon_2022/README.md){:target="_top"} - The 2022 Docathon focused on NWB documentation was held remotely through video conferencing on **March 10 - 11, 2022**.
+- [Hackathon 12: February 2022](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development was held remotely through video conferencing on **February 15 - 18, 2022**.
 - [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely
   through video conferencing on **August 23-25, 2021** in partnership with INCF.
-- [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development will be held remotely through video conferencing on **March 30 - April 1, 2021**.
+- [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development was held remotely through video conferencing on **March 30 - April 1, 2021**.
 - [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User Days was held remotely through video conferencing on **September 21-23, 2020**.
-- [Hackathon 8: May 2020](HCK08_2020_Remote/README.md){:target="_top"} - The 8th User and Developer Days will be held remotely through video conferencing on **May 12-15, 2020**.
+- [Hackathon 8: May 2020](HCK08_2020_Remote/README.md){:target="_top"} - The 8th User and Developer Days was held remotely through video conferencing on **May 12-15, 2020**.
 - [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development was held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
 - [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
 - [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - A tutorial session on NWB was held during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**.

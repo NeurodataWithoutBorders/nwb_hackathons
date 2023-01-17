@@ -1,6 +1,7 @@
 # NeuroDataReHack
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Application](#application)
 <!-- * [Logistics](#logistics) -->
@@ -13,7 +14,11 @@
   * [Projects](#projects)
      * [Creating a New Project](projects/README.md)
   * [Disclaimer](#disclaimer)
-  
+
+## Report
+
+The final report for the 2022 NeuroDataReHack is now available on GitHub ([PDF](report/Report_Neurodata_Rehack_v2.pdf)) ([LaTeX](report/Report_Neurodata_Rehack_source_v2.zip)).
+
 ## Dates and Location
 
 - **Dates:** October 3-5, 2022
@@ -26,9 +31,9 @@ Apply through the Allen Institute [here](https://alleninstitute.org/what-we-do/b
 <!--
 ## Logistics
 
-**Housing:** 
+**Housing:**
 
-**Travel:** 
+**Travel:**
 
 -->
 
@@ -36,7 +41,7 @@ Apply through the Allen Institute [here](https://alleninstitute.org/what-we-do/b
 
 **Program chairs:** Ben Dichter, Oliver Rübel, Satrjit Ghosh, Jerome Lecoq, and Stephanie Albin
 
-**Administrative Support:** 
+**Administrative Support:**
 
 ### Additional Organizational Support
 
@@ -56,11 +61,11 @@ Recordings of talks will be made available on the [NWB Youtube channel](https://
 
 ## Objective
 
-The DANDI Archive now has 89+ neurophysiology datasets in the NWB format spanning many different species, brain 
-areas, task types, and imaging modalities. It is now time for us to shift our focus to reanalyzing these datasets. 
-In this workshop, we will teach attendees about the open neurophysiology datasets available on the DANDI Archive and 
-train them on how to maximally utilize the archive and the NWB standard to incorporate existing data into their 
-scientific workflows. This is the first event of its type for NWB, so our team will also be learning 
+The DANDI Archive now has 89+ neurophysiology datasets in the NWB format spanning many different species, brain
+areas, task types, and imaging modalities. It is now time for us to shift our focus to reanalyzing these datasets.
+In this workshop, we will teach attendees about the open neurophysiology datasets available on the DANDI Archive and
+train them on how to maximally utilize the archive and the NWB standard to incorporate existing data into their
+scientific workflows. This is the first event of its type for NWB, so our team will also be learning
 about how we can facilitate data reuse in the neuroscience community.
 
 ## Schedule
