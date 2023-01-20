@@ -4,7 +4,7 @@ The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tu
 
 The DANDI Archive now has 100+ publicly available neurophysiology datasets stored using the NWB data standard.
 
-The NWB project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. NWB:N is more than just a file format but it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing complex neurophysiology data.
+The NWB project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within and across labs. NWB is more than just a file format but it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing complex neurophysiology data.
 
 At this tutorial, we’ll teach you how to:
 
@@ -49,7 +49,7 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 - using [SpikeInterface](https://github.com/SpikeInterface/spikeinterface#spikeinterface-a-unified-framework-for-spike-sorting) to sort raw ecephys data streamed from DANDI & write the output back to NWB
 - using [CaImAn](https://github.com/flatironinstitute/CaImAn#caiman), [suite2p](https://www.suite2p.org/), and [EXTRACT](https://github.com/schnitzer-lab/EXTRACT-public) to segment raw ophys data streamed from DANDI & write the output back to NWB
 - storing and accessing [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) and [SLEAP](https://sleap.ai/) pose estimation data in NWB
-- using [PYNAPPLE](https://github.com/PeyracheLab/pynapple) and other analysis tools on NWB data
+- using [Pynapple](https://github.com/PeyracheLab/pynapple) and other analysis tools on NWB data
 
 
 
