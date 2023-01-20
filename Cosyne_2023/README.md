@@ -1,6 +1,6 @@
 # Welcome to the DANDI+NWB Tutorial at COSYNE 2023!
 
-The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the [DANDI Archive](https://www.dandiarchive.org/) and NWB data standard and on using [PyNWB](https://neurodatawithoutborders.github.io/pynwb) and [MatNWB](https://neurodatawithoutborders.github.io/matnwbemb) at the COSYNE 2023 tutorial session.
+The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the [DANDI Archive](https://www.dandiarchive.org/) and NWB data standard and on using [PyNWB](https://neurodatawithoutborders.github.io/pynwb) and [MatNWB](https://neurodatawithoutborders.github.io/matnwb) at the COSYNE 2023 tutorial session.
 
 The DANDI Archive now has 100+ publicly available neurophysiology datasets stored using the NWB data standard.
 
