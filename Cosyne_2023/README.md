@@ -1,6 +1,7 @@
-![dandi-logo](https://user-images.githubusercontent.com/51133164/213761508-7897711e-efae-4306-9503-541a14a0e6e2.png)
-
-<img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
+<p float="left">
+  <img src="dandi-logo.png" width="100" />
+  <img src="../HCK08_2020_Remote/logo_brain_text_white_hor.png" width="400" /> 
+</p>
 
 # Welcome to the DANDI+NWB Tutorial at COSYNE 2023!
 
