@@ -33,9 +33,7 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 
 
-## Tutorial Program
-
-# Work In Progress - still adding documents and links here
+## Tutorial Program (tentative)
 
 8:00 - 8:30: Introduction to the NWB data standard and DANDI Archive
 8:30 - 8:55: How to find relevant data on the DANDI archive and use the DANDI Hub
