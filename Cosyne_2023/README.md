@@ -36,7 +36,9 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 ## Tutorial Program (tentative)
 
 8:00 - 8:30: Introduction to the NWB data standard and DANDI Archive
+
 8:30 - 8:55: How to find relevant data on the DANDI archive and use the DANDI Hub
+
 8:55 - 9:00: Break
 
 9:00 - 9:20: How to stream NWB data from DANDI and how to read an NWB file in Python and MATLAB
