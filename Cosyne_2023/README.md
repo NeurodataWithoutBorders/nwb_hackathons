@@ -1,3 +1,7 @@
+![dandi-logo](https://user-images.githubusercontent.com/51133164/213761508-7897711e-efae-4306-9503-541a14a0e6e2.png)
+
+<img alt="Remote hackathon" src="../HCK08_2020_Remote/logo_brain_text_white_hor.png">
+
 # Welcome to the DANDI+NWB Tutorial at COSYNE 2023!
 
 The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the [DANDI Archive](https://www.dandiarchive.org/) and NWB data standard and on using [PyNWB](https://pynwb.readthedocs.io/en/stable/) and [MatNWB](https://neurodatawithoutborders.github.io/matnwb) at the COSYNE 2023 tutorial session.
@@ -36,9 +40,7 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 ## Tutorial Program (tentative)
 
 8:00 - 8:30: Introduction to the NWB data standard and DANDI Archive
-
 8:30 - 8:55: How to find relevant data on the DANDI archive and use the DANDI Hub
-
 8:55 - 9:00: Break
 
 9:00 - 9:20: How to stream NWB data from DANDI and how to read an NWB file in Python and MATLAB
