@@ -3,6 +3,8 @@ name: Test GitHub Pages Builds
 on:
   pull_request:
 
+concurrency: preview-${{ github.ref }}
+
 jobs:
   run:
     runs-on: ubuntu-latest
