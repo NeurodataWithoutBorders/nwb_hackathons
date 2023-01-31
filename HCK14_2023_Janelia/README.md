@@ -1,6 +1,6 @@
 # NWB User Days and Developer Hackathon 2023
 
-  * [Report](#report)
+[//]: # (  * [Report]&#40;#report&#41;)
   * [Dates and Location](#dates-and-location)
   * [Attendees](#attendees)
   * [Registration](#registration)
@@ -11,14 +11,18 @@
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Agenda](#agenda)
-    * [User Days](#agenda-user-days)
-    * [Developer Days](#agenda-developer-days)
-    * [Calendar](#agenda-calendar)
+
+[//]: # (    * [User Days]&#40;#agenda-user-days&#41;)
+
+[//]: # (    * [Developer Days]&#40;#agenda-developer-days&#41;)
+
+[//]: # (    * [Calendar]&#40;#agenda-calendar&#41;)
   * [Projects](#projects)
-     * [Creating a New Project](projects/README.md)
-  * [Registrants](#registrants)
-  * [Attending Remotely](#attending-remotely)
-  * [Resources](#resources)
+
+[//]: # (     * [Creating a New Project]&#40;projects/README.md&#41;)
+[//]: # (  * [Registrants]&#40;#registrants&#41;)
+[//]: # (  * [Attending Remotely]&#40;#attending-remotely&#41;)
+[//]: # (  * [Resources]&#40;#resources&#41;)
   * [Disclaimer](#disclaimer)
 
 [//]: # (## Report)
