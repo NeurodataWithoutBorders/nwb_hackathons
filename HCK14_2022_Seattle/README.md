@@ -1,4 +1,7 @@
 # NeuroDataReHack
+
+For the most up-to-date information about NeuroDataRehack, see the [Allen Institute event page for NeuroDataReHack](https://alleninstitute.org/what-we-do/brain-science/events-training/2022-neurodatarehack-hackathon/).
+
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
   * [Report](#report)
