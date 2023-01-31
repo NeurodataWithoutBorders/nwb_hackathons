@@ -1,0 +1,13 @@
+name: Test GitHub Pages Builds
+
+on:
+  pull_request:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+    - name: Deploy PR Preview
+      uses: rossjrw/pr-preview-action@v1.2.0
