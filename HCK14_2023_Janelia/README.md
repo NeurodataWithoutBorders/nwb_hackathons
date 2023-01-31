@@ -43,7 +43,7 @@
 
 ## Registration
 
-If you would like to attend the NWB User and Developer Workshop, please register 
+If you would like to attend the NWB User or Developer Workshop, please register 
 [here](https://forms.gle/ZqgUKDCfcX9XT8AbA). Registration for this event is free. Space at the event is limited and 
 registration is on a first-come basis.
 
