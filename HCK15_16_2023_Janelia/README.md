@@ -11,6 +11,7 @@
   * [Objective](#objective)
   * [Agenda](#agenda)
   * [Projects](#projects)
+  * [Code of Conduct](#code-of-conduct)
   * [Disclaimer](#disclaimer)
   
 
@@ -27,7 +28,7 @@
 
 ## Registration
 
-If you would like to attend the NWB User or Developer Workshop, please register 
+If you would like to attend the NWB User Days or Developer Hackathon, please register 
 [here](https://forms.gle/ZqgUKDCfcX9XT8AbA). Registration for this event is free. Space at the event is limited and 
 registration is on a first-come basis.
 
@@ -35,7 +36,7 @@ registration is on a first-come basis.
 
 **Housing:** Housing will be provided onsite on the Janelia research campus. For details about transportation and logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
-**Travel:** Travel support is not provided. Limited funds may be available to support attendee travel. Once attendance has been confirmed, we will contact you to collect additional information regarding your travel details.  
+**Travel:** Travel support is not provided. Limited funds may be available to support attendee travel. Once attendance has been confirmed, we will contact you to collect additional information regarding your travel details.
 
 * **User Days:** Attendees should plan to arrive Sunday afternoon and depart on Wednesday evening after the social or Thursday (depending on availability of flights). 
 * **Developer Days:** Attendees should plan to arrive Wednesday evening to attend the joint social with User Days participants and depart Saturday afternoon after conclusion of the meeting. 
@@ -61,10 +62,10 @@ registration is on a first-come basis.
 ## What to bring?
 
 * Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., 
-  data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
+  data not in NWB), you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
   reading the data.
 * Bring your laptop with appropriate software installed. For installation instructions see:
-  * [**PyNWB (Python)**](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
+  * [**PyNWB (Python)**](https://pynwb.readthedocs.io/en/stable/install_users.html). If you are a developer and want to contribute to PyNWB see the [**Installing PyNWB for Developers**](https://pynwb.readthedocs.io/en/stable/install_developers.html) instructions. 
   * [**MatNWB (Matlab)**](https://neurodatawithoutborders.github.io/matnwb/)
 * For an overview of NWB software, see also: 
   * [**Glossary of Core NWB Tools**](https://nwb-overview.readthedocs.io/en/latest/core_tools/core_tools_home.html) 
@@ -74,7 +75,7 @@ registration is on a first-come basis.
 ## Objective
 
 The [Neurodata Without Borders](nwb.org) project is an effort to standardize the description and storage of neurophysiology
-data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within
+data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analytics both within
 and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 100 datasets on the
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
@@ -83,9 +84,10 @@ We will work with members of the neuroscience community that want to apply NWB t
 attendees, starting from the basics and proceeding to advanced data engineering techniques to maximally utilize the
 features of the HDF5 and Zarr backends. Attendees will also be trained in the creation of NWB extensions.
 
-The **Developer Days** will bring the experimental neurophysiology community together to further adoption and the
-development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of
-the community will exchange ideas and best practices for using NWB and the libraries, share NWB based tools, surface 
+<<<<<<< HEAD:HCK15_16_2023_Janelia/README.md
+The **Developer Days** will bring  neuroscientists, tool builders, and research software engineers together to further the
+development of the NWB software ecosystem, including the data standard, core software packages, official tools, and community tools. 
+Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB based tools, surface 
 common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress 
 on current blockages.
 
@@ -112,6 +114,11 @@ To create a new project, simply:
 * Open the project Google Doc. If you are participating and do not have edit access, then please contact the workshop organizers via email or Slack to request access.
 * Make a copy of the project template section and add it to the end of the document
 * Update at least your project’s title, key investigators, and project description sections
+
+
+## Code of Conduct
+
+Please see the [Code of Conduct](https://neurodatawithoutborders.github.io/nwb_hackathons/code_of_conduct) for all NWB events.
 
 
 ## Disclaimer
