@@ -11,18 +11,7 @@
   * [What to bring?](#what-to-bring)
   * [Objective](#objective)
   * [Agenda](#agenda)
-
-[//]: # (    * [User Days]&#40;#agenda-user-days&#41;)
-
-[//]: # (    * [Developer Days]&#40;#agenda-developer-days&#41;)
-
-[//]: # (    * [Calendar]&#40;#agenda-calendar&#41;)
   * [Projects](#projects)
-
-[//]: # (     * [Creating a New Project]&#40;projects/README.md&#41;)
-[//]: # (  * [Registrants]&#40;#registrants&#41;)
-[//]: # (  * [Attending Remotely]&#40;#attending-remotely&#41;)
-[//]: # (  * [Resources]&#40;#resources&#41;)
   * [Disclaimer](#disclaimer)
 
 [//]: # (## Report)
@@ -64,8 +53,11 @@ and about eight miles north of Dulles International Airport (IAD). For direction
 ## Organizing Committee
 
 **Site chair:** Jakob Voigt
+
 **Program chair (User Days):**  Oliver Rübel and Ben Dichter
+
 **Program chair (Developer Days):** Oliver Rübel and Ryan Ly
+
 **Administrative Support:** Janine Stevens
 
 ### Additional Organizational Support
@@ -73,37 +65,13 @@ and about eight miles north of Dulles International Airport (IAD). For direction
 - The Kavli Foundation
 - Janelia HHMI
 
-[//]: # ()
-[//]: # (## Resources)
-
-[//]: # ()
-[//]: # (### Talks)
-
-[//]: # (The slides for the talks presented during the User Days are available [here.]&#40;https://drive.google.com/drive/folders/18oG1rRJpluXQJJQaH4xbz6u58LXPiZbI?usp=sharing&#41;)
-
-[//]: # ()
-[//]: # (### Code)
-
-[//]: # ()
-[//]: # (Ben Dichter's electrophysiology tutorial &#40;Day 1&#41;:)
-
-[//]: # ()
-[//]: # (* [python jupyter notebook]&#40;http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_python.html&#41;)
-
-[//]: # (* [matlab code]&#40;http://htmlpreview.github.io/?https://github.com/NeurodataWithoutBorders/nwb_hackathons/blob/master/HCK06_2019_Janelia/NWB_tutorial_2019_matlab.html&#41;)
-
-[//]: # ()
-[//]: # (Tom Davidson's 'early adopter experiences' talk &#40;Day 1&#41;:)
-
-[//]: # ()
-[//]: # (* [Repo containing notebooks in talk]&#40;https://github.com/LorenFrankLab/franklab-nwb-hack/tree/master/hackathon-6&#41;)
-
 ## What to bring?
 
-* Create the outline for your project at the hackathon. For further details and instructions on how to create a project see [here](projects/README.md)
-* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., data not in NWB) you should know how to read the data using Python and ideally have scripts ready for reading the data.
+* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., 
+  data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
+  reading the data.
 * Bring your laptop with appropriate software installed. For instructions on how to install PyNWB see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
-* For an overview of NWB see also: [The NWB Overview Docs](https://nwb-overview.readthedocs.io/en/latest/)
+* For an overview of NWB software, see also: [The NWB Overview Docs](https://nwb-overview.readthedocs.io/en/latest/)
 
 ## Objective
 
