@@ -32,7 +32,7 @@
 
 ## Registration
 
-If you would like to attend the NWB User or Developer Workshop, please register 
+If you would like to attend the NWB User Days or Developer Hackathon, please register 
 [here](https://forms.gle/ZqgUKDCfcX9XT8AbA). Registration for this event is free. Space at the event is limited and 
 registration is on a first-come basis.
 
@@ -41,7 +41,7 @@ registration is on a first-come basis.
 **Housing:** Housing will be provided onsite on the Janelia Research Campus. For details about transportation and 
 logistics please see [here](https://www.dropbox.com/s/i2540enmapap05o/Janelia%20travel%20logistics.pdf?dl=0)
 
-[//]: # (**Travel:** Travel support is being provided by The Kavli Foundation. As housing will be onsite on the Janelia )
+[//]: # (**Travel:** Travel support is being provided by The Kavli Foundation. Housing is onsite at HHMI Janelia Research Campus and will be provided by Janelia.)
 
 [//]: # (research campus, travel support is intended for flights &#40;not housing&#41;. Funds available to support attendee travel are limited! Travel arrangements must be pre-approved by the Foundation’s Executive Assistant. If you use the Kavli travel services &#40;recommended&#41; then please CC Stephanie Albin &#40;salbin@kavlifoundation.org&#41; to get approval for the travel cost. Also, if you are planing to book your own flights then please make sure to get PRE-APPROVAL from Stephanie Albin &#40;salbin at kavlifoundation.org&#41;. Please see the [Kavli reimbursement guidelines]&#40;travel/Kavli_Reimbursement_Guidelines.pdf&#41; for details. The traveler profile form is available [here]&#40;travel/CT_Traveler_Profile.docx&#41;.)
 
@@ -68,15 +68,15 @@ and about eight miles north of Dulles International Airport (IAD). For direction
 ## What to bring?
 
 * Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., 
-  data not in NWB) you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
+  data not in NWB), you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
   reading the data.
-* Bring your laptop with appropriate software installed. For instructions on how to install PyNWB see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
+* Bring your laptop with appropriate software installed. For instructions on how to install PyNWB, see [http://pynwb.readthedocs.io/en/latest/getting_started.html#installation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation)
 * For an overview of NWB software, see also: [The NWB Overview Docs](https://nwb-overview.readthedocs.io/en/latest/)
 
 ## Objective
 
 The [Neurodata Without Borders](nwb.org) project is an effort to standardize the description and storage of neurophysiology
-data and metadata. NWB enables data sharing and reuse and reduces the energy-barrier to applying data analytics both within
+data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analytics both within
 and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 100 datasets on the
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
@@ -128,6 +128,45 @@ We will provide a Google Doc for attendees to share their progress on projects w
 
 [//]: # ()
 [//]: # (4. If you are in an HHMI conference room, use the touch panel to dial 2800. When prompted, type #122 156 921#)
+
+## Code of Conduct
+
+We are dedicated to providing a harassment-free hackathon experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks. event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organizers.
+
+Harassment includes, but is not limited to:
+
+Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+Sexual images in public spaces
+Deliberate intimidation, stalking, or following
+Harassing photography or recording
+Sustained disruption of talks or other events
+Inappropriate physical contact
+Unwelcome sexual attention
+Advocating for, or encouraging, any of the above behaviour
+Enforcement
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Organizers and presenters are also subject to the anti-harassment policy. In particular, they should not use sexualized images, activities, or other material.
+
+Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
+
+If a participant engages in harassing behaviour, event organisers have the responsibility to remind the offender about our Code of Conduct, and warn them that repeated inappropriate, uncivil, threatening, offensive, or harmful behavior can lead to a temporary or permanent ban from the event with no refund. The offending person(s) may also see affected their participation in future NWB and DANDI events.
+
+We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
+
+### Reporting
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the events organizers. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
+
+You can make a report either with your personal email or using an anonymous email.
+
+### NWB Contributor Code of Conduct
+
+When directly contributing to the NWB project, contributors are expected to follow the [NWB Contributor Code of Conduct](https://www.nwb.org/code-of-conduct/)
+
+### Credit
+
+This hackathon code of conduct is adapted from the [Brainhack Code of Conduct](https://brainhack.org/code-of-conduct.html).
+
 
 ## Disclaimer
 
