@@ -86,14 +86,14 @@ We will work with members of the neuroscience community that want to apply NWB t
 attendees, starting from the basics and proceeding to advanced data engineering techniques to maximally utilize the
 features of the HDF5 and Zarr backends. Attendees will also be trained in the creation of NWB extensions.
 
-The Developer days will bring the experimental neurophysiology community together to further adoption and the
-development of NWB, the NWB software libraries, and the progress of the scientific workflows that rely on NWB. Members of
-the community will exchange ideas and best practices for using NWB and the libraries, share NWB based tools, surface 
+The Developer Hackathon will bring neuroscientists, tool builders, and research software engineers together to further the
+development of the NWB software ecosystem, including the data standard, core software packages, official tools, and community tools. 
+Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB based tools, surface 
 common needs, solve bugs, make feature requests, brainstorm about future funding and collaboration, and make progress 
 on current blockages.
 
 Note: This event is meant to foster community and collaboration around NWB, not competition. As such, this is really
-more of a "workshop" or "tutorial" than a "hackathon." There will be no judges nor prizes. Participants will be expected
+more of a "workshop" or "tutorial" than a "hackathon." There will be no judges or prizes. Participants will be expected
 to bring data from their own lab and/or collaborate with others to build integration with NWB.
 
 ## Agenda
