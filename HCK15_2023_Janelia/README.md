@@ -12,6 +12,7 @@
   * [Objective](#objective)
   * [Agenda](#agenda)
   * [Projects](#projects)
+  * [Code of Conduct](#code-of-conduct)
   * [Disclaimer](#disclaimer)
 
 [//]: # (## Report)
