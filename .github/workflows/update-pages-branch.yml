@@ -21,6 +21,6 @@ jobs:
 
       - name: Update gh-pages branch to current main
         run: |
-          git checkout gh-pages
-          git rebase main
+          git push origin -d ph-pages
+          git checkout -b gh-pages
           git push origin gh-pages
