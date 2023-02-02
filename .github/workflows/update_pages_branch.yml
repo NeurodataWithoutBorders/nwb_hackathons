@@ -1,0 +1,25 @@
+# Requires an API token action secret set called 'API_TOKEN_GITHUB'
+name: Keep gh-pages up-to-date with main
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token
+
+      - name: 
+        run: |
+          git checkout gh-pages
+          git rebase main
+          git push origin gh-pages
