@@ -4,7 +4,7 @@ name: Keep gh-pages up-to-date with main
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   run:
