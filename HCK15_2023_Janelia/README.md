@@ -86,7 +86,6 @@ We will work with members of the neuroscience community that want to apply NWB t
 attendees, starting from the basics and proceeding to advanced data engineering techniques to maximally utilize the
 features of the HDF5 and Zarr backends. Attendees will also be trained in the creation of NWB extensions.
 
-<<<<<<< HEAD:HCK15_16_2023_Janelia/README.md
 The **Developer Days** will bring  neuroscientists, tool builders, and research software engineers together to further the
 development of the NWB software ecosystem, including the data standard, core software packages, official tools, and community tools. 
 Members of the community will exchange ideas and best practices for using NWB and the libraries, share NWB based tools, surface 
