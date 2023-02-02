@@ -2,7 +2,7 @@
 
 # Welcome to the web page for the 4th Hackathon !
 
-## Logistics - test
+## Logistics
 
 - **Dates:** April 3 (12:00 PM)-6 (3:00 PM), 2018.
 - **Location:** [Allen Institute for Brain Science, Seattle, WA](https://www.google.com/maps/place/Allen+Institute/@47.6251853,-122.3412859,17z/data=!3m1!4b1!4m5!3m4!1s0x5490150705cb5703:0x499c58d72a7bcf9!8m2!3d47.6251817!4d-122.3390919). 
