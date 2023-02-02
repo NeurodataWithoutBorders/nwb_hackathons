@@ -20,12 +20,9 @@ jobs:
 
       - name: Update gh-pages branch to current main
         run: |
-          #git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          #git config --local user.name "github-actions[bot]"
           git remote set-url origin https://${{ secrets.USERNAME_GITHUB }}:${{ secrets.API_TOKEN_GITHUB }}@github.com/neurodatawithoutborders/nwb_hackathons.git
           git push origin -d gh-pages
           git checkout -b gh-pages
-          #git push origin gh-pages
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
