@@ -1,6 +1,6 @@
 <a href="http://www.alleninstitute.org/"><img alt="Allen Institute for Brain Science" src="AllenInstitute.png"></a>
 
-# Welcome to the web page for the 4th Hackathon !
+# NWB Hackathon #4
 
 ## Logistics
 
