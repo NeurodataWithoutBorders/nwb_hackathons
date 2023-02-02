@@ -1,6 +1,6 @@
 <a href="http://www.alleninstitute.org/"><img alt="Allen Institute for Brain Science" src="AllenInstitute.png"></a>
 
-# Welcome to the web page for the 4th Hackathon !  --testing a change propagates to ph-pages branch -- will remove this immediately after --
+# Welcome to the web page for the 4th Hackathon !  --testing a change propagates to gh-pages branch -- will remove this immediately after --
 
 ## Logistics
 
