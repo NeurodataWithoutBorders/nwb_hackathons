@@ -22,7 +22,7 @@ jobs:
         run: |
           #git config --local user.email "github-actions[bot]@users.noreply.github.com"
           #git config --local user.name "github-actions[bot]"
-          git remote set-url origin https://github-actions[bot]:${{ secrets.API_TOKEN_GITHUB }}@github.com/github-actions[bot]/project.git
+          git remote set-url origin https://${{ secrets.USERNAME_GITHUB }}:${{ secrets.API_TOKEN_GITHUB }}@github.com/neurodatawithoutborders/nwb_hackathons.git
           git push origin -d gh-pages
           git checkout -b gh-pages
           #git push origin gh-pages
