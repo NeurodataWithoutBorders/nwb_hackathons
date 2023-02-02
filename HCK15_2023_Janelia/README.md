@@ -1,4 +1,6 @@
-# NWB User Days and Developer Hackathon 2023
+<img alt="NWB 2023 User/Developer Days Banner" src="images/event_banner.png">
+
+# NWB User Days and Developer Days 2023
 
   * [Dates and Location](#dates-and-location)
   * [Attendees](#attendees)
