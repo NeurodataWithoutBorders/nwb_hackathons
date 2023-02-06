@@ -29,7 +29,7 @@
 - [User Days 2019](HCK06_2019_Janelia/README.md){:target="_top"}:  **May 13-14, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA
 - [Cosyne 2019, NWB Tutorial](Cosyne_2019/README.md){:target="_top"}: **March 4, 2019, 1-4pm**  NWB tutorial session as part of the the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal 
 - [User Days, 2018](HCK05_2018_Berkeley/README.md){:target="_top"}: **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA
-- [4th Hackathon 4](HCK04_2018_Seattle/README.md){:target="_top"}: **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington
+- [4th Hackathon](HCK04_2018_Seattle/README.md){:target="_top"}: **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington
 - [3rd Hackathon](https://www.nwb.org/event/nwb-hackathon-july-2017/): **July 31 - August 1, 2017,** Janelia Farm, in Ashburn, Virginia
 
 ### NWB 1: 
