@@ -64,6 +64,7 @@ events to address different needs:
   of data and lab processes with NWB.
 - **Developer Days** focused on engagement with the broader developer community and on
   integration and development of NWB enabled tools and core software.
+- **Docathon** focused on enhancing documentation for NWB and associated software
 - **NWB Core Hackathons:** These hackathons focus on development of the core NWB data standard  
   and software. This includes in particular the 1st, 2nd, and 3rd hackathon.
 
