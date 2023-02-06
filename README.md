@@ -3,12 +3,11 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI to be held during the 
+- [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI will be held during the 
   Computational and Systems Neuroscience (COSYNE) 2023 conference in Montreal, Canada on **March 9, 2023, 8-10am**.
-- [NWB User Days: July 2023](HCK15_2023_Janelia/README.md) - NWB User Days at HHMI Janelia 
-  Research Campus in Ashburn, Virginia, USA **July 24-26, 2023**.
-- [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md) - NWB Developer Days at HHMI Janelia 
-  Research Campus in Ashburn, Virginia, USA **July 27-29, 2023**.
+- [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia 
+  Research Campus in Ashburn, Virginia, USA
+- [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA 
 - [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) -  NeuroDataReHack 2 will be held in Granada, 
   Spain as a satellite for the [IBRO World Conference](https://ibro2023.org/) **Sept 5 - 8, 2023**.
 - NeuroDataReHack: July 2024 - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, 
@@ -16,32 +15,35 @@
 
 
 ### Past Hackathons
-- [NeuroDataReHack: October 2022](HCK14_2022_Seattle_RH/README.md){:target="_top"} - Neurodata ReHack 1 was 
-  held at the Allen Institute in Seattle, Washington, USA on **October 3-5, 2022**.
-- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"} - The September 2022 Docathon focused on NWB
-  documentation was held remotely through video conferencing on **Sept 22 - 23, 2022**.
-- [Hackathon 13: July 2022](HCK13_2022_Janelia/README.md){:target="_top"} - The 13th Hackathon: User Days was held at the HHMI Janelia Research Campus in Ashburn, Virginia, USA on **July 25 - 27, 2022**.
-- [Docathon: March 2022](Docuthon_2022/README.md){:target="_top"} - The 2022 Docathon focused on NWB documentation was held remotely through video conferencing on **March 10 - 11, 2022**.
-- [Hackathon 12: February 2022](HCK12_2022_Remote/README.md){:target="_top"} - The 12th Hackathon focused on NWB and DANDI core development was held remotely through video conferencing on **February 15 - 18, 2022**.
-- [Hackathon 11: August 2021](HCK11_2021_Remote/README.md){:target="_top"} - The 11th User Days was held remotely
-  through video conferencing on **August 23-25, 2021** in partnership with INCF.
-- [Hackathon 10: March 2021](HCK10_2021_Remote/README.md){:target="_top"} - The 10th Hackathon focused on NWB and DANDI core development was held remotely through video conferencing on **March 30 - April 1, 2021**.
-- [Hackathon 9: September 2020](HCK09_2020_Remote/README.md){:target="_top"} - The 9th User Days was held remotely through video conferencing on **September 21-23, 2020**.
-- [Hackathon 8: May 2020](HCK08_2020_Remote/README.md){:target="_top"} - The 8th User and Developer Days was held remotely through video conferencing on **May 12-15, 2020**.
-- [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development was held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
-- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
-- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - A tutorial session on NWB was held during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**.
-- [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA.
-- [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington.
-- Hackathon 3: July 2017 - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
-- Hackathon 2: May 2015 - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
-- [Hackathon 1: November 2014](http://crcns.org/NWB/hackathon-1){:target="_top"} - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
+- [NeuroDataReHack 2022](HCK14_2022_Seattle_RH/README.md){:target="_top"}: **October 3-5, 2022** at the Allen Institute in Seattle, Washington, USA 
+- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"}: **Sept 22 - 23, 2022** (virtual)
+- [User Days 2022](HCK13_2022_Janelia/README.md){:target="_top"}:  **July 25 - 27, 2022** at the  HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [Docathon Spring 2022](Docuthon_2022/README.md){:target="_top"}: **March 10 - 11, 2022** (virtual)
+- [Developer Days 2022 (NWB+DANDI)](HCK12_2022_Remote/README.md){:target="_top"}: **February 15 - 18, 2022** (virtual)
+- [User Days 2021](HCK11_2021_Remote/README.md){:target="_top"}: **August 23-25, 2021** in partnership with INCF (virtual)
+- [Developer Days 2021 (NWB+DANDI)](HCK10_2021_Remote/README.md){:target="_top"} - **March 30 - April 1, 2021** (virtual)
+- [User Days Fall 2020](HCK09_2020_Remote/README.md){:target="_top"}: **September 21-23, 2020** (virtual)
+- [User Days Spring 2020](HCK08_2020_Remote/README.md){:target="_top"}: **May 12-15, 2020**  (virtual)
+- [Developer Days 2020](HCK07_2020_Seattle/README.md){:target="_top"}:  **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA
+- [Developer Days 2019](HCK06_2019_Janelia/README.md){:target="_top"}:  **May 15-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [User Days 2019](HCK06_2019_Janelia/README.md){:target="_top"}:  **May 13-14, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [Cosyne 2019, NWB Tutorial](Cosyne_2019/README.md){:target="_top"}: **March 4, 2019, 1-4pm**  NWB tutorial session as part of the the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal 
+- [User Days, 2018](HCK05_2018_Berkeley/README.md){:target="_top"}: **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA
+- [4th Hackathon 4](HCK04_2018_Seattle/README.md){:target="_top"}: **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington
+- [3rd Hackathon](https://www.nwb.org/event/nwb-hackathon-july-2017/): **July 31 - August 1, 2017,** Janelia Farm, in Ashburn, Virginia
 
-## Introduction
+### NWB 1: 
+- 2nd Hackathon: May 2015 - May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
+- [1st Hackathon:](http://crcns.org/NWB/hackathon-1):  **November 20-22, 2014,** Janelia Farm, in Ashburn, Virginia.
+- [Kavli Salon: Neurodata Without Borders 1](https://www.nwb.org/event/kavli-salon-neurodata-without-borders-1/): **February 16, 2014,** Hyatt Regency Chicago
 
-#### What are these hackathons?
 
-The [Neurodata Without Borders][nwb-neurophysiology] (NWB) Hackathon is a hands-on activity lasting several days in which neurophysiology researchers create solutions using the open source NWB software packages.
+
+## About NWB hackathons
+
+###  What are hackathons?
+
+The [Neurodata Without Borders][nwb-neurophysiology] (NWB) hackathons are a hands-on activity lasting several days in which neurophysiology researchers create solutions using the open source NWB software packages.
 
 Participants work collaboratively on solutions that use the NWB unified data format for cellular-based neurophysiology
 data, which is focused on the dynamics of groups of neurons measured under a large range of experimental conditions.
@@ -51,19 +53,22 @@ related research projects.
 
 [nwb-neurophysiology]: http://www.nwb.org/nwb-neurophysiology/
 
-#### Who can attend?
+### What are the different types of hackathons?
 
-Due to limited space the hackathons participation is currently on an invitation-only basis. If
-you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB community. One-day participation is permitted for first-time attendees,
-but participants are strongly encouraged to stay for the entire event.
+Over the course of the NWB endeavour, the NWB team has created a range of different hackathon
+events to address different needs:
 
-#### Who should attend?
+- **NeurodataReHack** focused on training and project to generate new insights from existing
+  neurophysiology data through secondary analysis
+- **User Days** focused on training and engagement with the NWB user community and integration
+  of data and lab processes with NWB.
+- **Developer Days** focused on engagement with the broader developer community and on
+  integration and development of NWB enabled tools and core software.
+- **NWB Core Hackathons:** These hackathons focus on development of the core NWB data standard  
+  and software. This includes in particular the 1st, 2nd, and 3rd hackathon.
 
-This is harder to determine. Your best bet is to contact us (see below) or attend a preparatory
-videoconference (see each Hackathon page for details).
 
-#### What is the history of NWB hackathons?
+### What is the history of NWB hackathons?
 
 The NWB team consists of neuroscientists and software developers
 who recognize that creation and adoption of a unified data format is an important step toward breaking down the
