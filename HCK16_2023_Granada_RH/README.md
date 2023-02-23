@@ -18,14 +18,14 @@
   ([google maps](https://goo.gl/maps/rufpp3g39Aefnj289))
 
 ## Objective
-
-[The DANDI Archive](http://dandiarchive.org) now has 110+ neurophysiology datasets in the [NWB](nwb.org) format 
-spanning many species, brain  areas, task types, and imaging modalities. These include high-value datasets, e.g. 
-from The Allen Institute, the MICrONS project, and the International Brain Laboratory, as well as diverse 
-contributions from neuroscience labs around the world. In this workshop, we will teach attendees about the open 
-neurophysiology datasets available on the DANDI Archive and train them on how to maximally utilize the archive and 
-the NWB standard to incorporate existing data into their scientific workflows. Feedback from attendees will be used 
-to improve the software and data standard to better enable reanalysis workflows.
+[The DANDI Archive](http://dandiarchive.org) now has 110+ neurophysiology datasets in the 
+[Neurodata Without Borders](http://nwb.org) format  spanning many species, brain  areas, task types, and imaging 
+modalities. These include high-value datasets, e.g. from The Allen Institute, the MICrONS project, and the 
+International Brain Laboratory, as well as diverse contributions from neuroscience labs around the world. In this 
+workshop, we will teach attendees about the open neurophysiology datasets available on the DANDI Archive and train 
+them on how to maximally utilize the archive and the NWB standard to incorporate existing data into their scientific 
+workflows. Feedback from attendees will be used to improve the software and data standard to better enable 
+reanalysis workflows.
 
 Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
 awards $50,000 of funding to continue data reanalysis projects that come out of the NeuroDataReHack event.
