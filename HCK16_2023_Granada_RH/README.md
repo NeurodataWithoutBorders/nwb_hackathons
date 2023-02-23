@@ -72,10 +72,10 @@ install MatNWB, see [the MatNWB documentation](https://github.com/NeurodataWitho
 
 ## Schedule
 
-Day 1, September 5: Searching the DANDI Archive, using the DANDI Hub, and reading NWB Files
-Day 2, September 6: Tools to visualize and analyse NWB files
-Day 3, September 7: Hacking on projects
-Day 4, September 8: Hacking on projects and final presentations
+* Day 1, September 5: Searching the DANDI Archive, using the DANDI Hub, and reading NWB Files
+* Day 2, September 6: Tools to visualize and analyse NWB files
+* Day 3, September 7: Hacking on projects
+* Day 4, September 8: Hacking on projects and final presentations
 
 Details TBD
 
