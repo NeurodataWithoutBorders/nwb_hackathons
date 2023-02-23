@@ -61,7 +61,7 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
 
 Resources will be posted here to help participants prepare for the event.
 
-* A report of the first NeuroDataReHack event: ([PDF](report/Report_Neurodata_Rehack_v2.pdf))
+* A report of the first NeuroDataReHack event: ([PDF](../HCK14_2022_Seattle_RH/report/Report_Neurodata_Rehack_v2.pdf))
 * Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
 
 ## What to bring?
