@@ -52,7 +52,7 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
   checking in on Monday, September 4 and checking out on Friday, September 8th, the day before the IBRO conference 
   starts.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
-* You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
+* You will be responsible for booking your own travel to the event. If you need financial assistance for travel, 
   consider applying for an IBRO travel grant, which can be used to arrive early for this event.
 
 ## Organizing Committee
