@@ -39,10 +39,10 @@ you are interested in learning how to convert data, consider signing up for an N
 
 ## Application
 
-Space for the event is limited. Apply to attend Neurodata Rehack 2 [here](https://forms.gle/akaThWFBJrv7udev9). 
+Space for the event is limited. Apply to attend NeuroDataReHack 2023 [here](https://forms.gle/akaThWFBJrv7udev9). 
 
-Application deadline: TBD
-Notification of admission decisions: TBD
+* Application deadline: May 1
+* Notification of admission decisions: June 1
 
 ## Logistics
 
