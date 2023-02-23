@@ -30,6 +30,10 @@ reanalysis workflows.
 Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
 awards $50,000 of funding to continue data reanalysis projects that come out of the NeuroDataReHack event.
 
+This event is held as a satellite of the [IBRO World Conference 2023](http://ibro2023.org) with the goal of making 
+it more accessible to diverse participants who might not otherwise have the opportunity to participate in this
+workshop. Attendance of IBRO 2023 is not a requirement for application.
+
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB User Days event.
 
@@ -44,8 +48,9 @@ Notification of admission decisions: TBD
 
 Thanks to the generous sponsorship of The Kavli Foundation, this event will be free to participants:
 * There is no registration or application fee.
-* Participants will be provided a private room at the Hotel Andalucia Center hotel for the duration of this event 
-  (not for the IBRO conference).
+* Participants will be provided a private room at the Hotel Andalucia Center Hotel for the duration of this event, 
+  checking in on Monday, September 4 and checking out on Friday, September 8th, the day before the IBRO conference 
+  starts.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
   consider applying for an IBRO travel grant, which can be used to arrive early for this event.
