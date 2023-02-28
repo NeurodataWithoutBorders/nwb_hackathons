@@ -41,7 +41,7 @@ you are interested in learning how to convert data, consider signing up for an N
 ## Eligibility
 
 This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
-Applicants should have basic programming experience and experience with neurophysiology research.
+Applicants should have basic programming experience in Python or MATLAB and experience with neurophysiology research.
 
 ## Application
 
