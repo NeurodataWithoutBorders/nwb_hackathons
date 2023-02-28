@@ -29,7 +29,7 @@ workflows. Feedback from attendees will be used to improve the software and data
 reanalysis workflows.
 
 Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
-awards $50,000 of funding to continue data reanalysis projects that come out of the NeuroDataReHack event.
+awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. Details about the Kavli Foundation Neurodata Discovery Award will be provided closer to the event. 
 
 This event is held as a satellite of the [IBRO World Conference 2023](http://ibro2023.org) with the goal of making 
 it more accessible to diverse participants who might not otherwise have the opportunity to participate in this
@@ -61,7 +61,7 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
 * You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
   consider applying for an [IBRO travel grant](https://ibro.org/world-congress-travel-grants/), which can be used to
   arrive early for this event.
-* You are responsible for determining visa and/or healthcare requirements for travel to Spain.
+* You will be responsible for determining visa and/or healthcare requirements for travel to Spain.
 
 ## Organizing Committee
 
@@ -88,7 +88,7 @@ on how to install MatNWB, see
 ## Schedule
 
 * Day 1, September 5: Searching the DANDI Archive, using the DANDI Hub, and reading NWB Files
-* Day 2, September 6: Tools to visualize and analyse NWB files
+* Day 2, September 6: Tools to visualize and analyze NWB files
 * Day 3, September 7: Hacking on projects
 * Day 4, September 8: Hacking on projects and final presentations
 
