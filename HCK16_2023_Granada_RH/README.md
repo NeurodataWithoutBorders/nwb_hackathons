@@ -3,6 +3,7 @@
 
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
+* [Eligibility](#eligibility)
 * [Application](#application)
 * [Logistics](#logistics)
 * [Organizing Committee](#organizing-committee)
@@ -37,6 +38,11 @@ workshop. Attendance of IBRO 2023 is not a requirement for application.
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB User Days event.
 
+## Eligibility
+
+This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
+Applicants should have basic programming experience and experience with neurophysiology research.
+
 ## Application
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2023 [here](https://forms.gle/akaThWFBJrv7udev9). 
@@ -53,7 +59,9 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
   starts.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
-  consider applying for an IBRO travel grant, which can be used to arrive early for this event.
+  consider applying for an [IBRO travel grant](https://ibro.org/world-congress-travel-grants/), which can be used to
+  arrive early for this event.
+* You are responsible for determining visa and/or healthcare requirements for travel to Spain.
 
 ## Organizing Committee
 
@@ -71,9 +79,11 @@ Resources will be posted here to help participants prepare for the event.
 
 ## What to bring?
 
-Bring your laptop with appropriate software installed. For instructions on how to install PyNWB, see [the PyNWB 
-documentation](http://pynwb.readthedocs.io/en/latest/getting_started.html#installation). For instructions on how to 
-install MatNWB, see [the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
+Bring a laptop with appropriate software installed. Python should be installed and MATLAB is optional. For 
+instructions on how to install PyNWB, see 
+[the PyNWB documentation](https://pynwb.readthedocs.io/en/stable/install_users.html#installing-pynwb). For instructions
+on how to install MatNWB, see
+[the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
 
 ## Schedule
 
