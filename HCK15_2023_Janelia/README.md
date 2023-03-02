@@ -3,7 +3,6 @@
 # NWB User Days and Developer Days 2023
 
   * [Dates and Location](#dates-and-location)
-  * [Attendees](#attendees)
   * [Registration](#registration)
   * [Logistics](#logistics)
   * [Organizing Committee](#organizing-committee)
