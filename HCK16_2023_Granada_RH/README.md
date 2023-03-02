@@ -28,6 +28,11 @@ them on how to maximally utilize the archive and the NWB standard to incorporate
 workflows. Feedback from attendees will be used to improve the software and data standard to better enable 
 reanalysis workflows.
 
+Example projects include but are not limited to:
+* Determine whether your result is present in another species or brain area.
+* Showcase the capabilities of your tool or analysis on existing data from another lab.
+* Explore follow-up questions to a study.
+
 Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
 awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. Details about the Kavli Foundation Neurodata Discovery Award will be provided closer to the event. 
 
