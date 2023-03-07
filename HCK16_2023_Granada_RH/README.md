@@ -36,7 +36,7 @@ Example projects include but are not limited to:
 Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
 awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. Details about the Kavli Foundation Neurodata Discovery Award will be provided closer to the event. 
 
-This event is held as a satellite of the [IBRO World Conference 2023](http://ibro2023.org) with the goal of making 
+This event is held as a satellite of the [IBRO World Congress 2023](http://ibro2023.org) with the goal of making 
 it more accessible to diverse participants who might not otherwise have the opportunity to participate in this
 workshop. Attendance of IBRO 2023 is not a requirement for application.
 
