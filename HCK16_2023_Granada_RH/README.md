@@ -65,7 +65,7 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
   consider applying for an [IBRO travel grant](https://ibro.org/world-congress-travel-grants/), which can be used to
-  arrive early for this event.
+  arrive early for this event. The deadline for travel grant applications is March 28.
 * You will be responsible for determining visa and/or healthcare requirements for travel to Spain.
 
 ## Organizing Committee
