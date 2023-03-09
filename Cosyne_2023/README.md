@@ -54,7 +54,11 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 - storing [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) and [SLEAP](https://sleap.ai/) pose estimation data in NWB
 
-- using calcium imaging analysis tools, such as [CaImAn](https://github.com/flatironinstitute/CaImAn#caiman), [suite2p](https://www.suite2p.org/), [ciatah](https://github.com/bahanonu/ciatah), and [EXTRACT](https://github.com/schnitzer-lab/EXTRACT-public) to process and segment raw imaging data and write the output to NWB
+- using calcium imaging analysis tools, such as [CaImAn](https://github.com/flatironinstitute/CaImAn#caiman) and [suite2p](https://www.suite2p.org/) to process and segment raw imaging data and write the output to NWB
+
+## Survey
+
+If you attended the tutorial, please fill out this [2-minute survey](https://bit.ly/nwb-cosyne-survey) to give us feedback on what your data needs are and how did this tutorial go for you. Thank you.
 
 
 ## Organizing Committee
