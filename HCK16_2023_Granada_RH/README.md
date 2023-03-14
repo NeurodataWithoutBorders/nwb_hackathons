@@ -1,3 +1,5 @@
+<img alt="NeuroDataReHack banner" src="images/NDRH2023_banner.png">
+
 # NeuroDataReHack 2023
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
