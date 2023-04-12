@@ -3,8 +3,6 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI will be held during the 
-  Computational and Systems Neuroscience (COSYNE) 2023 conference in Montreal, Canada on **March 9, 2023, 8-10am**.
 - [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia 
   Research Campus in Ashburn, Virginia, USA
 - [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA 
@@ -15,6 +13,8 @@
 
 
 ### Past Hackathons
+- [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI was held during the 
+  Computational and Systems Neuroscience (COSYNE) 2023 conference in Montreal, Canada on **March 9, 2023, 8-10am**.
 - [NeuroDataReHack 2022](HCK14_2022_Seattle_RH/README.md){:target="_top"}: **October 3-5, 2022** at the Allen Institute in Seattle, Washington, USA 
 - [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"}: **Sept 22 - 23, 2022** (virtual)
 - [User Days 2022](HCK13_2022_Janelia/README.md){:target="_top"}:  **July 25 - 27, 2022** at the  HHMI Janelia Research Campus in Ashburn, Virginia, USA
