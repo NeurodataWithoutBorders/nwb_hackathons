@@ -29,9 +29,7 @@
 
 ## Registration
 
-If you would like to attend the NWB User Days or Developer Hackathon, please register 
-[here](https://forms.gle/ZqgUKDCfcX9XT8AbA). Registration for this event is free. Space at the event is limited and 
-registration is on a first-come basis. Registration deadline has been extended to April 14.
+Registration is now closed. If you would like to be added, please contact the organizers and we may be able to accomodate your request.
 
 ## Logistics
 
