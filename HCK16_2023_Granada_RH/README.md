@@ -14,6 +14,10 @@
 * [Schedule](#schedule)
 * [Disclaimer](#disclaimer)
 
+## Status
+
+The application deadline has been extended from May 1 to May 8. 
+
 ## Dates and Location
 
 - **Dates:** September 5-8, 2023
@@ -54,7 +58,7 @@ Applicants should have basic programming experience in Python or MATLAB and expe
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2023 [here](https://forms.gle/akaThWFBJrv7udev9). 
 
-* Application deadline: May 1
+* Application deadline: May 8
 * Notification of admission decisions: June 1
 
 ## Logistics
