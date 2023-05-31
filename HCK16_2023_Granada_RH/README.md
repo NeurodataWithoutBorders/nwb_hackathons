@@ -97,13 +97,11 @@ on how to install MatNWB, see
 [the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
 
 ## Schedule
+Tentative schedule:
 
-* Day 1, September 5: Searching the DANDI Archive, using the DANDI Hub, and reading NWB Files
-* Day 2, September 6: Tools to visualize and analyze NWB files
-* Day 3, September 7: Hacking on projects
-* Day 4, September 8: Hacking on projects and final presentations
+<img align="center" alt="Agenda NeuroDataReHack 2023" src="AgendaNeuroDataReHack2023.png" width="870">
 
-Details TBD
+[PDF](AgendaNeuroDataReHack2023.pdf)
 
 ## Disclaimer
 
