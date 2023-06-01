@@ -79,6 +79,7 @@ Thanks to the generous sponsorship of The Kavli Foundation, this event will be f
 **Program chairs:**
 * Benjamin Dichter, CatalystNeuro
 * Oliver Rübel, Lawrence Berkeley National Laboratory
+* Ryan Ly, Lawrence Berkeley National Laboratory
 * Stephanie Albin, The Kavli Foundation
 
 ## Resources
