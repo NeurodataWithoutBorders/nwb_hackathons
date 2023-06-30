@@ -7,6 +7,7 @@
 * [Objective](#objective)
 * [Eligibility](#eligibility)
 * [Application](#application)
+* [Virtual Data Showcase Agenda](#agenda)
 * [Organizing Committee](#organizing-committee)
 * [Disclaimer](#disclaimer)
 
@@ -36,7 +37,7 @@ This virtual event is open for anyone interested in neurophysiology data, includ
 
 Sign up to receive instructions to join Open NeuroData Showcase 2023 [here](https://forms.gle/TaiHL7fHjH7J9Een8). 
 
-# Virtual Data Showcase Agenda
+## Virtual Data Showcase Agenda
 
 | Session                                                                                            | Speakers          | Time: Pacific |
 |----------------------------------------------------------------------------------------------------|-------------------|---------------|
