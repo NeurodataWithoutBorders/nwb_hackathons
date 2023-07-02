@@ -39,11 +39,11 @@ Sign up to receive instructions to join Open NeuroData Showcase 2023 [here](http
 
 ## Virtual Data Showcase Agenda
 
-| Session                                                                                            | Speakers          | Time: Pacific |
-|----------------------------------------------------------------------------------------------------|-------------------|---------------|
-| Gather space opens to participants                                                                 |                   | 8:55am        |
-| Introduction to the virtual data showcase                                                          | Organizers        | 9:00-9:20am   |
-| Virtual poster session                                                                             | Data Contributors | 9:20-10:30am  |
+| Session                                   | Speakers          | Time: Pacific |
+|-------------------------------------------|-------------------|---------------|
+| Gather space opens to participants        |                   | 8:55am        |
+| Introduction to the virtual data showcase | Organizers        | 9:00-9:20am   |
+| Virtual poster session                    | Data Contributors | 9:20-10:30am  |
 
 ## Organizing Committee
 
