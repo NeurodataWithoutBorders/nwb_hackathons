@@ -35,7 +35,7 @@ This virtual event is open for anyone interested in neurophysiology data, includ
 
 ## Application
 
-Sign up to receive instructions to join Open NeuroData Showcase 2023 [here](https://forms.gle/TaiHL7fHjH7J9Een8). 
+Sign up to receive instructions to join Open NeuroData Showcase 2023 [here](https://forms.gle/dh8eArbw836TpLyq8). 
 
 ## Virtual Data Showcase Agenda
 
