@@ -1,6 +1,6 @@
 <img alt="OpenNeuroDataShowcase banner" src="images/open_neurodata_showcase_banner.png">
 
-# Open NeuroData Showcase 2023
+# Open Neurodata Showcase 2023
 ## *Meet the teams behind the neurophysiology data and visit virtual posters.*
 
 * [Dates and Location](#dates-and-location)
@@ -35,7 +35,7 @@ This virtual event is open for anyone interested in neurophysiology data, includ
 
 ## Application
 
-Sign up to receive instructions to join Open NeuroData Showcase 2023 [here](https://forms.gle/dh8eArbw836TpLyq8). 
+Sign up to receive instructions to join Open Neurodata Showcase 2023 [here](https://forms.gle/dh8eArbw836TpLyq8). 
 
 ## Virtual Data Showcase Agenda
 
