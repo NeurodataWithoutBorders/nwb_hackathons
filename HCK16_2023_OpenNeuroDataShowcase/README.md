@@ -13,8 +13,8 @@
 
 ## Dates and Location
 
-- **Dates:** August 28, 9AM (PT) 2023
-- **Location:** Virtual
+- **Dates:** August 28, 9 - 10:30AM PDT (UTC-7) 2023
+- **Location:** Virtual in Gather (link to be shared closer to the event date)
 
 ## Objective
 [The DANDI Archive](http://dandiarchive.org) now has 110+ neurophysiology datasets in the 
