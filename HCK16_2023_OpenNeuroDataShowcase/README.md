@@ -48,8 +48,8 @@ Sign up to receive instructions to join Open Neurodata Showcase 2023 [here](http
 ## Organizing Committee
 
 **Program chairs:**
-* Benjamin Dichter, CatalystNeuro
 * Anna Szonja Weigl, CatalystNeuro
+* Benjamin Dichter, CatalystNeuro
 * Oliver Rübel, Lawrence Berkeley National Laboratory
 * Ryan Ly, Lawrence Berkeley National Laboratory
 * Stephanie Albin, The Kavli Foundation
