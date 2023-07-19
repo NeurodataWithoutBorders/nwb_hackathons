@@ -1,7 +1,7 @@
 <img alt="OpenNeuroDataShowcase banner" src="images/open_neurodata_showcase_banner.png">
 
 # Open Neurodata Showcase 2023
-## *Meet the teams behind the neurophysiology data and visit virtual posters.*
+## *Meet the scientists who have publicly shared neurophysiology data.*
 
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
@@ -18,24 +18,25 @@
 
 ## Objective
 [The DANDI Archive](http://dandiarchive.org) now has 110+ neurophysiology datasets in the 
-[Neurodata Without Borders](http://nwb.org) format  spanning many species, brain  areas, task types, and imaging 
-modalities. These include high-value datasets, e.g. from The Allen Institute, the MICrONS project, and the 
+[Neurodata Without Borders](http://nwb.org) format spanning many species, brain areas, task types, and imaging 
+modalities. These include high-value datasets, e.g., from The Allen Institute, the MICrONS project, and the 
 International Brain Laboratory, as well as diverse contributions from neuroscience labs around the world.
 In this event, we organize a virtual poster session in the Gather platform to bring together data contributors
 and anyone interested in reusing existing neurophysiology data.
-This virtual event offers a unique opportunity for participants to engage in discussions, explore dandisets, and allows data contributors to showcase their projects.
+This virtual event offers a unique opportunity for participants to engage in discussions, explore dandisets, 
+and allows data contributors to showcase their projects.
 
 ## Eligibility
 
-This virtual event is open for anyone interested in neurophysiology data, including but not limited to:
+This virtual event is open to anyone interested in neurophysiology data, including but not limited to:
 * Neuroscience graduate students, post-docs, and other researchers interested in using open data in their research
 * Educators who want to use real datasets in their lessons
 * Undergraduates and high school students interested in learning about neuroscience
-* Open science advocates.
+* Open science advocates
 
 ## Application
 
-Sign up to receive instructions to join Open Neurodata Showcase 2023 [here](https://forms.gle/dh8eArbw836TpLyq8). 
+Register to attend the Open Neurodata Showcase 2023 [here](https://forms.gle/dh8eArbw836TpLyq8). 
 
 ## Virtual Data Showcase Agenda
 
