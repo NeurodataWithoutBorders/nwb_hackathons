@@ -34,6 +34,10 @@ them on how to maximally utilize the archive and the NWB standard to incorporate
 workflows. Feedback from attendees will be used to improve the software and data standard to better enable 
 reanalysis workflows.
 
+Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK16_2023_OpenNeuroDataShowcase/README.md) where attendees can meet the contributors
+behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK16_2023_OpenNeuroDataShowcase/README.md#application) to sign up
+and read more about this feature event.
+
 Example projects include but are not limited to:
 * Determine whether your result is present in another species or brain area.
 * Showcase the capabilities of your tool or analysis on existing data from another lab.
