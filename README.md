@@ -3,9 +3,6 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia 
-  Research Campus in Ashburn, Virginia, USA
-- [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA 
 - [Open NeuroData Showcase: Virtual, Aug 28, 2023](HCK16_2023_OpenNeuroDataShowcase/README.md): **Aug 28, 2023** (virtual) 
 - [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) -  NeuroDataReHack 2 will be held in Granada, 
   Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/) **Sept 5 - 8, 2023**.
@@ -15,6 +12,9 @@
 
 
 ### Past Hackathons
+- [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA 
+- [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia 
+  Research Campus in Ashburn, Virginia, USA
 - [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI was held during the 
   Computational and Systems Neuroscience (COSYNE) 2023 conference in Montreal, Canada on **March 9, 2023, 8-10am**.
 - [NeuroDataReHack 2022](HCK14_2022_Seattle_RH/README.md){:target="_top"}: **October 3-5, 2022** at the Allen Institute in Seattle, Washington, USA 
