@@ -9,7 +9,7 @@
 - [Open NeuroData Showcase: Virtual, Aug 28, 2023](HCK16_2023_OpenNeuroDataShowcase/README.md): **Aug 28, 2023** (virtual) 
 - [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) -  NeuroDataReHack 2 will be held in Granada, 
   Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/) **Sept 5 - 8, 2023**.
-- [NWB and DANDI Workshop: September 2023](2023_Workshop_Princeton/README.md) - **September 14** at Princeton University, NJ, USA
+- [NWB and DANDI Workshop: September 2023](Workshop_2023_Princeton/README.md) - **September 14** at Princeton University, NJ, USA
 - NeuroDataReHack: July 2024 - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, 
   USA **July 8-12, 2024**.
 
