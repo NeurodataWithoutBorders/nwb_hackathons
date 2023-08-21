@@ -17,7 +17,7 @@
 - **Location:** Virtual in Gather (link to be shared closer to the event date)
 
 ## Objective
-[The DANDI Archive](http://dandiarchive.org) now has 110+ neurophysiology datasets in the 
+[The DANDI Archive](http://dandiarchive.org) now has 175+ neurophysiology datasets in the 
 [Neurodata Without Borders](http://nwb.org) format spanning many species, brain areas, task types, and imaging 
 modalities. These include high-value datasets, e.g., from The Allen Institute, the MICrONS project, and the 
 International Brain Laboratory, as well as diverse contributions from neuroscience labs around the world.
