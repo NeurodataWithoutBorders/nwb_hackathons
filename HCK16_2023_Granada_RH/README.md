@@ -70,8 +70,8 @@ Space for the event is limited. Apply to attend NeuroDataReHack 2023 [here](http
 Thanks to the generous sponsorship of The Kavli Foundation, this event will be free to participants:
 * There is no registration or application fee.
 * Participants will be provided a private room at the Hotel Andalucia Center Hotel for the duration of this event, 
-  checking in on Monday, September 4 and checking out on Friday, September 8th, the day before the IBRO conference 
-  starts.
+  checking in on Monday, September 4 and checking out on Saturday, September 9th, the day that the IBRO conference 
+  starts. **Note that we previously stated that check out would be on Friday, September 8th.**
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight to the event. If you need financial assistance for travel, 
   consider applying for an [IBRO travel grant](https://ibro.org/world-congress-travel-grants/), which can be used to
