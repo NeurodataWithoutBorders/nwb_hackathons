@@ -1,0 +1,6 @@
+[codespell]
+skip = .git,*.pdf,*.svg,*_201[789]*,*_2020*
+# embedded in ipynb images
+ignore-regex = '^\s*"image/\S+": ".*'
+#
+# ignore-words-list =
