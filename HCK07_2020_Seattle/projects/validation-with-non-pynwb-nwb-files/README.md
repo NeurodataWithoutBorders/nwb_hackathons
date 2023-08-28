@@ -28,28 +28,15 @@ differences.
 2. Introduce a standard method for validating non-pynwb NWB files and document that
 3. Fix validation bugs
 
-## Approach and Plan
+## Results
 
-<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
-<!-- 1. ... -->
-<!-- 1. ... -->
+A first alpha version of the validator finding entities which should not be present
+can be found at [1, 2]. During the development one validation issue was
+encountered regarding links not being followed, see [3] for the fix. Related
+issues were created at [4] and [5].
 
-## Progress and Next Steps
-
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
-
-## Materials
-
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
-
-## Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/YourUser/YourRepository -->
-<!-- - Documentation: https://link.to.docs -->
-<!-- - Test data: https://link.to.test.data -->
-
+[1]: https://github.com/NeurodataWithoutBorders/pynwb/pull/1178
+[2]: https://github.com/hdmf-dev/hdmf/pull/288
+[3]: https://github.com/hdmf-dev/hdmf/pull/286
+[4]: https://github.com/hdmf-dev/hdmf/issues/287
+[5]: https://github.com/NeurodataWithoutBorders/pynwb/issues/1179

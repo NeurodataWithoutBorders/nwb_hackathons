@@ -7,14 +7,15 @@
 ## Key Investigators
 
 - Ben Dichter (Ben Dichter Consulting LLC)
-- Liviu Soltuzu (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
+- Liviu S. (Laboratory of Neural Microcircuitry & Blue Brain Project, EPFL)
 
 ## Project Description
 
 The jupyter widget will combine and plot traces at the same level of the hierarchy. 
 
 For example, for a given Stimulus Type and Electrode, under the `ic_sweep_sequences`
-table, plot all stimulation and response traces.
+table, plot all stimulation and response traces, as in the picture below:
+![](behavior.png)
 
 ## Objectives
 
@@ -31,7 +32,7 @@ table, plot all stimulation and response traces.
 <!-- 1. ... -->
 
 ## Progress and Next Steps
-
+![](pic.png)
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->

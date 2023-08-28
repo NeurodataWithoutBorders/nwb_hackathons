@@ -20,7 +20,7 @@ As part of this process the Frank laboratory has already begun to work with both
 
 1. Write minimum viable code for pulling in basic metadata from our new NWB-raw files to DataJoint.
 2. Write minimum viable code for pulling in the electrode table.
-3. Write minimum viaable code for accessing the electrical potentials for probe data.
+3. Write minimum viable code for accessing the electrical potentials for probe data.
 
 
 ## Progress and Next Steps
@@ -28,3 +28,33 @@ As part of this process the Frank laboratory has already begun to work with both
 <!--Populate this section as you are making progress before/during/after the hackathon-->
 <!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
 <!--Describe the next steps you are planing to take to complete the project.-->
+
+
+## Sample *dj_local_conf.json*:
+```json*
+{
+    "database.host": "host",
+	"database.user": "user",
+	"database.password": "pass",
+    "database.port": 3306,
+    "connection.init_function": null,
+    "database.reconnect": false,
+    "loglevel": "INFO",
+    "safemode": true,
+    "display.limit": 7,
+    "display.width": 14,
+    "display.show_tuple_count": true,
+    "enable_python_native_blobs": true,
+    "custom": {
+        "database.prefix": "demo_",
+        "intracellular_directory": "F:/Guo-Inagaki-2017/data/whole_cell_nwb2.0"
+    },
+    "stores": {
+        "nwb_store": {
+            "protocol": "file",
+            "location": "C:/DataJoint/Integrated_NWB_adaptive_attributes/nwb_store",
+            "stage": "C:/DataJoint/Integrated_NWB_adaptive_attributes/nwb_store"
+        }
+    }
+}
+```

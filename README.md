@@ -1,25 +1,51 @@
+<img alt="Remote hackathon" src="HCK08_2020_Remote/logo_brain_text_white_hor.png">
+
 ## Hackathon Events
 
 ### Upcoming Events
-
-- [Hackathon 7: February 2020](HCK07_2020_Seattle/README.md){:target="_top"} - The 7th Hackathon focused on NWB core development will be held on **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA.
-- [Hackathon 8: May 2020](HCK08_2020_Janelia/README.md){:target="_top"} - The 8th User and Developer Days will be held on **May 6-9, 2020** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
+- [Open NeuroData Showcase: Virtual, Aug 28, 2023](HCK16_2023_OpenNeuroDataShowcase/README.md): **Aug 28, 2023** (virtual) 
+- [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) -  NeuroDataReHack 2 will be held in Granada, 
+  Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/) **Sept 5 - 8, 2023**.
+- [NWB and DANDI Workshop: September 2023](Workshop_2023_Princeton/README.md) - **September 14** at Princeton University, NJ, USA
+- NeuroDataReHack: July 2024 - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, 
+  USA **July 8-12, 2024**.
 
 
 ### Past Hackathons
-- [Hackathon 6: May 2019](HCK06_2019_Janelia/README.md){:target="_top"} - The 6th Hackathon was held on **May 13-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA.
-- [Cosyne: March 2019](Cosyne_2019/README.md){:target="_top"} - A tutorial session on NWB:N was held during the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal on **March 4, 2019, 1-4pm**.
-- [Hackathon 5: April 2018](HCK05_2018_Berkeley/README.md){:target="_top"} - The 5th Hackathon was held on **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA.
-- [Hackathon 4: April 2018](HCK04_2018_Seattle/README.md){:target="_top"} - The 4th Hackathon was held on **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington.
-- Hackathon 3: July 2017 - The **3rd Hackathon** was held on July 31 to August 1, 2017, Janelia Farm, in Ashburn, Virginia.
-- Hackathon 2: May 2015 - The **2nd Hackathon** was held on May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
-- [Hackathon 1: November 2014](http://crcns.org/NWB/hackathon-1){:target="_top"} - The **1st Hackathon** was held on November 20-22, 2014, Janelia Farm, in Ashburn, Virginia.
+- [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA 
+- [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia 
+  Research Campus in Ashburn, Virginia, USA
+- [Cosyne: March 2023](Cosyne_2023/README.md) - A tutorial session on NWB and DANDI was held during the 
+  Computational and Systems Neuroscience (COSYNE) 2023 conference in Montreal, Canada on **March 9, 2023, 8-10am**.
+- [NeuroDataReHack 2022](HCK14_2022_Seattle_RH/README.md){:target="_top"}: **October 3-5, 2022** at the Allen Institute in Seattle, Washington, USA 
+- [Docathon: September 2022](Docuthon_2022_09/README.md){:target="_top"}: **Sept 22 - 23, 2022** (virtual)
+- [User Days 2022](HCK13_2022_Janelia/README.md){:target="_top"}:  **July 25 - 27, 2022** at the  HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [Docathon Spring 2022](Docuthon_2022/README.md){:target="_top"}: **March 10 - 11, 2022** (virtual)
+- [Developer Days 2022 (NWB+DANDI)](HCK12_2022_Remote/README.md){:target="_top"}: **February 15 - 18, 2022** (virtual)
+- [User Days 2021](HCK11_2021_Remote/README.md){:target="_top"}: **August 23-25, 2021** in partnership with INCF (virtual)
+- [Developer Days 2021 (NWB+DANDI)](HCK10_2021_Remote/README.md){:target="_top"} - **March 30 - April 1, 2021** (virtual)
+- [User Days Fall 2020](HCK09_2020_Remote/README.md){:target="_top"}: **September 21-23, 2020** (virtual)
+- [User Days Spring 2020](HCK08_2020_Remote/README.md){:target="_top"}: **May 12-15, 2020**  (virtual)
+- [Developer Days 2020](HCK07_2020_Seattle/README.md){:target="_top"}:  **Feb. 3-6, 2020** at the Allen Institute for Brain Science, Seattle, Washington, USA
+- [Developer Days 2019](HCK06_2019_Janelia/README.md){:target="_top"}:  **May 15-16, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [User Days 2019](HCK06_2019_Janelia/README.md){:target="_top"}:  **May 13-14, 2019** at the HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [Cosyne 2019, NWB Tutorial](Cosyne_2019/README.md){:target="_top"}: **March 4, 2019, 1-4pm**  NWB tutorial session as part of the the Computational and Systems Neuroscience (Cosyne) 2019 Workshops in Cascais, Portugal 
+- [User Days, 2018](HCK05_2018_Berkeley/README.md){:target="_top"}: **April 25-27, 2018** at the Lawrence Berkeley National Laboratory in Berkeley, California, USA
+- [4th Hackathon](HCK04_2018_Seattle/README.md){:target="_top"}: **April 3-6, 2018** at the Allen Institute for Brain Science in Seattle, Washington
+- [3rd Hackathon](https://www.nwb.org/event/nwb-hackathon-july-2017/): **July 31 - August 1, 2017,** Janelia Farm, in Ashburn, Virginia
 
-## Introduction
+### NWB 1: 
+- 2nd Hackathon: May 2015 - May 14-16, 2015, Janelia Farm, in Ashburn, Virginia.
+- [1st Hackathon:](http://crcns.org/NWB/hackathon-1):  **November 20-22, 2014,** Janelia Farm, in Ashburn, Virginia.
+- [Kavli Salon: Neurodata Without Borders 1](https://www.nwb.org/event/kavli-salon-neurodata-without-borders-1/): **February 16, 2014,** Hyatt Regency Chicago
 
-#### What?
 
-The [Neurodata Without Borders: Neurophysiology][nwb-neurophysiology] (NWB:N) Hackathon is a hands-on activity lasting several days in which neurophysiology researchers create solutions using the open source NWB:N software packages.
+
+## About NWB hackathons
+
+###  What are hackathons?
+
+The [Neurodata Without Borders][nwb-neurophysiology] (NWB) hackathons are a hands-on activity lasting several days in which neurophysiology researchers create solutions using the open source NWB software packages.
 
 Participants work collaboratively on solutions that use the NWB unified data format for cellular-based neurophysiology
 data, which is focused on the dynamics of groups of neurons measured under a large range of experimental conditions.
@@ -29,62 +55,35 @@ related research projects.
 
 [nwb-neurophysiology]: http://www.nwb.org/nwb-neurophysiology/
 
-#### When, where, how much?
+### What are the different types of hackathons?
 
-To be determined based on participation. This year there will be a development focused
-Hackathon in Early April in Seattle, and then a user on-boarding tutorial Hackathon in late April in Berkeley.
-Ad-hoc meetings are added occasionally. We plan to have at least one more Hackathon in 2019. For this first
-Hackathon, breakfast and lunch will be covered and there will be no registration fee. These logistics are expected
-to evolve with the Hackathons. The [NAMIC Project Week][namic-and-3d-slicer-experience] which has influenced the
-NWB Hackathon currently has a registration fee that participants pay, which covers breakfast, lunch, coffee and
-snacks during the day.
+Over the course of the NWB endeavour, the NWB team has created a range of different hackathon
+events to address different needs:
 
-[namic-and-3d-slicer-experience]: http://www.spl.harvard.edu/publications/item/view/3004
+- **NeurodataReHack** focused on training and project to generate new insights from existing
+  neurophysiology data through secondary analysis
+- **User Days** focused on training and engagement with the NWB user community and integration
+  of data and lab processes with NWB.
+- **Developer Days** focused on engagement with the broader developer community and on
+  integration and development of NWB enabled tools and core software.
+- **Docathon** focused on enhancing documentation for NWB and associated software
+- **NWB Core Hackathons:** These hackathons focus on development of the core NWB data standard  
+  and software. This includes in particular the 1st, 2nd, and 3rd hackathon.
 
-#### How does it work?
 
-Weekly videoconferences for preparation begin 8-12 weeks before an event (see each Hackathon page for details). Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, analytics, visualization, and neurophysiology applications and
-research tasks. Projects are not limited to code development, but can include creation of documentation and tutorial
-materials.
+### What is the history of NWB hackathons?
 
-Through the course of the preparatory meetings, each participant selects one or more project teams and develops goals
-for the Hackathon. The first day of the Hackathon itself begins with a 2-hour in-person introduction to all projects
-and participants. The rest of the Hackathon consists of a mix of working sessions and breakout sessions on special
-topics, as decided by the participants during the preparatory meetings.
-
-The projects should be something that can largely be accomplished in a few days, ideally fun, and can help your lab make progress on your research goals. The projects will be written up at the end in a publicly accessible resource that can be used by the community and can be referenced on grant proposals and reports. Projects could be coding, documentation, or tutorials.
-
-Email announcements are sent to the [Hackathon mailing list][hackathon-mailing-list] (for continuity and permanence
-across hackathons), and communication specific to each event will happen on a dedicated Hackathon forum (see each
-Hackathon page for details).
-
-[hackathon-mailing-list]: https://groups.google.com/forum/#!forum/nwb_hackathon_announcements
-
-#### Who can attend?
-
-Due to limited space the hackathons participation is currently on an invitation-only basis. If
-you are interested in attending a hackathon then please contact the organizer of the hackathon directly. We are
-always excited to see new members join the NWB:N community. One-day participation is permitted for first-time attendees,
-but participants are strongly encouraged to stay for the entire event.
-
-#### Who should attend?
-
-This is harder to determine. Your best bet is to contact us (see below) or attend a preparatory
-videoconference (see each Hackathon page for details).
-
-#### What is the history of NWB hackathons?
-
-The NWB:N team consists of neuroscientists and software developers
+The NWB team consists of neuroscientists and software developers
 who recognize that creation and adoption of a unified data format is an important step toward breaking down the
-barriers to data sharing in neuroscience. Hackathons are a way for us to collaborate and develop NWB:N as well
-as to engage with the NWB:N user community.  For an overview of NeurodataWithoutBorders see http://nwb.org/.
+barriers to data sharing in neuroscience. Hackathons are a way for us to collaborate and develop NWB as well
+as to engage with the NWB user community.  For an overview of NeurodataWithoutBorders see http://nwb.org/.
 
-As part of the development of NWB:N 1.x two hackathons were held at Janelia Farm, in Ashburn, Virginia; the first
+As part of the development of NWB 1.x two hackathons were held at Janelia Farm, in Ashburn, Virginia; the first
 hackathon  on November 20 – 22, 2014 and the second one on May 14-16 at, 2015 (http://crcns.org/NWB/). As part of
-the development of NWB:N 2.0 a first hackathon was held at Janelia Farm, in Ashburn, Virginia  on July 31 - August 1, 2017.
-The primary focus of the first three hackathons has been on development of the NWB:N format as well as on development of a software strategy for NWB:N.
+the development of NWB 2.0 a first hackathon was held at Janelia Farm, in Ashburn, Virginia  on July 31 - August 1, 2017.
+The primary focus of the first three hackathons has been on development of the NWB format as well as on development of a software strategy for NWB.
 
-To encourage the development, growth and use of NWB:N as a unified data format for cellular-based neurophysiology
+To encourage the development, growth and use of NWB as a unified data format for cellular-based neurophysiology
 data, the Allen Institute for Brain Science, Lawrence Berkeley National Lab, and Kitware are organizing a
 development-focused hackathon at the Allen Institute for Brain Science (April 3-6, 2018) and a user-engagement
 and training hackathon at Lawrence Berkeley National Laboratory (April 25-27).

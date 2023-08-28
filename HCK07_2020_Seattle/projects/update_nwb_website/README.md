@@ -1,8 +1,7 @@
 [:rewind: Back to the projects list](../../README.md#ProjectsList)
 
-<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
 
-# Write full project title here
+# Update NWB website
 
 ## Key Investigators
 
@@ -17,33 +16,49 @@ Update existing pages and new pages as necessary to nwb.org.
 
 Ensure that latest information is on nwb.org
 
-## Approach and Plan
+## ToDo items
 
-* Add missing labs using NWB page https://www.nwb.org/labs-using-nwb/
+* Add INCF Training Space and YouTube channel to the tutorial page https://www.nwb.org/how-to-use/
 * Update tools page to also list core tools (e.g, PyNWB, MatNWB etc.) and distinguish between "endorsed" tools and community tools to better assist users https://www.nwb.org/tools/
-* Update dataset page to add missing datasets and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
-* Update grants and projects page to add Simon grant https://www.nwb.org/projects/
-* Fix arrows in NWB figure on page https://www.nwb.org/nwb-neurophysiology/
-* Update development plan page and make the page easier to find by adding it to the main menu https://www.nwb.org/development-plan/
-* Add the updates from our progress reports from the NWB project to the website (new page(s))
+* Update dataset page to add missing datasets (e.g., Ruetighauser data) and explitly describe known issues with datasets https://www.nwb.org/example-datasets/
+* Satra indicated that the format specification docs are hard to find. We should make Documentation a top-level item on the website.
+* Add Ueli et al. paper and data to the website on the datasets and publications page. Also add a publication highlight to the rotating carousel.
+  * Data descriptor: https://www.nature.com/articles/s41597-020-0415-9
+  * Data (OSF):  https://doi.org/10.17605/OSF.IO/HV7JA
 
+## Progress
 
-## Progress and Next Steps
+* [https://www.nwb.org/nwb-neurophysiology/](https://www.nwb.org/nwb-neurophysiology/):
+   * NWB data types figure (fixed arrows and data types listed)
+  * Updated timeline figure at the bottom of page
+* [https://www.nwb.org/projects/](https://www.nwb.org/projects/)
+  * Add missing Simon grants
+* [https://www.nwb.org/labs-using-nwb/](https://www.nwb.org/labs-using-nwb/)
+  * Add Bouchard lab
+  * Add Frank lab
+  * Add link to seed grant page for additional users
+* [https://www.nwb.org/source-codes/](https://www.nwb.org/source-codes/)
+  * Add HDMF and NDX Catalog GitHub organizations
+  * Add relevant HDMF and NDX repositories
+  * Add brief descriptions for all repositories
+* [https://www.nwb.org/nwb-software/](https://www.nwb.org/nwb-software/)
+  * Add "User View" section and figure to describe the NWB software ecosystem from the user view
+  * Add "Developer View" section and figure to describe the NWB software ecosystem from the developer view
+* [https://www.nwb.org/development-plan/](https://www.nwb.org/development-plan/)
+  * Organize the different plans in tabs to make the page easier to navigate (previously this was a very long, single-page document)
+  * Added updated development plan with current milestones to tab "2.x (current)"
+  * Added entry for the development plan to the main menu under "Developer Resources"
+* [https://www.nwb.org/community-guidelines/](https://www.nwb.org/community-guidelines/)
+  * Removed link to the development plan as it is now listed in the main menu
+* [https://www.nwb.org/documentation/](https://www.nwb.org/documentation)
+  * Added missing link to the "HDMF Common specification" docs
+  * Added missing link to the "HDMF documentation utilities"
+  * Added missing link to the "NDX template"
+* [https://www.nwb.org/projects/](https://www.nwb.org/projects/)
+  * Placed Simons funded projects into a separate section (they were previously subsection under the Kavli seciton)
+  * Added section to link to the progress reports
+* [https://www.nwb.org/progress-reports/](https://www.nwb.org/progress-reports/)
+  * Create new page for progress reports
+  * Added the main parts from the NIH progress reports to the page
 
-<!--Populate this section as you are making progress before/during/after the hackathon-->
-<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
-<!--Describe the next steps you are planing to take to complete the project.-->
-
-## Materials
-
-<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
-<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--![Description of picture](Example2.jpg)-->
-
-## Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
-<!-- - Source code: https://github.com/YourUser/YourRepository -->
-<!-- - Documentation: https://link.to.docs -->
-<!-- - Test data: https://link.to.test.data -->
 

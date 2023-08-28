@@ -10,7 +10,7 @@
 1. Thomas Braun - byte physics e.K.
 1. Shreejoy Tripathy - University of Toronto
 1. Colleen Gillon - University of Toronto
-1. Liviu Soltuzu - Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL
+1. Liviu S. - Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL
 1. Ben Dichter - Ben Dichter Consulting LLC
 1. Andrew Tritt - Lawrence Berkeley National Laboratory
 1. Matt McCormick - Kitware, Inc
@@ -30,4 +30,3 @@
 1. Young Seok	Seo	- University of Toronto
 1. Sergey Gratiy - Allen Institute For Brain Science
 1. Scott Daniel - Allen Institute For Brain Science
-1. ...

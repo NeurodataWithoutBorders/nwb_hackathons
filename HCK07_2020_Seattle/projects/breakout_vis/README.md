@@ -11,7 +11,7 @@
 * Michael Grauer (Kitware Inc.)
 * Benjamin Dichter (Ben Dichter, LLC.)
 * Oliver Ruebel (LBNL)
-* Liviu Soltuzu (EPFL)
+* Liviu S. (EPFL)
 * Eric Denovellis (HHMI, UCSF)
 * ...
 

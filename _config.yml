@@ -1,8 +1,13 @@
 theme: jekyll-theme-primer
 
+title: NWB Workshops and Hackathons
+description: Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons
+
 plugins:
   - jekyll-mentions
   - jemoji
 
 # Google Analytics
 google_analytics: UA-134749152-2
+
+encoding: UTF-8
