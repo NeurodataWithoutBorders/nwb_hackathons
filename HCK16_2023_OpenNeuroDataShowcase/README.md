@@ -48,6 +48,19 @@ If you are interested in **presenting** your dandiset(s), register as a presente
 | Introduction to the virtual data showcase | Organizers        | 9:00-9:20am   |
 | Virtual poster session                    | Data Contributors | 9:20-10:30am  |
 
+## Presenters
+
+| Posters                                                                                                              | Speakers                                            | 
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Allen Brain Observatory: Visual Coding Neuropixels Dataset                                                           | Josh Siegle, _Allen Institute_                      |
+| A Brain-Wide Map of Neural Activity during Complex Behaviour                                                         | Olivier Winter, _IBL_                               |
+| MICrONS Two Photon Functional Imaging                                                                                | Paul Fahey, _Baylor College of Medicine_            | 
+| The OpenScope Databook                                                                                               | Carter Peene, _Allen Institute_                     |
+| Three datasets of human single-neuron electrophysiology recordings during working memory and long-term memory tasks  | Michael Kyzar, _Rutishauser Lab_                    |
+| Challenges and neuroethical considerations in sharing human neural data                                              | Angelique C Paulk, _Massachusetts General Hospital_ |
+| Data on auditory cortex plasticity and oxytocin neuron responses in co-parental mice                                 | Robert Froemke, _NYU_                               |
+| Esr1+ hypothalamic-habenula neurons shape aversive states                                                            | Pierre Le Merre, _Karolinska Institutet_            |
+
 ## Organizing Committee
 
 **Program chairs:**
