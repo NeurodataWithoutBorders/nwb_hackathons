@@ -41,17 +41,17 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 9:00 - 9:30: Lecture: Introduction to the NWB data standard and DANDI Archive
 
-9:30 - 9:55: Follow along: How to convert common neurophysiology data to NWB, read NWB files, and publish NWB data to DANDI
+9:30 - 9:45: Follow along: How to convert common neurophysiology data to NWB and publish NWB data to DANDI
 
-9:55 - 10:00: Q&A, break
+9:45 - 10:00: Follow along: How to use the DANDI Archive and community tools, such as [Neurosift](https://github.com/flatironinstitute/neurosift) and [NWB Widgets](https://nwb-widgets.readthedocs.io/en/latest/), to find and visualize relevant data
 
-10:00 - 10:15: Lecture: Using the DANDI Archive and DANDI API to find relevant data
+10:00 - 10:05: Q&A, break
 
-10:15 - 10:30: Follow along: How to use the DANDI Hub to find and explore NWB files on DANDI
-
-10:30 - 10:55: Follow along: How to analyze NWB data using popular data processing and visualization tools, such as:
+10:05 - 10:55: Follow along: How to read NWB data streamed from DANDI and downloaded locally, and analyze NWB data using popular tools, such as:
 
 - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface#spikeinterface-a-unified-framework-for-spike-sorting) to sort raw extracellular electrophysiology recording data streamed from DANDI & write the output back to NWB
+
+- [CaImAn](https://github.com/flatironinstitute/CaImAn#caiman) and [suite2p](https://www.suite2p.org/) for reading and processing calcium imaging data.
 
 - [Pynapple](https://pynapple-org.github.io/pynapple/) to perform common analysis functions on NWB data, such as tuning curves and cross-correlograms.
 
