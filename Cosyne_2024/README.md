@@ -64,6 +64,7 @@ If you attended the tutorial, please fill out this [2-minute survey](https://bit
 
 * Ryan Ly, LBNL
 * Ben Dichter, CatalystNeuro
+* Alessio Buccino, CatalystNeuro and Allen Institute for Neural Dynamics
 <!-- * Stephanie Albin, Kavli Foundation -->
 
 
