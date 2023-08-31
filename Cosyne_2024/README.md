@@ -51,8 +51,6 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface#spikeinterface-a-unified-framework-for-spike-sorting) to spike sort raw extracellular electrophysiology recording data streamed from DANDI & write the output back to NWB
 
-- [CaImAn](https://github.com/flatironinstitute/CaImAn#caiman) and [suite2p](https://www.suite2p.org/) for reading and processing calcium imaging data.
-
 - [Pynapple](https://pynapple-org.github.io/pynapple/) to perform common analysis functions on NWB data, such as tuning curves and cross-correlograms.
 
 <!-- ## Survey
