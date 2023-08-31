@@ -2,6 +2,7 @@
 
 # NWB User Days and Developer Days 2023
 
+  * [Report](#report)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
   * [Logistics](#logistics)
@@ -15,6 +16,9 @@
   * [Code of Conduct](#code-of-conduct)
   * [Disclaimer](#disclaimer)
   
+## Report
+
+The final report for the 2023 NWB User Days and Developer Days is now available on GitHub ([PDF](report/Report___15th_NWB_and_User_and_16th_Developer_Days_2023.pdf)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/qsdtmzjnhwxn).
 
 ## Dates and Location
 
