@@ -6,9 +6,9 @@
 
 The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the NWB data standard and [DANDI Archive](https://www.dandiarchive.org/) during the tutorial session of COSYNE 2024.
 
-The NWB project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to analyzing data both within and across labs. NWB is more than just a file format; it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing complex neurophysiology data, including extracellular electrophysiology, intracellular electrophysiology, optical physiology, and behavior.
+The [NWB](https://www.nwb.org/) project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to analyzing data both within and across labs. NWB is more than just a file format; it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing neurophysiology data, including extracellular electrophysiology, intracellular electrophysiology, optical physiology, and behavior.
 
-The DANDI Archive now has 175+ publicly available neurophysiology datasets stored using the NWB data standard.
+The [DANDI Archive](https://www.dandiarchive.org/) now has 175+ publicly available neurophysiology datasets stored using the NWB data standard, including from the Allen Institute, International Brain Laboratory, MICRONS project, and over 100 individual labs.
 
 At this tutorial, we will teach you how to:
 
@@ -41,7 +41,7 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 9:00 - 9:30: Lecture: Introduction to the NWB data standard and DANDI Archive
 
-9:30 - 9:45: Follow along: Convert common neurophysiology data to NWB and publish NWB data to DANDI
+9:30 - 9:45: Follow along: Convert common neurophysiology data formats to NWB and publish NWB data to DANDI
 
 9:45 - 10:00: Follow along: Use the DANDI Archive and community tools, such as [Neurosift](https://github.com/flatironinstitute/neurosift) and [NWB Widgets](https://nwb-widgets.readthedocs.io/en/latest/), to find and visualize relevant data
 
@@ -51,7 +51,7 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface#spikeinterface-a-unified-framework-for-spike-sorting) to spike sort raw extracellular electrophysiology recording data streamed from DANDI & write the output back to NWB
 
-- [Pynapple](https://pynapple-org.github.io/pynapple/) to perform common analysis functions on NWB data, such as tuning curves and cross-correlograms.
+- [Pynapple](https://pynapple-org.github.io/pynapple/) to perform common analysis functions on NWB data, such as compute tuning curves and cross-correlograms
 
 <!-- ## Survey
 
