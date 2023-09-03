@@ -28,6 +28,7 @@ with NWB. This hackathon will enable participants to work intensively on an NWB-
 the NWB development team and others in the community. Together, we can develop and discuss ideas for solving technical
 problems that impact the broader community. Our goal is to foster collaboration and community among developers.
 
+This is our first NWB hackathon event hosted by DataJoint. Working in the DataJoint building and with their team will facilitate projects at the intersection between DataJoint and NWB, such as Spyglass or building NWB export for custom DataJoint pipelines. We also welcome NWB projects that are not related to DataJoint.
 
 ## Dates and Location
 
