@@ -6,7 +6,7 @@
 
 The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the NWB data standard and [DANDI Archive](https://www.dandiarchive.org/) during the [tutorial session of COSYNE 2024](https://www.cosyne.org/tutorials).
 
-The [NWB](https://www.nwb.org/) project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to analyzing data both within and across labs. NWB is more than just a file format; it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing neurophysiology data, including extracellular electrophysiology, intracellular electrophysiology, optical physiology, and behavior.
+The [NWB](https://www.nwb.org/) project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to analyzing data both within and across labs. NWB is more than just a file format; it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/analysis_tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing neurophysiology data, including extracellular electrophysiology, intracellular electrophysiology, optical physiology, and behavior.
 
 The [DANDI Archive](https://www.dandiarchive.org/) now has 175+ publicly available neurophysiology datasets stored using the NWB data standard, including from the Allen Institute, International Brain Laboratory, MICRONS project, and over 100 individual labs.
 
