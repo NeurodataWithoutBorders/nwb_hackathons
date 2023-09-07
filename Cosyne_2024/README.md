@@ -4,7 +4,7 @@
 
 # Welcome to the NWB & DANDI Tutorial at COSYNE 2024!
 
-The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the NWB data standard and [DANDI Archive](https://www.dandiarchive.org/) during the tutorial session of COSYNE 2024.
+The [Neurodata Without Borders (NWB)](https://www.nwb.org/) team is holding a tutorial on the NWB data standard and [DANDI Archive](https://www.dandiarchive.org/) during the [tutorial session of COSYNE 2024](https://www.cosyne.org/tutorials).
 
 The [NWB](https://www.nwb.org/) project is an effort to standardize the description and storage of neurophysiology data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to analyzing data both within and across labs. NWB is more than just a file format; it defines an [ecosystem](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html) of tools, methods, and standards for storing, sharing, and analyzing neurophysiology data, including extracellular electrophysiology, intracellular electrophysiology, optical physiology, and behavior.
 
@@ -64,6 +64,18 @@ If you attended the tutorial, please fill out this [2-minute survey](https://bit
 * Ben Dichter, CatalystNeuro
 * Alessio Buccino, CatalystNeuro and Allen Institute for Neural Dynamics
 <!-- * Stephanie Albin, Kavli Foundation -->
+
+
+## Materials
+
+TBA
+
+
+## Learn more!
+
+Learn more about upcoming and past NWB events on our [main page](https://neurodatawithoutborders.github.io/nwb_hackathons/Cosyne_2024/).
+
+New to NWB? Learn more about the NWB software ecosystem, how to convert data to NWB, how to read data in NWB, and much more in our [NWB Overview website](https://nwb-overview.readthedocs.io/).
 
 
 <!-- ### Additional Organizational Support
