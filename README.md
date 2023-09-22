@@ -9,9 +9,9 @@
 - NeuroDataReHack: July 2024 - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, USA **July 8-12, 2024**.
 
 
-### Past Hackathons
+### Past Events
 - [NWB and DANDI Workshop: September 2023](Workshop_2023_Princeton/README.md) - **September 14, 2023** at Princeton University, NJ, USA
-- [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) -  NeuroDataReHack 2 will be held in Granada, Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/) **Sept 5 - 8, 2023**.
+- [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) - **Sept 5 - 8, 2023** NeuroDataReHack 2 was held in Granada, Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/).
 - [Open NeuroData Showcase: Virtual, Aug 28, 2023](HCK17_2023_OpenNeuroDataShowcase/README.md): **Aug 28, 2023** (virtual)
 - [NWB Developer Days: July 2023](HCK15_2023_Janelia/README.md): **July 27-29, 2023** at HHMI Janelia Research Campus in Ashburn, Virginia, USA
 - [NWB User Days: July 2023](HCK15_2023_Janelia/README.md): **July 24-26, 2023** at HHMI Janelia
