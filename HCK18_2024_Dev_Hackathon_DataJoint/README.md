@@ -42,7 +42,7 @@ Immediately prior to the NWB Developer Hackathon, DataJoint will be organizing a
 If you are interested in this DataJoint event, we encourage you to register for it as well.
 More details about this event are to come.
 
-DataJoint will also be organizing a social mixer event late Tuesday afternoon
+DataJoint will also be organizing a social mixer event on the late afternoon of Tuesday, April 16
 for DataJoint workshop participants to mix with NWB Developer Hackathon participants. We encourage participants to arrive early
 enough on Tuesday to attend this mixer.
 
@@ -56,7 +56,7 @@ You can start attending the event(s) on different days for different experiences
 
 ## Registration
 
-Registration will open in late 2023.
+Register for the NWB Developer Hackathon and/or the DataJoint Workshop here: [https://forms.gle/xqDYeMy1rCQpRnYU9](https://forms.gle/xqDYeMy1rCQpRnYU9)
 
 
 ## Logistics
