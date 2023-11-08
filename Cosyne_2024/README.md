@@ -32,22 +32,20 @@ There is NO additional fee to attend. When registering for the main meeting, sel
 
 ## Dates and Location
 
-* **Date/Time:** February 29, 2024, 9 - 11 AM
+* **Date/Time:** February 29, 2024, 8:00 - 9:30 AM
 * **Location:** TBD, Lisbon Conference Center, Lisbon, Portugal
 
 
 
 ## Tutorial Program (tentative)
 
-9:00 - 9:30: Lecture: Introduction to the NWB data standard and DANDI Archive
+8:00 - 8:30: Lecture: Introduction to the NWB data standard and DANDI Archive
 
-9:30 - 9:45: Follow along: Convert common neurophysiology data formats to NWB and publish NWB data to DANDI
+8:30 - 8:45: Follow along: Convert common neurophysiology data formats to NWB and publish NWB data to DANDI
 
-9:45 - 10:00: Follow along: Use the DANDI Archive and community tools, such as [Neurosift](https://github.com/flatironinstitute/neurosift) and [NWB Widgets](https://nwb-widgets.readthedocs.io/en/latest/), to find and visualize relevant data
+8:45 - 9:00: Follow along: Use the DANDI Archive and community tools, such as [Neurosift](https://github.com/flatironinstitute/neurosift) and [NWB Widgets](https://nwb-widgets.readthedocs.io/en/latest/), to find and visualize relevant data
 
-10:00 - 10:05: Q&A, break
-
-10:05 - 10:55: Follow along: Read NWB data streamed from DANDI and downloaded locally, and analyze NWB data using popular tools, such as:
+9:00 - 9:30: Follow along: Read NWB data streamed from DANDI and downloaded locally, and analyze NWB data using popular tools, such as:
 
 - [SpikeInterface](https://github.com/SpikeInterface/spikeinterface#spikeinterface-a-unified-framework-for-spike-sorting) to spike sort raw extracellular electrophysiology recording data streamed from DANDI & write the output back to NWB
 
@@ -73,7 +71,7 @@ TBA
 
 ## Learn more!
 
-Learn more about upcoming and past NWB events on our [main page](https://neurodatawithoutborders.github.io/nwb_hackathons/Cosyne_2024/).
+Learn more about upcoming and past NWB events on our [main page](https://neurodatawithoutborders.github.io/nwb_hackathons/).
 
 New to NWB? Learn more about the NWB software ecosystem, how to convert data to NWB, how to read data in NWB, and much more in our [NWB Overview website](https://nwb-overview.readthedocs.io/).
 
