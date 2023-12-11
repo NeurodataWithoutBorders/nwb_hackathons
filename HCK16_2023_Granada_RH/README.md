@@ -17,7 +17,7 @@
 
 ## Report
 
-The final report for NeuroDataReHack 2023 is now available on GitHub ([PDF](report/Report__NeuroDataReHack_2023.pdf)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/gzpkpyzcrvfr#1400b0)).
+The final report for NeuroDataReHack 2023 is now available online at  [[PDF (GitHub)](report/Report__NeuroDataReHack_2023.pdf)] [[LaTeX (Overleaf)](https://www.overleaf.com/read/gzpkpyzcrvfr#1400b0)].
 
 ## Dates and Location
 
