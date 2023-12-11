@@ -59,7 +59,10 @@ you are interested in learning how to convert data, consider signing up for an N
 This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
 Applicants should have basic programming experience in Python or MATLAB and experience with neurophysiology research.
 
+
 ## Application
+
+**Applications are now closed.** 
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2023 [here](https://forms.gle/akaThWFBJrv7udev9). 
 
