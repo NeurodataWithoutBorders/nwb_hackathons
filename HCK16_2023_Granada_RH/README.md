@@ -3,6 +3,7 @@
 # NeuroDataReHack 2023
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
+* [Report](#report)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
 * [Eligibility](#eligibility)
@@ -14,9 +15,9 @@
 * [Schedule](#schedule)
 * [Disclaimer](#disclaimer)
 
-## Status
+## Report
 
-The application deadline has been extended from May 1 to May 8. 
+The final report for NeuroDataReHack 2023 is now available on GitHub ([PDF](report/Report__NeuroDataReHack_2023.pdf)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/gzpkpyzcrvfr#1400b0)).
 
 ## Dates and Location
 
