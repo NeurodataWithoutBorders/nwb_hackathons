@@ -1,5 +1,9 @@
 <img alt="Brain Data Modeling Hackashop 2024" src="images/banner_bdmh_2024.png">
 
+| [Dates & Location](#dates-and-location) | [Organizers](#organizing-committee)  | [Logistics](#logistics) | [Agenda](#agenda) | [Projects](#projects) | [Legal](#legal) |
+|-----------------------------------------|--------------------------------------|-------------------------|-------------------|-----------------------|-----------------|
+
+
 The objective of the event is to bring the neurophysiology data and standards developer community together to evaluate the use of LinkML to create common schema and facilitate integration of data across standards and resources. The goal is to create LinkML based schemas that integrate information across existing efforts in data modeling for neuroscience and leveraging existing standards and resources, e.g, NWB, AIND, OpenMINDS, DANDI, and BICAN. To support large scientific data, a second goal is to extend LinkML for array type data structures required, e.g, for NWB and OME-Zarr. This is an invitation-only event.
 
 
@@ -14,6 +18,11 @@ The objective of the event is to bring the neurophysiology data and standards de
 - **Optional Bonus hacking days:** Participants may optionally choose to stay up to 2 extra days to continue working together in a free-form fashion.
     - **Dates:** Feb 8-9, 2024   
     - **Location:** [Building 59 (Shyh Wang Hall)](https://map.lbl.gov/#ctdl-UMAP_2012091840117,BLD_2013013161357), 1 Cyclotron Road, Lawrence Berkeley National Laboratory, Berkeley, CA 
+
+## Organizing Committee
+
+* **Site chair:** [Oliver Rübel](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/oliver-ruebel-bio/)
+* **Program chair:** [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) 
 
 ## Logistics
 
@@ -34,12 +43,6 @@ Attendees will need to reserve their own lodging. A broad range of hotels and ho
 - [Hotel Shattuck Plaza](https://www.hotelshattuckplaza.com/)
 - [Marriot Residence Inn Berkeley](https://www.marriott.com/en-us/hotels/oakrr-residence-inn-berkeley/overview/)
 
-
-## Organizing Committee
-
-* **Site chair:** [Oliver Rübel](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/oliver-ruebel-bio/)
-* **Program chair:** [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) 
-
 ## Agenda
 
 The main program starts at noon on Feb.5 to allow attendees taking morning flights to be able to get to ICSI on time. See [here](https://docs.google.com/document/d/e/2PACX-1vTltxVMTAF4QzTWe3MFddIgdypSlXEwBaSISAowz8cp9okXzRznCatwQNbRGrJGbYCY-0vxf3jEHu2_/pub) for the latest agenda. 
@@ -47,22 +50,20 @@ The main program starts at noon on Feb.5 to allow attendees taking morning fligh
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vTltxVMTAF4QzTWe3MFddIgdypSlXEwBaSISAowz8cp9okXzRznCatwQNbRGrJGbYCY-0vxf3jEHu2_/pub"><img alt="Agenda Brain Data Modeling Hackashop 2024" src="images/agenda.png"></a>
 
-
-
-
-
 ## Projects
 
 To ease collaborative editing of projects we are managing projects in the following Google Docs:
 
 * [**Brain Data Modeling Hackashop Projects 2024**](https://docs.google.com/document/d/1cvIr3FtUtxcsZJXKPbwiNtBctxNxnYnzU1xxSHkyg44/edit?usp=sharing)
 
-## Code of Conduct
+
+## Legal
+
+### Code of Conduct
 
 Please see the [Code of Conduct](https://neurodatawithoutborders.github.io/nwb_hackathons/code_of_conduct) for all NWB events.
 
-
-## Disclaimer
+### Disclaimer
 
 This website and related content were prepared as an account of or to expedite work sponsored at least in part by 
 the United States Government. While we strive to provide correct information, neither the United States Government 
