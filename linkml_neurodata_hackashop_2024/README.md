@@ -42,7 +42,14 @@ Attendees will need to reserve their own lodging. A broad range of hotels and ho
 
 ## Agenda
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTltxVMTAF4QzTWe3MFddIgdypSlXEwBaSISAowz8cp9okXzRznCatwQNbRGrJGbYCY-0vxf3jEHu2_/pub?embedded=true"></iframe>
+The main program starts at noon on Feb.5 to allow attendees taking morning flights to be able to get to ICSI on time. See [here](https://docs.google.com/document/d/e/2PACX-1vTltxVMTAF4QzTWe3MFddIgdypSlXEwBaSISAowz8cp9okXzRznCatwQNbRGrJGbYCY-0vxf3jEHu2_/pub) for the latest agenda. 
+
+
+<a href="https://docs.google.com/document/d/e/2PACX-1vTltxVMTAF4QzTWe3MFddIgdypSlXEwBaSISAowz8cp9okXzRznCatwQNbRGrJGbYCY-0vxf3jEHu2_/pub"><img alt="Agenda Brain Data Modeling Hackashop 2024" src="images/agenda.png"></a>
+
+
+
+
 
 ## Projects
 
