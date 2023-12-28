@@ -34,7 +34,7 @@ The objective of the event is to bring the neurophysiology data and standards de
      - [GoogleMap](https://www.google.com/maps/place/International+Computer+Science+Institute/@37.8700159,-122.2695811,18z/data=!3m2!4b1!5s0x80857e9eacbaf82b:0x71414272a685c989!4m6!3m5!1s0x80857e99566a4815:0x9226568954e914ed!8m2!3d37.8700159!4d-122.2685444!16s%2Fg%2F1vb9d8mq?entry=ttu)
  - **LBNL (Bonus Hacking Days):**  Building 59 (Shyh Wang Hall) is located on the Lawrence Berkeley National Laboratory campus. See the [static](https://www2.lbl.gov/Workplace/lab-site-map.html) and 
    [interactive](https://map.lbl.gov/#ctdl-UMAP_2012091840117,BLD_2013013161357) LBNL site map for details. 
-    - **Directions:** From Downtown Berkeley take the Blue LBNL Shuttle to Building 65 and walk up Perlmutter Road (across the road) to get to Building 59. ([Shuttle Schedule](https://commute.lbl.gov/resource/shuttle-buses/maps-routes-schedules/blue-route/))([Interactive Shuttle Map](https://lbnl.tripshot.com/g/tms/Public.html#RoutePlace:{%22regionId%22:%22CA558DDC-D7F2-4B48-9CAC-DEEA1134F820%22,%20%22date%22:{%22year%22:2024,%20%22month%22:2,%20%22day%22:5},%20%22routeOrRouteGroupId%22:%224C323EB6-C911-4446-8DCB-33593A881548%22,%20%22noNav%22:false}))
+    - **Directions:** From Downtown Berkeley take the Blue LBNL Shuttle to Building 65 and walk up Perlmutter Road (across the road) to get to Building 59. ([Shuttle Schedule](https://commute.lbl.gov/resource/shuttle-buses/maps-routes-schedules/blue-route/))([Interactive Shuttle Map](http://tinyurl.com/fz3fr7jr))
 
 ### Housing
 
