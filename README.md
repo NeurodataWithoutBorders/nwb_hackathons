@@ -3,7 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Brain Data Modeling Hackashop: February 5-7 2024]( linkml_neurodata_hackashop_2024/README.md) - A hackathon to bring the neurophysiology data and standards developer community together to evaluate the use of LinkML to create common schema and facilitate integration of data across standards and resources (invitation-only).
+- [Brain Data Modeling Hackashop: February 2024](linkml_neurodata_hackashop_2024/README.md) - at the  [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu) in Berkeley, CA, USA, **February 5-7 2024**.
 - [Cosyne: February 2024](Cosyne_2024/README.md) - A tutorial session on NWB and DANDI will be held during the
   Computational and Systems Neuroscience (COSYNE) 2024 conference in Lisbon, Portugal on **February 29, 2024**.
 - [NWB Developer Hackathon: April 2024](HCK18_2024_Dev_Hackathon_DataJoint/README.md): **April 17 - 19, 2023** at DataJoint Headquarters in Houston, TX, USA
