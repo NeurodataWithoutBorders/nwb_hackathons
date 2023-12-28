@@ -1,7 +1,11 @@
 <img alt="Brain Data Modeling Hackashop 2024" src="images/banner_bdmh_2024.png">
 
-| [Dates & Location](#dates-and-location) | [Organizers](#organizing-committee)  | [Logistics](#logistics) | [Agenda](#agenda) | [Projects](#projects) | [Legal](#legal) |
-|-----------------------------------------|--------------------------------------|-------------------------|-------------------|-----------------------|-----------------|
+* [Dates & Location](#dates-and-location) 
+* [Organizers](#organizing-committee)  
+* [Logistics](#logistics) 
+* [Agenda](#agenda) 
+* [Projects](#projects) 
+* [Legal](#legal)
 
 
 The objective of the event is to bring the neurophysiology data and standards developer community together to evaluate the use of LinkML to create common schema and facilitate integration of data across standards and resources. The goal is to create LinkML based schemas that integrate information across existing efforts in data modeling for neuroscience and leveraging existing standards and resources, e.g, NWB, AIND, OpenMINDS, DANDI, and BICAN. To support large scientific data, a second goal is to extend LinkML for array type data structures required, e.g, for NWB and OME-Zarr. This is an invitation-only event.
