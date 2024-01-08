@@ -16,7 +16,7 @@ The objective of the event is to bring the neurophysiology data and standards de
 - **Main Event:** 
     - **Dates:** Feb. 5 - 7, 2024. 
         - **Note:** The main program starts at noon on Feb.5 to allow attendees taking morning flights to be able to get to ICSI on time.
-    - **Location:** [International Computer Science Institute (ICSI](https://www.icsi.berkeley.edu), 2150 Shattuck Ave, Suite 250,  Berkeley, CA 94704
+    - **Location:** [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu), 2150 Shattuck Ave, Suite 250,  Berkeley, CA 94704
 
 
 - **Optional Bonus hacking days:** Participants may optionally choose to stay up to 2 extra days to continue working together in a free-form fashion.
