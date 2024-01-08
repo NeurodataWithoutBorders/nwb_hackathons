@@ -70,7 +70,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Participants will be provided a private room at Janelia Research Campus for the duration of this event, 
   checking in on Sunday, July 7, and checking out on Friday, July 12 or Saturday, July 13.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
-* You will be responsible for booking your own flight to the event.
+* You will be responsible for booking your own flight and transportation to Janelia Research Campus.
 * You will be responsible for determining visa and/or healthcare requirements for travel to the United States.
 
 ## Organizing Committee
