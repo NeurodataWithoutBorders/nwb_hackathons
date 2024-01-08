@@ -18,7 +18,7 @@
 ## Dates and Location
 
 - **Dates:** July 8-12, 2024
-**Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147,
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147,
   [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655)
   [Directions](https://www.janelia.org/directions)
 
