@@ -18,7 +18,7 @@
 ## Dates and Location
 
 - **Dates:** July 8-12, 2024
-**Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147,
+- **Location:** [HHMI Janelia Research Campus](https://www.janelia.org/), 19700 Helix Dr, Ashburn, VA 20147,
   [Openstreetmap](https://www.openstreetmap.org/?mlat=39.0708&mlon=-77.4655#map=14/39.0708/-77.4655)
   [Directions](https://www.janelia.org/directions)
 
@@ -70,7 +70,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Participants will be provided a private room at Janelia Research Campus for the duration of this event, 
   checking in on Sunday, July 7, and checking out on Friday, July 12 or Saturday, July 13.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
-* You will be responsible for booking your own flight to the event.
+* You will be responsible for booking your own flight and transportation to Janelia Research Campus.
 * You will be responsible for determining visa and/or healthcare requirements for travel to the United States.
 
 ## Organizing Committee
@@ -85,6 +85,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 Resources will be posted here to help participants prepare for the event.
 
 * A report of the first NeuroDataReHack event: ([PDF](../HCK14_2022_Seattle_RH/report/Report_Neurodata_Rehack_v2.pdf))
+* A report of the second NeuroDataReHack event: ([PDF](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf))
 * Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
 
 ## What to bring?
