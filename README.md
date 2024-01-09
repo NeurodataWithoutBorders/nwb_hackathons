@@ -7,6 +7,7 @@
 - [Cosyne: February 2024](Cosyne_2024/README.md) - A tutorial session on NWB and DANDI will be held during the
   Computational and Systems Neuroscience (COSYNE) 2024 conference in Lisbon, Portugal on **February 29, 2024**.
 - [NWB Developer Hackathon: April 2024](HCK18_2024_Dev_Hackathon_DataJoint/README.md): **April 17 - 19, 2023** at DataJoint Headquarters in Houston, TX, USA
+- [NWB User Days: June 2024](HCK20_2024_Remote/README.md) - **June 12 - 14, 2024** (virtual)
 - [NeuroDataReHack: July 2024](HCK19_2024_Janelia_NDRH/README.md) - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, USA **July 8-12, 2024**.
 
 
