@@ -33,7 +33,7 @@ workflows. Feedback from attendees will be used to improve the software and data
 reanalysis workflows.
 
 
-Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK19_2024_OpenNeurodataShowcase/README.md) where attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK19_2024_OpenNeurodataShowcase/README.md#application) to sign up
+Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK20_2024_OpenNeurodataShowcase/README.md) where attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK20_2024_OpenNeurodataShowcase/README.md#application) to sign up
 and read more about this feature event.
 
 
