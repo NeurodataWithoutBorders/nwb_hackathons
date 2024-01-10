@@ -1,6 +1,6 @@
-<img alt="NWB 2024 User Days Banner" src="images/logo_brain_text_white_hor.png">
+<img alt="NWB Data Conversion Workshop Banner" src="images/logo_brain_text_white_hor.png">
 
-# NWB User Days 2024: A guide to NWB conversion and adoption
+# NWB Data Conversion Workshop 2024
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -51,7 +51,7 @@ data and metadata. NWB enables data sharing and reuse and reduces the energy bar
 and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 100 datasets on the
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
-The User Days workshop will train users how to convert their data to NWB and publish it on the DANDI Archive. 
+The NWB Data Conversion Workshop will train users how to convert their data to NWB and publish it on the DANDI Archive. 
 We will work with members of the neuroscience community that want to apply NWB to their datasets. We will train 
 attendees, starting from the basics and proceeding to advanced data engineering techniques to maximally utilize the
 features of the HDF5 and Zarr backends. During this workshop, we will also introduce and train users on NWB GUIDE, a 
