@@ -1,6 +1,6 @@
-<img alt="NWB 2024 User/Developer Days Banner" src="images/logo_brain_text_white_hor.png">
+<img alt="NWB 2024 User Days Banner" src="images/logo_brain_text_white_hor.png">
 
-# NWB User Days 2024
+# NWB User Days 2024: A guide to NWB conversion and adoption
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -25,7 +25,7 @@ Register for the event [here](https://forms.gle/pTsjRMEqsgCRo3VD8).
 
 ## Logistics
 
-We will be using the Zoom for the meeting. We will send an email in the days before the workshop with Zoom links.
+We will be using Zoom for the meeting. We will send an email in the days before the workshop with Zoom links.
 
 ## Organizing Committee
 

@@ -1,4 +1,4 @@
-**The agenda is work in 
+**The agenda is a work in 
 progress! Further details will be announced here as they become available**
 
 ### Agenda
