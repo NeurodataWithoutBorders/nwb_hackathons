@@ -37,7 +37,8 @@ We will be using Zoom for the meeting. We will send an email in the days before 
   data not in NWB), you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
   reading the data.
 * Bring your laptop with appropriate software installed. For installation instructions see:
-  * [**PyNWB (Python)**](https://pynwb.readthedocs.io/en/stable/install_users.html). 
+  * [**NWB GUIDE**](https://nwb-guide.readthedocs.io/en/latest/installation.html)
+  * [**PyNWB (Python)**](https://pynwb.readthedocs.io/en/stable/install_users.html)
   * [**MatNWB (Matlab)**](https://neurodatawithoutborders.github.io/matnwb/)
 * For an overview of NWB software, see also: 
   * [**Glossary of Core NWB Tools**](https://nwb-overview.readthedocs.io/en/latest/core_tools/core_tools_home.html) 
