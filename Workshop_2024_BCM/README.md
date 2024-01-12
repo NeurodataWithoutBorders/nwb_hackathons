@@ -36,3 +36,7 @@ Representatives from the NWB and DANDI teams, Ryan Ly and Ben Dichter, will prov
 ## Registration
 
 RSVP for the talk and/or workshop [here](https://forms.gle/rroCJtJBdSRuqft46). Registration is free and open to all.
+
+## Flyer
+
+Download the event flyer [here](images/nwb_dandi_bcm_2024_flyer.pdf).
