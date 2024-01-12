@@ -23,7 +23,7 @@ Representatives from the NWB and DANDI teams, Ryan Ly and Ben Dichter, will prov
   * NeuroConv
   * PyNWB and MatNWB APIs
   * Extensions
-* 2-3: Publishing data the DANDI Archive
+* 2-3: Publishing data on the DANDI Archive
   * Uploading data
   * DANDI Metadata
   * Neurosift
