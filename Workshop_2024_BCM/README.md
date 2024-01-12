@@ -1,7 +1,7 @@
 <img alt="banner" src="images/nwb_dandi_bcm_2024_banner.png">
 
 # NWB and DANDI Workshop
-## hosted by the Baylor College of Medicine Neuroscience Department
+### hosted by the Baylor College of Medicine Neuroscience Department
 
 **Dates:** April 15-16, 2024
 
