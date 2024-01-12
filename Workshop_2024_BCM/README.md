@@ -31,7 +31,7 @@ Representatives from the NWB and DANDI teams, Ryan Ly and Ben Dichter, will prov
   * Dendro
   * DANDI API
 
-**April 16, 9-3: NWB and DANDI hacking & office hours.** Participant will bring their own data and work with the NWB and DANDI teams to convert their data to NWB and publish it on DANDI.
+**April 16, 9am - 3pm: NWB and DANDI hacking & office hours.** Participant will bring their own data and work with the NWB and DANDI teams to convert their data to NWB and publish it on DANDI.
 
 ## Registration
 
