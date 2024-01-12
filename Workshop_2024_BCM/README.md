@@ -11,7 +11,7 @@ Representatives from the NWB and DANDI teams, Ryan Ly and Ben Dichter, will prov
 
 ## Agenda
 
-**April 15: NWB and DANDI training**
+**April 15, 11am - 3pm: NWB and DANDI training**
 * 11-12: Introduction to NWB and DANDI
   * Core Format
   * Extensions
