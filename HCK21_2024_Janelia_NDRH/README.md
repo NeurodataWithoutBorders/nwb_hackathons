@@ -3,7 +3,7 @@
 # NeuroDataReHack 2024
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
-* [Report](#report)
+[//]: # (* [Report]&#40;#report&#41;)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
 * [Eligibility](#eligibility)
