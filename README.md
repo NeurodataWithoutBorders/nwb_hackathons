@@ -3,7 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [Brain Data Modeling Hackashop: February 2024](linkml_neurodata_hackashop_2024/README.md) - at the  [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu) in Berkeley, CA, USA, **February 5-7 2024**.
+
 - [Cosyne: February 2024](Cosyne_2024/README.md) - A tutorial session on NWB and DANDI will be held during the
   Computational and Systems Neuroscience (COSYNE) 2024 conference in Lisbon, Portugal on **February 29, 2024**.
 - [NWB and DANDI Workshop: April 2024](Workshop_2024_BCM/README.md) - **April 15 - 16, 2024** at Baylor College of Medicine in Houston, TX, USA
@@ -14,6 +14,7 @@
 
 
 ### Past Events
+- [Brain Data Modeling Hackashop: February 2024](linkml_neurodata_hackashop_2024/README.md) - at the  [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu) in Berkeley, CA, USA, **February 5-7 2024**.
 - [NWB and DANDI Workshop: September 2023](Workshop_2023_Princeton/README.md) - **September 14, 2023** at Princeton University, NJ, USA
 - [NeurodataReHack: September 2023](HCK16_2023_Granada_RH/README.md) - **Sept 5 - 8, 2023** NeuroDataReHack 2 was held in Granada, Spain as a satellite for the [IBRO World Congress](https://ibro2023.org/).
 - [Open NeuroData Showcase: Virtual, Aug 28, 2023](HCK17_2023_OpenNeuroDataShowcase/README.md): **Aug 28, 2023** (virtual)
