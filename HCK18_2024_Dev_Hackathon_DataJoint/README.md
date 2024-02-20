@@ -38,9 +38,8 @@ This is our first NWB hackathon event hosted by DataJoint. Working in the DataJo
 
 We encourage participants to stay at the hackathon until Friday at 5 PM to participate in the final project presentations.
 
-Immediately prior to the NWB Developer Hackathon, DataJoint will be organizing a two-day workshop at the same location.
+Immediately prior to the NWB Developer Hackathon, DataJoint will be organizing the SciOps Summit 2024 at the same location.
 If you are interested in this DataJoint event, we encourage you to register for it as well.
-More details about this event are to come.
 
 DataJoint will also be organizing a social mixer event on the late afternoon of Tuesday, April 16
 for DataJoint workshop participants to mix with NWB Developer Hackathon participants. We encourage participants to arrive early
@@ -48,16 +47,16 @@ enough on Tuesday to attend this mixer.
 
 You can start attending the event(s) on different days for different experiences:
 
-- Start on Monday: full DJ + NWB
-- Tuesday: half DJ + NWB
-- Tuesday afternoon: DJ mixer + NWB
-- Wed-Fri: just NWB
+- Monday & Tuesday: SciOps Summit 2024
+- Tuesday afternoon: DataJoint + NWB mixer
+- Wednesday - Friday: NWB Developer Hackathon 2024
 
 
 ## Registration
 
-Register for the NWB Developer Hackathon and/or the DataJoint Workshop here: [https://forms.gle/xqDYeMy1rCQpRnYU9](https://forms.gle/xqDYeMy1rCQpRnYU9)
+[Register for the NWB Developer Hackathon](https://try.datajoint.com/nwb-hackathon2024)
 
+You can also register for the  SciOps Summit 2024 [here](https://try.datajoint.com/sciops-summit-2024).
 
 ## Logistics
 
