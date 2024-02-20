@@ -17,7 +17,7 @@ The combined report for NeuroDataReHack 2023 and the Open Neurodata Showcase 202
 
 ## Dates and Location
 
-- **Dates:** June 26, 9 - 10:30AM PDT (UTC-7) 2024
+- **Dates:** July 2, 9 - 10:30AM PDT (UTC-7) 2024
 - **Location:** Virtual in Gather (link to be shared closer to the event date)
 
 ## Objective
