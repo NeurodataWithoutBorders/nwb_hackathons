@@ -33,36 +33,36 @@ This is our first NWB hackathon event hosted by DataJoint. Working in the DataJo
 ## Dates and Location
 
 - **Pre-hackathon project pitch session:** TBD
-- **Dates:** Wednesday, April 17, 2024, 9 AM to Friday, April 19, 2024, 5 PM
+- **Dates:** Wednesday, April 17, 2024, 9 AM to Friday, April 19, 2024, 6 PM
 - **Location:** DataJoint headquarters, [4265 San Felipe St #1025, Houston, TX 77027](https://www.google.com/maps/place/4265+San+Felipe+St+%231025,+Houston,+TX+77027/data=!4m2!3m1!1s0x8640c15d907d761d:0x38a7f7a077419384?sa=X&ved=2ahUKEwih_8ykk_GAAxVzEEQIHb_sBvIQ8gF6BAgcEAA&ved=2ahUKEwih_8ykk_GAAxVzEEQIHb_sBvIQ8gF6BAgdEAI)
 
-We encourage participants to stay at the hackathon until Friday at 5 PM to participate in the final project presentations.
+We encourage participants to stay at the hackathon until Friday at 5:30 PM to participate in the final project presentations.
 
 Immediately prior to the NWB Developer Hackathon, DataJoint will be organizing the SciOps Summit 2024 at the same location.
 If you are interested in this DataJoint event, we encourage you to register for it as well.
 
-DataJoint will also be organizing a social mixer event on the late afternoon of Tuesday, April 16
+DataJoint will also be organizing a social mixer event on Tuesday, April 16 at 5:30pm
 for DataJoint workshop participants to mix with NWB Developer Hackathon participants. We encourage participants to arrive early
 enough on Tuesday to attend this mixer.
 
 You can start attending the event(s) on different days for different experiences:
 
-- Monday & Tuesday: SciOps Summit 2024
-- Tuesday afternoon: DataJoint + NWB mixer
-- Wednesday - Friday: NWB Developer Hackathon 2024
-
+- NWB Developer Hackathon only: Join Wednesday to Friday
+- SciOps Summit 2024 and NWB Developer Hackathon: Join Monday to Friday
 
 ## Registration
 
 [Register for the NWB Developer Hackathon](https://try.datajoint.com/nwb-hackathon2024)
 
-You can also register for the  SciOps Summit 2024 [here](https://try.datajoint.com/sciops-summit-2024).
+You can also register for the SciOps Summit 2024 [here](https://try.datajoint.com/sciops-summit-2024).
 
 ## Logistics
 
 ### Housing
 
-TBD
+Housing support is not provided, but we will organize a room block at the 
+[Hampton Inn Houston-Near The Galleria](https://www.hilton.com/en/hotels/houpohx-hampton-houston-near-the-galleria/), 
+which is a short walk to the event. Details TBD.
 
 ### Travel
 
@@ -73,12 +73,12 @@ the hackathon.
 
 ### Dining
 
-TBD
+Breakfast and lunch will be generously provided by DataJoint. 
 
 
 ## Organizing Committee
 
-**Site Chair:** TBD
+**Site Chair:** Kushal Bakshi
 
 **Program chairs:** [Ryan Ly](https://crd.lbl.gov/divisions/scidata/mla/staff/ryan-ly/) and [Ben Dichter](http://bendichter.com/)
 
