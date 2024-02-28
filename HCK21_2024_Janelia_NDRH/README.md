@@ -60,7 +60,7 @@ Applicants should have basic programming experience in Python or MATLAB and expe
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2024 [here](https://forms.gle/tzumwuVgrkdD4zm36). 
 
-* Application deadline: March 1
+* Application deadline: March 10
 * Notification of admission decisions: April 1
 
 ## Logistics
