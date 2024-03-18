@@ -33,7 +33,7 @@ The final report for the 2023 NWB User Days and Developer Days is now available 
 
 ## Registration
 
-Registration is now closed. If you would like to be added, please contact the organizers and we may be able to accomodate your request.
+Registration is now closed. If you would like to be added, please contact the organizers and we may be able to accommodate your request.
 
 ## Logistics
 
