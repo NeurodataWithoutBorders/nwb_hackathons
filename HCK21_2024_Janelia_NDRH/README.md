@@ -3,7 +3,7 @@
 # NeuroDataReHack 2024
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
 
-* [Report](#report)
+[//]: # (* [Report]&#40;#report&#41;)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
 * [Eligibility](#eligibility)
@@ -32,10 +32,10 @@ them on how to maximally utilize the archive and the NWB standard to incorporate
 workflows. Feedback from attendees will be used to improve the software and data standard to better enable 
 reanalysis workflows.
 
-<!--
-Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK16_2023_OpenNeuroDataShowcase/README.md) where attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK16_2023_OpenNeuroDataShowcase/README.md#application) to sign up
+
+Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK20_2024_OpenNeurodataShowcase/README.md) where attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK20_2024_OpenNeurodataShowcase/README.md#application) to sign up
 and read more about this feature event.
--->
+
 
 Example projects include but are not limited to:
 * Determine whether your result is present in another species or brain area.
@@ -60,7 +60,7 @@ Applicants should have basic programming experience in Python or MATLAB and expe
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2024 [here](https://forms.gle/tzumwuVgrkdD4zm36). 
 
-* Application deadline: March 1
+* Application deadline: March 10
 * Notification of admission decisions: April 1
 
 ## Logistics
