@@ -1,6 +1,6 @@
 [codespell]
-skip = .git,*.pdf,*.svg,*_201[789]*,*_2020*
+skip = .git,*.pdf,*.svg,*_201[789]*,*_202[012]*
 # embedded in ipynb images
-ignore-regex = '^\s*"image/\S+": ".*'
+ignore-regex = (^\s*"image/\S+": "|.*_json = {).*
 #
 # ignore-words-list =

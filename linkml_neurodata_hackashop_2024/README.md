@@ -33,7 +33,7 @@ The objective of the event is to bring the neurophysiology data and standards de
 ### Directions
  - **ICSI (Main Event):** ICSI is located in Downtown Berkeley across from the Downtown Berkeley BART station (on the second floor above the CHASE bank), with convenient access to hotels, restaurants, and transit. BART will conveniently get you from the airport to ICSI:
      - **From San Francisco International Airport** Depending on the time you can either take: 1) the Richmond (red) train directly to the Downtown Berkeley station, or 2) the Antioch (yellow) train to 19th Street Oakland and transfer to the Richmond (orange) line (across the platform) to Downtown Berkeley. Transfer time with BART is ~54min.
-     - **From Oakland International Airport** Take the BART conector train from the Airport to the Oakland Coliseum station and transfer to the Richmond (orange) train to Downtown Berkeley BART station. 
+     - **From Oakland International Airport** Take the BART connector train from the Airport to the Oakland Coliseum station and transfer to the Richmond (orange) train to Downtown Berkeley BART station. 
      - [BART online schedule](https://www.bart.gov/planner)
      - [GoogleMap](https://www.google.com/maps/place/International+Computer+Science+Institute/@37.8700159,-122.2695811,18z/data=!3m2!4b1!5s0x80857e9eacbaf82b:0x71414272a685c989!4m6!3m5!1s0x80857e99566a4815:0x9226568954e914ed!8m2!3d37.8700159!4d-122.2685444!16s%2Fg%2F1vb9d8mq?entry=ttu)
  - **LBNL (Bonus Hacking Days):**  Building 59 (Shyh Wang Hall) is located on the Lawrence Berkeley National Laboratory campus. See the [static](https://www2.lbl.gov/Workplace/lab-site-map.html) and 
