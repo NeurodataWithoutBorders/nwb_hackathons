@@ -41,7 +41,7 @@ We encourage participants to stay at the hackathon until Friday at 5:30 PM to pa
 Immediately prior to the NWB Developer Hackathon, DataJoint will be organizing the SciOps Summit 2024 at the same location.
 If you are interested in this DataJoint event, we encourage you to register for it as well.
 
-DataJoint will also be organizing a social mixer event on Tuesday, April 16 at 5:30pm
+DataJoint will also be organizing a social mixer event on Tuesday, April 16 at 5:30 PM
 for DataJoint workshop participants to mix with NWB Developer Hackathon participants. We encourage participants to arrive early
 enough on Tuesday to attend this mixer.
 
@@ -50,19 +50,21 @@ You can start attending the event(s) on different days for different experiences
 - NWB Developer Hackathon only: Join Wednesday to Friday
 - SciOps Summit 2024 and NWB Developer Hackathon: Join Monday to Friday
 
+
 ## Registration
 
 [Register for the NWB Developer Hackathon](https://try.datajoint.com/nwb-hackathon2024)
 
 You can also register for the SciOps Summit 2024 [here](https://try.datajoint.com/sciops-summit-2024).
 
+
 ## Logistics
 
 ### Housing
 
-Housing support is not provided, but we will organize a room block at the 
+Housing support is not provided. We recommend booking housing at the 
 [Hampton Inn Houston-Near The Galleria](https://www.hilton.com/en/hotels/houpohx-hampton-houston-near-the-galleria/), 
-which is a short walk to the event. Details TBD.
+which is a short walk to the event.
 
 ### Travel
 
@@ -73,7 +75,7 @@ the hackathon.
 
 ### Dining
 
-Breakfast and lunch will be generously provided by DataJoint. 
+Breakfast and lunch will be generously provided by DataJoint.
 
 
 ## Organizing Committee
@@ -81,10 +83,6 @@ Breakfast and lunch will be generously provided by DataJoint.
 **Site Chair:** Kushal Bakshi
 
 **Program chairs:** [Ryan Ly](https://crd.lbl.gov/divisions/scidata/mla/staff/ryan-ly/) and [Ben Dichter](http://bendichter.com/)
-
-<!-- **Sponsored by The Kavli Foundation**
-
-<a href="https://kavlifoundation.org/"><img alt="Kavli Foundation logo" src="kavli_logo.svg"></a> -->
 
 
 ## Objective
@@ -103,17 +101,13 @@ The NWB Developer Hackathon will bring neuroscientists, tool builders, and resea
 
 ## Projects
 
-TBD
-
-<!-- To ease collaborative editing of projects we are managing projects in the following Google Docs:
-
-* [**Developer Days Projects**](https://docs.google.com/document/d/1wXELFWmKnJu30_PsZdGw1F3TE9WNyBOvGEFLa-9uMP4/edit?usp=share_link)
+Please add your project ideas and document your project progress in the [**Hackathon Projects Google Doc**](https://docs.google.com/document/d/1stHuLJf4Id5itoFjCsS2W5XatwWw7tZhZSTYJT2ZC4g/edit)
 
 To create a new project, simply:
 
-* Open the project Google Doc. If you are participating and do not have edit access, then please contact the workshop organizers via email or Slack to request access.
+* Open the project Google Doc. If you are participating and do not have edit access, then please contact Ryan via email or Slack to request access.
 * Make a copy of the project template section and add it to the end of the document
-* Update at least your project’s title, key investigators, and project description sections -->
+* Update at least your project’s title, key investigators, and project description sections
 
 
 ## Code of Conduct
