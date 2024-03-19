@@ -101,17 +101,13 @@ The NWB Developer Hackathon will bring neuroscientists, tool builders, and resea
 
 ## Projects
 
-TBD
-
-<!-- To ease collaborative editing of projects we are managing projects in the following Google Docs:
-
-* [**Developer Hackathon Projects**](https://docs.google.com/document/d/1wXELFWmKnJu30_PsZdGw1F3TE9WNyBOvGEFLa-9uMP4/edit?usp=share_link)
+Please add your project ideas and document your project progress in the [**Hackathon Projects Google Doc**](https://docs.google.com/document/d/1stHuLJf4Id5itoFjCsS2W5XatwWw7tZhZSTYJT2ZC4g/edit)
 
 To create a new project, simply:
 
-* Open the project Google Doc. If you are participating and do not have edit access, then please contact the workshop organizers via email or Slack to request access.
+* Open the project Google Doc. If you are participating and do not have edit access, then please contact Ryan via email or Slack to request access.
 * Make a copy of the project template section and add it to the end of the document
-* Update at least your project’s title, key investigators, and project description sections -->
+* Update at least your project’s title, key investigators, and project description sections
 
 
 ## Code of Conduct
