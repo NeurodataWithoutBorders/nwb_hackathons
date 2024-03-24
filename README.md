@@ -6,7 +6,8 @@
 - [NWB and DANDI Workshop: April 2024](Workshop_2024_BCM/README.md) - **April 15 - 16, 2024** at Baylor College of Medicine in Houston, TX, USA
 - [NWB Developer Hackathon: April 2024](HCK18_2024_Dev_Hackathon_DataJoint/README.md): **April 17 - 19, 2024** at DataJoint Headquarters in Houston, TX, USA
 - [NWB Data Conversion Workshop: June 2024](HCK19_2024_Remote/README.md) - **June 12 - 14, 2024** (virtual)
-- [Open Neurodata Showcase: Virtual, July, 2024](HCK20_2024_OpenNeurodataShowcase/README.md): **July 2, 2024** (virtual) 
+- [NWB and DANDI Workshop: June 2024](Workshop_2024_JHU/README.md) - **June 19 - 20, 2024** at Kavli Neuroscience Discovery Institute at Johns Hopkins University, Baltimore, MD, USA
+- [Open Neurodata Showcase: Virtual, July, 2024](HCK20_2024_OpenNeurodataShowcase/README.md): **July 2, 2024** (virtual)
 - [NeuroDataReHack: July 2024](HCK21_2024_Janelia_NDRH/README.md) - NeuroDataReHack 3 will be held at HHMI Janelia Research Campus in Ashburn, Virginia, USA **July 8-12, 2024**.
 
 
