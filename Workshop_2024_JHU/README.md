@@ -2,7 +2,7 @@
 
 # NWB and DANDI Workshop
 
-### hosted by the Kavli Neuroscience Discovery Institute at Johns Hopkins University
+### Hosted by the Kavli Neuroscience Discovery Institute at Johns Hopkins University
 
 **Dates:** June 19-20, 2024
 
