@@ -1,9 +1,8 @@
- Below the current draft of the agenda.
-[Download Agenda](agenda/2024_developer_hackathon_agenda.pdf)
+Below is the current draft of the agenda. [Download Agenda](agenda/2024_developer_hackathon_agenda.pdf)
 
 ### Agenda
 
-<a href="agenda/2024_developer_hackathon_agenda">
+<a href="agenda/2024_developer_hackathon_agenda.pdf">
     <img align="center" alt="Agenda for 2024 NWB Developer Hackathon" src="agenda/2024_developer_hackathon_agenda.png" width="870">
 </a>
 
