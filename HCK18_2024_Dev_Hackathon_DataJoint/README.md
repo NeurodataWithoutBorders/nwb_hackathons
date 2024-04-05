@@ -32,8 +32,7 @@ This is our first NWB hackathon event hosted by DataJoint. Working in the DataJo
 
 ## Dates and Location
 
-- **Pre-hackathon project pitch session:** TBD
-- **Dates:** Wednesday, April 17, 2024, 9 AM to Friday, April 19, 2024, 6 PM
+- **Dates:** Wednesday, April 17, 2024, 9 AM to Friday, April 19, 2024, 5:30 PM
 - **Location:** DataJoint headquarters, [4265 San Felipe St #1025, Houston, TX 77027](https://www.google.com/maps/place/4265+San+Felipe+St+%231025,+Houston,+TX+77027/data=!4m2!3m1!1s0x8640c15d907d761d:0x38a7f7a077419384?sa=X&ved=2ahUKEwih_8ykk_GAAxVzEEQIHb_sBvIQ8gF6BAgcEAA&ved=2ahUKEwih_8ykk_GAAxVzEEQIHb_sBvIQ8gF6BAgdEAI)
 
 We encourage participants to stay at the hackathon until Friday at 5:30 PM to participate in the final project presentations.
