@@ -74,7 +74,7 @@ the hackathon.
 
 ### Dining
 
-Breakfast and lunch will be generously provided by DataJoint.
+Meals will not be provided.
 
 
 ## Organizing Committee
