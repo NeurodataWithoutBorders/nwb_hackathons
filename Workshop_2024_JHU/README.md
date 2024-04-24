@@ -4,7 +4,7 @@
 
 ### Hosted by the Kavli Neuroscience Discovery Institute at Johns Hopkins University
 
-**Dates:** June 19-20, 2024
+**Dates:** June 20-21, 2024
 
 **Tentative Location:** [Clark Hall, Johns Hopkins University, Baltimore, MD, USA](https://maps.app.goo.gl/SUbwXYKHWnRGoRF97)
 
@@ -14,7 +14,7 @@ Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Oliver R
 
 ## Tentative Agenda
 
-**Day 1: June 19, Lectures and Tutorials**
+**June 20: Lectures and Tutorials**
 
 * 11-12: Introduction to NWB and DANDI
   * Core Format
@@ -36,8 +36,20 @@ Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Oliver R
   * DANDI API
 * 3-5: Hackathon
   * Convert your own data to NWB
+ 
+**June 20, evening: Introduction to NWB and DANDI for Students - Pizza Social**
 
-**Day 2: June 20, Hackathon**
+Early-year graduate students, research assistants, and advanced undergraduates are specially invited to an evening workshop to learn about the Neurodata Without Borders (NWB) data standard and DANDI Archive for neurophysiology. The session will be focused on how to get started with using the NWB data standard and re-using public NWB data in your research projects. Pizza will be served. Others are welcome to join, but note that the session will repeat much of the same material presented during the morning/afternoon lectures and tutorials.
+
+6-7: Introduction to NWB and DANDI
+  * Introduction to the NWB ecosystem
+  * Converting data to NWB and publishing on DANDI
+  * Reusing NWB data on DANDI
+  * Using open-source tools for data analysis and visualization of NWB data
+
+7-7:30: Q&A and Discussion
+
+**June 21, Hackathon**
 
 * 9-5: Hackathon
 
