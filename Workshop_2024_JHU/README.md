@@ -10,7 +10,7 @@
 
 Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data while complying with the new NIH data sharing and management policies.
 
-Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Oliver Rübel, will provide an overview of the NWB software ecosystem and teach you how to convert data to NWB and publish data on DANDI.
+Representatives from the NWB and DANDI teams, Ben Dichter and Ryan Ly, will provide an overview of the NWB software ecosystem and teach you how to convert data to NWB and publish data on DANDI.
 
 ## Tentative Agenda
 
