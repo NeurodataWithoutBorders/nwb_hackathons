@@ -25,7 +25,7 @@ Register for the event [here](https://forms.gle/pTsjRMEqsgCRo3VD8).
 
 ## Logistics
 
-We will be using Zoom for the meeting. We will send an email in the days before the workshop with Zoom links.
+We will be using Gather and Zoom for the meeting and will send an email in the days before the workshop with links.
 
 ## Organizing Committee
 
@@ -33,16 +33,14 @@ We will be using Zoom for the meeting. We will send an email in the days before 
 
 ## What to bring?
 
-* Bring any example data sets needed for your project with you to the hackathon. For any lab-specific data (i.e., 
-  data not in NWB), you should know how to read the data using Python or MATLAB and ideally have scripts ready for 
-  reading the data.
+* Please bring any example datasets you would like to convert. For lab-specific data (i.e., data not in these [supported formats](https://nwb-guide.readthedocs.io/en/latest/format_support.html)), you should ideally have scripts for reading the data using Python or MATLAB.
 * Bring your laptop with appropriate software installed. For installation instructions see:
   * [**NWB GUIDE**](https://nwb-guide.readthedocs.io/en/latest/installation.html)
   * [**PyNWB (Python)**](https://pynwb.readthedocs.io/en/stable/install_users.html)
   * [**MatNWB (Matlab)**](https://neurodatawithoutborders.github.io/matnwb/)
 * For an overview of NWB software, see also: 
   * [**Glossary of Core NWB Tools**](https://nwb-overview.readthedocs.io/en/latest/core_tools/core_tools_home.html) 
-  * [**Glossary of Analysis and Visualization Tools**](https://nwb-overview.readthedocs.io/en/latest/tools/tools_home.html)
+  * [**Glossary of Analysis and Visualization Tools**](https://nwb-overview.readthedocs.io/en/latest/tools/analysis_tools_home.html)
 * For an overview of NWB see the [**NWB Overview Docs**](https://nwb-overview.readthedocs.io)
 
 ## Objective
@@ -52,16 +50,14 @@ data and metadata. NWB enables data sharing and reuse and reduces the energy bar
 and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 100 datasets on the
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
-The NWB Data Conversion Workshop will train users how to convert their data to NWB and publish it on the DANDI Archive. 
-We will work with members of the neuroscience community that want to apply NWB to their datasets. We will train 
-attendees, starting from the basics and proceeding to advanced data engineering techniques to maximally utilize the
-features of the HDF5 and Zarr backends. During this workshop, we will also introduce and train users on NWB GUIDE, a 
-no-code user interface for data conversion. 
+The NWB Data Conversion Workshop will train members of the neuroscience community on how to convert their data to NWB and 
+publish it on the DANDI Archive. We will train attendees starting from the basics of the NWB format and proceeding to 
+domain-specific tutorials and advanced data engineering techniques to maximally utilize the features of the HDF5 and Zarr 
+backends. During this workshop, we will introduce multiple sets of tools with varying levels of flexibility for converting
+ your data, including NWB GUIDE, a new no-code user interface for data conversion.
 
-**Note:** This event is meant to foster community and collaboration around NWB, not competition. As such, this is really
-more of a "workshop" or "tutorial" than a "hackathon." There will be no judges nor prizes. Participants will be expected
-to bring data from their own lab, bring their own tool, or other relevant project and/or collaborate with others to 
-build integration with NWB.
+**Note:** All levels of experience are welcome! We will have tutorials ranging from no-code, automated data conversion to 
+more advanced, custom code conversion.
 
 ## Agenda
 
