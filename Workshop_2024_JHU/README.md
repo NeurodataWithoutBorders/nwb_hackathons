@@ -4,44 +4,69 @@
 
 ### Hosted by the Kavli Neuroscience Discovery Institute at Johns Hopkins University
 
-**Dates:** June 19-20, 2024
+**Dates:** June 20-21, 2024
 
 **Tentative Location:** [Clark Hall, Johns Hopkins University, Baltimore, MD, USA](https://maps.app.goo.gl/SUbwXYKHWnRGoRF97)
 
 Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data while complying with the new NIH data sharing and management policies.
 
-Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Oliver Rübel, will provide an overview of the NWB software ecosystem and teach you how to convert data to NWB and publish data on DANDI.
+Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Stephanie Prince, will provide an overview of the NWB software ecosystem and teach you how to convert data to NWB and publish data on DANDI.
 
-## Tentative Agenda
+## Agenda
 
-**Day 1: June 19, Lectures and Tutorials**
+**Day 1: June 20, Lectures and Tutorials**
 
-* 11-12: Introduction to NWB and DANDI
-  * Core Format
-  * Extensions
+* **10:30 - 11:30:** Introduction to NWB and DANDI
+  * Intro to Neurodata Without Borders (NWB)
+  * Intro to DANDI Archive
+  * NWB Extensions
   * Analysis and visualization tools
+  * OpenScope DataBook
   * Other NWB Events
-* 12-1: Networking lunch
-* 1-2: Converting data to NWB
-  * NWB GUIDE
-  * NeuroConv
-  * PyNWB and MatNWB APIs
-  * Extensions
-* 2-3: Publishing and accessing data on the DANDI Archive
-  * Uploading data
-  * DANDI Metadata
+  * Download the GUIDE
+* **11:30 - 12:** NWB GUIDE tutorial. Follow a self-paced walk-through of converting data to NWB and uploading to DANDI using the new NWB GUIDE application.
+* **12 - 1:** Networking lunch
+* **1 - 2:** Walk-through of NeuroConv, PyNWB and MatNWB. These software libraries
+  provide more flexibility than the GUIDE app. This session will walk through their usage
+  and tutorials.
+* **2:00 – 2:30:** Interactive DANDI Demo. Explore the features of DANDI, including how to
+  find and analyze datasets. Topics include:
+  * Navigating DANDI
   * Neurosift
+  * Search
   * DANDI Hub
-  * Dendro
-  * DANDI API
-* 3-5: Hackathon
-  * Convert your own data to NWB
+* **2:30 - 2:45:** Break
+* **2:45 – 3:30:** Interactive demos for analyzing data on DANDI Hub.
+  * Analysis of open data from the Moser Lab in Python on DANDI Hub
+  * Analysis of Dandiset 000011 in MATLAB on DANDI Hub
+* **3:30 - 4:** Interactive demo of Dendro. Follow this self-paced tutorial to learn how to
+    automatically run data processing apps in Dendro, a cloud-based data analysis application.
+* **4 - 5:** BYOD (Bring Your Own Data) Hacking. Developers will be available for 1-1
+  support.
 
-**Day 2: June 20, Hackathon**
+**Day 2: June 21, Hackathon**
 
-* 9-5: Hackathon
+**10 AM - 4 PM:** BYOD (Bring Your Own Data) Hacking. Developers will be available
+for 1-1 support. Targeted break-outs in a second room based on participant interest. Topics might include:
+  * details on specific experiment modalities, 
+  * building and using NWB extensions, or 
+  * advanced data storage.
 
-Participants will bring their own data and work with the NWB and DANDI teams to convert their data to NWB and publish it on DANDI.
+
+On Day 1, we will also host a separate event for early-stage trainees.
+
+**Day 1, Thursday, June 20**
+
+6 - 6:45 PM: Intro to Open Neurophysiology with NWB and DANDI.
+Early-year graduate students, research assistants, and advanced undergraduates are specially invited to an
+evening workshop to learn about the Neurodata Without Borders (NWB) data standard
+and DANDI Archive for neurophysiology. The session will be focused on how to get
+started with using the NWB data standard and re-using public NWB data in your
+research projects. **Pizza will be served.** Others are welcome to join but note that the
+session will repeat much of the same material presented during the morning/afternoon
+lectures and tutorials.
+
+6:45 - 7 PM: Q+A and Discussion
 
 <!-- ## Registration
 
