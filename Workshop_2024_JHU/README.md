@@ -52,6 +52,22 @@ for 1-1 support. Targeted break-outs in a second room based on participant inter
   * building and using NWB extensions, or 
   * advanced data storage.
 
+
+On Day 1, we will also host a separate event for early-stage trainees.
+
+**Day 1, Thursday, June 20**
+
+6 - 6:45 PM: Intro to Open Neurophysiology with NWB and DANDI.
+Early-year graduate students, research assistants, and advanced undergraduates are specially invited to an
+evening workshop to learn about the Neurodata Without Borders (NWB) data standard
+and DANDI Archive for neurophysiology. The session will be focused on how to get
+started with using the NWB data standard and re-using public NWB data in your
+research projects. **Pizza will be served.** Others are welcome to join but note that the
+session will repeat much of the same material presented during the morning/afternoon
+lectures and tutorials.
+
+6:45 - 7 PM: Q+A and Discussion
+
 <!-- ## Registration
 
 The event is free and open to all, but registration is required for security purposes. -->
