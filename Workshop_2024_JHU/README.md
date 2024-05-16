@@ -38,7 +38,7 @@ Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Stephani
 * **2:30 - 2:45:** Break
 * **2:45 – 3:30:** Interactive demos for analyzing data on DANDI Hub.
   * Analysis of open data from the Moser Lab in Python on DANDI Hub
-  * Analysis Dandiset 000011 in MATLAB on DANDI Hub
+  * Analysis of Dandiset 000011 in MATLAB on DANDI Hub
 * **3:30 - 4:** Interactive demo of Dendro. Follow this self-paced tutorial to learn how to
     automatically run data processing apps in Dendro, a cloud-based data analysis application.
 * **4 - 5:** BYOD (Bring Your Own Data) Hacking. Developers will be available for 1-1
