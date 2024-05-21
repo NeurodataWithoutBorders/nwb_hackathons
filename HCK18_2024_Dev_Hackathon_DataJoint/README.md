@@ -3,7 +3,7 @@
 
 # Welcome to the 2024 NWB Developer Hackathon hosted by DataJoint!
 
-  <!-- * [Report](#report) -->
+  * [Report](#report)
   * [Overview](#overview)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -15,9 +15,9 @@
   * [Code of Conduct](#code-of-conduct)
 
 
-<!-- ## Report
+## Report
 
-The final report for the 2022 NWB-DANDI Developer Hackathon is now available on GitHub ([PDF](report/Report___12th_NWB_and_DANDI_Hackathon.pdf)) ([LaTeX](report/Report___12th_NWB_and_DANDI_Hackathon.zip)). -->
+The final report for the 2024 NWB Developer Hackathon is now available on GitHub ([PDF](report/Report_18th_NWB_Developer_Hackathon.pdf)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/zcdnqtcmwgpv#d964cb)).
 
 ## Overview
 
@@ -61,8 +61,8 @@ You can also register for the SciOps Summit 2024 [here](https://try.datajoint.co
 
 ### Housing
 
-Housing support is not provided. We recommend booking housing at the 
-[Hampton Inn Houston-Near The Galleria](https://www.hilton.com/en/hotels/houpohx-hampton-houston-near-the-galleria/), 
+Housing support is not provided. We recommend booking housing at the
+[Hampton Inn Houston-Near The Galleria](https://www.hilton.com/en/hotels/houpohx-hampton-houston-near-the-galleria/),
 which is a short walk to the event.
 
 ### Travel
