@@ -17,7 +17,7 @@
 
 ## Report
 
-The final report for the 2024 NWB Developer Hackathon is now available on GitHub ([PDF](report/)Report_18th_NWB_Developer_Hackathon.pdf) ([LaTeX](report/Report_18th_NWB_Developer_Hackathon.zip)).
+The final report for the 2024 NWB Developer Hackathon is now available on GitHub ([PDF](report/Report_18th_NWB_Developer_Hackathon.pdf) ([LaTeX](report/Report_18th_NWB_Developer_Hackathon.zip)).
 
 ## Overview
 
