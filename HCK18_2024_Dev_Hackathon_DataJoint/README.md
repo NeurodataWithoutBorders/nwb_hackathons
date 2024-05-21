@@ -17,7 +17,7 @@
 
 ## Report
 
-The final report for the 2024 NWB Developer Hackathon is now available on GitHub ([PDF](report/Report_18th_NWB_Developer_Hackathon)) ([LaTeX](https://www.overleaf.com/read/663034e5f103f377af6cfeb8)).
+The final report for the 2024 NWB Developer Hackathon is now available on GitHub ([PDF](report/Report_18th_NWB_Developer_Hackathon)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/zcdnqtcmwgpv#d964cb)).
 
 ## Overview
 
