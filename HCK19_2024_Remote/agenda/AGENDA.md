@@ -1,4 +1,4 @@
-Below is the current draft of the agenda. [Download Agenda](agenda/2024_data_conversion_workshop_agenda.pdf)
+Below is the current draft of the agenda. All times are in Pacific Time (PT, UTC-7). [Download Agenda](agenda/2024_data_conversion_workshop_agenda.pdf)
 
 ### Agenda
 
