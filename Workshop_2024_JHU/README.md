@@ -6,7 +6,7 @@
 
 **Dates:** June 20-21, 2024
 
-**Tentative Location:** Shaffer Hall and Clark Hall, Johns Hopkins University, Baltimore, MD, USA
+**Locations:** Shaffer Hall and Clark Hall, Johns Hopkins University, Baltimore, MD, USA
 
 Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data while complying with the new NIH data sharing and management policies.
 
@@ -14,7 +14,7 @@ Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Stephani
 
 ## Agenda
 
-**Day 1: June 20, Lectures and Tutorials**
+**Day 1: June 20, Lectures and Tutorials** - Location: Shaffer 3
 
 * **10:30 - 11:30:** Introduction to NWB and DANDI
   * Intro to Neurodata Without Borders (NWB)
@@ -44,9 +44,11 @@ Representatives from the NWB and DANDI teams, Ben Dichter, Ryan Ly, and Stephani
 * **4:30 - 5:00:** BYOD (Bring Your Own Data) Hacking. Developers will be available for 1-1
   support.
 
-**Day 2: June 21, Hackathon**
+**Day 2: June 21, Hackathon** - Location: Clark Hall 316
 
-**10 AM - 4 PM:** BYOD (Bring Your Own Data) Hacking. Developers will be available
+**10 AM - 4 PM:** BYOD (Bring Your Own Data) Hacking.
+
+Developers will be available
 for 1-1 support. Targeted break-outs in a second room based on participant interest. Topics might include:
   * details on specific experiment modalities, 
   * building and using NWB extensions, or 
@@ -55,7 +57,7 @@ for 1-1 support. Targeted break-outs in a second room based on participant inter
 
 On Day 1, we will also host a separate event for early-stage trainees.
 
-**Day 1, Thursday, June 20**
+**Day 1, Thursday, June 20** - Location: Clark Hall 110
 
 **6 - 6:45 PM**: Intro to Open Neurophysiology with NWB and DANDI.
 Early-year graduate students, research assistants, and advanced undergraduates are specially invited to an
@@ -77,5 +79,5 @@ Please email sviswa10@jhmi.edu with any questions.
 
 ## Flyer
 
-Download the event flyer [here](images/nwb_dandi_bcm_2024_flyer.pdf)
+Download the event flyer [here](KavliNDI NWB Workshop_Flyer.pdf) and agenda [here](NWB Workshop_Agenda.pdf).
 
