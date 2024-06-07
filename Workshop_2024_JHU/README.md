@@ -55,6 +55,8 @@ for 1-1 support. Targeted break-outs in a second room based on participant inter
   * advanced data storage.
 
 
+## Additional session
+
 On Day 1, we will also host a separate event for early-stage trainees.
 
 **Day 1, Thursday, June 20** - Location: Clark Hall 110
