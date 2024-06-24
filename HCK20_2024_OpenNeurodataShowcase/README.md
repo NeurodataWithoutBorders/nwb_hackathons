@@ -11,10 +11,6 @@
 * [Organizing Committee](#organizing-committee)
 * [Disclaimer](#disclaimer)
 
-## Report
-
-The combined report for NeuroDataReHack 2023 and the Open Neurodata Showcase 2023 is now available online at [[PDF (GitHub)](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf)] [[LaTeX (Overleaf)](https://www.overleaf.com/read/gzpkpyzcrvfr#1400b0)].
-
 ## Dates and Location
 
 - **Dates:** July 2, 9 - 10:30AM PDT (UTC-7) 2024
