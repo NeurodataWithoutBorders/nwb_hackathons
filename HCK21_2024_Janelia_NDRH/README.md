@@ -6,13 +6,15 @@
 [//]: # (* [Report]&#40;#report&#41;)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
-* [Eligibility](#eligibility)
-* [Application](#application)
 * [Logistics](#logistics)
 * [Organizing Committee](#organizing-committee)
 * [Resources](#resources)
 * [What to bring?](#what-to-bring)
+* [Schedule](#schedule)
 * [Disclaimer](#disclaimer)
+
+[//]: # (* [Eligibility]&#40;#eligibility&#41;)
+[//]: # (* [Application]&#40;#application&#41;)
 
 
 ## Dates and Location
@@ -50,6 +52,7 @@ awards $50,000 (USD) of funding to continue data reanalysis projects that come o
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB User Days event.
 
+<!-- 
 ## Eligibility
 
 This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
@@ -62,6 +65,8 @@ Space for the event is limited. Apply to attend NeuroDataReHack 2024 [here](http
 
 * Application deadline: March 10
 * Notification of admission decisions: April 1
+
+-->
 
 ## Logistics
 
@@ -96,14 +101,12 @@ instructions on how to install PyNWB, see
 on how to install MatNWB, see
 [the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
 
-<!--
 ## Schedule
 Tentative schedule:
 
 <img align="center" alt="Agenda NeuroDataReHack 2023" src="AgendaNeuroDataReHack2024.png" width="870">
 
 [PDF](AgendaNeuroDataReHack2024.pdf)
--->
 
 ## Disclaimer
 
