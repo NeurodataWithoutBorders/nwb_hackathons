@@ -49,10 +49,14 @@ If you are interested in **presenting** your dandiset(s), register as a presente
 | Introduction to the virtual data showcase | Organizers        | 9:00-9:20am   |
 | Virtual poster session                    | Data Contributors | 9:20-10:30am  |
 
-<!--
 ## Presenters
-
--->
+* Saskia de Vries, "Allen Institute Observatory - Visual Coding Calcium Imaging Datasets", [DANDI:000728](https://dandiarchive.org/dandiset/000728/draft), [DANDI:000039](https://dandiarchive.org/dandiset/000039), [DANDI:000049](https://dandiarchive.org/dandiset/000049)
+* Alessio Buccino, "SpikeInterface, a unified framework for spike sorting", [DANDI:000034](https://dandiarchive.org/dandiset/000034/0.211030.0713)
+* Xinyue Ma, "Patch-seq recordings from mouse visual cortex", [DANDI:000020](https://dandiarchive.org/dandiset/000020/0.210913.1639)
+* Olivier Winter, "IBL - Brain Wide Map" and "IBL behavioral data", [DANDI:000409](https://dandiarchive.org/dandiset/000409), [DANDI:000045](https://dandiarchive.org/dandiset/000045), [DANDI:000049](https://dandiarchive.org/dandiset/000049)
+* Michael Kyzar, "Data for: Control of working memory maintenance by theta-gamma phase amplitude coupling of human hippocampal neurons" and "Dataset of human-single neuron activity during a Sternberg working memory task.", [DANDI:000673](https://dandiarchive.org/dandiset/000673), [DANDI:000469](https://dandiarchive.org/dandiset/000469)
+* Kevin Le, "Data for: Multimodal single-neuron, intracranial EEG, and fMRI brain responses during movie watching in human patients", [DANDI:000623](https://dandiarchive.org/dandiset/000623)
+* Carolina Filipe, "Neurotask Benchmark Datasets", [DANDI:001055](https://dandiarchive.org/dandiset/001055),, [DANDI:001056](https://dandiarchive.org/dandiset/001056), [DANDI:001057](https://dandiarchive.org/dandiset/001057), [DANDI:001058](https://dandiarchive.org/dandiset/001058), [DANDI:001059](https://dandiarchive.org/dandiset/001059), [DANDI:001060](https://dandiarchive.org/dandiset/001060)
 
 ## Organizing Committee
 
