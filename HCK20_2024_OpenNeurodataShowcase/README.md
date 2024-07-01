@@ -6,7 +6,7 @@
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
 * [Eligibility](#eligibility)
-* [Application](#application)
+* [Registration](#registration)
 * [Virtual Data Showcase Agenda](#agenda)
 * [Organizing Committee](#organizing-committee)
 * [Disclaimer](#disclaimer)
@@ -35,11 +35,11 @@ This virtual event is open to anyone interested in neurophysiology data, includi
 * Undergraduates and high school students interested in learning about neuroscience
 * Open science advocates
 
-## Application
+## Registration
 
 If you are interested in **attending** the event, register [here](https://forms.gle/amPd4h5kN9BPLX4g7). 
 
-If you are interested in **presenting** your dandiset(s), register as a presenter at Open Neurodata Showcase 2024 [here](https://forms.gle/FwMEEtvQUtzFiEhg7).
+[//]: # (If you are interested in **presenting** your dandiset&#40;s&#41;, register as a presenter at Open Neurodata Showcase 2024 [here]&#40;https://forms.gle/FwMEEtvQUtzFiEhg7&#41;.)
 
 ## Virtual Data Showcase Agenda
 
