@@ -90,6 +90,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 Resources will be posted here to help participants prepare for the event.
 
 * Search API tutorials
+    * All slides: [Google Slides](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
     * [Basic API tutorial](tutorials/simple_dandiset_search.ipynb)
     * [Advanced API tutorial](tutorials/advanced_asset_search.ipynb)
 
