@@ -89,14 +89,10 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 
 Resources will be posted here to help participants prepare for the event.
 
+* All slides: [Google Drive](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
 * Search API tutorials
-    * All slides: [Google Slides](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
     * [Basic API tutorial](tutorials/simple_dandiset_search.ipynb)
     * [Advanced API tutorial](tutorials/advanced_asset_search.ipynb)
-
-* A report of the first NeuroDataReHack event: ([PDF](../HCK14_2022_Seattle_RH/report/Report_Neurodata_Rehack_v2.pdf))
-* A report of the second NeuroDataReHack event: ([PDF](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf))
-* Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
 
 ## What to bring?
 
@@ -105,6 +101,11 @@ instructions on how to install PyNWB, see
 [the PyNWB documentation](https://pynwb.readthedocs.io/en/stable/install_users.html#installing-pynwb). For instructions
 on how to install MatNWB, see
 [the MatNWB documentation](https://github.com/NeurodataWithoutBorders/matnwb/blob/master/README.md)
+
+## Past events
+* A report of the first NeuroDataReHack event: ([PDF](../HCK14_2022_Seattle_RH/report/Report_Neurodata_Rehack_v2.pdf))
+* A report of the second NeuroDataReHack event: ([PDF](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf))
+* Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
 
 ## Schedule
 Tentative schedule:
