@@ -14,6 +14,12 @@
   * [Disclaimer](#disclaimer)
   
 
+## Report
+
+The final report for the 2024 NWB Data Conversion Workshop is now available. You can also find recordings of the tutorials on the NeurodataWithoutBorders YouTube channel.
+- [Workshop report](https://drive.google.com/file/d/1rhgCXs_N1OLFDI4VyEQ_vpWnvldzJW31/view?usp=sharing)
+- [Recorded tutorials](https://www.youtube.com/watch?v=xZiSesEVA3o&list=PL5wPNhoBP0ZB2sLuRKWqwgXf9V3FRl1bw)
+
 ## Dates and Location
 
 - **Dates:** June 12-14, 2024
