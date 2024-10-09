@@ -3,9 +3,9 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [NWB and DANDI Workshop INCF: September 2024](Workshop_2024_INCF/README.md) -  **September 26-27, 2024** in Austin, Texas, USA.
 
 ### Past Events
+- [NWB and DANDI Workshop INCF: September 2024](Workshop_2024_INCF/README.md) -  **September 26-27, 2024** in Austin, Texas, USA.
 - [NeuroDataReHack: July 2024](HCK21_2024_Janelia_NDRH/README.md) - NeuroDataReHack 3 was held at HHMI Janelia Research Campus in Ashburn, Virginia, USA **July 8-12, 2024**.
 - [Open Neurodata Showcase: Virtual, July, 2024](HCK20_2024_OpenNeurodataShowcase/README.md): **July 2, 2024** (virtual)
 - [NWB and DANDI Workshop: June 2024](Workshop_2024_JHU/README.md) - **June 20 - 21, 2024** at Kavli Neuroscience Discovery Institute at Johns Hopkins University, Baltimore, MD, USA
