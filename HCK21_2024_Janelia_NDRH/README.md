@@ -16,6 +16,11 @@
 [//]: # (* [Eligibility]&#40;#eligibility&#41;)
 [//]: # (* [Application]&#40;#application&#41;)
 
+## Report
+
+The final report for NeuroDataReHack 2024 is now available online at [[PDF](https://drive.usercontent.google.com/u/0/uc?id=1QYw9jmIpKPXPMLmhTnVIIWgbWHL5tPS3&export=download)].
+
+
 
 ## Dates and Location
 
