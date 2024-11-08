@@ -3,6 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
+- [Cosyne: March 2025](Cosyne_2025/README.md) - A tutorial session on NWB and DANDI will be held during the Computational and Systems Neuroscience (COSYNE) 2025 conference in Montreal, Canada on **March 27, 2025**.
 
 ### Past Events
 - [NWB and DANDI Workshop INCF: September 2024](Workshop_2024_INCF/README.md) -  **September 26-27, 2024** in Austin, Texas, USA.
