@@ -10,7 +10,7 @@ The goal of this tutorial is to teach you how to share your neurophysiology data
 
 At this tutorial, we will teach you how to:
 - convert neurophysiology data to NWB and publish it on DANDI using the new [NWB GUIDE app](https://nwb-guide.readthedocs.io/en/stable/) and other tools
-- read NWB data streamed from DANDI using LINDI for efficient streaming
+- efficiently stream NWB data from DANDI using LINDI
 - process, analyze, and manage NWB data using popular community tools, including tools that have not previously presented as part of this tutorial
 
 Bring your laptop to work along with the demonstration. To get familiar with NWB and DANDI prior to attending, please refer to this [documentation](https://nwb-overview.readthedocs.io/en/latest/index.html).
