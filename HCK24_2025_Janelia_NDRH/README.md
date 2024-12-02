@@ -19,7 +19,7 @@
 
 [//]: # ()
 [//]: # (The final report for NeuroDataReHack 2024 is now available online at [[PDF]&#40;https://drive.usercontent.google.com/u/0/uc?id=1QYw9jmIpKPXPMLmhTnVIIWgbWHL5tPS3&export=download&#41;].)
-`
+
 
 
 ## Dates and Location
