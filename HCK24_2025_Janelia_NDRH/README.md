@@ -40,8 +40,10 @@ workflows. Feedback from attendees will be used to improve the software and data
 reanalysis workflows.
 
 
-Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK20_2024_OpenNeurodataShowcase/README.md) where attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the [event page](../HCK20_2024_OpenNeurodataShowcase/README.md#application) to sign up
-and read more about this feature event.
+Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK23_2025_OpenNeurodataShowcase/README.md) where
+attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the
+[event page](../HCK23_2025_OpenNeurodataShowcase/README.md#application) to sign up and read more about this feature
+event.
 
 
 Example projects include but are not limited to:
@@ -80,7 +82,7 @@ Applications for NeuroDataReHack 2025 have not opened yet.
 Thanks to the generous sponsorship of The Janelia Research Campus, this event will be free to participants:
 * There is no registration or application fee.
 * Participants will be provided a private room at Janelia Research Campus for the duration of this event, 
-  checking in on Sunday, July 7, and checking out on Friday, July 12 or Saturday, July 13.
+  checking in on Sunday, July 13, and checking out the evening of Friday, July 18 or the morning of Saturday, July 19.
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight and transportation to Janelia Research Campus.
 * You will be responsible for determining visa and/or healthcare requirements for travel to the United States.
