@@ -72,7 +72,7 @@ more advanced, custom code conversion.
 
 ## Agenda
 
-{% include_relative agenda/AGENDA.md %}
+The agenda will be shared at a later date.
 
 ## Code of Conduct
 
