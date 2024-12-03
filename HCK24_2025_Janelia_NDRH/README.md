@@ -97,7 +97,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 
 Resources will be posted here to help participants prepare for the event.
 
-* All slides: [Google Drive](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
+* Slides from the 2024 NeuroDataReHack: [Google Drive](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
 * Search API tutorials
     * [Basic API tutorial](tutorials/simple_dandiset_search.ipynb)
     * [Advanced API tutorial](tutorials/advanced_asset_search.ipynb)
