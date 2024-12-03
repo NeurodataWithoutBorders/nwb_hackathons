@@ -91,6 +91,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Benjamin Dichter, CatalystNeuro
 * Oliver Rübel, Lawrence Berkeley National Laboratory
 * Ryan Ly, Lawrence Berkeley National Laboratory
+* Steph Prince, Lawrence Berkeley National Laboratory
 
 ## Resources
 
