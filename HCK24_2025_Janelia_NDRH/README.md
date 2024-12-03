@@ -112,6 +112,7 @@ on how to install MatNWB, see
 ## Past events
 * A report of the first NeuroDataReHack event: ([PDF](../HCK14_2022_Seattle_RH/report/Report_Neurodata_Rehack_v2.pdf))
 * A report of the second NeuroDataReHack event: ([PDF](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf))
+* A report of the third NeuroDataReHack event: ([PDF](https://drive.usercontent.google.com/u/0/uc?id=1QYw9jmIpKPXPMLmhTnVIIWgbWHL5tPS3&export=download))
 * Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
 
 [//]: # (## Schedule)
