@@ -1,6 +1,6 @@
 <img alt="NWB Data Conversion Workshop Banner" src="images/logo_brain_text_white_hor.png">
 
-# NWB Data Conversion Workshop 2024
+# NWB Data Conversion Workshop 2025
 
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
