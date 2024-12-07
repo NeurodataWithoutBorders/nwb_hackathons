@@ -1,4 +1,4 @@
-[//]: # (<img alt="NeuroDataReHack banner" src="images/NDRH2025_banner.png">)
+<img alt="NeuroDataReHack banner" src="images/NDRH2025_banner.png">
 
 # NeuroDataReHack 2025
 ## *Generate new insights from existing neurophysiology data through secondary analysis*
@@ -97,6 +97,7 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 
 Resources will be posted here to help participants prepare for the event.
 
+* [Event Flyer](images/NDRH_flyer-2025.pdf)
 * Slides from the 2024 NeuroDataReHack: [Google Drive](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
 * Search API tutorials
     * [Basic API tutorial](tutorials/simple_dandiset_search.ipynb)
