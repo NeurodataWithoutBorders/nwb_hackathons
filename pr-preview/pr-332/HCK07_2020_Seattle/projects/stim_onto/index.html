@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/stim_onto/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/stim_onto/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/stim_onto/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=93311edb7b6ee182501fbd7b8a5f23dd3372ce5d">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=93311edb7b6ee182501fbd7b8a5f23dd3372ce5d">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK07_2020_Seattle/projects/stim_onto/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK07_2020_Seattle/#ProjectsList"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<h1 id="stimulus-representation-and-parametrization-in-nwb">Stimulus representation and parametrization in NWB</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Pamela Baker</li>
+  <li>Shreejoy Tripathy</li>
+  <li>Lydia Ng</li>
+</ul>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>The problem: labs performing icephys are often delivering the same (or
+very similar) types of stimuli (e.g., long steps, ramps, chirps,
+etc). Despite the stereotyped nature of these stimuli, the NWB schema 
+currently does not support a standardized stimulus representation,
+leaving it up to the user to determine how to describe the stimulus
+protocol and what stimulus metadata to include. This lack of standard
+representation leads to difficulty in identifying similar protocols
+across datasets and development of shared analysis scripts for
+quantitative feature extraction.</p>
+
+<p>In addition, there is often considerable redundancy in the stimulus
+set that defines a single experimental protocol because the
+stimuli typically differ by only a single parameter (e.g. amplitude,
+latency, frequency) that is varied over some range of pre-selected
+values to generate a tuning curve or compute a metric. These variable
+parameters should be made explicit in the stimulus representation.
+Parametrization also allows stimuli to be represented compactly, and
+is practically a necessity for more complex types that can not be
+represented as 1D time series.</p>
+
+<p>This work applies not only to patch clamp experiments but will also
+be directly applicable to other 1D time-varying stimulus types,
+including extracellular electrical stimulation and optogenetic
+stimulation protocols.</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<ol>
+  <li>
+    <p>Define a canonical set of 1D stimulus waveforms typically used in
+  IC ephys experiments, and the parameters needed to describe each
+  stimulus type (minimum to specify).</p>
+  </li>
+  <li>
+    <p>Develop a representation in NWB that supports parametrized
+stimulus definition and exposes variable parameters for
+search/revealing experimental design.</p>
+  </li>
+  <li>
+    <p>Determine the minimum set of stimulus metadata
+  that should be defined at each level of the experimental protocol
+  (sweep/sequence/stimset/condition/etc) for comprehensive
+  experimental descriptions.</p>
+  </li>
+  <li>
+    <p>Design desired visualizations for stimuli and stimulus protocols
+with widgets.</p>
+  </li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ul>
+  <li>
+    <p>For 1-D waveform types we already have e.g. the WaveformBuilder in
+MIES that defines a base set of stimulus types, with associated
+parameters, as a starting point. It appears that the Channelpedia
+stimuli can be constructed from the same set of elements as well.</p>
+  </li>
+  <li>
+    <p>Stimulus representation also dovetails into the issue of overall
+experimental protocol representation, so we will also end up touching
+on issues that relate to provenance. I would like to discuss some ideas
+for how stimulus parameterization and metadata representation
+(objectives 3 and 4) could be integrated with the IC ephys
+hierarchical tables extension.</p>
+  </li>
+</ul>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
+<!--Describe the next steps you are planing to take to complete the project.-->
+
+<h2 id="materials">Materials</h2>
+
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)-->
+
+<h2 id="background-and-references">Background and References</h2>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data -->
+
+<ul>
+  <li>Luke Campagnola had a previous Hackathon project that made a good start
+on some of these issues, specifically the issue of stimulus
+atomization/composition (see [here:] 
+(https://github.com/NeurodataWithoutBorders/nwb_hackathons/tree/master/HCK04_2018_Seattle/Projects/StimulusMetadata)).</li>
+</ul>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

@@ -1,0 +1,19 @@
+groups:
+- datasets:
+  - dims:
+    - array_size
+    doc: an array
+    dtype: float
+    name: anarray
+    shape:
+    - null
+  - dims:
+    - array_size
+    doc: an float
+    dtype: float
+    name: afloat
+    shape:
+    - null
+  doc: just an example
+  neurodata_type_def: DummyClass
+  neurodata_type_inc: NWBContainer
