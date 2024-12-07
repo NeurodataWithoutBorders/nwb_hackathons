@@ -97,7 +97,7 @@ If you have any questions about this event, please contact Ben at ben.dichter [a
 
 Resources will be posted here to help participants prepare for the event.
 
-* [Event Flyer](images/NDRH_flyer-2025.pdf)
+* [Event Flyer](https://drive.google.com/file/d/1ptsGRa1sEMh-je7L_ff3CgtRTj-X11lO/view?usp=sharing)
 * Slides from the 2024 NeuroDataReHack: [Google Drive](https://drive.google.com/drive/folders/1DAmQr4qWCamhj_2Zyke0kkHGvV8Kyq13?usp=sharing)
 * Search API tutorials
     * [Basic API tutorial](tutorials/simple_dandiset_search.ipynb)
