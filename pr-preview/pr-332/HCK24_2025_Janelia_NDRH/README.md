@@ -69,10 +69,8 @@ Applicants should have basic programming experience in Python or MATLAB and expe
 
 Space for the event is limited. Apply to attend NeuroDataReHack 2025 [here](https://forms.gle/cR9sm5wjAt8oqTaT7). 
 
-[//]: # ()
-[//]: # (* Application deadline: Feb 15)
-
-[//]: # (* Notification of admission decisions: April 1)
+* Application deadline: Feb 12
+* Notification of admission decisions: March 15
 
 
 ## Logistics
@@ -92,6 +90,8 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Oliver Rübel, Lawrence Berkeley National Laboratory
 * Ryan Ly, Lawrence Berkeley National Laboratory
 * Steph Prince, Lawrence Berkeley National Laboratory
+
+If you have any questions about this event, please contact Ben at ben.dichter [at] catalystneuro [dot] com
 
 ## Resources
 
@@ -116,6 +116,31 @@ on how to install MatNWB, see
 * A report of the second NeuroDataReHack event: ([PDF](../HCK16_2023_Granada_RH/report/Report__NeuroDataReHack_2023.pdf))
 * A report of the third NeuroDataReHack event: ([PDF](https://drive.usercontent.google.com/u/0/uc?id=1QYw9jmIpKPXPMLmhTnVIIWgbWHL5tPS3&export=download))
 * Recordings of talks will be made available on the [NWB Youtube channel](https://www.youtube.com/channel/UCfD_mU-EFz135a9TpNFJP5A).
+
+## Testimonials from NeuroDataReHack 2024
+
+This workshop was enlightening, and I'm excited to bring these tools back to my research group and my university!
+- Miles Martinez, Duke University
+
+----------
+
+The Hackathon was an incredible experience. I had the opportunity to get familiar with not only NWB but also the expanding NWB ecosystem. Additionally, the week was fantastic for connecting with others working on similar topics. I established potential collaborations and learned from people working on different topics as well.
+- Carolina Filipe, Champalimaud Foundation
+
+----------
+
+NeuroDataReHack 2024 is a inspiring tour to the ecosystem that the NWB and DANDI has supported, including a set of useful tools, datasets, and example notebook to hand on. Great opportunities to meet the organizers that make those things happen, and to connect with other researchers interested in dataset reuse.
+- Xinyue Ma, McGill University
+
+----------
+
+ The sessions on the DANDI archive and NWB format and accessible analysis tools were extremely helpful and made the tools fairly easy to use considering how powerful they are. The organizers and presenters did a great job breaking down complex topics and were really approachable and helpful throughout. Plus, getting to meet people from all over with similar interests was great. Big thanks to everyone who put this together – it was educational and fun.
+ - Keith Van Antwerp, Georgia Tech
+
+----------
+
+NeuroDataReHack was a transformative experience. I left the hackathon inspired, equipped with new skills, and excited about the future of neuroscience. I highly recommend checking out the DANDI Archive, Neurodata Without Borders, and training opportunities like NeuroDataReHack for anyone looking to enhance the quality of their own research, promote the open exchange of neurodata, and contribute to the global success of neuroscience research.
+- Megan Parsons, Neuroengineer
 
 [//]: # (## Schedule)
 
