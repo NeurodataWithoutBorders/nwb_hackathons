@@ -30,9 +30,7 @@
 
 ## Registration
 
-Registration has not opened yet.
-
-[//]: # (Register for the event [here]&#40;https://forms.gle/pTsjRMEqsgCRo3VD8&#41;.)
+Register for the event [here](https://forms.gle/5Sewge3qpozxnrATA).
 
 ## Logistics
 
