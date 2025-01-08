@@ -8,6 +8,7 @@
 * [Objective](#objective)
 * [Logistics](#logistics)
 * [Organizing Committee](#organizing-committee)
+* [Additional Instructors](#additional-instructors)
 * [Resources](#resources)
 * [What to bring?](#what-to-bring)
 * [Schedule](#schedule)
@@ -92,6 +93,11 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Steph Prince, Lawrence Berkeley National Laboratory
 
 If you have any questions about this event, please contact Ben at ben.dichter [at] catalystneuro [dot] com
+
+## Additional Instructors
+
+* Jeremy Magland: Senior Data Scientist, Numerical Analysis, CCM, Flatiron Institute
+  * Lead developer of Neurosift, FigURL, and Dendro
 
 ## Resources
 
