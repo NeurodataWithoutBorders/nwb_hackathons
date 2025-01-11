@@ -81,7 +81,7 @@ Install the Python or MATLAB software for NWB:
   * PyNWB (Python): [https://pynwb.readthedocs.io/en/stable/getting_started.html](https://pynwb.readthedocs.io/en/stable/getting_started.html)
   * MatNWB (MATLAB): [https://neurodatawithoutborders.github.io/matnwb/](https://neurodatawithoutborders.github.io/matnwb/)
 
-If you are not experienced with DANDI, please read the [DANDI documentation](https://www.dandiarchive.org/handbook/), browse the [DANDI GitHub organization](https://github.com/dandi/), and create an account on [DANDI](https://gui.dandiarchive.org/#/).
+If you are not experienced with DANDI, please read the [DANDI documentation](https://docs.dandiarchive.org), browse the [DANDI GitHub organization](https://github.com/dandi/), and create an account on [DANDI](https://dandiarchive.org).
 
 ## Projects
 
