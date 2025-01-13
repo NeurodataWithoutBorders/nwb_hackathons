@@ -60,6 +60,66 @@ awards $50,000 (USD) of funding to continue data reanalysis projects that come o
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB Data Conversion Workshop.
 
+## Instructors
+
+<div class="instructor-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/jeremy_magland.avif" alt="Jeremy Magland" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Jeremy Magland, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Senior Data Scientist<br>Numerical Analysis, CCM<br>Flatiron Institute</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>Neurosift</li>
+            <li>FigURL</li>
+            <li>Dendro</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/carsen_stringer.jpg" alt="Carsen Stringer" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Carsen Stringer, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>rastermap</li>
+            <li>suite2p</li>
+            <li>facemap</li>
+            <li>cellpose</li>
+            <li>and more</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/guillaume_viejo.avif" alt="Guillaume Viejo" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Guillaume Viejo, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Data Scientist<br>CCN, Flatiron Institute</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>pynapple</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/carter_peene.jpg" alt="Carter Peene" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Carter Peene</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Data Analyst I<br>Allen Institute for Neural Dynamics</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>OpenScope Databook</li>
+        </ul>
+    </div>
+</div>
+
+</div>
+
 ## Eligibility
 
 This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
@@ -94,14 +154,6 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 
 If you have any questions about this event, please contact Ben at ben.dichter [at] catalystneuro [dot] com
 
-## Additional Instructors
-
-* Jeremy Magland, Ph.D.: Senior Data Scientist, Numerical Analysis, CCM, Flatiron Institute
-  * Lead developer of Neurosift, FigURL, and Dendro
-* Carsen Stringer, Ph.D.: Group leader at HHMI Janelia Research Campus
-  * Lead developer: rastermap, suite2p, facemap, cellpose, and more
-* Guillaume Viejo, Ph.D.: Data Scientist, CCN, Flatiron Institute
-  * Lead developer: pynapple
 
 ## Resources
 
