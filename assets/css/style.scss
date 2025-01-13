@@ -2,132 +2,36 @@
 ---
 
 @import "{{ site.theme }}";
-@import "https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css";
 
-.github-fork-ribbon {
-  &:before {
-    background-color: lightgray;
-  }
-}
-
-// Enhanced header image
-img[alt="Remote hackathon"] {
-  display: block;
-  margin: 2rem auto;
-  max-width: 600px;
-  width: 100%;
-}
-
-// Improved headings
-h2 {
-  border-bottom: 2px solid #0366d6;
-  padding-bottom: 0.5rem;
-  margin-top: 2.5rem;
-  color: #24292e;
-}
-
-h3 {
-  color: #2f363d;
-  margin-top: 2rem;
-}
-
-// Better list styling
-ul {
-  padding-left: 1.5rem;
-}
-
-li {
-  margin: 0.5rem 0;
-  line-height: 1.6;
-}
-
-// Event listings
-li a {
-  font-weight: 600;
-  color: #0366d6;
-  text-decoration: none;
-  
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-// Improved paragraphs and text
-p {
-  line-height: 1.8;
-  margin: 1rem 0;
-  color: #24292e;
-}
-
-// Better section spacing
 .main-content {
-  max-width: 1012px;
-  margin: 0 auto;
-  padding: 2rem;
-}
-
-// Blockquote styling
-blockquote {
-  border-left: 4px solid #0366d6;
-  margin: 1rem 0;
-  padding: 0.5rem 1rem;
-  color: #586069;
-  background-color: #f6f8fa;
-}
-
-// Code block styling
-code {
-  padding: 0.2em 0.4em;
-  background-color: #f6f8fa;
-  border-radius: 3px;
-  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-}
-
-// Table improvements
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1rem 0;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  
-  th, td {
-    padding: 0.75rem;
-    border: 1px solid #e1e4e8;
-  }
-  
-  th {
-    background-color: #f6f8fa;
-    font-weight: 600;
-    text-align: left;
-  }
-  
-  tr {
-    &:nth-child(even) {
-      background-color: #f8f9fa;
-    }
+  blockquote {
+    margin: 2.5rem 0;
+    padding: 1.75rem;
+    background: #ffffff;
+    border-left: 4px solid #0366d6;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    color: #24292e;
     
-    &:hover {
-      background-color: #f1f8ff;
+    p {
+      margin: 0;
+      font-style: italic;
+      line-height: 1.6;
+      color: #444d56;
+      font-size: 1.05em;
+      
+      &:last-of-type {
+        margin-top: 1rem;
+        color: #586069;
+        font-style: normal;
+        font-size: 0.9em;
+        text-align: right;
+        
+        &::before {
+          content: "— ";
+          color: #0366d6;
+        }
+      }
     }
   }
-}
-
-// Enhanced link styling
-a {
-  color: #0366d6;
-  text-decoration: none;
-  transition: color 0.2s ease;
-  
-  &:hover {
-    color: #035fc7;
-    text-decoration: underline;
-  }
-}
-
-// Horizontal rule styling
-hr {
-  height: 2px;
-  background-color: #e1e4e8;
-  border: none;
-  margin: 2rem 0;
 }
