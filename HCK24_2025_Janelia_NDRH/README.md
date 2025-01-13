@@ -98,6 +98,8 @@ If you have any questions about this event, please contact Ben at ben.dichter [a
 
 * Jeremy Magland: Senior Data Scientist, Numerical Analysis, CCM, Flatiron Institute
   * Lead developer of Neurosift, FigURL, and Dendro
+* Carsen Stringer: Group leader at HHMI Janelia Research Campus
+  * Lead developer: rastermap, suite2p, facemap, cellpose, and more
 
 ## Resources
 
