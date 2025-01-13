@@ -63,7 +63,7 @@ The first two should be easy, the third is fairly open... After completing the f
 * the corresponding validation tool, for now called [AnDOChecker](https://github.com/INT-NIT/AnDO)
 * the draft of a BIDS-compliant NWB [dataset](https://drive.google.com/drive/u/1/folders/1-5HgytYZQLkXgm3-R9kpZj-EhEqHs_2f)
 * the first version of a conversion tool [from NWB to BIDS](https://github.com/catalystneuro/BIDS_ephys/blob/master/BIDS_ext.py)
-* the [DANDI CLI](https://www.dandiarchive.org/handbook/10_using_dandi/#uploading-a-dandiset), that include tools to organize NWB files for DANDI
+* the [DANDI CLI](https://docs.dandiarchive.org/10_using_dandi), that include tools to organize NWB files for DANDI
 
 ## Background and References
 
