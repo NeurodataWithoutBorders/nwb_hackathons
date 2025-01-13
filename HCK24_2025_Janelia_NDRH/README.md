@@ -6,9 +6,8 @@
 [//]: # (* [Report]&#40;#report&#41;)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
+* [Instructors](#instructors)
 * [Logistics](#logistics)
-* [Organizing Committee](#organizing-committee)
-* [Additional Instructors](#additional-instructors)
 * [Resources](#resources)
 * [What to bring?](#what-to-bring)
 * [Schedule](#schedule)
@@ -20,8 +19,6 @@
 
 [//]: # ()
 [//]: # (The final report for NeuroDataReHack 2024 is now available online at [[PDF]&#40;https://drive.usercontent.google.com/u/0/uc?id=1QYw9jmIpKPXPMLmhTnVIIWgbWHL5tPS3&export=download&#41;].)
-
-
 
 ## Dates and Location
 
@@ -40,12 +37,10 @@ them on how to maximally utilize the archive and the NWB standard to incorporate
 workflows. Feedback from attendees will be used to improve the software and data standard to better enable 
 reanalysis workflows.
 
-
 Prior to the workshop, we are organizing [Open Neurodata Showcase](../HCK23_2025_OpenNeurodataShowcase/README.md) where
 attendees can meet the contributors behind the neurophysiology datasets and explore virtual posters. Visit the
 [event page](../HCK23_2025_OpenNeurodataShowcase/README.md#application) to sign up and read more about this feature
 event.
-
 
 Example projects include but are not limited to:
 * Determine whether your result is present in another species or brain area.
@@ -60,11 +55,86 @@ awards $50,000 (USD) of funding to continue data reanalysis projects that come o
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB Data Conversion Workshop.
 
+## Instructors
+
+<div class="instructor-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/ben_dichter.jpeg" alt="Benjamin Dichter" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Benjamin Dichter, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Program Chair<br>CatalystNeuro</p>
+    <div style="margin-top: 1rem;">
+        <strong>Contact:</strong>
+        <p style="margin: 0.5rem 0; text-align: center;">ben.dichter [at] catalystneuro [dot] com</p>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/stephanie_prince.png" alt="Stephanie Prince" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Stephanie Prince, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Program Chair<br>Lawrence Berkeley National Laboratory</p>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/jeremy_magland.avif" alt="Jeremy Magland" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Jeremy Magland, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Senior Data Scientist<br>Numerical Analysis, CCM<br>Flatiron Institute</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>Neurosift</li>
+            <li>FigURL</li>
+            <li>Dendro</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/carsen_stringer.jpg" alt="Carsen Stringer" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Carsen Stringer, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>rastermap</li>
+            <li>suite2p</li>
+            <li>facemap</li>
+            <li>cellpose</li>
+            <li>and more</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/guillaume_viejo.avif" alt="Guillaume Viejo" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Guillaume Viejo, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Data Scientist<br>CCN, Flatiron Institute</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>pynapple</li>
+        </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/carter_peene.jpg" alt="Carter Peene" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Carter Peene</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Data Analyst I<br>Allen Institute for Neural Dynamics</p>
+    <div style="margin-top: 1rem;">
+        <strong>Lead developer of:</strong>
+        <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
+            <li>OpenScope Databook</li>
+        </ul>
+    </div>
+</div>
+
+</div>
+
 ## Eligibility
 
 This course is intended for PhD students, postdoctoral researchers, principal investigators, or similar.
 Applicants should have basic programming experience in Python or MATLAB and experience with neurophysiology research.
-
 
 ## Application
 
@@ -72,7 +142,6 @@ Space for the event is limited. Apply to attend NeuroDataReHack 2025 [here](http
 
 * Application deadline: Feb 12
 * Notification of admission decisions: March 15
-
 
 ## Logistics
 
@@ -84,20 +153,15 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * You will be responsible for booking your own flight and transportation to Janelia Research Campus.
 * You will be responsible for determining visa and/or healthcare requirements for travel to the United States.
 
-## Organizing Committee
 
-**Program chairs:**
-* Benjamin Dichter, CatalystNeuro
-* Oliver Rübel, Lawrence Berkeley National Laboratory
-* Ryan Ly, Lawrence Berkeley National Laboratory
-* Steph Prince, Lawrence Berkeley National Laboratory
-
-If you have any questions about this event, please contact Ben at ben.dichter [at] catalystneuro [dot] com
-
-## Additional Instructors
-
-* Jeremy Magland: Senior Data Scientist, Numerical Analysis, CCM, Flatiron Institute
-  * Lead developer of Neurosift, FigURL, and Dendro
+<!-- Note: Profile pictures need to be added to the images/instructors directory with the following filenames:
+     - ben_dichter.jpg
+     - steph_prince.jpg
+     - jeremy_magland.jpg
+     - carsen_stringer.jpg
+     - guillaume_viejo.jpg
+     - carter_peene.jpg
+     The images should be square format, ideally 400x400 pixels or larger. -->
 
 ## Resources
 
@@ -166,12 +230,12 @@ owned rights.
 
 Reference herein to any specific commercial product, process, or service by its trade name, trademark, manufacturer, 
 or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United 
-States Government or any agency thereof, or The Regents of the University of California.  Use of the Laboratory or 
-University’s name for endorsements is prohibited.
+States Government or any agency thereof, or The Regents of the University of California. Use of the Laboratory or 
+University's name for endorsements is prohibited.
 
 The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States 
-Government or any agency thereof or The Regents of the University of California.  Neither Berkeley Lab nor its 
+Government or any agency thereof or The Regents of the University of California. Neither Berkeley Lab nor its 
 employees are agents of the US Government.
 
-Berkeley Lab web pages link to many other websites.  Such links do not constitute an endorsement of the content or 
+Berkeley Lab web pages link to many other websites. Such links do not constitute an endorsement of the content or 
 company and we are not responsible for the content of such links.
