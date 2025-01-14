@@ -7,3 +7,36 @@
 .github-fork-ribbon:before {
   background-color: lightgray;
   };
+
+.main-content {
+  blockquote {
+    margin: 2.5rem 0;
+    padding: 1.75rem;
+    background: #ffffff;
+    border-left: 4px solid #0366d6;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    color: #24292e;
+    
+    p {
+      margin: 0;
+      font-style: italic;
+      line-height: 1.6;
+      color: #444d56;
+      font-size: 1.05em;
+      
+      &:last-of-type {
+        margin-top: 1rem;
+        color: #586069;
+        font-style: normal;
+        font-size: 0.9em;
+        text-align: right;
+        
+        &::before {
+          content: "— ";
+          color: #0366d6;
+        }
+      }
+    }
+  }
+}
