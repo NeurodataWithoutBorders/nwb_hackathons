@@ -82,9 +82,9 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>Neurosift</li>
-            <li>FigURL</li>
-            <li>Dendro</li>
+            <li><a href="https://github.com/flatironinstitute/neurosift">Neurosift</a></li>
+            <li><a href="https://github.com/flatironinstitute/figurl">FigURL</a></li>
+            <li><a href="https://github.com/magland/dendro">Dendro</a></li>
         </ul>
     </div>
 </div>
@@ -96,10 +96,10 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>rastermap</li>
-            <li>suite2p</li>
-            <li>facemap</li>
-            <li>cellpose</li>
+            <li><a href="https://github.com/MouseLand/rastermap?tab=readme-ov-file#readme">rastermap</a></li>
+            <li><a href="https://github.com/MouseLand/suite2p">suite2p</a></li>
+            <li><a href="https://github.com/MouseLand/facemap">facemap</a></li>
+            <li><a href="https://github.com/MouseLand/cellpose">cellpose</a></li>
             <li>and more</li>
         </ul>
     </div>
@@ -112,7 +112,7 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>pynapple</li>
+            <li><a href="https://github.com/pynapple-org/pynapple">pynapple</a></li>
         </ul>
     </div>
 </div>
@@ -124,7 +124,7 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>OpenScope Databook</li>
+            <li><a href="https://github.com/AllenInstitute/openscope_databook">OpenScope Databook</a></li>
         </ul>
     </div>
 </div>
