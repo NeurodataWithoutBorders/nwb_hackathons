@@ -129,6 +129,15 @@ you are interested in learning how to convert data, consider signing up for an N
     </div>
 </div>
 
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/misha-ahrens.jpg" alt="Misha Ahrens" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Misha Ahrens, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
+    <div style="margin-top: 1rem;">
+        <p style="margin: 0.5rem 0;">Investigates how large neuronal populations collaborate to enable flexible behavior in animals, using zebrafish as a model organism. Will present on his lab's work studying how glia accumulate evidence that actions are futile and suppress unsuccessful behavior (DANDI:000350).</p>
+    </div>
+</div>
+
 </div>
 
 ## Eligibility
