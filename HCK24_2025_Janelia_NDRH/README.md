@@ -82,9 +82,9 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>Neurosift</li>
-            <li>FigURL</li>
-            <li>Dendro</li>
+            <li><a href="https://github.com/flatironinstitute/neurosift">Neurosift</a></li>
+            <li><a href="https://github.com/flatironinstitute/figurl">FigURL</a></li>
+            <li><a href="https://github.com/magland/dendro">Dendro</a></li>
         </ul>
     </div>
 </div>
@@ -96,10 +96,10 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>rastermap</li>
-            <li>suite2p</li>
-            <li>facemap</li>
-            <li>cellpose</li>
+            <li><a href="https://github.com/MouseLand/rastermap?tab=readme-ov-file#readme">rastermap</a></li>
+            <li><a href="https://github.com/MouseLand/suite2p">suite2p</a></li>
+            <li><a href="https://github.com/MouseLand/facemap">facemap</a></li>
+            <li><a href="https://github.com/MouseLand/cellpose">cellpose</a></li>
             <li>and more</li>
         </ul>
     </div>
@@ -112,7 +112,7 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>pynapple</li>
+            <li><a href="https://github.com/pynapple-org/pynapple">pynapple</a></li>
         </ul>
     </div>
 </div>
@@ -124,8 +124,17 @@ you are interested in learning how to convert data, consider signing up for an N
     <div style="margin-top: 1rem;">
         <strong>Lead developer of:</strong>
         <ul style="margin: 0.5rem 0; padding-left: 1.5rem;">
-            <li>OpenScope Databook</li>
+            <li><a href="https://github.com/AllenInstitute/openscope_databook">OpenScope Databook</a></li>
         </ul>
+    </div>
+</div>
+
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/misha-ahrens.jpg" alt="Misha Ahrens" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Misha Ahrens, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
+    <div style="margin-top: 1rem;">
+        <p style="margin: 0.5rem 0;">Investigates how large neuronal populations collaborate to enable flexible behavior in animals, using zebrafish as a model organism. Will present on his lab's work studying how glia accumulate evidence that actions are futile and suppress unsuccessful behavior (<a href="https://dandiarchive.org/dandiset/000350">DANDI:000350</a>).</p>
     </div>
 </div>
 
