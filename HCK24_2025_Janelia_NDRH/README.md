@@ -134,7 +134,7 @@ you are interested in learning how to convert data, consider signing up for an N
     <h3 style="margin: 0; text-align: center; color: #333;">Misha Ahrens, Ph.D.</h3>
     <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
     <div style="margin-top: 1rem;">
-        <p style="margin: 0.5rem 0;">Investigates how large neuronal populations collaborate to enable flexible behavior in animals, using zebrafish as a model organism. Will present on his lab's work studying how glia accumulate evidence that actions are futile and suppress unsuccessful behavior (DANDI:000350).</p>
+        <p style="margin: 0.5rem 0;">Investigates how large neuronal populations collaborate to enable flexible behavior in animals, using zebrafish as a model organism. Will present on his lab's work studying how glia accumulate evidence that actions are futile and suppress unsuccessful behavior (<a href="https://dandiarchive.org/dandiset/000350">DANDI:000350</a>).</p>
     </div>
 </div>
 
