@@ -65,7 +65,7 @@ Schedule TBD. Participants will bring their own data and work with the instructo
 * For Day 2, participants should bring their own neurophysiology data they wish to convert to NWB format
 
 ## Registration
-Registration is required for both in-person and remote attendance. Please fill out the registration form [here](#) (link coming soon).
+Registration is required for both in-person and remote attendance. Please fill out the registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSdJ_CkRdeN02v1oU5SQFfhJ-v7MtkAna_OfAL7FmYjDqpdYrQ/viewform?usp=preview).
 
 ## Questions?
 For any questions about the workshop, please contact Luis Lemus.
