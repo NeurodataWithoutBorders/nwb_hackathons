@@ -3,6 +3,7 @@
 ## Hackathon Events
 
 ### Upcoming Events
+- [NWB and DANDI Workshop: February 2025](Workshop_2025_UNAM/README.md) - **February 19-20, 2025** at Universidad Nacional Autónoma de México (UNAM) in Mexico City, Mexico
 - [Cosyne: March 2025](Cosyne_2025/README.md) - A tutorial session on NWB and DANDI will be held during the Computational and Systems Neuroscience (COSYNE) 2025 conference in Montreal, Canada on **March 27, 2025**.
 - [NWB Data Conversion Workshop: May 2025](HCK22_2025_DataConversion_Remote/README.md) - **May 12-14, 2025** (virtual)
 - [NeuroDataReHack: July 2025](HCK24_2025_Janelia_NDRH/README.md) - **July 14-18, 2025** at HHMI Janelia Research Campus in Ashburn, Virginia, USA
