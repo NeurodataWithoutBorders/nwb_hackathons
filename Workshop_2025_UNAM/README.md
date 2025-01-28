@@ -7,6 +7,10 @@
 
 **Host:** Dr. Luis Lemus
 
+**Instructors:**
+* Benjamin Dichter, Founder & CEO, CatalystNeuro
+* Ramon Heberto Martinez Mayorquin, Sr. Research Software Engineer, CatalystNeuro
+
 Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data while complying with the new NIH data sharing and management policies.
 
 ## Target Audience
