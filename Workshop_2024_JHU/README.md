@@ -65,7 +65,7 @@ On Day 1, we will also host a separate event for early-stage trainees.
 Early-year graduate students, research assistants, and advanced undergraduates are specially invited to an
 evening workshop to learn about the Neurodata Without Borders (NWB) data standard
 and DANDI Archive for neurophysiology. The session will be focused on how to get
-started with using the NWB data standard and re-using public NWB data in your
+started with using the NWB data standard and reusing public NWB data in your
 research projects. **Pizza will be served.** 
 
 Others are welcome to join but note that the
