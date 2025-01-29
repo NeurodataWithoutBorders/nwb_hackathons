@@ -6,6 +6,7 @@
 [//]: # (* [Report]&#40;#report&#41;)
 * [Dates and Location](#dates-and-location)
 * [Objective](#objective)
+* [Kavli Neurodata Discovery Award](#kavli-neurodata-discovery-award)
 * [Instructors](#instructors)
 * [Logistics](#logistics)
 * [Resources](#resources)
@@ -48,12 +49,16 @@ Example projects include but are not limited to:
 * Explore follow-up questions to a study.
 * Create educational content that uses open data.
 
-<!-- 
-Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Award, which 
-awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. Details about the Kavli Foundation Neurodata Discovery Award will be provided closer to the event.
--->
 This event will primarily focus on analyzing existing data in NWB and on DANDI, **not** converting data to NWB. If 
 you are interested in learning how to convert data, consider signing up for an NWB Data Conversion Workshop.
+
+## Kavli Neurodata Discovery Award
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div>
+    <p>Following the event, participants will be invited to apply for one of 3 Kavli Foundation Neurodata Discovery Awards, which awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. This is a funding opportunity exclusive to NeuroDataReHack participants.</p>
+  </div>
+  <img src="../../logos/kavli_logo.svg" alt="Kavli Foundation Logo" width="200" style="flex-shrink: 0;">
+</div>
 
 ## Instructors
 
@@ -138,6 +143,15 @@ you are interested in learning how to convert data, consider signing up for an N
     </div>
 </div>
 
+<div class="instructor-card" style="border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="images/instructors/jakob_voigts.jpg" alt="Jakob Voigts" style="width: 200px; height: 200px; border-radius: 50%; margin: 0 auto 1rem; display: block; object-fit: cover;">
+    <h3 style="margin: 0; text-align: center; color: #333;">Jakob Voigts, Ph.D.</h3>
+    <p style="text-align: center; color: #666; margin: 0.5rem 0;">Group Leader<br>HHMI Janelia Research Campus</p>
+    <div style="margin-top: 1rem;">
+        <p style="margin: 0.5rem 0;">Investigates how the brain's neocortex represents and sequentially updates hypotheses using spatial computations in rodents during natural behaviors. His research focuses on understanding how mice maintain working memory, interpret ambiguous cues, and plan ahead on various timescales.</p>
+    </div>
+</div>
+
 </div>
 
 ## Eligibility
@@ -161,16 +175,6 @@ Thanks to the generous sponsorship of The Janelia Research Campus, this event wi
 * Breakfast, lunch, dinner, and coffee breaks will be provided.
 * You will be responsible for booking your own flight and transportation to Janelia Research Campus.
 * You will be responsible for determining visa and/or healthcare requirements for travel to the United States.
-
-
-<!-- Note: Profile pictures need to be added to the images/instructors directory with the following filenames:
-     - ben_dichter.jpg
-     - steph_prince.jpg
-     - jeremy_magland.jpg
-     - carsen_stringer.jpg
-     - guillaume_viejo.jpg
-     - carter_peene.jpg
-     The images should be square format, ideally 400x400 pixels or larger. -->
 
 ## Resources
 
