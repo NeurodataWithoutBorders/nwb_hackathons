@@ -16,49 +16,59 @@ Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https:/
 ## Target Audience
 This workshop is designed for neuroscience researchers at all career stages, from undergraduate students working in labs to graduate students, post-doctoral researchers, and principal investigators. No prior programming experience is required.
 
-## Format
-This workshop will be held in a hybrid format:
-- Day 1 will be available both in-person and remotely via video conference
-- Day 2 is an in-person, hands-on session where participants will work with their own data
-
 ## Agenda (Preliminary - exact times TBD)
 
-**February 19, Day 1: NWB and DANDI Training (In-person + Remote)**
+### February 19, Day 1: NWB and DANDI Training
+*Format: In-person + Remote*
 
-* Morning Session (Time TBD):
-  * Introduction to NWB and DANDI
-  * Core Format
-  * Extensions
-  * Analysis and visualization tools
-  * Other NWB Events
-  * Analyzing Existing Neurophysiology Data
-    * Finding datasets on DANDI
-    * Loading and exploring NWB files
-    * Common analysis workflows
-    * Visualization tools and techniques
-    * Best practices for reproducible analysis
-* Lunch Break
-* Afternoon Session (Time TBD):
-  * Converting data to NWB
-    * NWB GUIDE
-    * NeuroConv
-    * PyNWB and MatNWB APIs
-    * Extensions
-  * Publishing and accessing data on the DANDI Archive
-    * Uploading data
-    * DANDI Metadata
-    * Neurosift
-    * DANDI Hub
-    * Dendro
-    * DANDI API
+**11:00 AM - 12:00 PM: Open Neurophysiology with NWB and DANDI**
 
-**February 20, Day 2: NWB and DANDI Workshop (In-person Only)**
+ *Overview session suitable for all attendees, including lab leaders*
 
-Schedule TBD. Participants will bring their own data and work with the instructors to:
-* Convert their data to NWB format
-* Create custom extensions if needed
-* Publish their data on DANDI
-* Learn best practices for data management and sharing
+* Introduction to NWB and DANDI ecosystems
+* NWB core format fundamentals
+* Available conversion tools
+* NWB extensions system
+* Analysis and visualization toolkit
+* Data reuse capabilities
+* Upcoming NWB community events
+
+**12:00 PM - 1:00 PM: Lunch Break**
+
+**1:00 PM - 3:00 PM: Technical Implementation Session**
+
+*Detailed session for hands-on implementers*
+
+*Data Conversion*
+* NWB GUIDE walkthrough
+* NeuroConv tutorial
+* PyNWB and MatNWB API usage
+* Creating custom extensions
+
+*DANDI Publication*
+* Data upload workflow
+* DANDI metadata requirements
+* Neurosift visualization tools
+* DANDI Hub features
+* Dendro integration
+* DANDI API implementation
+
+*Data Analysis*
+* DANDI dataset discovery
+* NWB file handling
+* Analysis workflow examples
+* Visualization techniques
+* Reproducibility best practices
+
+### February 20, Day 2: NWB and DANDI Hacking
+*Format: In-person Only*
+
+*Hands-on Workshop with Your Data*
+* One-on-one assistance with:
+  * Data conversion to NWB
+  * Custom extension development
+  * DANDI data publication
+  * Data management optimization
 
 ## Prerequisites
 * No prior programming experience is required
