@@ -18,6 +18,9 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 
 ## Agenda (Preliminary - exact times TBD)
 
+**Location: Antonio Peña Auditorium, IFC, UNAM**
+
+
 ### February 19, Day 1: NWB and DANDI Training
 *Format: In-person + Remote*
 
