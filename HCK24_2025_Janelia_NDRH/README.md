@@ -55,7 +55,7 @@ you are interested in learning how to convert data, consider signing up for an N
 ## Kavli Neurodata Discovery Award
 <div style="display: flex; align-items: center; gap: 10px;">
   <div>
-    <p>Following the event, participants will be invited to apply for one of 3 Kavli Foundation Neurodata Discovery Awards, which awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. This is a funding opportunity exclusive to NeuroDataReHack participants.</p>
+    <p>Following the event, participants will be invited to apply for a Kavli Foundation Neurodata Discovery Awards, which awards $50,000 (USD) of funding to continue data reanalysis projects that come out of the NeuroDataReHack event. This is a funding opportunity exclusive to NeuroDataReHack participants.</p>
   </div>
   <img src="images/Kavli-Foundation-logo.png" alt="Kavli Foundation Logo" width="200" style="flex-shrink: 0;">
 </div>
