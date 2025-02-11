@@ -63,7 +63,7 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 * Visualization techniques
 * Reproducibility best practices
 
-### February 20, Day 2: NWB and DANDI Hacking
+### February 20, Day 2, 10am - 4pm: NWB and DANDI Hacking
 *Format: In-person Only*
 
 *Hands-on Workshop with Your Data*
