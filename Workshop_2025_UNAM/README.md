@@ -3,7 +3,7 @@
 
 **Dates:** February 19-20, 2025
 
-**Location:** Universidad Nacional Autónoma de México, Mexico City, Mexico (Room TBD)
+**Location:**  Antonio Peña Auditorium, IFC, Universidad Nacional Autónoma de México, Mexico City, Mexico.
 
 **Host:** Dr. Luis Lemus
 
@@ -16,10 +16,7 @@ Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https:/
 ## Target Audience
 This workshop is designed for neuroscience researchers at all career stages, from undergraduate students working in labs to graduate students, post-doctoral researchers, and principal investigators. No prior programming experience is required.
 
-## Agenda (Preliminary - exact times TBD)
-
-**Location: Antonio Peña Auditorium, IFC, UNAM**
-
+## Agenda 
 
 ### February 19, Day 1: NWB and DANDI Training
 *Format: In-person + Remote*
