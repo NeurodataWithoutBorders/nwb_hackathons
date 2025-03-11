@@ -1,13 +1,13 @@
-# NWB and DANDI Workshop
-### hosted by the University of Washington
+<img src="images/nwb+dandi_logo.png" width="800" alt="NWB and DANDI logos">
 
-<img src="images/nwb+dandi_logo.png" width="500" alt="NWB and DANDI logos">
+# NWB and DANDI Workshop Hosted by the University of Washington
 
 **Dates:** April 7-8, 2025
 
-**Location:** University of Washington, Seattle, WA (exact location TBD)
+**Location:** South Campus Center (SOCC) 354, University of Washington, Seattle, WA
 
 **Instructors:**
+
 * Benjamin Dichter, Founder & CEO, CatalystNeuro
 * Oliver Ruebel, Staff Scientist, Lawrence Berkeley National Laboratory
 
@@ -16,16 +16,13 @@ Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https:/
 ## Target Audience
 This workshop is designed for neuroscience researchers at all career stages, from undergraduate students working in labs to graduate students, post-doctoral researchers, and principal investigators. No prior programming experience is required.
 
-## Agenda 
+# Agenda
 
-*Detailed schedule to be announced*
+## April 7, Day 1: NWB and DANDI Training
 
-### April 7, Day 1: NWB and DANDI Training
-*Format: In-person*
+### 11am-12pm: Open Neurophysiology with NWB and DANDI
 
-**Morning Session: Open Neurophysiology with NWB and DANDI**
-
- *Overview session suitable for all attendees, including lab leaders*
+*Overview session suitable for all attendees, including lab leaders*
 
 * Introduction to NWB and DANDI ecosystems
 * NWB core format fundamentals
@@ -35,33 +32,42 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 * Data reuse capabilities
 * Upcoming NWB community events
 
-**Afternoon Session: Technical Implementation**
+### 1 - 3:30pm: Technical Implementation
 
 *Detailed session for hands-on implementers*
 
-*Data Conversion*
+#### Data Conversion
+
 * NWB GUIDE walkthrough
 * NeuroConv tutorial
 * PyNWB and MatNWB API usage
 * Creating custom extensions
 
-*DANDI Publication*
+#### DANDI Publication
+
 * Data upload workflow
 * DANDI metadata requirements
 * Neurosift visualization tools
 * DANDI API implementation
 
-*Data Analysis*
+#### Data Analysis
+
 * DANDI dataset discovery
 * NWB file handling
 * Analysis workflow examples
 * Visualization techniques
 * Reproducibility best practices
 
-### April 8, Day 2: NWB and DANDI Hacking
-*Format: In-person*
+## April 7, 6 - 6:45pm: Undergrad-focused into to NWB & DANDI (with pizza!)
 
-*Hands-on Workshop with Your Data*
+* Open data in neuroscience
+* What is NWB and DANDI
+* How to find and use relevant datasets
+
+## April 8, Day 2, 10am-3pm: NWB and DANDI Hacking
+
+### Hands-on Workshop with Your Data
+
 * One-on-one assistance with:
   * Data conversion to NWB
   * Custom extension development
@@ -69,11 +75,14 @@ This workshop is designed for neuroscience researchers at all career stages, fro
   * Data management optimization
 
 ## Prerequisites
+
 * No prior programming experience is required
 * For Day 2, participants should bring their own neurophysiology data they wish to convert to NWB format
 
 ## Registration
+
 Registration details will be announced soon.
 
 ## Questions?
+
 For any questions about the workshop, please contact the organizers.
