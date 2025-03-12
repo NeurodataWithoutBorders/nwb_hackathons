@@ -81,7 +81,7 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 
 ## Registration
 
-Registration details will be announced soon.
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdqzeQIBFRdrGP59kjO4SAv2tudIcYemPdzztCx2R5hmM9j1Q/viewform?usp=header) to receive announcements about this event.
 
 ## Questions?
 
