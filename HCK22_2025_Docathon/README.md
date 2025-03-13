@@ -27,8 +27,8 @@ DANDI Archive in NWB, including data from the Allen Institute and the Internatio
 
 One of the goals of NWB is to ensure that members of the neuroscience community have the resources and tools to easily 
 interact with their data. We are hosting a dedicated docathon to invite members of the community to join us in updating, 
-improving, and expanding our documentation. The goal of this workshp is to make sure our documentation is up-to-date and 
-accessible to new and existing users of NWB.
+improving, and expanding our documentation. The goal of this workshop is to make sure our documentation and 
+educational materials are up-to-date and accessible to new and existing users of NWB.
 
 Many types of contributions are welcome, including updates to:
 * tutorials
@@ -45,7 +45,7 @@ please submit a documentation issue on the relevant GitHub repo.
 
 ## Registration
 
-Register for the event [here](https://forms.gle/5Sewge3qpozxnrATA).
+Register for the event [here](https://forms.gle/YA5LBR4iSG8UVgpf6).
 
 ## Logistics
 
