@@ -9,7 +9,7 @@
 **Instructors:**
 
 * Benjamin Dichter, Founder & CEO, CatalystNeuro
-* Oliver Ruebel, Staff Scientist, Lawrence Berkeley National Laboratory
+* Ryan Ly, Scientific Data Engineer, Lawrence Berkeley National Laboratory
 
 Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data while complying with the new NIH data sharing and management policies.
 
@@ -20,7 +20,7 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 
 ## April 7, Day 1: NWB and DANDI Training
 
-### 11am-12pm: Open Neurophysiology with NWB and DANDI
+### 11am - 12pm: Open Neurophysiology with NWB and DANDI
 
 *Overview session suitable for all attendees, including lab leaders*
 
@@ -58,13 +58,13 @@ This workshop is designed for neuroscience researchers at all career stages, fro
 * Visualization techniques
 * Reproducibility best practices
 
-## April 7, 6 - 6:45pm: Undergrad-focused into to NWB & DANDI (with pizza!)
+## April 7, 6 - 6:45pm: Undergrad-focused intro to NWB & DANDI (with pizza!)
 
 * Open data in neuroscience
 * What is NWB and DANDI
 * How to find and use relevant datasets
 
-## April 8, Day 2, 10am-3pm: NWB and DANDI Hacking
+## April 8, Day 2, 10am - 3pm: NWB and DANDI Hacking
 
 ### Hands-on Workshop with Your Data
 
