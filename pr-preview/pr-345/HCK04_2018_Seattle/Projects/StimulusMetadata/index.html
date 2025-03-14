@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/StimulusMetadata/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/StimulusMetadata/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/StimulusMetadata/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK04_2018_Seattle/Projects/StimulusMetadata/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p>Back to <a href="/nwb_hackathons/HCK04_2018_Seattle/#ProjectsList">Projects List</a></p>
+
+<h1 id="stimulus-metadata">Stimulus Metadata</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Luke Campagnola (Allen Institute)</li>
+</ul>
+
+<h1 id="project-description">Project Description</h1>
+
+<p>Schema extension to allow flexible description of stimulus protocols, with a focus on being able to compose the description from multiple independent elements.</p>
+
+<p><strong>Main discussion:</strong> https://github.com/NeurodataWithoutBorders/nwb-schema/issues/131</p>
+
+<h2 id="objective">Objective</h2>
+
+<ol>
+  <li>Objective A. Develop a schema for describing ephys stimuli (pulses, pulse trains, ramps, etc.) where each sweep may contain multiple stimuli combined together. The important part here is to allow descriptions for each type of stimulus to be composed together without creating a new class for each combination.</li>
+  <li>Objective B. Extend / generalize this work (if possible) to describe stimuli in other domains (photostimulation, sensory stimuli, etc.)</li>
+</ol>
+
+<h2 id="approach">Approach</h2>
+
+<ol>
+  <li>Add a base class called <code class="language-plaintext highlighter-rouge">StimulusComponent</code> with <code class="language-plaintext highlighter-rouge">name</code> and <code class="language-plaintext highlighter-rouge">description</code> attributes.</li>
+  <li>Add a subgroup called <code class="language-plaintext highlighter-rouge">stimulus_components</code> to <code class="language-plaintext highlighter-rouge">CurrentClampStimulusSeries</code> and <code class="language-plaintext highlighter-rouge">VoltageClampStimulusSeries</code> that can contain any number of <code class="language-plaintext highlighter-rouge">StimulusComponent</code> subgroups.</li>
+  <li>Create a library of <code class="language-plaintext highlighter-rouge">StimulusComponent</code> subclasses, each of which describes different aspects of the stimulus that can be summed together to generate the final waveform:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> square_pulse
+     start_time
+     duration
+     amplitude
+ pulse_train
+     start_time
+     duration
+     n_pulses
+     pulse_duration
+     interpulse_interval
+ ramp
+     start_time
+     duration
+     slope
+     initial_amplitude
+ white_noise
+     start_time
+     duration
+     amplitude
+     random_seed
+ chirp
+     start_time
+     duration
+     amplitude
+     initial_frequency
+     dfdt
+ sine_wave
+     start_time
+     duration
+     amplitude
+     frequency
+     initial_phase
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>As an example, a common stimulus encountered in multipatch experiments might be a current injection of several seconds containing:</p>
+<ul>
+  <li>A small square “test pulse” near the beginning</li>
+  <li>A 2 second delay, followed by a train of 8 larger, regularly-spaced pulses</li>
+  <li>A 250 ms delay, followed by a similar 4-pulse train
+From the experimenter’s perspective, the most important features here are the frequency of pulses in the pulse trains and the delay period between the two pulse trains. We would like to be able to read out these parameters without parsing the stimulus waveform itself.</li>
+</ul>
+
+<p>This stimulus could be described by combining some very common primitives–a square pulse and two pulse trains:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>CurrentClampStimulusSeries
+    stimulus_components
+        SquarePulseStimulusComponent
+            name: "test pulse"
+            description: "A small hyperpolarizing pulse to measure the input resistance of the cell"
+            start_time: 0.1
+            duration: 0.03
+            amplitude: -50e-12
+        PulseTrainStimulusComponent
+            name: "induction train"
+            description: "A train of 8 pulses to evoke action potentials and induce short term plasticity"
+            start_time: 2.0
+            n_pulses: 8
+            interpulse_interval: 0.02
+            pulse_duration: 2e-3
+            amplitude: 1.6e-9
+        PulseTrainStimulusComponent
+            name: "recovery train"
+            description: "A train of 4 pulses to evoke action potentials and test recovery from short term plasticity"
+            start_time: 2.41
+            n_pulses: 4
+            interpulse_interval: 0.02
+            pulse_duration: 2e-3
+            amplitude: 1.6e-9
+</code></pre></div></div>
+<p>Each of the components listed above specifies some part of the total waveform, and we should be able to reconstruct the waveform just by adding these together. In this way, a complex stimulus is built up from smaller components and annotated such that the important criteria (in this case, the timing of pulses) can be easily extracted without parsing the waveform.</p>
+
+<p>For this particular example, it might even make sense for the experimenter to define a custom <code class="language-plaintext highlighter-rouge">StimulusComponent</code> describing the combination of all 12 pulses:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>CurrentClampStimulusSeries
+    stimulus_components
+        SquarePulseStimulusComponent
+            name: "test pulse"
+            description: "A small hyperpolarizing pulse to measure the input resistance of the cell"
+            start_time: 0.1
+            duration: 0.03
+            amplitude: -50e-12
+        STPStimulusComponent    # defined in a custom extension
+            name: "stp test"
+            description: "A train of 12 pulses intended to induce short term plasticity and then test recovery."
+            start_time: 2.0
+            n_induction_pulses: 8
+            n_recovery_pulses: 4
+            pulse_frequency: 50
+            recovery_delay: 0.25
+            pulse_duration: 2e-3
+            amplitude: 1.6e-9
+</code></pre></div></div>
+
+<h2 id="progress">Progress</h2>
+
+<p>While attempting to implement the solution above, it became clear that the kind of composition we wanted was a much more general problem that should be solved at a lower level first. Progress on #131 is halted until those issues are worked out.</p>
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

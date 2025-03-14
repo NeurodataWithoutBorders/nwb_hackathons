@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/BenderOptimization/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/BenderOptimization/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/BenderOptimization/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK06_2019_Janelia/projects/BenderOptimization/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK06_2019_Janelia/#ProjectsList"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
+
+<h1 id="neuronal-model-optimization">Neuronal Model Optimization</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+<p>Matthew T. Sit (UC Berkeley)</p>
+
+<p>Roy Ben-Shalom (UCSF, LBNL)</p>
+
+<p>Kevin Bender (UCSF)</p>
+
+<h2 id="project-description">Project Description</h2>
+<p><img src="/nwb_hackathons/HCK06_2019_Janelia/projects/BenderOptimization/compartmental.png" alt="">
+<img src="/nwb_hackathons/HCK06_2019_Janelia/projects/BenderOptimization/optimization.png" alt=""></p>
+
+<p>We can use a compartmental model to represent neurons. [1]
+Further, changes to ion channel distribution or density affect neuronal output.
+We ask, what are the distributions of ion channels at the different compartments of the neuron? [2]</p>
+
+<p>We can use a genetic optimization algorithm to fit models to electrophysiological data.
+A stimulus and values for free parameters can be inputed to our model to obtain a voltage response
+representing the simulated waveform.
+We can compare this to the target experimental data using a score function to assess the similarity.
+This information can then be used to refine our free parameter values iteratively.
+<!-- Add a short paragraph describing the project. --></p>
+
+<h2 id="objectives">Objectives</h2>
+<p>In order to constrain the free parameters, we employ the use of large volumes of synthetic data, including
+that of stimuli, parameter sets, and voltage responses. The current methodology is to store all this data in
+separate csv files, one for each datum instance. The goal is to abandon csv files and to leverage NWB instead.
+<!-- Briefly describe the objectives of your project. What would you like to achieve?--></p>
+<ol>
+  <li>Group Data Appropriately. Identify the correct native NWB data structures available that could be used to
+represent our data sets. Define the requirements needed of our NWB files, and determine at what stages of the process
+certain kinds of data are available, when are they needed, and what is their relationship with one another.</li>
+  <li>Create Extensions. This will allow for our data to be organized properly, allow for ease of access to needed
+pieces of information, and provide self-documenting data structures.</li>
+  <li>Documentation. Provide ample comments in the NWB-specific files, provide helper functions so that lab members
+not familiar with NWB can still use our extensions, and provide an example notebook demonstrating intended usage of our extensions.</li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+<ol>
+  <li>Determine the requirements of our data usage and identify how NWB can meet these criterion.
+Identify native NWB data structures to use, and determine the best way to organize our data in NWB.</li>
+  <li>Learn how to develop extensions to ensure that our usage of NWB and our data is self-documenting.</li>
+  <li>Comment code, provide helper functions for non-NWB users, and create an example notebook to demonstrate usage.
+<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
+<!-- 1. ... -->
+<!-- 1. ... -->
+</li>
+</ol>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+<p>All three goals have been accomplished as of the weekend following the Hackathon!
+The next steps are to integrate usage of NWB into our existing scripts.
+We have already integrated into our stimuli generating script.
+The next task is to integrate it into our scripts which use Neuron [3] so that it can accept stimuli and parameter sets via NWB, and write its voltage response outputs to NWB as well.
+<!--Populate this section as you are making progress before/during/after the hackathon-->
+<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
+<!--Describe the next steps you are planing to take to complete the project.--></p>
+
+<h2 id="materials">Materials</h2>
+<p>Not available at this time.
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)--></p>
+
+<h2 id="background-and-references">Background and References</h2>
+<p>[1] Canavier  &amp; Landry. 2006.</p>
+
+<p>[2] Mainen &amp; Sejnowski. 1996.</p>
+
+<p>[3] https://neuron.yale.edu/neuron/
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data --></p>
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

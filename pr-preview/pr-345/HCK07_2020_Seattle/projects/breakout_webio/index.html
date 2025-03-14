@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_webio/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_webio/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_webio/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK07_2020_Seattle/projects/breakout_webio/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK07_2020_Seattle/#breakout-sessions"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
+
+<h1 id="nwb-via-the-web-linking-data-and-accessing-nwb-files-via-the-web">NWB via the web: Linking data and accessing NWB files via the web</h1>
+
+<p><strong>Session Chair:</strong> Andrew Tritt (LBNL)</p>
+
+<p>The goal of this session is to discuss needs and approaches for linking data via NWB and access of parts of NWB files via the network.</p>
+
+<h2 id="participants">Participants</h2>
+
+<ul>
+  <li>Andrew Tritt (LBNL)</li>
+  <li>Oliver Ruebel (LBNL)</li>
+  <li>Yaroslav Halchenko (Dartmouth College)</li>
+  <li>Pam Baker(Allen Insititute for Brain Science)</li>
+  <li>Michael Grauer (Kitware, Inc.)</li>
+  <li>Satrajit Ghosh (MIT)</li>
+  <li>Ariel Rokem (UW)</li>
+  <li>Josh Siegel (Allen Insititute for Brain Science)</li>
+  <li>…</li>
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<ul>
+  <li>Identify use-cases and requirements for accessing parts of NWB files via the network (Local, LAN, and WAN)</li>
+  <li>Identify possible approaches for enabling linking of data via NWB</li>
+</ul>
+
+<h3 id="proposed-discussion-topics">Proposed discussion topics</h3>
+
+<p>Participants should add topics of possible interest for discussion here</p>
+
+<ul>
+  <li>How can we support foreign fields in NWB (i.e., support linking to data from NWB)?</li>
+  <li>How can we enable web-based access to NWB files?</li>
+  <li>Do we need alternative storage backends to facilitate web-based data access (e.g., HDF5, KITA, ZARR, …)?</li>
+</ul>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
+<!-- 1. ... -->
+<!-- 1. ... -->
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<ul>
+  <li>Two main use cases determined:
+    <ol>
+      <li>accessing of partial datasets
+        <ul>
+          <li>chunks of objects or whole objects</li>
+        </ul>
+      </li>
+      <li>interlinking between related datasets
+        <ul>
+          <li>e.g. connect separate files for LFP and spiking data</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>investigate HDF5 VOL for creating VOL that can access data over the web without downloading entire datasets</li>
+  <li>https://github.com/pierlauro/H5PyVOL
+    <ul>
+      <li>https://github.com/pierlauro/H5PyVOL</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="materials">Materials</h2>
+
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)-->
+
+<h2 id="background-and-references">Background and References</h2>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data -->
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

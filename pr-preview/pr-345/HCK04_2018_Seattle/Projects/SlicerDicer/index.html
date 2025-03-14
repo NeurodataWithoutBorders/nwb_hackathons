@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/SlicerDicer/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/SlicerDicer/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/SlicerDicer/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK04_2018_Seattle/Projects/SlicerDicer/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p>Back to <a href="/nwb_hackathons/HCK04_2018_Seattle/#ProjectsList">Projects List</a></p>
+
+<h1 id="slicerdicer">SlicerDicer</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Doruk Ozturk (Kitware)</li>
+  <li>Ben Dichter (Stanford)</li>
+  <li>Andrew Tritt (Berkeley Lab)</li>
+  <li>Oliver Ruebel (Berkeley Lab)</li>
+</ul>
+
+<h1 id="project-description">Project Description</h1>
+
+<p>The SlicerDicer is a Python layer that is intended to allow scientists to inspect the contents of an NWB file, and to pull out relevant data fitting specific time slices or stimuli (the slicing and dicing). It provides an API that can be used by visualization or analysis tools. Currently the SlicerDicer is also using h5py for prototyping possible enhancements to the PyNWB read API.</p>
+
+<h2 id="objective">Objective</h2>
+
+<ol>
+  <li>Objective A. Generate a tree from an NWB file which will include groups, datasets, soft and external links.</li>
+  <li>Objective B. Provide an API with unified data accessing capabilities to datasets.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>GET('/stimulus/presentation/natural_movie_one_stimulus/data[1000:1100])
+</code></pre></div>    </div>
+  </li>
+  <li>Objective C. Include NWB specific helper methods for narrowing down scope of HDF, e.g. create helper methods that are NWB specific.</li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ol>
+  <li>Currently planning to use a combination of h5py, h5serv and hdf5-json as building blocks to achieve our goals.</li>
+  <li>Once the API is in place, ESV will use slicer-dicer as a mediator to talk to NWB files.</li>
+  <li>Need a lot of diverse NWB files and use cases to provide meaningful NWB specific helper methods.</li>
+</ol>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<p>After seeing the query API presented by Andrew and Oliver in the Read API breakout session, the path forward here is to integrate the SlicerDicer with the query API, to make sure what data we need for QC and exploratory visualizations of NWB files are provided by the query API. Further, we will push on the idea of providing a higher level API on top of the Read API, that speaks to neuroscience domain concepts but hides some of the software complexity of the lower level PyNWB implementation details.</p>
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

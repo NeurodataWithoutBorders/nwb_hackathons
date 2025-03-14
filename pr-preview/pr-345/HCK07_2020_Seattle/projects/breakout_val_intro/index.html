@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_val_intro/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_val_intro/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_val_intro/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK07_2020_Seattle/projects/breakout_val_intro/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK07_2020_Seattle/#breakout-sessions"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<p>Currently edited online in https://hackmd.io/z6GJrRSdRySMo1LAppabJw</p>
+
+<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
+
+<h1 id="validation-and-introspection">Validation and Introspection</h1>
+
+<p><strong>Session Chair:</strong> Yaroslav Halchenko (Dartmouth College) and Thomas Braun (byte physics e.K.)</p>
+
+<!-- Add a short paragraph describing the topic and breakout session. -->
+
+<p>Needs, requirements and expectations for validation and introspection of NWB files</p>
+
+<h2 id="participants">Participants</h2>
+
+<ul>
+  <li>Yaroslav Halchenko (Dartmouth College) - interested in validation and</li>
+  <li>Thomas Braun (byte physics e.K.) - confronted difficulties with validating files as the nwb standard moves forward, and assuring that PyNWB stays backward compatible with nwb - being able to load previously valid nwb files,…</li>
+  <li>Oliver Ruebel (LBNL)</li>
+  <li>Liviu S. - difficulty in “validating” produced by them .nwb files.</li>
+  <li>Pamela  - introspection/search depends heavily on harmonization of metadata to make search possible</li>
+  <li>…</li>
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<!-- Briefly describe the objectives of the breakout session. What would you like to achive?-->
+
+<ul>
+  <li>Identify requirements, use cases, and expectations for validation of NWB files</li>
+  <li>Identify requirements, use cases, and expectations for light-weight introspection of NWB file (via PyNWB)</li>
+  <li>…</li>
+</ul>
+
+<h3 id="different-levelstypes-of-validation">Different “levels”/types of validation</h3>
+<h4 id="nwb-schema-validation-currently-implemented">NWB Schema validation (currently implemented)</h4>
+
+<p>In principle, any stored by PyNWB/MatNWB file should pass this stage of validation</p>
+
+<h4 id="user-input-best-practices">User input “best practices”</h4>
+<p>Validate toward “best practices”. <a href="???">nwb-inspector</a> ATM is the implementation for some of such:</p>
+
+<ul>
+  <li>(Ben) how to validate that new (added) neural data (extension) type does not already exist</li>
+  <li>(Ben) if sampling rate is constant, appropriate storage should be used</li>
+  <li>(Ben) heuristic to assess if data was stored in correct orientation (long dimension - time)</li>
+  <li>(Ben) suboptimal coding/representation (using int/float for bool values). Lydia brought up a use case that some times additional annotation is needed to annotate “dropped”/”invalid” entries.</li>
+</ul>
+
+<h4 id="ontologies-for-the-fieldsvalues">“Ontologies” for the fields/values</h4>
+
+<p>Some of those could be addressed by more restricted data types, e.g. ISO datetime duration for “age” or any other “duration”.</p>
+
+<h4 id="data-validation">Data Validation</h4>
+
+<p>Catch obviously (to human curator) eye incorrectly entered/encoded data (e.g. incorrect unit, e.g. V vs mV).
+ATM not possible to encode <strong>range</strong> within NWB schema, to e.g. encode the range.</p>
+
+<p>Question of the units: SI with multipliers. Satra mentioned https://people.csail.mit.edu/jaffer/MIXF/MIXF-10 which is character string encoding for numerical values and units, incorporates SI, etc.</p>
+
+<h3 id="proposed-discussion-topics">Proposed discussion topics</h3>
+
+<p>Participants should add topics of possible interest for discussion here</p>
+
+<ul>
+  <li>Discuss open validation issues: https://github.com/NeurodataWithoutBorders/pynwb/issues/1160,
+    <ul>
+      <li>
+<a href="https://github.com/NeurodataWithoutBorders/pynwb/issues/1058">validator fails for the extensions tutorial when namespace file provided
+ #1058</a>,</li>
+      <li>https://github.com/NeurodataWithoutBorders/pynwb/issues/836,</li>
+      <li>https://github.com/NeurodataWithoutBorders/pynwb/issues/1091,</li>
+      <li>https://github.com/NeurodataWithoutBorders/pynwb/issues/957,</li>
+      <li>https://github.com/NeurodataWithoutBorders/pynwb/issues/1162</li>
+    </ul>
+  </li>
+  <li>Implementation details of checking for extra fields (https://github.com/NeurodataWithoutBorders/pynwb/issues/1162)</li>
+</ul>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<!-- 1. Describe the steps of your planned approach to reach the objectives.-->
+<!-- 1. ... -->
+<!-- 1. ... -->
+
+<h3 id="introducing-ontologies-while-retaining-compatibility">Introducing “ontologies” while retaining compatibility</h3>
+
+<p>(Ben) Ontologies could not be introduced for a field without breaking compatibility (i.e. forcing more than free form string) by adding a supplementary “Ontologies” table with fields</p>
+<ul>
+  <li>object ID</li>
+  <li>field</li>
+  <li>ontology</li>
+  <li>term/ID</li>
+</ul>
+
+<h2 id="current-state">Current state</h2>
+<!--Populate this section as you are making progress before/during/after the hackathon-->
+
+<h3 id="validation">Validation</h3>
+
+<p>pynwb provides validation of .nwb files to follow specific schema.  Could also be invoked from command line via <code class="language-plaintext highlighter-rouge">python -m pynwb.validate [FILES]</code> but at best should be invoked per each file separately since the whole process would fail as soon as the current file fails validation.</p>
+
+<p><a href="https://github.com/dandi/dandi-cli/">dandi</a> <code class="language-plaintext highlighter-rouge">validate</code> (and also during <code class="language-plaintext highlighter-rouge">upload</code>) provide a way to validate files (delegates actual validation to pynwb) from command line:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> dandi validate v2.0.1/test_<span class="k">*</span>
+...
+v2.0.1/test_CurrentClampStimulusSeries.nwb: ok
+v2.0.1/test_DecompositionSeries.nwb: 1 error<span class="o">(</span>s<span class="o">)</span>
+  DynamicTable/colnames <span class="o">(</span>processing/test_mod/LFPSpectralAnalysis/bands.colnames<span class="o">)</span>: incorrect <span class="nb">type</span> - expected <span class="s1">'text'</span>, got <span class="s1">'ascii'</span>
+v2.0.1/test_Device.nwb: ok
+v2.0.1/test_DynamicTable.nwb: 1 error<span class="o">(</span>s<span class="o">)</span>
+  Units/colnames <span class="o">(</span>units.colnames<span class="o">)</span>: incorrect <span class="nb">type</span> - expected <span class="s1">'text'</span>, got <span class="s1">'ascii'</span>
+v2.0.1/test_ElectricalSeries.nwb: 1 error<span class="o">(</span>s<span class="o">)</span>
+  DynamicTable/colnames <span class="o">(</span>general/extracellular_ephys/electrodes.colnames<span class="o">)</span>: incorrect <span class="nb">type</span> - expected <span class="s1">'text'</span>, got <span class="s1">'ascii'</span>
+v2.0.1/test_ElectrodeGroup.nwb: ok
+...
+Summary: Validation errors <span class="k">in </span>14 out of 31 files
+</code></pre></div></div>
+
+<h3 id="introspection">Introspection</h3>
+
+<p><a href="https://github.com/dandi/dandi-cli/">dandi</a> <code class="language-plaintext highlighter-rouge">ls</code> provides easy way to see basic information about any .nwb file. For pre-v2 nwb files it would at least provide NWB version information.  E.g.:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> dandi <span class="nb">ls </span>v2.0.1/test_Cluster<span class="k">*</span>
+PATH                             SIZE    IDENTIFIER            SESSION_DESCRIPTION                                   SESSION_START_TIME   NWB  ND_TYPES
+v2.0.1/test_Clustering.nwb       17.8 kB TEST_Clustering       a file to <span class="nb">test </span>writing and reading a Clustering       1971-01-01/12:00:00  2.0b Clustering
+v2.0.1/test_ClusterWaveforms.nwb 20.0 kB TEST_ClusterWaveforms a file to <span class="nb">test </span>writing and reading a ClusterWaveforms 1971-01-01/12:00:00  2.0b ClusterWaveforms, Clustering <span class="o">(</span>2<span class="o">)</span>
+Summary:                         37.7 kB                                                                             1971-01-01/12:00:00&gt;
+                                                                                                                     1971-01-01/12:00:00&lt;
+</code></pre></div></div>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
+<!--Describe the next steps you are planing to take to complete the project.-->
+
+<h2 id="materials">Materials</h2>
+
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)-->
+
+<h2 id="background-and-references">Background and References</h2>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data -->
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

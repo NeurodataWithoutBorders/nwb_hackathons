@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/kanoldLabNWB/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/kanoldLabNWB/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK06_2019_Janelia/projects/kanoldLabNWB/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK06_2019_Janelia/projects/kanoldLabNWB/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK06_2019_Janelia/#ProjectsList"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
+
+<h1 id="integrate-thorlabs-2p-calcium-data-into-nwb">Integrate Thorlabs 2p calcium data into NWB</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Zac Bowen (UMD)</li>
+  <li>Kelson Shilling-Scrivo (UMD/UMSOM)</li>
+  <li>PI: Patrick Kanold (UMD)</li>
+  <li>PI: Wolfgang Losert (UMD)</li>
+</ul>
+
+<h2 id="project-description">Project Description</h2>
+
+<!-- Add a short paragraph describing the project. -->
+<p>Our lab uses 2-photon calcium imaging to study auditory cortex. We run various types of experiments with variable metadata. We wish to convert 2-photon calcium imaging data into the NWB format in order to have a generalizable output from the Thorlabs scope.</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<ul>
+  <li>Objective A. Integrate common Thorlabs 2p raw data and relevant metadata into the NWB format.</li>
+  <li>Objective B. Integrate alternative 2p data (volumetric, behavioral) into NWB format.</li>
+  <li>Objective C. Carry raw data through subsequent data processing steps</li>
+</ul>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ol>
+  <li>Get familiar with NWB format (Matlab) and assess whether python will need to be used</li>
+  <li>Work towards integrating as much data as possible into the NWB format (data with variable metadata and file formats) with the intention of training other lab members to use the format.</li>
+  <li>If time, assess NWB usage in further downstream analysis code.</li>
+</ol>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<ul>
+  <li>Went through the two-photon tutorial just to familiarize with NWB storage and output.</li>
+  <li>Started writing a script to store some sample 2-photon data in NWB
+    <ul>
+      <li>Stored raw data, registered data, mouse/subject data, experimental setup data, ROI masks</li>
+      <li>Formatted the above for volumetric data
+        <ul>
+          <li>Each plane of the volume is parsed seperately and saved as a separate imaging series</li>
+          <li>Same script will work for both volumetric and planar data</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Working towards storing processed data (extracted DFF traces)</li>
+  <li>Still need further work towards storing behavioral data and pupil data</li>
+  <li>Need to generalize script for usage by other lab members
+    <ul>
+      <li>Will likely need separate versions for converting old data versus storing new data as it is initially processed</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="materials">Materials</h2>
+
+<ul>
+  <li>Analysis code (MATLAB) and relevant sample data will be brought to the workshop.</li>
+  <li>Sample data may include:
+    <ul>
+      <li>Raw ThorImage 2-photon data of a region of mouse auditory cortex responding to tonal stimuli</li>
+      <li>Similar data with a behavioral task and corresponding behaviorally relevant metadata</li>
+      <li>Volumetric 2p data from a similar tone presentation experiment</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="background-and-references">Background and References</h2>
+
+<p>See www.kanold.org for relevant information on projects.</p>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

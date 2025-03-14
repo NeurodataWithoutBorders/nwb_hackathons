@@ -1,0 +1,54 @@
+[:rewind: Back to the projects list](../../README.md#ProjectsList)
+
+# Conversion of Sabatini lab neurophysiology and imaging data to the NWB:N format
+
+## Key Investigators
+
+Adam Granger (Sabatini Lab, Harvard Medical School)
+
+
+## Project Description
+
+The goal of this project is to convert the whole-cell electrophysiology data from the Sabatini lab to the NWB format.
+This data includes voltage-clamp and current-clamp recordings from neurons in acute brain slices. This data is typically analyzed
+for the presence or absence of synaptic responses or changes in membrane potential. However, we often extract other features such
+as response amplitude, latency, onset and offset kinetics, frequency of synaptic events or action potentials, and variability of responses 
+in repeated trials. Therefore, a standard toolset to analyze this data in the NWB data format would also be useful. Finally, we often
+record electrophysiology data in tandem with 2-photon imaging, and would like to be able to incorporate imaging data into the NWB:N file format.
+
+## Objectives
+
+<!-- Briefly describe the objectives of your project. What would you like to achive?-->
+
+1. Objective A. Convert Sabatini lab single-cell whole-cell electrophysiology data into the NWB:N file format
+1. Objective B. Incorporate multi-channel whole-cell electrophysiology data.
+1. Objective C. Create standard analysis tools to features of synaptic responses
+1. Objective D. Incorporate imaing data with whole-cell electrophysiology data
+
+## Approach and Plan
+
+1. Prior to the hackathon: familiarize myself with NWB:N file format
+1. Convert a single trace to NWB:N format
+1. Write a script to bulk convert traces to NWB:N format
+1. Convert multi-channel data to NWB:N format
+1. Write analysis tool to extract synaptic current amplitude from a set of NSB:N data
+
+## Progress and Next Steps
+
+<!--Populate this section as you are making progress before/during/after the hackathon-->
+<!--Describe the progress you have made on the project,e.g., which objectives you have achieved and how.-->
+<!--Describe the next steps you are planing to take to complete the project.-->
+
+## Materials
+
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)-->
+
+## Background and References
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+
+

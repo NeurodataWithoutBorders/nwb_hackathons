@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/icephys_extension/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/icephys_extension/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/icephys_extension/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK07_2020_Seattle/projects/icephys_extension/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK07_2020_Seattle/#ProjectsList"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<h1 id="review-and-refine-icephys-metadata-extension">Review and refine ICEphys Metadata extension</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Oliver Ruebel (LBNL)</li>
+  <li>Ryan Ly (LBNL)</li>
+  <li>Thomas Braun (byte physics)</li>
+  <li>Pam Baker (Allen Insititute for Brain Science)</li>
+  <li>Liviu	S.	(Laboratory of Neural Microcircuitry, EPFL / Blue Brain Project, EPFL)</li>
+  <li>Shreejoy Tripathy (University of Toronto)</li>
+  <li>Benjamin Dichter (Ben Dichter LLC)</li>
+  <li>…</li>
+</ul>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>Review and refine the proposed extension for ICEphys.</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<ul>
+  <li>Evalute suitability of the proposed extension for ICEphys for various use cases</li>
+  <li>Identify challenges</li>
+  <li>Refine proposal</li>
+  <li>Fix known issues</li>
+</ul>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ul>
+  <li>Implement fixes for reported issues</li>
+  <li>Convert ICEphys files from different labs using the extension to evaluate suitability of the extension</li>
+  <li>Have working group to review and refine the proposal</li>
+  <li>Make extension pip installable</li>
+  <li>Add extension to the NDX Catalog</li>
+</ul>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<ul>
+  <li>Released <code class="language-plaintext highlighter-rouge">ndx-icephys-meta</code> extensions on PyPi https://pypi.org/project/ndx-icephys-meta/</li>
+  <li>Submitted <code class="language-plaintext highlighter-rouge">ndx-icephys-meta</code> extension to the ndx-catalog</li>
+  <li>Reviewed extension with developers and users as part of the breakout session and closing discussions https://neurodatawithoutborders.github.io/nwb_hackathons/HCK07_2020_Seattle/projects/breakout_icephys/</li>
+  <li>Created <a href="https://github.com/oruebel/ndx-icephys-meta/milestones">milestones</a>: 
+1) <code class="language-plaintext highlighter-rouge">Release V.0.2.0</code> that includes all changes targeted before integration with NWB 
+1) <code class="language-plaintext highlighter-rouge">Future</code> which includes proposals for future changes</li>
+  <li>Identfied several changes for the extensions that should be implemented before merging the extension with NWB, described below.</li>
+</ul>
+
+<h3 id="changes-identified-as-part-of-the-hackathon">Changes identified as part of the hackathon</h3>
+
+<ul>
+  <li>Add separate <code class="language-plaintext highlighter-rouge">stimulus</code> and <code class="language-plaintext highlighter-rouge">response</code> tables that the <code class="language-plaintext highlighter-rouge">intracellular_recordings</code> table in turn references. See https://github.com/oruebel/ndx-icephys-meta/issues/31</li>
+  <li>
+    <p>Define more descriptive names for the tables to more clearly communicate the purpose of the different tables and avoid existing terms with ambigious definitions in the community. See https://github.com/oruebel/ndx-icephys-meta/issues/32 Specifically:</p>
+
+    <p>1) <code class="language-plaintext highlighter-rouge">intracellular_stimulus</code>  (new, see #31)
+1) <code class="language-plaintext highlighter-rouge">intracellular_response</code> (new, see #31)
+1) <code class="language-plaintext highlighter-rouge">intracellular_recordings</code> (remain as is)
+1) <code class="language-plaintext highlighter-rouge">sweeps</code> —rename to—&gt; <code class="language-plaintext highlighter-rouge">simultaneous_recordings</code>
+1) <code class="language-plaintext highlighter-rouge">sweep_sequence</code>  —rename to—&gt; <code class="language-plaintext highlighter-rouge">sequential_recordings</code>
+1) <code class="language-plaintext highlighter-rouge">runs</code> —rename to —&gt; <code class="language-plaintext highlighter-rouge">repetitions</code>
+1) <code class="language-plaintext highlighter-rouge">conditions</code> —rename to—&gt; <code class="language-plaintext highlighter-rouge">experimental_conditions</code></p>
+  </li>
+  <li>Add <code class="language-plaintext highlighter-rouge">stimulus_type</code> coluns to the <code class="language-plaintext highlighter-rouge">sequential_recordings</code> (a.k.a, <code class="language-plaintext highlighter-rouge">sweep_sequences</code> table)</li>
+  <li>Refine <code class="language-plaintext highlighter-rouge">add_intracellular_recordings</code> function to make arguments optional and add error checks. See https://github.com/oruebel/ndx-icephys-meta/issues/34</li>
+  <li>Add documentation for entering time slices for <code class="language-plaintext highlighter-rouge">add_intracellular_recordings</code>. See https://github.com/oruebel/ndx-icephys-meta/issues/35</li>
+  <li>Avoid the use of the <code class="language-plaintext highlighter-rouge">ic</code> prefix in the API as it is ambigous with terminology used in the ICEPhys community. Use the prefix <code class="language-plaintext highlighter-rouge">icephys</code> instead. See https://github.com/oruebel/ndx-icephys-meta/issues/36</li>
+</ul>
+
+<h3 id="next-steps">Next steps</h3>
+
+<ul>
+  <li>The goal is to implement all changes for https://github.com/oruebel/ndx-icephys-meta/milestone/1 prior to integration with NWB</li>
+  <li>Once implemented and tested the extension should be merged with NWB</li>
+  <li>The goal is to complete all changes within the next 2 weeks and complete merging of the changes with NWB propoer within the next 4 weeks</li>
+</ul>
+
+<h3 id="follow-up">Follow-up</h3>
+
+<p>As part of the discussions several topics for future follow-up proposals to further refine the management of icephys metadata have been identified. These are currently managed as part of https://github.com/oruebel/ndx-icephys-meta/milestone/2</p>
+
+<ul>
+  <li>Add the ability to define custom tables that branch of the existing hierarchy. E.g., see https://github.com/oruebel/ndx-icephys-meta/issues/24 This topic introduces a great deal of flexibility and requires further review of use-cases and impact.</li>
+  <li>Refactor strategy for storing large collections of ICEphys recordings with the goal to reduce the number of objects required in a file. One main goal here would be to optimize performance and reduce the need for iteration over large numbers of objects. This issue is also related to this https://github.com/oruebel/ndx-icephys-meta/issues/17</li>
+  <li>Wrap stimulus/response columns to improve rendering and potentially improve performance by delaying resolution of references. See laos in part https://github.com/oruebel/ndx-icephys-meta/issues/23</li>
+  <li>Add <code class="language-plaintext highlighter-rouge">stimulus_types</code> table for describing the stimulus types. See https://github.com/oruebel/ndx-icephys-meta/issues/37</li>
+</ul>
+
+<h2 id="materials">Materials</h2>
+
+<ul>
+  <li>Proposed extension: https://github.com/oruebel/ndx-icephys-meta</li>
+  <li><a href="https://docs.google.com/document/d/1cAgsXv26BmQoVfa7Greyxs0oc4IGH-t5aJsm-AwUAAE/edit">Extension proposal document</a></li>
+</ul>
+
+<h2 id="background-and-references">Background and References</h2>
+
+<ul>
+  <li>…</li>
+</ul>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

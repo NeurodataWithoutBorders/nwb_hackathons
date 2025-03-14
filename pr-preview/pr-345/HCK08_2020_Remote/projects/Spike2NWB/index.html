@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Conversion of Spike2 data into NWB | NWB Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Conversion of Spike2 data into NWB" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Remote/projects/Spike2NWB/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Remote/projects/Spike2NWB/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Conversion of Spike2 data into NWB" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"Conversion of Spike2 data into NWB","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK08_2020_Remote/projects/Spike2NWB/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK08_2020_Remote/projects/Spike2NWB/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <h1 id="conversion-of-spike2-data-into-nwb">Conversion of Spike2 data into NWB</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ol>
+  <li>Deepti Mittal (participant at hackathon)</li>
+  <li>Rebecca Mease/Alexander Groh (PIs)</li>
+  <li>Ross Folkard</li>
+</ol>
+
+<h2 id="project-description">Project Description</h2>
+
+<ul>
+  <li>Data were obtained from anesthetized mice.</li>
+  <li>Data acquistion software : Spike2</li>
+  <li>Spike sorting tool - Kilosort2</li>
+  <li><strong>NEED PROBE GEOMETRY?</strong></li>
+</ul>
+
+<h2 id="objectives">Objectives</h2>
+
+<ol>
+  <li>Import silicon probe electrophysiology data collected with Spike2 into NWB format. Is it possible to convert .smrx or .mat file directly to NWB or are there any intermediate steps involved? if possible, We would like to import data files from SPIKE2 into Python and later to NWB.</li>
+  <li>Establish consistent import of metadata about experiment (this should be a more-or-less common tool across the group, regardless of acquisition system).</li>
+  <li>Establish comparative spike sorting with SpikeInterface (tentatively, kilosort2 and klusta)</li>
+  <li>Understand how to access and edit trial information.</li>
+  <li>Understand how to access units’ waveform information, do offline processing/categorization, then write results back to NWB</li>
+  <li>Establish restricted backwards-compatibility for time-consuming analysis that is already done (e.g. spike curation with Phy, post-hoc trigger-detection and trial definition)</li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Develop template for metadata and file creation.</p>
+
+    <p><em>Preferably Python? Probe, histology, animal information, opto/chemogenetic information, sensory stimulus, experimenter manipulations (experimental model)</em></p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Import raw .smrx file (time-series data) to NWB. (To begin with,  use Spike2 to export data from the .smrx file to a  .mat file, then import the Matlab file into Python.)</p>
+  </li>
+</ul>
+
+<p>Include all channels (command stimuli and recorded stimuli if relevant) Animal state read-outs (respiration, temperature, heart beat)._</p>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Import electrophysiology experimental trial data to NWB</p>
+
+    <p><em>Either from s2rx (?) file (preferable) OR from Conditions file in *analysis.mat</em></p>
+
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>Also custom user-defined trial inputs</em></li>
+    </ul>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Import data into SpikeInterface</p>
+
+    <p><em>Is this best to do with data already in NWB format? Or directly from Spike2 format</em></p>
+
+    <p><em>What about .bin files that we already have from kilosort2? Are they generic enough to be used by SpikeInterface, or does it do its own conversion to farm out to many spike-sorting algorithms? Consider outputting a downsampled LFP directly from SpikeInterface.</em></p>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Understand how to do basic comparison of two spike-sorting algorithms, output results to NWB
+    <ul class="task-list">
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />_get two spike sorters running _</li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>basic comparison/breakdown</em></li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>output to NWB</em></li>
+      <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><em>understand/document how different curation sessions are handled.</em></li>
+    </ul>
+  </li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Access clusterwaveform information via python and matlab stored in NWB.</li>
+</ul>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<p>Will be updated later..</p>
+
+<h2 id="materials">Materials</h2>
+
+<p>Will be updated later..</p>
+
+<h2 id="background-and-references">Background and References</h2>
+
+<p>Will be updated later..</p>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

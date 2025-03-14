@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/AdvancedIO/" />
+<meta property="og:url" content="https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/AdvancedIO/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"https://neurodatawithoutborders.github.io/nwb_hackathons/HCK04_2018_Seattle/Projects/AdvancedIO/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=f688b471003e7904c6e9186ff8c50cc148689506">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=f688b471003e7904c6e9186ff8c50cc148689506">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK04_2018_Seattle/Projects/AdvancedIO/Readme.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://neurodatawithoutborders.github.io/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p>Back to <a href="/nwb_hackathons/HCK04_2018_Seattle/#ProjectsList">Projects List</a></p>
+
+<h1 id="advanced-data-io-via-pynwb">Advanced Data I/O via PyNWB</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Oliver Ruebel (LBNL)</li>
+  <li>Andrew Tritt (LBNL)</li>
+  <li>Ben Dichter</li>
+  <li>Thomas Braun</li>
+  <li>Jean-Christophe Fillion-Robin (Kitware)</li>
+  <li>Aaron D. Milstein  (Stanford)</li>
+</ul>
+
+<h1 id="project-description">Project Description</h1>
+
+<p>Enhance and gather requirements for advanced data I/O features, e.g.:</p>
+<ul>
+  <li>Compression</li>
+  <li>Iterative data write</li>
+  <li>Data streaming</li>
+  <li>MPI parallel I/O</li>
+  <li>External files</li>
+</ul>
+
+<h2 id="objective">Objective</h2>
+
+<ol>
+  <li>Create list of requirments for the various advanced I/O features</li>
+  <li>Expand existing advanced I/O features as needed to better support the requirements</li>
+  <li>As approbriate, prioritize and define plan for how the features could be implemented</li>
+</ol>
+
+<h2 id="current-functionality">Current functionality</h2>
+
+<ol>
+  <li>Basic compression is currently supported via the <a href="http://pynwb.readthedocs.io/en/latest/pynwb.form.backends.hdf5.h5_utils.html#pynwb.form.backends.hdf5.h5_utils.H5DataIO">H5DataIO</a> class. An example for how to use H5DataIO is part of the PyNWB docs http://pynwb.readthedocs.io/en/latest/example.html#compressing-datasets .</li>
+  <li>Iterative data write (and streaming) are currrently supported via:
+    <ul>
+      <li><a href="http://pynwb.readthedocs.io/en/latest/pynwb.form.data_utils.html#pynwb.form.data_utils.DataChunkIterator">DataChunkIterator</a> Class for defining and iterating over data chunks. A number of additional classes related to the iterative data write are defined in the <a href="pynwb.readthedocs.io/en/latest/pynwb.form.data_utils.html#pynwb.form.data_utils">data_utils</a> module, e.g. <a href="pynwb.readthedocs.io/en/latest/pynwb.form.data_utils.html#pynwb.form.data_utils">AbstractDataChunkInterator</a>, <a href="pynwb.readthedocs.io/en/latest/pynwb.form.data_utils.html#pynwb.form.data_utils">DataChunk</a>, <a href="pynwb.readthedocs.io/en/latest/pynwb.form.data_utils.html#pynwb.form.data_utils">ShapeValidator</a>, etc.</li>
+      <li><a href="http://pynwb.readthedocs.io/en/latest/pynwb.form.backends.hdf5.h5tools.html#pynwb.form.backends.hdf5.h5tools.HDF5IO">HDF5IO</a> implements the actual iterative data write (see <code class="language-plaintext highlighter-rouge">__chunked_iter_fill__</code> function)</li>
+      <li><a href="pynwb.readthedocs.io/en/latest/pynwb.form.monitor.html">monitoring</a></li>
+      <li>A start for a tutorial for iterative data write is on the following branch but its far from complete: https://github.com/NeurodataWithoutBorders/pynwb/compare/iter_write_tutorial</li>
+    </ul>
+  </li>
+  <li>External files are currently supported through “reuse” of NWBContainers and through passing in of h5py.Dataset objects. Some known needs are:
+    <ul>
+      <li><strong>See progress below</strong> Instead of using h5py.Dataset as inputs to NWBContainers to then create external links, this behavior should be made explicit by wrapping the datasets using HDF5IO and then configuring things on the container. This is needed to 1) make it explicit to users whether ExternalLinks are being created, 2) enable copy vs. linking of data, 3) facilitate error checking for mismatching attributes</li>
+      <li><strong>TODO</strong> Need to add error checking ot ensure that attributes on the dataset match what the user is providing</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ol>
+  <li>Review existing functionality in PyNWB for compression, iterative write, streaming,, external files, and parallel I/O</li>
+  <li>Identify missing features</li>
+  <li>Prioritize and define plan for implementing missing features and identify implementation leads for the different features.</li>
+</ol>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+<ul>
+  <li>The following pull request has been merged: https://github.com/NeurodataWithoutBorders/pynwb/pull/400
+    <ul>
+      <li>Allow use of HDF5IO to configure creation of external links</li>
+      <li>Allow customization of default behavior when h5py.Dataset objects are used as input on write</li>
+      <li>Expand the list of supported I/O parameters on HDF5IO to allow chunking, compression, etc. options to be set explicitly</li>
+      <li>Some minor improvements to DataChunkIterator</li>
+    </ul>
+  </li>
+  <li>Next steps:</li>
+  <li>Oliver to create Advanced Data I/O tutorial for the hackathon at LBNL</li>
+  <li>Enhance HDF5IO to create a queue with all DataChunkIterators to allow customization of how the write of DataChunkItertors is handled
+(see use case described in https://github.com/NeurodataWithoutBorders/pynwb/pull/310 and https://github.com/NeurodataWithoutBorders/pynwb/pull/309)</li>
+  <li>MPI I/O</li>
+</ul>
+
+<h1 id="illustrations">Illustrations</h1>
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+<!--![Description of picture](Example2.jpg)-->
+
+<!--![Some more images](Example2.jpg)-->
+
+<h1 id="background-and-references">Background and References</h1>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+<ul>
+  <li>Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/YourSubTeam</li>
+  <li>Source code: https://github.com/YourUser/YourRepository</li>
+  <li>Documentation: https://link.to.docs</li>
+  <li>Test data: https://link.to.test.data</li>
+</ul>
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>
