@@ -2,6 +2,7 @@
 
 # NWB Docathon 2025
 
+  * [Survey](#survey)
   * [Dates and Location](#dates-and-location)
   * [Objective](#objective)
   * [Registration](#registration)
@@ -11,7 +12,11 @@
   * [Agenda](#agenda)
   * [Code of Conduct](#code-of-conduct)
   * [Disclaimer](#disclaimer)
-  
+
+
+## Survey
+
+To let us know about your experience with NWB documentation, please feel free to complete the [NWB Documentation Survey](https://forms.gle/ihC8xLDeSX5XKyXN8) even if you are unable to participate in the Docathon. This survey is a great way to help us better understand your experience with the NWB documentation and how we can improve!
 
 ## Dates and Location
 
