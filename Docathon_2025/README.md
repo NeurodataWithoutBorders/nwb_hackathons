@@ -62,6 +62,7 @@ We will be use Zoom for the meeting and will send an email with a link to all re
 comment on an existing issue in advance
    * [PyNWB issues](https://github.com/NeurodataWithoutBorders/pynwb/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22topic%3A%20docs%22&page=1) 
    * [MatNWB issues](https://github.com/NeurodataWithoutBorders/matnwb/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22topic%3A%20docs%22)
+   * [NWB Schema issues](https://github.com/NeurodataWithoutBorders/nwb-schema/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22topic%3A%20docs%22)
 
 
 ## Agenda
