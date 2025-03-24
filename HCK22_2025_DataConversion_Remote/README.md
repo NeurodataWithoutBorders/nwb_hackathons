@@ -25,7 +25,7 @@
 
 ## Dates and Location
 
-- **Dates:** May 12-14, 2025
+- **Dates:** May 12-13, 2025
 - **Location:** Virtual
 
 ## Registration
@@ -38,7 +38,7 @@ We will be using Gather and Zoom for the meeting and will send an email in the d
 
 ## Organizing Committee
 
-**Program chair:**  [Steph Prince](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/stephanie-prince/) and [Oliver Rübel](https://crd.lbl.gov/divisions/scidata/mla/staff/oliver-ruebel/)
+**Program chairs:**  [Steph Prince](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/stephanie-prince/) and [Oliver Rübel](https://crd.lbl.gov/divisions/scidata/mla/staff/oliver-ruebel/)
 
 ## What to bring?
 
@@ -60,17 +60,44 @@ and across labs. NWB has seen wide adoption in the neurophysiology community, an
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
 The NWB Data Conversion Workshop will train members of the neuroscience community on how to convert their data to NWB and 
-publish it on the DANDI Archive. We will train attendees starting from the basics of the NWB format and proceeding to 
-domain-specific tutorials and advanced data engineering techniques to maximally utilize the features of the HDF5 and Zarr 
-backends. During this workshop, we will introduce multiple sets of tools with varying levels of flexibility for converting
- your data, including NWB GUIDE, a new no-code user interface for data conversion.
+publish it on the DANDI Archive. During this workshop, we will introduce multiple sets of tools with varying levels of flexibility for converting
+ your data, including NWB GUIDE, a no-code user interface for data conversion.
 
 **Note:** All levels of experience are welcome! We will have tutorials ranging from no-code, automated data conversion to 
 more advanced, custom code conversion.
 
 ## Agenda
 
-The agenda will be shared at a later date.
+Below is the tentative agenda. All times are in Pacific Time (PT, UTC-7). 
+
+### Day 1 (Monday, May 12)
+
+| Start Time | End Time | Duration | Topic | Type |
+|------------|----------|----------|-------|------|
+| 9:00 AM | 9:15 AM | 15 min | Welcome to the Data Conversion Workshop | <kbd style="background-color: #F75C81; color: white; border-radius: 4px; padding: 3px 6px;">Talk</kbd> |
+| 9:15 AM | 10:00 AM | 45 min | Overview of NWB | <kbd style="background-color: #F75C81; color: white; border-radius: 4px; padding: 3px 6px;">Talk</kbd> |
+| 10:00 AM | 11:00 AM | 1 hour | NWB GUIDE | <kbd style="background-color:#64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
+| 11:00 AM | 12:00 PM | 1 hour | NeuroConv, PyNWB, MatNWB | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
+| 12:00 PM | 12:30 PM | 30 min | Project sharing | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
+| 12:30 PM | 5:00 PM | 4.5 hours | Data conversion hacking | <kbd style="background-color: #59D382; color: white; border-radius: 4px; padding: 3px 6px;">Hack</kbd> |
+
+### Day 2 (Tuesday, May 13)
+
+| Start Time | End Time | Duration | Topic | Type |
+|------------|----------|----------|-------|------|
+| 9:00 AM | 9:10 AM | 10 min | Welcome to the workshop | <kbd style="background-color: #F75C81; color: white; border-radius: 4px; padding: 3px 6px;">Talk</kbd> |
+| 9:10 AM | 10:40 AM | 1.5 hours | Tools and data showcase | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
+| 10:40 AM | 11:30 AM | 50 min | Publishing data and using the DANDI Archive | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
+| 11:30 AM | 12:15 PM | 45 min | How to organize community NWB events | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
+| 12:15 PM | 12:45 PM | 30 min | Extensions and TAB discussion | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
+| 12:45 PM | 4:00 PM | 3.25 hours | Data conversion hacking | <kbd style="background-color: #59D382; color: white; border-radius: 4px; padding: 3px 6px;">Hack</kbd> |
+
+### Legend
+<kbd style="background-color:#F75C81; color: white; border-radius: 4px; padding: 3px 6px; margin: 0 3px;">Talk</kbd> Presentation sessions  
+<kbd style="background-color: #59D382; color: white; border-radius: 4px; padding: 3px 6px; margin: 0 3px;">Hack</kbd> Hands-on coding sessions  
+<kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px; margin: 0 3px;">Tutorial</kbd> Tutorials with hacking exercises  
+<kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px; margin: 0 3px;">Discussion</kbd> Group conversations and networking
+
 
 ## Code of Conduct
 
