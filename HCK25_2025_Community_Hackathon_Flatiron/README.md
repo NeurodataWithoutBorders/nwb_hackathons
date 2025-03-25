@@ -33,10 +33,11 @@ NWB software ecosystem, such as Pynapple, NeMoS, Neurosift, and CaImAn. Hackatho
 encourage projects that relate to NWB integration with these tools.
 
 Please note: This community hackathon is *not* a training event. There will be no introductory-level talks or lessons
-that teach attendees on how to use NWB. However, the NWB team provides many 
+that teach attendees on how to use NWB. However, if you are new to NWB, you are still welcome to attend the hackathon.
+The NWB team provides many 
 [video tutorials](https://www.youtube.com/watch?v=xZiSesEVA3o&list=PL5wPNhoBP0ZB2sLuRKWqwgXf9V3FRl1bw) and 
 [online documentation](https://nwb-overview.readthedocs.io/en/latest/intro_to_nwb/1_intro_to_nwb.html) that you can
-learn from during the hackathon. If you are new to NWB and want to learn how to convert your data to NWB, we encourage
+learn from before or during the hackathon. If you want to learn how to convert your data to NWB, we encourage
 you to attend the 
 [virtual NWB Data Conversion Workshop](https://neurodatawithoutborders.github.io/nwb_hackathons/HCK22_2025_DataConversion_Remote/)
 in May 2025.
