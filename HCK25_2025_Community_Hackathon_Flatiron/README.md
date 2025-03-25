@@ -51,6 +51,7 @@ in May 2025.
 We encourage participants to stay at the hackathon until the very end - Wednesday at 5:30 PM - to participate in the 
 final project presentations.
 
+
 ## Registration
 
 [Register for the NWB Community Hackathon](https://docs.google.com/forms/d/e/1FAIpQLScGO7ljpLWACStymeJU4wBSgNhNCyUN4H5xfQN32M_8qMriBg/viewform?usp=dialog)
@@ -60,15 +61,15 @@ final project presentations.
 
 ### Housing
 
-Housing support is not provided. We recommend booking housing at the
-[Hampton Inn Houston-Near The Galleria](https://www.hilton.com/en/hotels/houpohx-hampton-houston-near-the-galleria/),
-which is a short walk to the event.
+Housing support is not provided. We will suggest housing options near the hackathon in April.
+
 
 ### Travel
 
 Travel support is not provided. Please see the
 [Dates and Location](#dates-and-location) section above for information on when you are expected to arrive and depart
 the hackathon.
+
 
 ### Dining
 
