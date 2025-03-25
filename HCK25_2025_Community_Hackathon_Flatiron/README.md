@@ -3,7 +3,7 @@
 
 # Welcome to the 2025 NWB Community Hackathon hosted by the Flatiron Institute!
 
-  * [Report](#report)
+  <!-- * [Report](#report) -->
   * [Overview](#overview)
   * [Dates and Location](#dates-and-location)
   * [Registration](#registration)
@@ -15,7 +15,7 @@
   * [Code of Conduct](#code-of-conduct)
 
 
-## Report
+<!-- ## Report -->
 
 <!-- The final report for the 2025 NWB Community Hackathon is now available on GitHub ([PDF](report/Report_18th_NWB_Developer_Hackathon.pdf)) ([LaTeX (on Overleaf)](https://www.overleaf.com/read/zcdnqtcmwgpv#d964cb)). -->
 
