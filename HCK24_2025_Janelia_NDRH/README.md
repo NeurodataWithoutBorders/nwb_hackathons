@@ -161,10 +161,7 @@ Applicants should have basic programming experience in Python or MATLAB and expe
 
 ## Application
 
-Space for the event is limited. Apply to attend NeuroDataReHack 2025 [here](https://forms.gle/cR9sm5wjAt8oqTaT7). 
-
-* Application deadline: Feb 12
-* Notification of admission decisions: March 15
+Applications are now closed for NeuroDataReHack. Sign up for our newsletter to learn about next year!
 
 ## Logistics
 
