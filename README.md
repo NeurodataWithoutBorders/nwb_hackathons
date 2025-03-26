@@ -6,7 +6,8 @@
 - [Cosyne: March 2025](Cosyne_2025/README.md) - A tutorial session on NWB and DANDI will be held during the Computational and Systems Neuroscience (COSYNE) 2025 conference in Montreal, Canada on **March 27, 2025**.
 - [NWB and DANDI Workshop: April 2025](Workshop_2025_UWashington/README.md) - **April 7-8, 2025** at University of Washington in Seattle, WA, USA
 - [NWB Docathon: May 2025](Docathon_2025/README.md) - **May 1-2, 2025** (virtual)
-- [NWB Data Conversion Workshop: May 2025](HCK22_2025_DataConversion_Remote/README.md) - **May 12-14, 2025** (virtual)
+- [NWB Data Conversion Workshop: May 2025](HCK22_2025_DataConversion_Remote/README.md) - **May 12-13, 2025** (virtual)
+- [NWB Open Neurodata and Tools Showcase: May 2025](HCK23_2025_OpenNeurodataShowcase/README.md) - **May 13, 2025** (virtual)
 - [NeuroDataReHack: July 2025](HCK24_2025_Janelia_NDRH/README.md) - **July 14-18, 2025** at HHMI Janelia Research Campus in Ashburn, Virginia, USA
 - [NWB Community Hackathon: August 2025](HCK25_2025_Community_Hackathon_Flatiron/README.md) - **August 4-6, 2025** at Flatiron Institute in New York City, NY, USA
 
