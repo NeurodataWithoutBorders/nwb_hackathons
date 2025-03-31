@@ -8,7 +8,7 @@
 
 **Location:** NYU Langone Health Science Building. 435 E 30th St, New York, NY.
 
-Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data and integrate some of the 300+ publicly available datasets into your research. 
+Join us for an interactive workshop on [Neurodata Without Borders (NWB)](https://nwb.org), a data standard for neurophysiology, and the [DANDI Archive](https://dandiarchive.org), a collaboration platform for publishing, sharing, and processing neurophysiology data. Learn how to use these resources to maximize the impact of your data and integrate some of the 350+ publicly available datasets into your research. 
 
 Representatives from the NWB and DANDI teams will provide an overview of the NWB software ecosystem and teach you how to convert data to NWB and publish data on DANDI.
 
