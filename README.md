@@ -3,7 +3,6 @@
 ## Hackathon Events
 
 ### Upcoming Events
-- [NWB and DANDI Workshop: April 2025](Workshop_2025_UWashington/README.md) - **April 7-8, 2025** at University of Washington in Seattle, WA, USA
 - [NWB Docathon: May 2025](Docathon_2025/README.md) - **May 1-2, 2025** (virtual)
 - [NWB Data Conversion Workshop: May 2025](HCK22_2025_DataConversion_Remote/README.md) - **May 12-13, 2025** (virtual)
 - [NWB Open Neurodata and Tools Showcase: May 2025](HCK23_2025_OpenNeurodataShowcase/README.md) - **May 13, 2025** (virtual)
@@ -12,6 +11,7 @@
 - [NWB and DANDI Workshop: August 2025](Workshop_2025_NYU/README.md) - **August 7, 2025** at NYU Langone Health in New York City, NY, USA
 
 ### Past Events
+- [NWB and DANDI Workshop: April 2025](Workshop_2025_UWashington/README.md) - **April 7-8, 2025** at University of Washington in Seattle, WA, USA
 - [Cosyne: March 2025](Cosyne_2025/README.md) - A tutorial session on NWB and DANDI was held during the Computational and Systems Neuroscience (COSYNE) 2025 conference in Montreal, Canada on **March 27, 2025**.
 - [NWB and DANDI Workshop: February 2025](Workshop_2025_UNAM/README.md) - **February 19-20, 2025** at Universidad Nacional Autónoma de México (UNAM) in Mexico City, Mexico
 - [NWB and DANDI Workshop INCF: September 2024](Workshop_2024_INCF/README.md) -  **September 26-27, 2024** in Austin, Texas, USA.
