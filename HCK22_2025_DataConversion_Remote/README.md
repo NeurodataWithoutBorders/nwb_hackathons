@@ -56,7 +56,7 @@ We will be using Gather and Zoom for the meeting and will send an email in the d
 
 The [Neurodata Without Borders](nwb.org) project is an effort to standardize the description and storage of neurophysiology
 data and metadata. NWB enables data sharing and reuse and reduces the energy barrier to applying data analytics both within
-and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 100 datasets on the
+and across labs. NWB has seen wide adoption in the neurophysiology community, and there are now over 350 datasets on the
 DANDI Archive in NWB, including data from the Allen Institute and the International Brain Laboratory.
 
 The NWB Data Conversion Workshop will train members of the neuroscience community on how to convert their data to NWB and 
