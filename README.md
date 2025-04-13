@@ -6,7 +6,7 @@
 - [NWB Docathon: May 2025](Docathon_2025/README.md) - **May 1-2, 2025** (virtual)
 - [NWB Data Conversion Workshop: May 2025](HCK22_2025_DataConversion_Remote/README.md) - **May 12-13, 2025** (virtual)
 - [NWB Open Neurodata and Tools Showcase: May 2025](HCK23_2025_OpenNeurodataShowcase/README.md) - **May 13, 2025** (virtual)
-- [NeuroDataReHack: July 2025](HCK24_2025_Janelia_NDRH/README.md) - **July 14-18, 2025** at HHMI Janelia Research Campus in Ashburn, Virginia, USA
+- [NeuroDataReHack: July 2025 (applications closed)](HCK24_2025_Janelia_NDRH/README.md) - **July 14-18, 2025** at HHMI Janelia Research Campus in Ashburn, Virginia, USA
 - [NWB Community Hackathon: August 2025](HCK25_2025_Community_Hackathon_Flatiron/README.md) - **August 4-6, 2025** at Flatiron Institute in New York City, NY, USA
 - [NWB and DANDI Workshop: August 2025](Workshop_2025_NYU/README.md) - **August 7, 2025** at NYU Langone Health in New York City, NY, USA
 - [NeuroDataReHack 2026] - **July 13-17, 2026** at HHMI Janelia Research Campus in Ashburn, Virginia, USA (Save the date)
