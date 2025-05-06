@@ -87,9 +87,9 @@ Below is the tentative agenda. All times are in Pacific Time (PT, UTC-7).
 |------------|----------|----------|-------|------|
 | 9:00 AM | 9:10 AM | 10 min | Welcome to the workshop | <kbd style="background-color: #F75C81; color: white; border-radius: 4px; padding: 3px 6px;">Talk</kbd> |
 | 9:10 AM | 10:40 AM | 1.5 hours | Tools and data showcase | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
-| 10:40 AM | 11:30 AM | 50 min | Publishing data and using the DANDI Archive | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
-| 11:30 AM | 12:15 PM | 45 min | How to organize community NWB events | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
-| 12:15 PM | 12:45 PM | 30 min | Extensions and TAB discussion | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
+| 10:45 AM | 11:15 AM | 30 min | Extensions and TAB discussion | <kbd style="background-color: #8974D6; color: white; border-radius: 4px; padding: 3px 6px;">Discussion</kbd> |
+| 11:15 AM | 12:00 PM | 45 min | Publishing data and using the DANDI Archive | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
+| 12:00 PM | 12:45 PM | 45 min | How to organize community NWB events | <kbd style="background-color: #64C0FF; color: white; border-radius: 4px; padding: 3px 6px;">Tutorial</kbd> |
 | 12:45 PM | 4:00 PM | 3.25 hours | Data conversion hacking | <kbd style="background-color: #59D382; color: white; border-radius: 4px; padding: 3px 6px;">Hack</kbd> |
 
 ### Legend
