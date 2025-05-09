@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/Neuropixels/" />
+<meta property="og:url" content="http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/Neuropixels/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/Neuropixels/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK04_2018_Seattle/Projects/Neuropixels/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://nwb.org/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p>Back to <a href="/nwb_hackathons/HCK04_2018_Seattle/#ProjectsList">Projects List</a></p>
+
+<h1 id="nwb-for-neuropixels-experiments">NWB for Neuropixels Experiments</h1>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Josh Siegle (Allen Institute) <a href="https://github.com/jsiegle" class="user-mention">@jsiegle</a>
+</li>
+  <li>Xiaoxuan Jia (Allen Institute) <a href="https://github.com/jiaxx" class="user-mention">@jiaxx</a>
+</li>
+  <li>Nile Graddis (Allen Institute) <a href="https://github.com/nilegraddis" class="user-mention">@nilegraddis</a>
+</li>
+  <li>Tom Davidson (UCSF) <a href="https://github.com/tjd2002" class="user-mention">@tjd2002</a>
+</li>
+  <li>Dan Millman (Allen Institute) <a href="https://github.com/everythingevolves" class="user-mention">@everythingevolves</a>
+</li>
+</ul>
+
+<h1 id="project-description">Project Description</h1>
+
+<p>We will represent high-density exctracellular electrophysiology (ecephys) data in NWB.</p>
+
+<h2 id="objective">Objective</h2>
+
+<ol>
+  <li>Flexible representation of spike-sorting outputs</li>
+  <li>Build analogous functionality for Ophys data (DM).</li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ol>
+  <li>Identify and obtain a pool of raw datasets.</li>
+  <li>Write these datasets to NWB files (and read them back!).</li>
+  <li>Ensure that common features of these datasets are supported by the core 
+NWB namespace or an extension.</li>
+  <li>Document the process of writing ecephys data to NWB.</li>
+</ol>
+
+<h2 id="progress">Progress</h2>
+
+<ul>
+  <li>Implemented generic unit metrics group (for storing snr/peak amplitudes) in core. See <a href="https://github.com/NeurodataWithoutBorders/pynwb/pull/435">pr #435</a>
+</li>
+  <li>Packaged kilosort/phy outputs with pynwb. See <a href="notebooks/Packaging%20Kilosort%20+%20phy%20outputs%20using%20pynwb.ipynb">notebook</a>
+</li>
+</ul>
+
+<h2 id="next-steps">Next Steps</h2>
+
+<ul>
+  <li>We need to associate mean/std waveforms and electrode table regions with UnitTimes in core. See <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues/431">issue #431</a>
+</li>
+  <li>Create a tutorial for packaging Kilosort/phy outputs with pynwb</li>
+</ul>
+
+<h2 id="functionality-table">Functionality Table</h2>
+<p>A table of things that we want to write to NWB files.  Please fill in/edit entries! Columns are:</p>
+<ul>
+  <li>functionality: short description</li>
+  <li>tools supported: if the functionality is kilosort-specific, for instance</li>
+  <li>PyNWB class: the PyNWB class(es) that currently supports this feature (or the closest match).</li>
+  <li>notes: additional information.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><strong>functionality</strong></th>
+      <th style="text-align: center"><strong>tools supported</strong></th>
+      <th style="text-align: center"><strong>PyNWB class</strong></th>
+      <th style="text-align: center"><strong>notes</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Sorted units</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">
+<del>ecephys.Clustering</del> misc.UnitTimes</td>
+      <td style="text-align: center">NB: UnitTimes was recently refactored (<a href="https://github.com/NeurodataWithoutBorders/pynwb/pull/382">pynwb pr #382</a>). Doc fixes outstanding (<a href="https://github.com/NeurodataWithoutBorders/nwb-schema/issues/127">nwb-schema issue #117</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Event tiimes</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">
+<del>ecephys.Clustering</del> misc.UnitTimes</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unitwise metrics (peak amplitude, snr, classifications)</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">
+<del>ecephys.Clustering</del> <a href="https://github.com/NeurodataWithoutBorders/pynwb/pull/435">pr #435</a>
+</td>
+      <td style="text-align: center">Created a new UnitMetrics class to handle unitwise metrics generically</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Eventwise metrics (amplitude, PCs)</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">ecephys.FeatureExtraction (?)</td>
+      <td style="text-align: center">These are likely to be lab specific. A solution based on MultiContainerInterface seems sensible</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Unit waveforms</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">ecephys.ClusterWaveforms</td>
+      <td style="text-align: center">Currently, it’s not clear how to relate waveforms to unit IDs. <a href="https://github.com/NeurodataWithoutBorders/pynwb/issues/431">issue #431</a>
+</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">LFP</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">ecephys.LFP ecephys.ElectricalSeries</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Current Source Density</td>
+      <td style="text-align: center">all</td>
+      <td style="text-align: center">ecephys.ElectricalSeries (?)</td>
+      <td style="text-align: center">not sure if the dimensionality works. Should attach to LFP?</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="illustrations">Illustrations</h1>
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+<!--![Description of picture](Example2.jpg)-->
+
+<!--![Some more images](Example2.jpg)-->
+
+<h1 id="background-and-references">Background and References</h1>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+<ul>
+  <li>Forum: https://github.com/orgs/NeurodataWithoutBorders/teams/neuropixels/discussions</li>
+  <li>Source code: https://github.com/YourUser/YourRepository</li>
+  <li>Documentation: https://link.to.docs</li>
+  <li>Test data: https://link.to.test.data</li>
+</ul>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

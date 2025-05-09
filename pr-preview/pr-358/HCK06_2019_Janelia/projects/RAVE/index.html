@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="http://nwb.org/nwb_hackathons/HCK06_2019_Janelia/projects/RAVE/" />
+<meta property="og:url" content="http://nwb.org/nwb_hackathons/HCK06_2019_Janelia/projects/RAVE/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"http://nwb.org/nwb_hackathons/HCK06_2019_Janelia/projects/RAVE/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK06_2019_Janelia/projects/RAVE/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://nwb.org/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p><a href="/nwb_hackathons/HCK06_2019_Janelia/#ProjectsList"><img class="emoji" title=":rewind:" alt=":rewind:" src="https://github.githubassets.com/images/icons/emoji/unicode/23ea.png" height="20" width="20"> Back to the projects list</a></p>
+
+<!-- For information on how to write GitHub .md files see https://guides.github.com/features/mastering-markdown/ -->
+
+<h1 id="integrate-nwbn-with-rave">Integrate NWB:N with RAVE</h1>
+
+<p><img src="https://raw.githubusercontent.com/dipterix/instrave/master/img/mainapp/ravedemo.gif" alt="RAVE visualizations via data imported from NWB format"></p>
+
+<ul>
+  <li>
+    <p>Check this video 
+https://youtu.be/h_W9FyHKokA</p>
+  </li>
+  <li>
+    <p>File to convert NWB to RAVE (Alpha version)</p>
+  </li>
+</ul>
+
+<p><a href="https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R">https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R</a></p>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Zhengjia Wang (Baylor College of Medicine/Rice University)</li>
+  <li>Michael S. Beauchamp</li>
+</ul>
+
+<h2 id="project-description">Project Description</h2>
+
+<p>The goal of this project is to create “R” code that will allow our ECOG package, RAVE,
+to read in (as a start) voltage traces from NWB files.</p>
+
+<h2 id="objectives">Objectives</h2>
+
+<!-- Briefly describe the objectives of your project. What would you like to achive?-->
+<p>Support importing NWB format and load <code class="language-plaintext highlighter-rouge">Subject</code>, <code class="language-plaintext highlighter-rouge">epoch</code>, and <code class="language-plaintext highlighter-rouge">LFP</code> into <code class="language-plaintext highlighter-rouge">RAVE</code> preprocess pipeline.
+<!-- 1. Objective A. Describe it in 1-2 sentences.-->
+<!-- 1. Objective B. Describe it in 1-2 sentences.-->
+<!-- 1. ...--></p>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<p>Create scripts to import <code class="language-plaintext highlighter-rouge">subject</code>, <code class="language-plaintext highlighter-rouge">analogtraces</code>, <code class="language-plaintext highlighter-rouge">cortical surface</code>, <code class="language-plaintext highlighter-rouge">electrode</code>, and <code class="language-plaintext highlighter-rouge">trial</code></p>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<ol>
+  <li>[Done] Make clear about NWB basic structure</li>
+  <li>[May 15] Import NWB to RAVE</li>
+</ol>
+
+<h2 id="materials">Materials</h2>
+
+<h3 id="nwb-to-rave-converter">NWB to RAVE Converter</h3>
+
+<p><a href="https://raw.githubusercontent.com/beauchamplab/rave/dev-0.1.6.1/inst/third_party/NWB/nwb_import.R">NWB Converter to RAVE (Test script)</a></p>
+
+<h3 id="nwb-ecog-extension">NWB ECoG extension</h3>
+
+<p><a href="https://github.com/bendichter/nwbext_ecog">https://github.com/bendichter/nwbext_ecog</a></p>
+
+<h3 id="installations">Installations</h3>
+
+<h4 id="install-nwbext_ecog">Install <code class="language-plaintext highlighter-rouge">nwbext_ecog</code>
+</h4>
+
+<p>In terminal,</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install git+https://github.com/bendichter/nwbext_ecog
+</code></pre></div></div>
+
+<h4 id="install-r-and-rstudio">Install R and Rstudio</h4>
+
+<p>Open links below and install them according to your platform.</p>
+
+<ul>
+  <li><a href="https://cran.r-project.org/">R</a></li>
+  <li><a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a></li>
+</ul>
+
+<h4 id="hdf5-library-in-r">HDF5 library in R</h4>
+
+<p>In R, <a href="https://github.com/hhoeflin/hdf5r">hdf5r</a> provides IO for HDF5 files. To install it,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>install.packages('hdf5r')
+</code></pre></div></div>
+
+<h4 id="install-rave">Install <code class="language-plaintext highlighter-rouge">RAVE</code>:</h4>
+
+<p>First, install <a href="https://cran.r-project.org/">R</a> and <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a></p>
+
+<p>Open Rstudio, type the following command</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">install.packages</span><span class="p">(</span><span class="s1">'devtools'</span><span class="p">)</span><span class="w">
+
+</span><span class="c1"># Install RAVE dev version</span><span class="w">
+</span><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s1">'beauchamplab/rave@dev-0.1.6'</span><span class="p">)</span><span class="w">
+
+</span><span class="c1"># Install builtin modules</span><span class="w">
+</span><span class="n">devtools</span><span class="o">::</span><span class="n">install_github</span><span class="p">(</span><span class="s1">'beauchamplab/ravebuiltins'</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<!--If available add links to the materials relevant to the project, e.g., the code generated for the project or data used-->
+<!--If available add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--![Description of picture](Example2.jpg)-->
+
+<h2 id="background-and-references">Background and References</h2>
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data ,e.g:-->
+<!-- - Source code: https://github.com/YourUser/YourRepository -->
+<!-- - Documentation: https://link.to.docs -->
+<!-- - Test data: https://link.to.test.data -->
+
+<ul>
+  <li>Web page for RAVE: <a href="https://openwetware.org/wiki/Beauchamp:RAVE">https://openwetware.org/wiki/Beauchamp:RAVE</a>
+</li>
+  <li>GitHub site for RAVE: <a href="https://github.com/beauchamplab/rave/tree/master#rave">https://github.com/beauchamplab/rave/tree/master#rave</a>
+</li>
+</ul>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

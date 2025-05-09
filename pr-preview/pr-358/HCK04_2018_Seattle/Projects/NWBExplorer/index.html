@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>NWB Workshops and Hackathons | Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="NWB Workshops and Hackathons" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/NWBExplorer/" />
+<meta property="og:url" content="http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/NWBExplorer/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="NWB Workshops and Hackathons" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"NWB Workshops and Hackathons","url":"http://nwb.org/nwb_hackathons/HCK04_2018_Seattle/Projects/NWBExplorer/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK04_2018_Seattle/Projects/NWBExplorer/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://nwb.org/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <p>Back to <a href="/nwb_hackathons/HCK04_2018_Seattle/#ProjectsList">Projects List</a></p>
+
+<p><img src="https://github.com/tarelli/geppetto-nwbexplorer/raw/master/styles/images/nwbExplorer.png" alt="Mocked up widgets" /></p>
+
+<h2 id="key-investigators">Key Investigators</h2>
+
+<ul>
+  <li>Matteo Cantarelli (<a href="http://metacell.us">MetaCell</a>)</li>
+  <li>Giovanni Idili (<a href="http://metacell.us">MetaCell</a>)</li>
+</ul>
+
+<h1 id="project-description">Project Description</h1>
+
+<p>Building on the <a href="http://live.geppetto.org/geppetto?load_project_from_id=18">preexisting visualisation for NWB1</a> based on <a href="http://www.geppetto.org">Geppetto</a> we are building an application that can be used by scientists to explore the content of NWB files. Reusing exisiting Geppetto widgets the focus is to build an application that can expose visualisations and workflows that can be useful for scientists.</p>
+
+<h2 id="objective">Objective</h2>
+
+<ol>
+  <li>Objective A. Create a Django based Geppetto application for NWB Explorer - COMPLETED</li>
+  <li>Objective B. Create a NWB Model Interpreter which uses PyNWB - COMPLETED</li>
+  <li>Objective C. Hook up preexisting frontend to visualise content of NWB2 file - COMPLETED</li>
+</ol>
+
+<h2 id="approach-and-plan">Approach and Plan</h2>
+
+<ol>
+  <li>Create application skeleton</li>
+  <li>Explore PyNWB API and prototype the model interpreter</li>
+  <li>Extract metadata and traces</li>
+</ol>
+
+<h2 id="progress-and-next-steps">Progress and Next Steps</h2>
+
+<h3 id="kanban-board-for-all-present-and-future-tasks"><a href="https://waffle.io/tarelli/nwb-explorer">Kanban board for all present and future tasks</a></h3>
+
+<p>The application is <a href="https://github.com/tarelli/nwb-explorer">here</a>, the geppetto extension is <a href="https://github.com/tarelli/geppetto-nwbexplorer">here</a>.</p>
+
+<p>The first step after creating the skeleton was to hook up mocked up images for some target plots inside widgets to quickly provide a visual proof of concept.</p>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/mockupPlots.png" alt="Mocked up widgets" /></p>
+
+<p>Then we implemented a Geppetto Model Interpreter using PyNWB and few tests to test the read API. We used the model interpreter to fetch some traces and reused preexisting Geppetto components to visualize the variables.</p>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/someVariables.png" alt="Variables List" /></p>
+
+<p>and plot them:</p>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/realPlots.png" alt="Real plots" /></p>
+
+<p>Short animation:</p>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbexplorer.gif" alt="Real plots" /></p>
+
+<h3 id="simulation-output-using-nwb2-extension-from-ben-and-kael">Simulation output (Using NWB2 extension from Ben and Kael)</h3>
+
+<p>We extended the model interpreter to work with the extension Ben and Kael created to store the simulation output. We can now also plot simulation outputs stored using NWB. Here we are plotting the membrane potential for two different cell somas.</p>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim1.png" alt="Sim plots" />
+<img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim2.png" alt="Sim plots" />
+<img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/sim3.png" alt="Sim plots" /></p>
+
+<h1 id="previous-version-using-a-java-backend-and-nwb1">Previous version using a Java backend and NWB1</h1>
+
+<p><img src="https://github.com/NeurodataWithoutBorders/nwb_hackathons/raw/master/HCK04_2018_Seattle/Projects/NWBExplorer/nwbExplorer.png" alt="NWB1" /></p>
+
+<h1 id="background-and-references">Background and References</h1>
+
+<ul>
+  <li>Source code: https://github.com/tarelli/nwb-explorer + https://github.com/tarelli/geppetto-nwbexplorer</li>
+  <li>Documentation: https://docs.geppetto.org</li>
+  <li>Tests: https://github.com/tarelli/nwb-explorer/tree/master/tests</li>
+</ul>
+
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>

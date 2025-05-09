@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Requirements for tutorial | NWB Workshops and Hackathons</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Requirements for tutorial" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<meta property="og:description" content="Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons" />
+<link rel="canonical" href="http://nwb.org/nwb_hackathons/HCK13_2022_Janelia/projects/neuroconv_tutorial/" />
+<meta property="og:url" content="http://nwb.org/nwb_hackathons/HCK13_2022_Janelia/projects/neuroconv_tutorial/" />
+<meta property="og:site_name" content="NWB Workshops and Hackathons" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Requirements for tutorial" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Materials related to the Neurodata Without Borders (NWB) User Days Workshops and Hackathons","headline":"Requirements for tutorial","url":"http://nwb.org/nwb_hackathons/HCK13_2022_Janelia/projects/neuroconv_tutorial/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/nwb_hackathons/assets/css/style.css?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+    <link rel="shortcut icon" type="image/png" href="/nwb_hackathons/assets/favicon_96.png?v=c195892c536e8b7cdc1c45d8570b96d2f6ed4aec">
+
+
+    <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+  </head>
+  <body>
+
+    <a class="github-fork-ribbon" href="https://github.com/NeurodataWithoutBorders/nwb_hackathons/edit/main/HCK13_2022_Janelia/projects/neuroconv_tutorial/README.md" data-ribbon="Edit this page" title="Edit this page">Edit this page</a>
+
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://nwb.org/nwb_hackathons/">NWB Workshops and Hackathons</a></h1>
+      
+
+      <h1 id="requirements-for-tutorial">Requirements for tutorial</h1>
+
+<h2 id="running-locally-on-your-own-device">Running locally on your own device</h2>
+
+<p>1a) <a href="https://www.anaconda.com/">Conda/Python</a></p>
+
+<p>2) <code class="language-plaintext highlighter-rouge">pip install neuroconv</code> and <code class="language-plaintext highlighter-rouge">pip install opencv-python</code></p>
+
+<p>3) Download the notebooks directly from this GitHub repo or clone it (<code class="language-plaintext highlighter-rouge">git clone https://github.com/neurodatawithoutborders/nwb_hackathons</code>)</p>
+
+<p>4a) Download some example data from GIN: <a href="https://gin.g-node.org/NeuralEnsemble/ephy_testing_data/src/master/spikeglx/Noise4Sam_g0/Noise4Sam_g0_imec0/Noise4Sam_g0_t0.imec0.ap.meta">Noise4Sam_g0_t0.imec0.ap.meta</a> and <a href="https://gin.g-node.org/NeuralEnsemble/ephy_testing_data/src/master/spikeglx/Noise4Sam_g0/Noise4Sam_g0_imec0/Noise4Sam_g0_t0.imec0.ap.bin">Noise4Sam_g0_t0.imec0.ap.bin</a></p>
+
+<p>as well as</p>
+
+<p><a href="https://gin.g-node.org/CatalystNeuro/behavior_testing_data/src/master/videos/CFR/video_mp4.mp4">video_mp4.mp4</a></p>
+
+<p>4b) or if on linux, install <a href="https://www.datalad.org/">Datalad</a> and call</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>datalad -rg https://gin.g-node.org/neuralensemble/ephy_testing_data/spikeglx/Noise4Sam_g0
+datalad -rg https://gin.g-node.org/CatalystNeuro/behavior_testing_data
+</code></pre></div></div>
+
+<h2 id="running-on-the-dandihub">Running on the DANDIHub</h2>
+
+<p>1) Log into the Hub, select any instance: https://hub.dandiarchive.org/hub</p>
+
+<p>2) <code class="language-plaintext highlighter-rouge">pip install neuroconv</code> and <code class="language-plaintext highlighter-rouge">pip install opencv-python</code></p>
+
+<p>3) Download the notebooks directly from this GitHub repo or clone it with</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/neurodatawithoutborders/nwb_hackathons
+</code></pre></div></div>
+
+<p>4) Tutorials are ready to run!</p>
+
+
+    </div>
+
+    <script src="/nwb_hackathons/assets/javascript/anchor-js/anchor.min.js"></script>
+    <script>anchors.add();</script>
+    
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-134749152-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </body>
+</html>
