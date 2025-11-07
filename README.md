@@ -1,3 +1,9 @@
+This page is now deprecated. Visits to this page are now forwarded to nwb.org/events.
+
+To update information about events, add a card to https://github.com/NeurodataWithoutBorders/neurodatawithoutborders.github.io/tree/main/content/events
+
+
+
 <img alt="Remote hackathon" src="HCK08_2020_Remote/logo_brain_text_white_hor.png">
 
 ## Hackathon Events
